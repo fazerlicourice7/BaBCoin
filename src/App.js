@@ -1,8 +1,28 @@
-import React from 'react';
+import {React, Component} from 'react';
 import logo from './logo.svg';
+import "react-bootstrap";
+import {Router, Switch, Route} from "react-router-dom";
+import Login from "components/login";
 import './App.css';
 
-function App() {
+class App extends Component {
+  render() {
+    return (
+        <Router>
+          <div>
+            <Switch>
+              <Route exact path={"/"} component={LandingPage}/>
+              <Route exact path={"/login"} component={Login}/>
+
+            </Switch>
+          </div>
+        </Router>
+
+    )
+  }
+}
+
+function LandingPage() {
   return (
     <div className="App">
       <header className="App-header">
@@ -24,3 +44,4 @@ function App() {
 }
 
 export default App;
+
