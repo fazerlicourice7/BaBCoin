@@ -1,30 +1,35 @@
 import React, {useState, Component} from "react";
-import {Button, FormGroup, FormControl, ControlLabel} from "react-bootstrap";
-import "./Login.css";
+import {Button, FormGroup, FormControl, FormLabel} from "react-bootstrap";
+import "./login.css";
 
 class Login extends Component {
+    constructor(props){
+        super(props);
+        this.state = {email: '', setEmail: '', password: '', setPassword: ''};
+    }
+
     render() {
         return (
             <div className="Login">
-                <form onSubmit={handleSubmit}>
+                <form onSubmit={this.props.history.push({pathname:"/Home"})}>
                     <FormGroup controlId="email" bsSize="large">
-                        <ControlLabel>Email</ControlLabel>
+                        <FormLabel>Email</FormLabel>
                         <FormControl
                             autoFocus
                             type="email"
-                            value={email}
-                            onChange={e => setEmail(e.target.value)}
+                            value={this.state.email}
+                            onChange={e => this.setState( {email:e})}
                         />
                     </FormGroup>
                     <FormGroup controlId="password" bsSize="large">
-                        <ControlLabel>Password</ControlLabel>
+                        <FormLabel>Password</FormLabel>
                         <FormControl
-                            value={password}
-                            onChange={e => setPassword(e.target.value)}
+                            value={this.state.password}
+                            onChange={e => this.setState( {password:e})}
                             type="password"
                         />
                     </FormGroup>
-                    <Button block bsSize="large" disabled={!validateForm()} type="submit">
+                    <Button block bsSize="large"  type="submit">
                         Login
                     </Button>
                 </form>
@@ -32,15 +37,6 @@ class Login extends Component {
         );
     }
 }
-const [email, setEmail] = useState("");
-const [password, setPassword] = useState("");
-
-function validateForm() {
-    return email.length > 0 && password.length > 0;
-}
-
-function handleSubmit(event) {
-    event.preventDefault();
-}
+// disabled={!validateForm()}
 
 export default Login;

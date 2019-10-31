@@ -2,7 +2,7 @@ import {React, Component} from 'react';
 import logo from './logo.svg';
 import "react-bootstrap";
 import {Router, Switch, Route} from "react-router-dom";
-import Login from "components/login";
+import Login from "./components/login";
 import './App.css';
 
 class App extends Component {
@@ -17,11 +17,10 @@ class App extends Component {
             </Switch>
           </div>
         </Router>
-
     )
   }
 }
-
+//<Route exact path={"/home"} component={Home} />
 function LandingPage() {
   return (
     <div className="App">
