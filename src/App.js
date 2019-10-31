@@ -11,13 +11,13 @@ class App extends Component {
             <Router>
                 <div>
                     <Switch>
-                        <Route exact path={"/"} component={LandingPage}/>
-                        <Route exact path={"/login"} component={Login}/>
+                        <Route path={"/"} component={LandingPage}/>
+                        <Route path={"/login"} component={Login}/>
 
                     </Switch>
                 </div>
             </Router>
-        )
+        );
     }
 }
 
