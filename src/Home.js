@@ -1,7 +1,7 @@
 import './Home.css';
 import {React, Component} from 'react';
-import Profile from './Profile'
-import EventList from './EventList'
+import Profile from './components/Profile'
+import EventList from './components/EventList'
 
 class Home extends Component {
      render() {
