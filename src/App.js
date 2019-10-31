@@ -43,4 +43,3 @@ function LandingPage() {
 }
 
 export default App;
-
