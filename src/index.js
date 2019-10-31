@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 
 import App from './App';
-import Login from 'components/login'
+import Login from './components/login'
+import LandingPage form './App';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<App />, serviceWorker.unregister());
+ReactDOM.render(<LandingPage />, serviceWorker.unregister());
