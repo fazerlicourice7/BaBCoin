@@ -8,10 +8,10 @@ class Login extends Component {
         this.state = {email: '', setEmail: '', password: '', setPassword: ''};
     }
 
-    render() {
+    render() { //this.props.history.push({pathname:"/Home"})
         return (
             <div className="Login">
-                <form onSubmit={this.props.history.push({pathname:"/Home"})}>
+                <form onSubmit={alert("On submit")}>
                     <FormGroup controlId="email" bsSize="large">
                         <FormLabel>Email</FormLabel>
                         <FormControl
