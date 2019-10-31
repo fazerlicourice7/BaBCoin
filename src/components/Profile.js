@@ -7,7 +7,7 @@ class Profile extends Component {
                <div>
                     <h1>Timmy Turner</h1>
                     <p>Balance: 200 BabCoin</p>
-                    <p>Total BabCoin Accrued</p>
+                    <p>Total BabCoin Accrued: 500 BaBCoin</p>
                </div>
           );
      }
