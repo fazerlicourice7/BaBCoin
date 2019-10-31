@@ -11,7 +11,9 @@ class Login extends Component {
     render() { //this.props.history.push({pathname:"/Home"})
         return (
             <div className="Login">
-                <form onSubmit={alert("On submit")}>
+                <form onSubmit={this.props.history.push({
+                    pathname: '/UserDashboard',
+                    state: {temp: "lol"}})}>
                     <FormGroup controlId="email" bsSize="large">
                         <FormLabel>Email</FormLabel>
                         <FormControl

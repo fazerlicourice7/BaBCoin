@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import logo from './logo.svg';
 import "react-bootstrap";
-import {Router, Switch, Route} from "react-router-dom";
+import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
 import Login from "./components/login";
 import './App.css';
 
@@ -11,8 +11,7 @@ class App extends Component {
             <Router>
                 <div>
                     <Switch>
-                        <Route path={"/"} component={LandingPage}/>
-                        <Route path={"/login"} component={Login}/>
+                        <Route path={"/"} component={Login}/>
 
                     </Switch>
                 </div>
