@@ -1,13 +1,14 @@
 import './EventCard.css';
 import React, {Component} from 'react';
-import {Card, Button} from 'react-bootstrap';
+import {Card, Button, ButtonGroup} from 'react-bootstrap';
 
 export default class EventCard extends Component {
     constructor(props) {
         super(props);
         this.state = {
             title: props.title,
-            description: props.description
+            description: props.description,
+            datetime: props.datetime
         };
         console.log("event card");
     }
@@ -20,6 +21,7 @@ export default class EventCard extends Component {
                         <Card.Title>{this.state.title}</Card.Title>
                         <Card.Text>{this.state.description}</Card.Text>
                         <Button variant="primary">RSVP</Button>
+
                     </Card.Body>
                 </Card>
             </div>

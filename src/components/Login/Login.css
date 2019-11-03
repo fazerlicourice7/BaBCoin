@@ -5,6 +5,22 @@
 
     .Login form {
         margin: 0 auto;
-        max-width: 320px;
+        max-width: 100px;
+
+    }
+    .LoginForm {
+         width: 20%;
+         padding-top: 100px;
+
+    }
+    
+    Form {
+         border: 1px solid black;
+         border-color: #DDDFE2;
+         border-radius: 10%;
+         padding-top: 15px;
+         padding-bottom: 15px;
+         padding-left: 30px;
+         padding-right: 30px;
     }
 }

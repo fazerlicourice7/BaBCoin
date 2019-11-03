@@ -20,24 +20,21 @@ class Login extends Component {
 
     render() { //this.props.history.push({pathname:"/Home"})
         return (
-            <Form>
-                <h3> Sign In </h3>
-                <FormGroup>
-                    <FormLabel column={"Email Address"}/>
-                    <input type={"email"} className={"form=control"} placeholder={"Enter Email"}/>
-                </FormGroup>
-                <FormGroup>
-                    <FormLabel column={"Password"}/>
-                    <FormControl type={"password"} className={"form-control"} placeholder={"Enter Password"}/>
-                </FormGroup>
-                <FormGroup>
-                    <input type={"checkbox"} className={"custom-control-input"} id={"rememberMeCheck"}/>
-                    <label className={"custom-control-label"} htmlFor={"rememberMeCheck"}>Remember Me</label>
-                </FormGroup>
-                <Button block type="submit" onClick={this.handleSubmit}>
-                    Login
-                </Button>
-            </Form>
+             <div className="LoginForm">
+                 <Form>
+                     <h3> Sign In </h3>
+                     <FormGroup>
+                         <FormLabel column={"Email Address"}/>
+                         <FormControl type={"email"} className={"form=control"} placeholder={"Enter Email"}/>
+
+                         <FormLabel column={"Password"}/>
+                         <FormControl type={"password"} className={"form-control"} placeholder={"Enter Password"}/>
+                     </FormGroup>
+                     <Button block type="submit" onClick={this.handleSubmit} className="submitButton">
+                         Login
+                     </Button>
+                 </Form>
+            </div>
         );
     }
 
