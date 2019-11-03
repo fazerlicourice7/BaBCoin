@@ -4,6 +4,7 @@ import EventCard from "../EventCard/EventCard";
 
 
 class EventsList extends Component {
+
     render() {
         return (
             <div className={"eventsList"}>
