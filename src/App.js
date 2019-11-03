@@ -2,20 +2,21 @@ import React, {Component} from 'react';
 import logo from './logo.svg';
 import "react-bootstrap";
 import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
-import Login from "./components/login";
+import Login from "./components/Login/Login";
+import Home from "./Home/Home";
+import Profile from "./components/Profile/Profile"
 import './App.css';
 
 class App extends Component {
     render() {
         return (
-            <Router>
-                <div>
-                    <Switch>
-                        <Route path={"/"} component={Login}/>
+            <div align="center" className="container">
+                <Router>
+                    <Route exact path={"/"} component={Login}/>
+                    <Route exact path="/home" component={Home}/>
+                </Router>
+            </div>
 
-                    </Switch>
-                </div>
-            </Router>
         );
     }
 }
