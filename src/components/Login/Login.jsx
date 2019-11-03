@@ -28,7 +28,7 @@ class Login extends Component {
                 </FormGroup>
                 <FormGroup>
                     <FormLabel column={"Password"}/>
-                    <input type={"password"} className={"form-control"} placeholder={"Enter Password"}/>
+                    <FormControl type={"password"} className={"form-control"} placeholder={"Enter Password"}/>
                 </FormGroup>
                 <FormGroup>
                     <input type={"checkbox"} className={"custom-control-input"} id={"rememberMeCheck"}/>
