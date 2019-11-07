@@ -3,19 +3,29 @@ import React, {Component} from 'react';
 import {withRouter} from 'react-router';
 import Profile from '../components/Profile/Profile'
 import EventList from '../components/EventList/EventsList'
+import ApiCalendar from 'react-google-calendar-api';
+
+
 class Home extends Component {
+
+    //move to a constants file.
+    CAL_ID = 'jt8mpvuljj288e0pu5s55ocus0@group.calendar.google.com';
+
     constructor(props) {
         super(props);
         //alert('test');
-        console.log("constructor");
+        this.events = this.getEvents();
+        console.log(this.events);
+    }
+
+    async getEvents() {
+        return await ApiCalendar.listUpcomingEvents(10, this.CAL_ID);
     }
 
     componentDidMount() {
-        console.log("didmount");
     }
 
     render() {
-        console.log("render");
         return (
             <div className={"home"}>
 ]                <table>
@@ -25,7 +35,7 @@ class Home extends Component {
                             <Profile/>
                         </td>
                         <td>
-                            <EventList/>
+                            <EventList events={this.events}/>
                         </td>
                     </tr>
                     </tbody>

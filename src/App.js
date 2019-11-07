@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import logo from './logo.svg';
 import "bootstrap/dist/css/bootstrap-reboot.min.css";
-import {BrowserRouter as Router, Route, Link } from "react-router-dom";
+import {BrowserRouter as Router, Route, Link} from "react-router-dom";
 
 import Login from "./components/Login/Login";
 import Home from "./Home/Home";
@@ -19,6 +19,7 @@ class App extends Component {
                     <Route exact path="/home" component={Home}/>
                 </div>
             </Router>
+
         );
     }
 }
