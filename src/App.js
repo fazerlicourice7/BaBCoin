@@ -1,23 +1,24 @@
 import React, {Component} from 'react';
 import logo from './logo.svg';
-import "react-bootstrap";
-import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
+import "bootstrap/dist/css/bootstrap-reboot.min.css";
+import {BrowserRouter as Router, Route, Link } from "react-router-dom";
+
 import Login from "./components/Login/Login";
 import Home from "./Home/Home";
+import Navbar from "./components/NavBar/Navbar"
 import Profile from "./components/Profile/Profile"
 import './App.css';
 
 class App extends Component {
     render() {
         return (
-            <div align="center" className="container">
-                <Router>
+            <Router>
+                <div align="center" className="container">
+                    <Navbar/>
                     <Route exact path={"/"} component={Login}/>
                     <Route exact path="/home" component={Home}/>
-
-                </Router>
-            </div>
-
+                </div>
+            </Router>
         );
     }
 }

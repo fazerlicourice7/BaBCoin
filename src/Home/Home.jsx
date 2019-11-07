@@ -3,7 +3,6 @@ import React, {Component} from 'react';
 import {withRouter} from 'react-router';
 import Profile from '../components/Profile/Profile'
 import EventList from '../components/EventList/EventsList'
-
 class Home extends Component {
     constructor(props) {
         super(props);
@@ -19,7 +18,7 @@ class Home extends Component {
         console.log("render");
         return (
             <div className={"home"}>
-                <table>
+]                <table>
                     <tbody>
                     <tr>
                         <td>
