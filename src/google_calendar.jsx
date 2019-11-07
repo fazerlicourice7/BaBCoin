@@ -1,37 +1,30 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Google Calendar API Quickstart</title>
-    <meta charset="utf-8" />
-</head>
-<body>
-<p>Google Calendar API Quickstart</p>
+import React, {Component} from "react";
 
-<!--Add buttons to initiate auth sequence and sign out-->
-<button id="authorize_button" style="display: none;">Authorize</button>
-<button id="signout_button" style="display: none;">Sign Out</button>
+class Calendar {
+    constructor(props) {
+        // Client ID and API key from the Developer Console
+        this.CLIENT_ID = '321288706369-dmvh3s2t77b6ki85kamrssk8mc62eoev.apps.googleusercontent.com';
+        this.API_KEY = 'AIzaSyCViqHTtPg1_tsJS_sIsmM6N6FeQt6qxW8';
 
-<pre id="content" style="white-space: pre-wrap;"></pre>
+        // Array of API discovery doc URLs for APIs used by the quickstart
+        this.DISCOVERY_DOCS = ["https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest"];
 
-<script type="text/javascript">
-    // Client ID and API key from the Developer Console
-    var CLIENT_ID = '321288706369-dmvh3s2t77b6ki85kamrssk8mc62eoev.apps.googleusercontent.com';
-    var API_KEY = 'AIzaSyCViqHTtPg1_tsJS_sIsmM6N6FeQt6qxW8';
+        // Authorization scopes required by the API; multiple scopes can be
+        // included, separated by spaces.
+        this.SCOPES = "https://www.googleapis.com/auth/calendar.readonly ";
 
-    // Array of API discovery doc URLs for APIs used by the quickstart
-    var DISCOVERY_DOCS = ["https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest"];
-
-    // Authorization scopes required by the API; multiple scopes can be
-    // included, separated by spaces.
-    var SCOPES = "https://www.googleapis.com/auth/calendar.readonly";
-
-    var authorizeButton = document.getElementById('authorize_button');
-    var signoutButton = document.getElementById('signout_button');
+        this.state = {
+            showAuthButton: false,
+            showSignOutButton: false
+        };
+        this.initClient = this.initClient.bind(this);
+        this.updateSigninStatus = this.updateSigninStatus.bind(this);
+    }
 
     /**
      *  On load, called to load the auth2 library and API client library.
      */
-    function handleClientLoad() {
+    handleClientLoad() {
         gapi.load('client:auth2', initClient);
     }
 
@@ -39,7 +32,7 @@
      *  Initializes the API client library and sets up sign-in state
      *  listeners.
      */
-    function initClient() {
+    initClient() {
         gapi.client.init({
             apiKey: API_KEY,
             clientId: CLIENT_ID,
@@ -53,7 +46,7 @@
             updateSigninStatus(gapi.auth2.getAuthInstance().isSignedIn.get());
             authorizeButton.onclick = handleAuthClick;
             signoutButton.onclick = handleSignoutClick;
-        }, function(error) {
+        }, function (error) {
             appendPre(JSON.stringify(error, null, 2));
         });
     }
@@ -62,7 +55,7 @@
      *  Called when the signed in status changes, to update the UI
      *  appropriately. After a sign-in, the API is called.
      */
-    function updateSigninStatus(isSignedIn) {
+    updateSigninStatus(isSignedIn) {
         if (isSignedIn) {
             authorizeButton.style.display = 'none';
             signoutButton.style.display = 'block';
@@ -73,17 +66,12 @@
         }
     }
 
-    /**
-     *  Sign in the user upon button click.
-     */
-    function handleAuthClick(event) {
+
+    handleAuthClick(event) {
         gapi.auth2.getAuthInstance().signIn();
     }
 
-    /**
-     *  Sign out the user upon button click.
-     */
-    function handleSignoutClick(event) {
+    handleSignoutClick(event) {
         gapi.auth2.getAuthInstance().signOut();
     }
 
@@ -93,7 +81,7 @@
      *
      * @param {string} message Text to be placed in pre element.
      */
-    function appendPre(message) {
+    appendPre(message) {
         var pre = document.getElementById('content');
         var textContent = document.createTextNode(message + '\n');
         pre.appendChild(textContent);
@@ -104,7 +92,7 @@
      * the authorized user's calendar. If no events are found an
      * appropriate message is printed.
      */
-    function listUpcomingEvents() {
+    listUpcomingEvents() {
         gapi.client.calendar.events.list({
             'calendarId': 'primary',
             'timeMin': (new Date()).toISOString(),
@@ -112,7 +100,7 @@
             'singleEvents': true,
             'maxResults': 10,
             'orderBy': 'startTime'
-        }).then(function(response) {
+        }).then(function (response) {
             var events = response.result.items;
             appendPre('Upcoming events:');
 
@@ -132,11 +120,15 @@
         });
     }
 
-</script>
+    render(){
+        let authButton = <button id="authorize-button" onClick={this.handleAuthClick.bind(this)}>Authorize</button>
+        let signOutButton = <button id="signout-button" onClick={this.handleSignoutClick.bind(this)}>Sign Out</button>
+        return(
+            <div className="container">
+                {this.state.showAuthButton ? authButton : null}
+                {this.state.showSignOutButton ? signOutButton : null}
+            </div>
+        )
+    }
 
-<script async defer src="https://apis.google.com/js/api.js"
-        onload="this.onload=function(){};handleClientLoad()"
-        onreadystatechange="if (this.readyState === 'complete') this.onload()">
-</script>
-</body>
-</html>
+}
