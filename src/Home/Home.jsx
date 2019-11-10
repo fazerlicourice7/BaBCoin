@@ -18,8 +18,8 @@ class Home extends Component {
         console.log(this.events);
     }
 
-    async getEvents() {
-        return await ApiCalendar.listUpcomingEvents(10, this.CAL_ID);
+    getEvents() {
+        //return ApiCalendar.listUpcomingEvents(10, this.CAL_ID);
     }
 
     componentDidMount() {
@@ -28,7 +28,7 @@ class Home extends Component {
     render() {
         return (
             <div className={"home"}>
-]                <table>
+                <table>
                     <tbody>
                     <tr>
                         <td>

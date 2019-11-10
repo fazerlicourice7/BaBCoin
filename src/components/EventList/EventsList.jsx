@@ -13,7 +13,7 @@ class EventsList extends Component {
     }
 
     populateEvents(calEvents){
-        return calEvents.map(this.createEventCard);
+        //return calEvents.map(this.createEventCard);
     }
 
     createEventCard(rawEventData){
@@ -24,7 +24,9 @@ class EventsList extends Component {
         return (
             <div className={"eventsList"}>
                 <ul>
-                this.events
+                <EventCard title={"Hawaii"} description={"laskjdfl"}/>
+                <EventCard title={"Skydiving!!!!"} description={"We're going!! X("} />
+
                 </ul>
             </div>
         );

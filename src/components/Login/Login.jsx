@@ -15,8 +15,24 @@ class Login extends Component {
 
     async handleSubmit(event) {
         event.preventDefault();
-        await ApiCalendar.handleAuthClick();
-        //this.props.gcal = ApiCalendar;
+        var p1 = new Promise((resolve, reject) => {
+            ApiCalendar.handleAuthClick();
+            if (ApiCalendar.sign) {
+                resolve('Success');
+            } else {
+                reject('not signed in');
+            }
+        });
+        p1.then((message) => {
+            if (message === 'Success') {
+                alert('success');
+                this.props.history.push("/home");
+            } else {
+                alert('resolved, but not success.');
+            }
+        }).catch((e) => {
+            alert('error');
+        });
         this.props.history.push("/home");
     }
 
