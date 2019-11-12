@@ -15,20 +15,39 @@ mongoose.connect(mongoDBURL, { useNewUrlParser: true });
 let db = mongoose.connection;
 
 db.once('open', function() {
-     var query = User.findOne({'name': 'ilyrobert'});
-     query.select('name');
+     console.log("Connected to database successfully!")
+     var query = User.find({'name': 'ilyrobert'}, function (err, results) {
+          if (results == null) {
+               console.log('yee');
 
-     query.exec(function (err, user) {
-       if (err) console.log('ouch');
-       console.log(user.id);
- });
+          } else {
+               console.log(results);
+               //res.send(results);
+          }
+     });
 });
 
 db.on('error', console.error.bind(console, 'MongoDB connection error:'));
 
 server.post("/user", (req, res) => {
      //  req - username, user_email
-     // res -
+     // res - status code, user info
+     var user_name = req.body.name;
+     var user_email = req.body.email;
+
+     var query = User.findOne({'name': user_name, 'email': user_email}, function (err, results) {
+          if (results == null) {
+               //Create new user:
+               let newUser = User({name: user_name, email: user_email});
+               newUser.save((err) => {
+
+               });
+
+          } else {
+               console.log(typeof results);
+               res.send(results);
+          }
+     });
 })
 
 server.get("/", (req, res) => {

@@ -4,7 +4,7 @@ const Schema = mongoose.Schema;
 // this will be our data base's data structure
 const User = new Schema({
      name: String,
-     _email:  String,
+     email:  String,
      balance: Number,
      total_accrued: Number,
      events: [{type: Schema.Types.ObjectId, ref: 'Event'}]
