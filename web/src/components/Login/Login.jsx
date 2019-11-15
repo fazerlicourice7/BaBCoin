@@ -1,43 +1,37 @@
-import React, {useState, Component} from "react";
+import React, {Component} from "react";
 import {Button, FormGroup, FormControl, FormLabel, Form} from "react-bootstrap";
 import "./Login.css";
-import ApiCalendar from 'react-google-calendar-api';
 
 class Login extends Component {
     constructor(props) {
         super(props);
         this.props = props;
-        this.state = {email: '', setEmail: '', password: '', setPassword: ''};
 
-        this.handleSubmit = this.handleSubmit.bind(this);
+        this.handleLogin = this.handleLogin.bind(this);
+
+    }
+
+    componentDidMount() {
+        // const script = document.createElement("script");
+        // script.src = "https://apis.google.com/js/api.js";
+        // script.async = true;
+        // document.body.appendChild(script);
+        //
+        // script.onload = () => this.initClient();
+
     }
 
 
-    async handleSubmit(event) {
+    handleLogin(event) {
         event.preventDefault();
-        var p1 = new Promise((resolve, reject) => {
-            ApiCalendar.handleAuthClick();
-            if (ApiCalendar.sign) {
-                resolve('Success');
-            } else {
-                reject('not signed in');
-            }
+        console.log("logging in");
+        window.gapi.auth2.getAuthInstance().signIn().then(() => {
+            this.props.history.push("/home");
         });
-        p1.then((message) => {
-            if (message === 'Success') {
-                alert('success');
-                this.props.history.push("/home");
-            } else {
-                alert('resolved, but not success.');
-            }
-        }).catch((e) => {
-            alert('error');
-        });
-        this.props.history.push("/home");
     }
 
 
-    render() { //this.props.history.push({pathname:"/Home"})
+    render() {
         return (
             <div className="LoginForm">
                 <Form>
@@ -45,11 +39,10 @@ class Login extends Component {
                     <FormGroup>
                         <FormLabel column={"Email Address"}/>
                         <FormControl type={"email"} className={"form=control"} placeholder={"Enter Email"}/>
-
                         <FormLabel column={"Password"}/>
                         <FormControl type={"password"} className={"form-control"} placeholder={"Enter Password"}/>
                     </FormGroup>
-                    <Button block type="submit" onClick={this.handleSubmit} className="submitButton">
+                    <Button block type="submit" onClick={this.handleLogin} className="submitButton">
                         Login
                     </Button>
                 </Form>

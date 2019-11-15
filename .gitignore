@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/web/node_modules
+/server/node_modules
 /.pnp
 .pnp.js
 
@@ -26,27 +28,27 @@ yarn-error.log*
 # # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 #
 # # User-specific stuff
- .idea/**/workspace.xml
- .idea/**/tasks.xml
- .idea/**/usage.statistics.xml
- .idea/**/dictionaries
- .idea/**/shelf
+ /web/.idea/**/workspace.xml
+ /web/.idea/**/tasks.xml
+ /web/.idea/**/usage.statistics.xml
+ /web/.idea/**/dictionaries
+ /web/.idea/**/shelf
 #
 # # Generated files
- .idea/**/contentModel.xml
+ /web/.idea/**/contentModel.xml
 #
 # # Sensitive or high-churn files
- .idea/**/dataSources/
- .idea/**/dataSources.ids
- .idea/**/dataSources.local.xml
- .idea/**/sqlDataSources.xml
- .idea/**/dynamic.xml
- .idea/**/uiDesigner.xml
- .idea/**/dbnavigator.xml
+ /web/.idea/**/dataSources/
+ /web/.idea/**/dataSources.ids
+ /web/.idea/**/dataSources.local.xml
+ /web/.idea/**/sqlDataSources.xml
+ /web/.idea/**/dynamic.xml
+ /web/.idea/**/uiDesigner.xml
+ /web/.idea/**/dbnavigator.xml
 #
 # # Gradle
- .idea/**/gradle.xml
- .idea/**/libraries
+ /web/.idea/**/gradle.xml
+ /web/.idea/**/libraries
 #
 # # Gradle and Maven with auto-import
 # # When using Gradle or Maven with auto-import, you should exclude module files,
@@ -59,22 +61,22 @@ yarn-error.log*
  # *.ipr
 #
 # # CMake
- cmake-build-*/
+ /web/cmake-build-*/
 #
 # # Mongo Explorer plugin
- .idea/**/mongoSettings.xml
+ /web/.idea/**/mongoSettings.xml
 #
 # # File-based project format
- *.iws
+ /web/*.iws
 #
 # # IntelliJ
 # out/
 #
 # # mpeltonen/sbt-idea plugin
- .idea_modules/
+ /web/.idea_modules/
 #
 # # JIRA plugin
- atlassian-ide-plugin.xml
+ /web/atlassian-ide-plugin.xml
 #
 # # Cursive Clojure plugin
 # .idea/replstate.xml
@@ -86,7 +88,7 @@ yarn-error.log*
 # fabric.properties
 #
 # # Editor-based Rest Client
- .idea/httpRequests
+ /web/.idea/httpRequests
 #
 # # Android studio 3.1+ serialized cache file
 # .idea/caches/build_file_checksums.ser

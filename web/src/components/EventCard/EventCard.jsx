@@ -8,6 +8,7 @@ export default class EventCard extends Component {
         this.state = {
             title: props.title,
             description: props.description,
+            location: props.location,
             datetime: props.datetime
         };
         console.log("event card");
@@ -19,7 +20,10 @@ export default class EventCard extends Component {
                 <Card>
                     <Card.Body>
                         <Card.Title>{this.state.title}</Card.Title>
-                        <Card.Text>{this.state.description}</Card.Text>
+                        <Card.Body> <Card.Text>{this.state.description}</Card.Text>
+                            <Card.Text>{this.state.location}</Card.Text>
+                        <Card.Text>{this.state.datetime}</Card.Text></Card.Body>
+
                         <Button variant="primary">RSVP</Button>
 
                     </Card.Body>

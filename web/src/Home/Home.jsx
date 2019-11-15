@@ -1,25 +1,49 @@
 import './Home.css';
 import React, {Component} from 'react';
-import {withRouter} from 'react-router';
 import Profile from '../components/Profile/Profile'
 import EventList from '../components/EventList/EventsList'
-import ApiCalendar from 'react-google-calendar-api';
+import {calendarID} from "../apiGoogleconfig.json";
 
 
 class Home extends Component {
 
-    //move to a constants file.
-    CAL_ID = 'jt8mpvuljj288e0pu5s55ocus0@group.calendar.google.com';
 
     constructor(props) {
         super(props);
         //alert('test');
-        this.events = this.getEvents();
+        this.state = {
+            events: this.getEvents(),
+            user: this.getUserDetails()
+        };
         console.log(this.events);
     }
 
+    getUserDetails() {
+        return {
+            name: 'heya',
+            coin: 2000
+        };
+    }
+
     getEvents() {
-        //return ApiCalendar.listUpcomingEvents(10, this.CAL_ID);
+        window.gapi.client.calendar.events.list({
+            'calendarId': calendarID,
+            'timeMin': (new Date()).toISOString(),
+            'showDeleted': false,
+            'singleEvents': true,
+            'maxResults': 10,
+            'orderBy': 'startTime'
+        }).then(function (response) {
+            var events = response.result.items;
+            if (events.length > 0) {
+                for (var i = 0; i < events.length; i++) {
+                    console.log(events[i]);
+                }
+                return events;
+            } else {
+                return ['No upcoming events found.'];
+            }
+        });
     }
 
     componentDidMount() {
@@ -32,7 +56,7 @@ class Home extends Component {
                     <tbody>
                     <tr>
                         <td>
-                            <Profile/>
+                            <Profile name={this.state.user.name} coin={this.state.user.coin}/>
                         </td>
                         <td>
                             <EventList events={this.events}/>
@@ -45,18 +69,4 @@ class Home extends Component {
     }
 }
 
-/*
-<div className={"home"}>
-                <table>
-                    <tr>
-                        <td>
-                            <Profile/>
-                        </td>
-                        <td>
-                            <EventList/>
-                        </td>
-                    </tr>
-                </table>
-            </div>
- */
 export default Home;
