@@ -14,8 +14,17 @@ mongoose.connect(mongoDBURL, { useNewUrlParser: true });
 
 let db = mongoose.connection;
 
+var Web3 = require('web3');
+var web3 = new Web3(Web3.givenProvider);
+
+var babCoinContract = new web3.Contract('0x3d0a11636d9a3d5852127ea8ba2a77e52f2283b9');
+
+
 db.once('open', function() {
      console.log("Connected to database successfully!")
+     babCoinContract.methods.createEvent('0x3d0a11636d9a3d5852127ea8ba2a77e52f2283b9', "1123123123", "5").call({
+          from: '0x3d0a11636d9a3d5852127ea8ba2a77e52f2283b9'
+     });
      // var query = User.find({'name': 'ilyrobert'}, function (err, results) {
      //      if (results == null) {
      //           console.log('yee');
