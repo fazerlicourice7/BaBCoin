@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "mongoose": "^5.7.10"
+    "mongoose": "^5.7.10",
+    "nvm": "0.0.4",
+    "web3": "^1.2.4"
   }
 }

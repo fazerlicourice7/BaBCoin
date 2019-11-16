@@ -16,15 +16,15 @@ let db = mongoose.connection;
 
 db.once('open', function() {
      console.log("Connected to database successfully!")
-     // var query = User.find({'name': 'ilyrobert'}, function (err, results) {
-     //      if (results == null) {
-     //           console.log('yee');
-     //
-     //      } else {
-     //           console.log(results);
-     //           //res.send(results);
-     //      }
-     // });
+     var query = User.find({'name': 'ilyrobert'}, function (err, results) {
+          if (results == null) {
+               console.log('yee');
+
+          } else {
+               console.log(results);
+               //res.send(results);
+          }
+     });
 });
 
 db.on('error', console.error.bind(console, 'MongoDB connection error:'));
