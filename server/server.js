@@ -15,19 +15,19 @@ mongoose.connect(mongoDBURL, { useNewUrlParser: true });
 let db = mongoose.connection;
 
 
-var Web3 = require('web3');
-const ropstenURL = "https://ropsten.infura.io/v3/74a5c337e5d3449384e8f2dad0837ac3";
-var web3 = new Web3(ropstenURL);
-const address = "0x518Ab7aEdAeD27Df0eD87457e13B9D1adAeDA735";
+// var Web3 = require('web3');
+// const ropstenURL = "https://ropsten.infura.io/v3/74a5c337e5d3449384e8f2dad0837ac3";
+// var web3 = new Web3(ropstenURL);
+// const address = "0x518Ab7aEdAeD27Df0eD87457e13B9D1adAeDA735";
 //var babCoinContract = new web3.eth.Contract(ABI, '0x3d0a11636d9a3d5852127ea8ba2a77e52f2283b9');
 
 
 db.once('open', function() {
      console.log("Connected to database successfully!")
-     var balance = web3.eth.getBalance(address);
-     balance.then(function(result) {
-          console.log(result)
-     });
+     // var balance = web3.eth.getBalance(address);
+     // balance.then(function(result) {
+     //      console.log(result)
+     // });
 
      // babCoinContract.methods.createEvent('0x3d0a11636d9a3d5852127ea8ba2a77e52f2283b9', "1123123123", "5").call({
      //      from: '0x3d0a11636d9a3d5852127ea8ba2a77e52f2283b9'
@@ -58,10 +58,9 @@ server.post("/user", (req, res) => {
      var query = User.findOne({'name': user_name, 'email': user_email}, function (err, results) {
           if (results == null) {
                //Create new user:
-               let newUser = User({name: user_name, email: user_email, balance: 0, total_accrued: 0});
+               let newUser = User({name: user_name, email: user_email, balance: 500, total_accrued: 500});
                newUser.save((err) => {
-                    res.sendStatus(400);
-                    return;
+                    console.log(err);
                });
 
                res.status(200).send(newUser);
@@ -74,19 +73,24 @@ server.post("/user", (req, res) => {
 
 server.post("/rsvp", (req, res) => { // req  -> has new BaBCoin balance for user
      var user_email = req.body.email;
-     var newBabCoin = req.body.newBalance;
+     var delta = req.body.amount;
 
      const filter = {'email': user_email};
-     const update = {'balance':  newBabCoin};
 
-     let doc = User.findOneAndUpdate(filter, update, {
-       new: true
-     });
+     User.findOne(filter, function (err, user) {
+          if (user == null || user.balance < delta) {
+               res.sendStatus(400);
+               return;
+          }
+          user.balance = user.balance - delta;
+          user.save((err) => {
+               console.log(err);
+          });
+          res.status(200).send(user);
+     })
 
-     if (doc == null || doc.email == null) {
-          res.sendStatus(400);
-     }
-     res.status(200).send(results);
+
+
 })
 
 server.listen(port, () =>{
