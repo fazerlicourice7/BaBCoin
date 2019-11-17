@@ -8,6 +8,7 @@ class Profile extends Component {
 
         this.state = {
             userName: this.props.name,
+            userEmail: this.props.email,
             coin: this.props.coin
         };
     }
@@ -15,8 +16,9 @@ class Profile extends Component {
     render() {
         return (
             <div>
-                <h1>{this.userName}</h1>
-                <p>Balance: {this.coin} BabCoin</p>
+                <h1>{this.state.userName}</h1>
+                <h2>{this.state.userEmail}</h2>
+                <p>Balance: {this.state.coin} BabCoin</p>
                 <p>Total BabCoin Accrued: 500 BaBCoin</p>
             </div>
         );

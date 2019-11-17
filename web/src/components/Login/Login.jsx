@@ -7,18 +7,15 @@ class Login extends Component {
         super(props);
         this.props = props;
 
-        this.handleLogin = this.handleLogin.bind(this);
+        this.state = {
 
+        };
+
+        this.handleLogin = this.handleLogin.bind(this);
+        this.handleEmailInput = this.handleEmailInput.bind(this);
     }
 
     componentDidMount() {
-        // const script = document.createElement("script");
-        // script.src = "https://apis.google.com/js/api.js";
-        // script.async = true;
-        // document.body.appendChild(script);
-        //
-        // script.onload = () => this.initClient();
-
     }
 
 
@@ -26,10 +23,15 @@ class Login extends Component {
         event.preventDefault();
         console.log("logging in");
         window.gapi.auth2.getAuthInstance().signIn().then(() => {
-            this.props.history.push("/home");
+            this.props.history.push({pathname: "/home", state: {email: this.state.email}});
         });
     }
 
+    handleEmailInput(event) {
+        event.preventDefault();
+        this.setState({email: event.target.value});
+        console.log(this.state.email);
+    }
 
     render() {
         return (
@@ -38,9 +40,11 @@ class Login extends Component {
                     <h3> Sign In </h3>
                     <FormGroup>
                         <FormLabel column={"Email Address"}/>
-                        <FormControl type={"email"} className={"form=control"} placeholder={"Enter Email"}/>
+                        <FormControl type={"email"} className={"form=control"} placeholder={"Enter Email"}
+                                     onChange={this.handleEmailInput}/>
                         <FormLabel column={"Password"}/>
-                        <FormControl type={"password"} className={"form-control"} placeholder={"Enter Password"}/>
+                        <FormControl type={"password"} className={"form-control"} value={this.state.pass}
+                                     placeholder={"Enter Password"}/>
                     </FormGroup>
                     <Button block type="submit" onClick={this.handleLogin} className="submitButton">
                         Login
