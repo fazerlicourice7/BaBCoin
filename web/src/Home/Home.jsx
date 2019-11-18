@@ -5,7 +5,7 @@ import EventList from '../components/EventList/EventsList'
 import {calendarID} from "../apiGoogleconfig.json";
 
 const axios = require('axios');
-
+const request = require('request');
 
 class Home extends Component {
 
@@ -20,18 +20,22 @@ class Home extends Component {
         };
     }
 
-    getCoinFromServer(userEmail){
+    getCoinFromServer(userEmail) {
         var userName = userEmail.split("@")[0];
         console.log(userName);
         axios.post("http://localhost:4000/user", {
             origin: "http://localhost:3000",
             headers: {
-                'Access-Control-Allow-Origin': 'Authorized'
+                'Access-Control-Allow-Origin': '*'
             },
             mode: 'no-cors',
-            body: {name: userName, email: userEmail}
-        }).then((res) => {
-            this.setState({coin: res.balance});
+            body: JSON.stringify({name: userName, email: userEmail})
+        }).then(res => {
+            console.log("returned from server/user: " + JSON.stringify(res));
+            this.setState({
+                coin: res.data.balance,
+                total_accrued: res.data.total_accrued
+            });
         });
     }
 
@@ -63,7 +67,7 @@ class Home extends Component {
 
         //console.log("email: " + JSON.parse(userEmail));
 
-        
+
         return {
             //name: userName.names.displayName,
             name: NAME,
