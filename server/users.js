@@ -3,10 +3,22 @@ const Schema = mongoose.Schema;
 
 // this will be our data base's data structure
 const User = new Schema({
-     name: String,
-     email:  String,
-     balance: Number,
-     total_accrued: Number,
+     name: {
+         type: String,
+         required: true
+     },
+     email:  {
+         type: String,
+         required: true
+     },
+     balance: {
+         type: Number,
+         required: true
+     },
+     total_accrued: {
+         type: Number,
+         required: true
+     },
      events: [{type: Schema.Types.ObjectId, ref: 'Event'}]
  }
 );
