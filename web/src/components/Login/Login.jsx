@@ -7,9 +7,7 @@ class Login extends Component {
         super(props);
         this.props = props;
 
-        this.state = {
-
-        };
+        this.state = {};
 
         this.handleLogin = this.handleLogin.bind(this);
         this.handleEmailInput = this.handleEmailInput.bind(this);
@@ -30,7 +28,6 @@ class Login extends Component {
     handleEmailInput(event) {
         event.preventDefault();
         this.setState({email: event.target.value});
-        console.log(this.state.email);
     }
 
     render() {

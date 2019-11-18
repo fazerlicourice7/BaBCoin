@@ -13,8 +13,8 @@ class Home extends Component {
     constructor(props) {
         super(props);
         //alert('test');
+        this.getEvents();
         this.state = {
-            events: this.getEvents(),
             email: this.props.location.state.email,
             coin: this.getCoinFromServer(this.props.location.state.email)
         };
@@ -22,10 +22,11 @@ class Home extends Component {
 
     getCoinFromServer(userEmail){
         var userName = userEmail.split("@")[0];
+        console.log(userName);
         axios.post("http://localhost:4000/user", {
             origin: "http://localhost:3000",
             headers: {
-                'Access-Control-Allow-Origin': '*'
+                'Access-Control-Allow-Origin': 'Authorized'
             },
             mode: 'no-cors',
             body: {name: userName, email: userEmail}
@@ -86,8 +87,7 @@ class Home extends Component {
                 for (var i = 0; i < events.length; i++) {
                     console.log("event in getEvents, home: " + events[i]);
                 }
-                this.render();
-                return events;
+                this.setState({events: events});
             } else {
                 return ['No upcoming events found.'];
             }
