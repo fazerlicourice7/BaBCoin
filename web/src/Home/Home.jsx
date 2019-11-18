@@ -29,12 +29,12 @@ class Home extends Component {
                 'Access-Control-Allow-Origin': '*'
             },
             mode: 'no-cors',
-            body: JSON.stringify({name: userName, email: userEmail})
+            "name": userName,
+            "email": userEmail
         }).then(res => {
-            console.log("returned from server/user: " + JSON.stringify(res));
             this.setState({
                 coin: res.data.balance,
-                total_accrued: res.data.total_accrued
+                totalCoin: res.data.total_accrued
             });
         });
     }
@@ -78,6 +78,7 @@ class Home extends Component {
     }
 
     getEvents() {
+        var comp = this;
         window.gapi.client.calendar.events.list({
             'calendarId': calendarID,
             'timeMin': (new Date()).toISOString(),
@@ -91,7 +92,7 @@ class Home extends Component {
                 for (var i = 0; i < events.length; i++) {
                     console.log("event in getEvents, home: " + events[i]);
                 }
-                this.setState({events: events});
+                comp.setState({"events": events});
             } else {
                 return ['No upcoming events found.'];
             }
@@ -109,7 +110,7 @@ class Home extends Component {
                     <tbody>
                     <tr>
                         <td>
-                            <Profile name={this.state.email} coin={this.state.coin}/>
+                            <Profile name={this.state.email} coin={this.state.coin} totalCoin={this.state.totalCoin}/>
                         </td>
                         <td>
                             <EventList events={this.state.events}/>
