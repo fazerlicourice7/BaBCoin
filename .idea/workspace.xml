@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="0a2ad1c7-b040-4ae8-92b6-43c5db14ba50" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/server/ABI.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/ABI.json" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -124,7 +128,11 @@
       <workItem from="1572815635815" duration="23114000" />
       <workItem from="1573419630848" duration="1246000" />
       <workItem from="1573507662323" duration="455000" />
+<<<<<<< Updated upstream
       <workItem from="1573757045490" duration="8894000" />
+=======
+      <workItem from="1573872495137" duration="16376000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>

@@ -15,16 +15,46 @@ mongoose.connect(mongoDBURL, { useNewUrlParser: true });
 let db = mongoose.connection;
 
 var Web3 = require('web3');
+<<<<<<< Updated upstream
 var web3 = new Web3(Web3.givenProvider);
 
 var babCoinContract = new web3.Contract('0x3d0a11636d9a3d5852127ea8ba2a77e52f2283b9');
+=======
+const ropstenURL = "https://ropsten.infura.io/v3/74a5c337e5d3449384e8f2dad0837ac3";
+const contractAddress = "0x6Fd93341ca8444d44E69F221bd53728bC2E4d5e4";
+var web3 = new Web3(ropstenURL);
+const contractABI = require('./ABI.json');
+const address = "0x518Ab7aEdAeD27Df0eD87457e13B9D1adAeDA735";
+>>>>>>> Stashed changes
 
+var babCoinContract = new web3.eth.Contract(contractABI, address);
+
+
+//testing functionality and outputting to server console inside db.once
+
+//test for balance of an account on the network
+
+// var balance = web3.eth.getBalance(address);
+// balance.then(function(result) {
+//      actualBalance = result
+// });
+var something = babCoinContract.methods.totalSupply().call().then(function(result) {return result});
 
 db.once('open', function() {
+<<<<<<< Updated upstream
      console.log("Connected to database successfully!")
      babCoinContract.methods.createEvent('0x3d0a11636d9a3d5852127ea8ba2a77e52f2283b9', "1123123123", "5").call({
           from: '0x3d0a11636d9a3d5852127ea8ba2a77e52f2283b9'
      });
+=======
+     console.log("Connected to database successfully!", web3.version)
+
+
+     //testing that you can get balance of a user on the test network
+
+     console.log(something)
+
+>>>>>>> Stashed changes
      // var query = User.find({'name': 'ilyrobert'}, function (err, results) {
      //      if (results == null) {
      //           console.log('yee');
