@@ -6,6 +6,7 @@ const bodyParser = require('body-parser');
 const User = require('./users');
 const Event = require('./events');
 server.use(bodyParser());
+server.use(cors());
 const port = 4000;
 
 var mongoDBURL = 'mongodb+srv://vamshi:vamshitest@babcoin-dyxc1.mongodb.net/test?retryWrites=true&w=majority';
@@ -88,7 +89,14 @@ server.post("/rsvp", (req, res) => { // req  -> has new BaBCoin balance for user
           });
           res.status(200).send(user);
      })
+})
 
+server.post("/createEvent", (req, res) => {
+     var iCalID = req.body.calID;
+     var datetime = req.body.datetime; //format:
+     var name = req.body.name;
+     var description = req.body.description;
+     var creator = req.body.creatorEmail;
 
 
 })
