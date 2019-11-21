@@ -1,3 +1,5 @@
+import * as constants from "../web/src/constants";
+import Web3 from "web3";
 const express = require('express');
 const server = express();
 const mongoose = require('mongoose');
@@ -9,6 +11,16 @@ server.use(bodyParser());
 server.use(cors());
 const port = 4000;
 
+
+var infuraLink = "https://ropsten.infura.io/v3/74a5c337e5d3449384e8f2dad0837ac3";
+const web3 = new Web3(infuraLink);
+
+const BabCoinContract = new web3.eth.Contract(
+    constants.BABCoinABI,
+    constants.contractAddress
+);
+
+
 var mongoDBURL = 'mongodb+srv://vamshi:vamshitest@babcoin-dyxc1.mongodb.net/test?retryWrites=true&w=majority';
 
 mongoose.connect(mongoDBURL, { useNewUrlParser: true });
@@ -17,7 +29,7 @@ let db = mongoose.connection;
 
 //
 // var Web3 = require('web3');
-// const ropstenURL = "https://ropsten.infura.io/v3/74a5c337e5d3449384e8f2dad0837ac3";
+//const ropstenURL = "https://ropsten.infura.io/v3/74a5c337e5d3449384e8f2dad0837ac3";
 // var web3 = new Web3(ropstenURL);
 // var contractABI = require('./ABI.json');
 // const address = "0x518Ab7aEdAeD27Df0eD87457e13B9D1adAeDA735";
@@ -26,27 +38,6 @@ let db = mongoose.connection;
 
 db.once('open', function() {
      console.log("Connected to database successfully!")
-     // var balance = web3.eth.getBalance(address);
-     // balance.then(function(result) {
-     //      console.log(result)
-     // });
-     //
-     // babCoinContract.methods.createEvent('0x3d0a11636d9a3d5852127ea8ba2a77e52f2283b9', "1123123123", "5").call({
-     //      from: '0x3d0a11636d9a3d5852127ea8ba2a77e52f2283b9'
-     // });
-     // var query = User.find({'name': 'ilyrobert'}, function (err, results) {
-     //      if (results == null) {
-     //           console.log(web3.eth.getBalance(address, (err, wei) => {
-     //                balance = web3.utils.fromWei(wei, 'ether')
-     //           }));
-     //
-     //      } else {
-     //           console.log(results, web3.eth.getBalance(address, (err, wei) => {
-     //                balance = web3.utils.fromWei(wei, 'ether')
-     //           }));
-     //           //res.send(results);
-     //      }
-     // });
 });
 
 db.on('error', console.error.bind(console, 'MongoDB connection error:'));
@@ -98,8 +89,21 @@ server.post("/rsvp", (req, res) => { // req  -> has new BaBCoin balance for user
 
 server.post("/checkin", (req, res) => {
      var email = req.body.email;
-     var cal = req.body.ical;
+     var ical = req.body.ical;
 
+     const filter = {"iCalID": ical};
+
+     Event.findOne(filter, (err, event) => {
+          if (event == null || !event.rsvp_map.contains(email)) {
+               res.sendStatus(400);
+               return;
+          }
+          event.save((err) => {
+               console.log(err);
+          });
+          event.attended.push(email);
+          res.status(200).send(event);
+     })
 });
 
 server.post("/createEvent", (req, res) => {

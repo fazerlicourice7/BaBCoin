@@ -118,7 +118,7 @@ class Home extends Component {
                     <br/><br/><br/>
                     <tr>
                          <td>
-                             <EventList events={this.state.events} userEmail={this.state.email}/>
+                             <EventList events={this.state.events} userEmail={this.state.email} balance={this.state.coin}/>
                          </td>
                     </tr>
                     </tbody>
