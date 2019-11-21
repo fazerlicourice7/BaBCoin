@@ -30,6 +30,7 @@ export default class EventCard extends Component {
         }).then(res => {
             var newBalance = res.balance;
             console.log("new balance: " + newBalance);
+            this.props.balance = newBalance;
         });
     }
 

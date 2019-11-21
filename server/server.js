@@ -75,7 +75,7 @@ server.post("/user", (req, res) => {
                res.status(200).send(results);
           }
      });
-})
+});
 
 server.post("/rsvp", (req, res) => { // req  -> has new BaBCoin balance for user
      var user_email = req.body.email;
@@ -96,6 +96,12 @@ server.post("/rsvp", (req, res) => { // req  -> has new BaBCoin balance for user
      })
 });
 
+server.post("/checkin", (req, res) => {
+     var email = req.body.email;
+     var cal = req.body.ical;
+
+});
+
 server.post("/createEvent", (req, res) => {
      var iCalID = req.body.calID;
      var datetime = req.body.datetime; //format: 2016-11-14T20:30:00-08:00 - DATETtime-timezone
@@ -108,7 +114,7 @@ server.post("/createEvent", (req, res) => {
      });
      // res.status
 
-})
+});
 
 server.listen(port, () =>{
     console.log(`server listening at ${port}`);
