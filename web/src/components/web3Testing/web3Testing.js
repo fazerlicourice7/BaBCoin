@@ -3,7 +3,13 @@ import Web3 from "web3";
 import * as constants from "../../constants";
 import Button from "react-bootstrap/Button";
 
-const web3 = new Web3(window.ethereum);
+const web3 = new Web3(window.ethereum)
+
+window.ethereum.enable().catch(error => {
+    // User denied account access
+    console.log(error)
+})
+
 const BabCoinContract = new web3.eth.Contract(
   constants.BABCoinABI,
   constants.contractAddress
@@ -23,10 +29,10 @@ class web3Testing extends Component {
     web3.eth
       .getAccounts()
       .then(addr => {
-        this.setState({ userAddress: addr[0].toLocaleLowerCase() });
+        this.setState({ userAddress: addr[0] });
       })
       .then(() => {
-        console.log(this.state.userAddress);
+        console.log("useraddress", this.state.userAddress);
       });
     BabCoinContract.methods
       .totalSupply()

@@ -15,12 +15,13 @@ mongoose.connect(mongoDBURL, { useNewUrlParser: true });
 
 let db = mongoose.connection;
 
-
+//
 // var Web3 = require('web3');
 // const ropstenURL = "https://ropsten.infura.io/v3/74a5c337e5d3449384e8f2dad0837ac3";
 // var web3 = new Web3(ropstenURL);
+// var contractABI = require('./ABI.json');
 // const address = "0x518Ab7aEdAeD27Df0eD87457e13B9D1adAeDA735";
-//var babCoinContract = new web3.eth.Contract(ABI, '0x3d0a11636d9a3d5852127ea8ba2a77e52f2283b9');
+// var babCoinContract = new web3.eth.Contract(ABI, '0x3d0a11636d9a3d5852127ea8ba2a77e52f2283b9');
 
 
 db.once('open', function() {
@@ -29,7 +30,7 @@ db.once('open', function() {
      // balance.then(function(result) {
      //      console.log(result)
      // });
-
+     //
      // babCoinContract.methods.createEvent('0x3d0a11636d9a3d5852127ea8ba2a77e52f2283b9', "1123123123", "5").call({
      //      from: '0x3d0a11636d9a3d5852127ea8ba2a77e52f2283b9'
      // });
@@ -63,7 +64,11 @@ server.post("/user", (req, res) => {
                newUser.save((err) => {
                     console.log(err);
                });
-
+               if (newUser == null || newUser.name == null) {
+                    console.log("EERROOROROR");
+                    res.sendStatus(400);
+                    return;
+               }
                res.status(200).send(newUser);
 
           } else {
@@ -93,11 +98,15 @@ server.post("/rsvp", (req, res) => { // req  -> has new BaBCoin balance for user
 
 server.post("/createEvent", (req, res) => {
      var iCalID = req.body.calID;
-     var datetime = req.body.datetime; //format:
+     var datetime = req.body.datetime; //format: 2016-11-14T20:30:00-08:00 - DATETtime-timezone
      var name = req.body.name;
      var description = req.body.description;
-     var creator = req.body.creatorEmail;
 
+     let event = Event({iCalID: iCalID, datetime: datetime, name: name, description: description});
+     event.save((err) => {
+          console.log(err);
+     });
+     // res.status
 
 })
 
