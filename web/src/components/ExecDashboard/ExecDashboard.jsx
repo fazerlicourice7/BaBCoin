@@ -108,18 +108,13 @@ class Home extends Component {
             <div className={"home"}>
                 <table>
                     <tbody>
-                    <br/><br/><br/>
                     <tr>
                         <td>
                             <Profile name={this.state.email} coin={this.state.coin} totalCoin={this.state.totalCoin}/>
                         </td>
-
-                    </tr>
-                    <br/><br/><br/>
-                    <tr>
-                         <td>
-                             <EventList events={this.state.events} userEmail={this.state.email}/>
-                         </td>
+                        <td>
+                            <EventList events={this.state.events}/>
+                        </td>
                     </tr>
                     </tbody>
                 </table>

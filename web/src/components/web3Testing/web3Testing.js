@@ -3,12 +3,12 @@ import Web3 from "web3";
 import * as constants from "../../constants";
 import Button from "react-bootstrap/Button";
 
-const web3 = new Web3(window.ethereum)
+const web3 = new Web3(window.ethereum);
 
 window.ethereum.enable().catch(error => {
     // User denied account access
     console.log(error)
-})
+});
 
 const BabCoinContract = new web3.eth.Contract(
   constants.BABCoinABI,

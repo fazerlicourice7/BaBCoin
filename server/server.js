@@ -94,7 +94,7 @@ server.post("/rsvp", (req, res) => { // req  -> has new BaBCoin balance for user
           });
           res.status(200).send(user);
      })
-})
+});
 
 server.post("/createEvent", (req, res) => {
      var iCalID = req.body.calID;
