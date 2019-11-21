@@ -3,9 +3,22 @@ import React, {Component} from 'react';
 import Profile from '../components/Profile/Profile'
 import EventList from '../components/EventList/EventsList'
 import {calendarID} from "../apiGoogleconfig.json";
+import Web3 from "web3";
+import * as constants from "../constants";
 
 const axios = require('axios');
-const request = require('request');
+
+const web3 = new Web3(window.ethereum);
+
+window.ethereum.enable().catch(error => {
+    // User denied account access
+    console.log(error)
+});
+
+const BabCoinContract = new web3.eth.Contract(
+    constants.BABCoinABI,
+    constants.contractAddress
+);
 
 class Home extends Component {
 
@@ -20,23 +33,40 @@ class Home extends Component {
         };
     }
 
-    getCoinFromServer(userEmail) {
-        var userName = userEmail.split("@")[0];
-        console.log(userName);
-        axios.post("http://localhost:4000/user", {
-            origin: "http://localhost:3000",
-            headers: {
-                'Access-Control-Allow-Origin': '*'
-            },
-            mode: 'no-cors',
-            "name": userName,
-            "email": userEmail
-        }).then(res => {
-            this.setState({
-                coin: res.data.balance,
-                totalCoin: res.data.total_accrued
+    componentDidMount() {
+        web3.eth
+            .getAccounts()
+            .then(addr => {
+                this.setState({userEthAddress: addr[0]});
+            })
+            .then(() => {
+                console.log("useraddress", this.state.userEthAddress);
             });
-        });
+        this.render();
+    }
+
+    getCoinFromServer(userEmail) {
+        BabCoinContract.methods
+            .initUser()
+            .call({from: this.state.userAddress})
+            .then(() => {
+                var userName = userEmail.split("@")[0];
+                console.log(userName);
+                axios.post("http://localhost:4000/user", {
+                    origin: "http://localhost:3000",
+                    headers: {
+                        'Access-Control-Allow-Origin': '*'
+                    },
+                    mode: 'no-cors',
+                    "name": userName,
+                    "email": userEmail
+                }).then(res => {
+                    this.setState({
+                        coin: res.data.balance,
+                        totalCoin: res.data.total_accrued
+                    });
+                });
+            });
     }
 
     getUserDetails() {
@@ -99,10 +129,6 @@ class Home extends Component {
         });
     }
 
-    componentDidMount() {
-        this.render();
-    }
-
     render() {
         return (
             <div className={"home"}>
@@ -111,15 +137,17 @@ class Home extends Component {
                     <br/><br/><br/>
                     <tr>
                         <td>
-                            <Profile name={this.state.email} coin={this.state.coin} totalCoin={this.state.totalCoin}/>
+                            <Profile name={this.state.email} coin={this.state.coin} totalCoin={this.state.totalCoin}
+                                     userEthAddress={this.state.userEthAddress}/>
                         </td>
 
                     </tr>
                     <br/><br/><br/>
                     <tr>
-                         <td>
-                             <EventList events={this.state.events} userEmail={this.state.email} balance={this.state.coin}/>
-                         </td>
+                        <td>
+                            <EventList events={this.state.events} userEmail={this.state.email}
+                                       balance={this.state.coin} userEthAddress={this.state.userEthAddress}/>
+                        </td>
                     </tr>
                     </tbody>
                 </table>

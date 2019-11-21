@@ -7,7 +7,7 @@ const User = new Schema({
          type: String,
          required: true
      },
-     address: {
+     ethAddress: {
          type: String,
          required: true
      },

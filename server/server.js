@@ -13,15 +13,6 @@ server.use(cors());
 const port = 4000;
 
 
-var infuraLink = "https://ropsten.infura.io/v3/74a5c337e5d3449384e8f2dad0837ac3";
-const web3 = new Web3(infuraLink);
-
-const BabCoinContract = new web3.eth.Contract(
-    constants.BABCoinABI,
-    constants.contractAddress
-);
-
-
 var mongoDBURL = 'mongodb+srv://vamshi:vamshitest@babcoin-dyxc1.mongodb.net/test?retryWrites=true&w=majority';
 
 mongoose.connect(mongoDBURL, {useNewUrlParser: true});
@@ -48,11 +39,12 @@ server.post("/user", (req, res) => {
     // res - status code, user info
     var user_name = req.body.name;
     var user_email = req.body.email;
+    var user_eth_address = req.body.userEthAddress;
 
     var query = User.findOne({'name': user_name, 'email': user_email}, function (err, results) {
         if (results == null) {
             //Create new user:
-            let newUser = User({name: user_name, email: user_email, balance: 500, total_accrued: 500});
+            let newUser = User({name: user_name, email: user_email, ehtAddress: user_eth_address, balance: 500, total_accrued: 500});
             newUser.save((err) => {
                 console.log(err);
             });
@@ -140,6 +132,29 @@ server.post("/createEvent", (req, res) => {
     });
     // res.status
 
+});
+
+server.get("/eventrespondees", (req, res) => {
+    var iCalID = req.body.iCalID;
+    Event.findOne({"iCalID": iCalID}, (err, event) => {
+        if (event == null) {
+            res.sendStatus(400);
+            return;
+        }
+        res.status(200).send(event.rsvp_map);
+    });
+});
+
+server.post("/setuserbalance", (req, res) => {
+var email = req.body.email;
+var newBalance = req.body.newBalance;
+    User.findOne({'email': email}, function (err, user) {
+        if(user == null){
+            res.sendStatus(400);
+            return;
+        }
+        user.balance = newBalance;
+    });
 });
 
 server.listen(port, () => {
