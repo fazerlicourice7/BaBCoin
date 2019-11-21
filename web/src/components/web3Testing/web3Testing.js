@@ -51,15 +51,25 @@ class web3Testing extends Component {
         console.log(balanceOf);
         this.setState({ balance: balanceOf });
       });
-    // BabCoinContract.methods
-    //   .transfer("0x627d307f597251E982E4C6ce43bbc8289a7A0d6C", 10)
-    //   .send({ from: this.state.userAddress })
-    //   .then(balanceOf => {
-    //       console.log(balanceOf);
-    //       this.setState({balance: balanceOf});
-    //   });
-
   };
+
+  createAnEvent = () => {
+      BabCoinContract.methods
+          .createEvent(this.state.userAddress, "rsfsh", 20)
+          .send({ from: this.state.userAddress });
+  }
+
+  rsvpTest = () => {
+      BabCoinContract.methods
+        .rsvp("rsfsh", 20)
+        .send({ from: this.state.userAddress});
+  }
+
+  endTestEvent = () => {
+      BabCoinContract.methods
+          .eventPayout("rsfsh", this.state.userAddress, 20)
+          .send({ from: this.state.userAddress});
+  }
 
   render() {
     return (
@@ -68,7 +78,10 @@ class web3Testing extends Component {
           The total supply is {this.state.supply} and the user address is
           {this.state.userAddress} and the user balance is {this.state.balance}
         </h1>
-        <Button onClick={this.balance}>Transaction</Button>
+        <Button onClick={this.balance}>check balance</Button>
+        <Button onClick={this.createAnEvent}>createanevent</Button>
+        <Button onClick={this.rsvpTest}>testRSVP</Button>
+        <Button onClick={this.endTestEvent}>endTestEvent</Button>
       </div>
     );
   }
