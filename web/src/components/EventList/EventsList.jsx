@@ -15,7 +15,7 @@ class EventsList extends Component {
                 return this.createEventCard(event)
             });
             return listEvents.map((card, index) => {
-                return <div key={index}>{card}</div>
+                return <div style={{paddingTop: '10px'}} key={index}>{card}</div>
             });
         }
         return undefined;
@@ -28,7 +28,7 @@ class EventsList extends Component {
 
     createEventCard(rawEventData) {
         console.log('creating event card: ' + JSON.stringify(rawEventData));
-        return <EventCard title={rawEventData.summary} description={rawEventData.description} iCalID={rawEventData.iCalUID}
+        return <EventCard title={rawEventData.summary} description={rawEventData.description} iCalID={rawEventData.iCalUID} isExec={false}
                           location={rawEventData.location} datetime={rawEventData.start.dateTime} userEmail={this.props.userEmail}/>
     }
 
