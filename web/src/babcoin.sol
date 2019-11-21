@@ -1,7 +1,5 @@
 pragma solidity 0.5.12;
 
-import "https://github.com/ethereum/dapp-bin/blob/master/library/stringUtils.sol" as StringUtils;
-
 contract BaBCoin {
 
     struct CalEvent { // mapping of ical hash to amount of coin in the pool for that event. PUT ICAL ON CHAIN?
@@ -17,15 +15,16 @@ contract BaBCoin {
     mapping (address => mapping(address => uint)) _allowance; // change this to direct transfer to contract, but allow changing rsvp up to 24 hours before.
     mapping (string => CalEvent) events;
 
-    uint256 private _totalSupply;
+    uint256 private _initSupply;
     uint256 private _minCoin = 1;
     address _exec;
 
-    constructor(uint256 total) public {
-        _totalSupply = total;
+    constructor(uint256 initialSupply) public {
+        _totalSupply = initialSupply;
         balances[msg.sender] = _totalSupply;
         _exec = msg.sender;
     }
+
 
     function totalSupply() public view returns (uint256){
         return _totalSupply;
@@ -34,15 +33,16 @@ contract BaBCoin {
     /**
      * Need to set permissions.
      */
+
     function balanceOf(address tokenOwner) public view returns (uint){
         require(msg.sender == tokenOwner || msg.sender == _exec);
         return balances[tokenOwner];
     }
 
     /**
-     * Exec board (this contract) will most likely be the delegate that will have approval to transact with the B@BCoin.
+     * Exec board (this contract) will most likely be the delegate that will have approval to transact with the babcoin.
      */
-    function allowance(address tokenOwner, address spender)   public view returns (uint){
+    function allowance(address tokenOwner, address spender) public view returns (uint){
         require(msg.sender == tokenOwner); // will exec have authority to give allowances?
         return _allowance[tokenOwner][spender];
     }
@@ -62,7 +62,7 @@ contract BaBCoin {
     function approve(address spender, uint tokens)  public returns (bool){
         require(balances[msg.sender] >= tokens);
         require(balances[spender] > 0); // make sure it exists.
-        _allowance[msg.sender][spender] += tokens;
+        //_allowance[msg.sender][spender] += tokens;
     }
     // what if I have 20 coin, and delegate 15 to one address, and 15 to another address; one spends all 15.
 
@@ -90,39 +90,26 @@ contract BaBCoin {
     /**
      *  Exec account always rsvps to an event, but is never marked present. Therefore that stake gets redistributed to the attendees.
      */
-    function rsvp(string memory icalHashHash, uint stakeAmount) public {
+    function rsvp(string memory icalHash, uint stakeAmount) public {
         require(balances[msg.sender] > stakeAmount);
-        require(!StringUtils.equals(events[icalHash].icalHash, ""));
         require(stakeAmount >= events[icalHash].minStakeAmount);
         events[icalHash].amountStaked[msg.sender] = stakeAmount;
         events[icalHash].poolAmount += stakeAmount;
+        balances[msg.sender] -= stakeAmount;
     }
 
     /**
      * this will be called from our back end ?which address is this? exec?
      * this is called per person to move any loops out of the solidity code and into the backend
+     * returns the final balance of every person
      */
-    function endEvent(string memory icalHash, address person, uint amountToRedistribute) public {
+    function eventPayout(string memory icalHash, address person, uint amountToRedistribute) public {
         require(balances[person] > 0);
-        require(!StringUtils.equals(events[calendarHash].icalHash, ""));
+        require(events[icalHash].poolAmount >= amountToRedistribute);
         events[icalHash].amountRedistributed[person] = amountToRedistribute;
-        transferFrom(person, address(this), events[icalHash].amountStaked[person]);
+        balances[person] += amountToRedistribute;
+        events[icalHash].poolAmount -= amountToRedistribute;
+        return balances[person];
+        //transferFrom(person, address(this), events[icalHash].amountStaked[person]);
     }
-
-
-    /**
-     * The endEvent function needs to be called for every attendee before this function can be called for anyone.
-     * This is so that the contract has a pool of all of the coin that attendees staked.
-     *
-     * @param person - address of the person who is receiving the payout
-     * @param amountToRedistribute - the amount to be payed
-     * @returns
-     */
-    function eventPayout(address person, uint amountToRedistribute) public{
-        require(amountToRedistribute <= balances[address(this)]); // make sure total payouts <= balance.
-        require(balances[person] > 0);
-        transfer(person, amountToRedistribute);
-    }
-
-
 }
