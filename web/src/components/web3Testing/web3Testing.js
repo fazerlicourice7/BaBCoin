@@ -51,13 +51,13 @@ class web3Testing extends Component {
         console.log(balanceOf);
         this.setState({ balance: balanceOf });
       });
-    BabCoinContract.methods
-      .transfer("0x627d307f597251E982E4C6ce43bbc8289a7A0d6C", 10)
-      .send({ from: this.state.userAddress })
-      .then(balanceOf => {
-        console.log(balanceOf);
-        this.setState({ balance: balanceOf });
-      });
+    // BabCoinContract.methods
+    //   .transfer("0x627d307f597251E982E4C6ce43bbc8289a7A0d6C", 10)
+    //   .send({ from: this.state.userAddress })
+    //   .then(balanceOf => {
+    //     console.log(balanceOf);
+    //     this.setState({ balance: balanceOf });
+
   };
 
   render() {
