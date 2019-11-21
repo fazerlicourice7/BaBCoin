@@ -18,7 +18,7 @@ export default class EventCard extends Component {
     }
 
     onRSVP(){
-        axios.post("localhost:4000/rsvp", { body: { email: 'vamshi.balanaga@berkeley.edu', stakeAmount: 10}})
+        axios.post("localhost:4000/rsvp", { body: { email: 'vamshi.balanaga@berkeley.edu', amount: 10}})
     }
 
     render() {
