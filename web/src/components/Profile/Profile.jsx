@@ -6,7 +6,7 @@ class Profile extends Component {
 
     render() {
         return (
-             <Card bg="light">
+             <Card border="info" bg="light">
               <Card.Header><h1>{this.props.name}</h1></Card.Header>
               <Card.Body>
                 <Card.Title>Balance: {this.props.coin} BabCoin</Card.Title>

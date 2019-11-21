@@ -15,7 +15,7 @@ class EventsList extends Component {
                 return this.createEventCard(event)
             });
             return listEvents.map((card, index) => {
-                return <div key={index}>{card}</div>
+                return <div style={{paddingTop: '10px'}} key={index}>{card}</div>
             });
         }
         return undefined;

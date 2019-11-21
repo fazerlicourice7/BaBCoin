@@ -1,6 +1,6 @@
 import './EventCard.css';
 import React, {Component} from 'react';
-import {Card, Button, ButtonGroup, ButtonToolbar, ToggleButtonGroup, ToggleButton} from 'react-bootstrap';
+import {Card, Button, ButtonGroup, ButtonToolbar, ToggleButtonGroup, ToggleButton, Container, Row, Col} from 'react-bootstrap';
 
 const axios = require('axios');
 
@@ -8,12 +8,14 @@ export default class EventCard extends Component {
     constructor(props) {
         super(props);
         this.state = {
+            isExec: props.isExec,
             title: props.title,
             description: props.description,
             location: props.location,
             datetime: props.datetime,
             iCalID: props.iCalID
         };
+
         console.log("event card");
 
         this.onRSVP = this.onRSVP.bind(this);
@@ -46,26 +48,62 @@ export default class EventCard extends Component {
     }
 //<!-- <Button variant="primary" onClick={this.onRSVP}>RSVP</Button> -->
     render() {
-        return (
-            <div className={"eventCard"}>
-                <Card>
-                    <Card.Body>
-                         <Card.Title>{this.state.title}</Card.Title>
-                         <Card.Body> <Card.Text>{this.state.description}</Card.Text>
-                         <Card.Text>{this.state.location}</Card.Text>
-                         <Card.Text>{this.state.datetime}</Card.Text></Card.Body>
+         if (this.state.isExec) {
+              return (
+                 <div className={"eventCard"}>
+                     <Card>
+                         <Card.Body>
+                              <Card.Title>{this.state.title}</Card.Title>
+                              <Card.Body> <Card.Text>{this.state.description}</Card.Text>
+                              <Card.Text>{this.state.location}</Card.Text>
+                              <Card.Text>{this.state.datetime}</Card.Text></Card.Body>
 
 
-                        <ButtonToolbar>
-                        <ToggleButtonGroup id={this.state.iCalID} type="radio" name="options" defaultValue={3} onChange={this.onRSVP}>
-                          <ToggleButton variant="outline-success" value={1}>Going</ToggleButton>
-                          <ToggleButton variant="outline-warning" value={2}>Maybe</ToggleButton>
-                          <ToggleButton variant="outline-danger" value={3}>No</ToggleButton>
-                        </ToggleButtonGroup>
-                      </ButtonToolbar>
-                    </Card.Body>
-                </Card>
-            </div>
-        );
+                             <ButtonToolbar>
+                             <ToggleButtonGroup id={this.state.iCalID} type="radio" name="options" defaultValue={3} onChange={this.onRSVP}>
+                               <ToggleButton variant="outline-success" value={1}>Going</ToggleButton>
+                               <ToggleButton variant="outline-warning" value={2}>Maybe</ToggleButton>
+                               <ToggleButton variant="outline-danger" value={3}>No</ToggleButton>
+                             </ToggleButtonGroup>
+                           </ButtonToolbar>
+                         </Card.Body>
+                     </Card>
+                 </div>
+             );
+         } else {
+              return (
+                 <div className={"eventCard"}>
+                     <Card>
+                         <Card.Body>
+                              <Card.Title>{this.state.title}</Card.Title>
+                              <Card.Body> <Card.Text>{this.state.description}</Card.Text>
+                              <Card.Text>{this.state.location}</Card.Text>
+                              <Card.Text>{this.state.datetime}</Card.Text></Card.Body>
+
+
+                             <ButtonToolbar>
+                             <ToggleButtonGroup id={this.state.iCalID} type="radio" name="options" defaultValue={3} onChange={this.onRSVP}>
+                               <ToggleButton variant="outline-success" value={1}>Going</ToggleButton>
+                               <ToggleButton variant="outline-warning" value={2}>Maybe</ToggleButton>
+                               <ToggleButton variant="outline-danger" value={3}>No</ToggleButton>
+                             </ToggleButtonGroup>
+                           </ButtonToolbar>
+                         </Card.Body>
+                         <Card.Footer>
+                              <Container>
+                                   <Row>
+                                        <Col xs><Button variant="info" >Scan</Button></Col>
+                                       <Col xs></Col>
+                                       <Col xs><Button variant="info" >End Event</Button></Col>
+
+
+                                   </Row>
+                              </Container>
+                         </Card.Footer>
+                     </Card>
+                 </div>
+             );
+         }
+
     }
 }
