@@ -29,7 +29,8 @@ yarn-error.log*
 # # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 #
 # # User-specific stuff
- .idea/
+ .idea/*
+ ./.idea
  /web/.idea/
  /web/.idea/**/workspace.xml
  /web/.idea/**/tasks.xml
