@@ -29,7 +29,7 @@ class EventsList extends Component {
     createEventCard(rawEventData) {
         console.log('creating event card: ' + JSON.stringify(rawEventData));
         return <EventCard title={rawEventData.summary} description={rawEventData.description}
-                          location={rawEventData.location} datetime={rawEventData.start.dateTime}/>
+                          location={rawEventData.location} datetime={rawEventData.start.dateTime} userEmail={this.props.userEmail}/>
     }
 
 
