@@ -3,12 +3,12 @@ import Web3 from "web3";
 import * as constants from "../../constants";
 import Button from "react-bootstrap/Button";
 
-const web3 = new Web3(window.ethereum)
+const web3 = new Web3(window.ethereum);
 
 window.ethereum.enable().catch(error => {
     // User denied account access
     console.log(error)
-})
+});
 
 const BabCoinContract = new web3.eth.Contract(
   constants.BABCoinABI,
@@ -51,13 +51,13 @@ class web3Testing extends Component {
         console.log(balanceOf);
         this.setState({ balance: balanceOf });
       });
-    BabCoinContract.methods
-      .transfer("0x627d307f597251E982E4C6ce43bbc8289a7A0d6C", 10)
-      .send({ from: this.state.userAddress })
-      .then(balanceOf => {
-        console.log(balanceOf);
-        this.setState({ balance: balanceOf });
-      });
+    // BabCoinContract.methods
+    //   .transfer("0x627d307f597251E982E4C6ce43bbc8289a7A0d6C", 10)
+    //   .send({ from: this.state.userAddress })
+    //   .then(balanceOf => {
+    //     console.log(balanceOf);
+    //     this.setState({ balance: balanceOf });
+
   };
 
   render() {

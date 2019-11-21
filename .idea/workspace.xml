@@ -4,6 +4,7 @@
     <list default="true" id="0a2ad1c7-b040-4ae8-92b6-43c5db14ba50" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/src/components/web3Testing/web3Testing.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/components/web3Testing/web3Testing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/constants.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +121,7 @@
       <workItem from="1573419630848" duration="1246000" />
       <workItem from="1573507662323" duration="455000" />
       <workItem from="1573872495137" duration="7454000" />
-      <workItem from="1574295875692" duration="1388000" />
+      <workItem from="1574295875692" duration="2991000" />
     </task>
     <servers />
   </component>
