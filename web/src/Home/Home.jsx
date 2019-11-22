@@ -29,7 +29,7 @@ class Home extends Component {
         this.getEvents();
         this.state = {
             "email": this.props.location.state.email
-
+            
         };
     }
 
@@ -41,15 +41,15 @@ class Home extends Component {
             })
             .then(() => {
                 console.log("useraddress", this.state.userEthAddress);
+                this.getCoinFromServer(this.props.location.state.email);
             });
-        this.getCoinFromServer(this.props.location.state.email);
         this.render();
     }
 
     getCoinFromServer(userEmail) {
         BabCoinContract.methods
             .initUser()
-            .call({from: this.state.userAddress})
+            .send({from: this.state.userEthAddress})
             .then(() => {
                 var userName = userEmail.split("@")[0];
                 console.log(userName);
