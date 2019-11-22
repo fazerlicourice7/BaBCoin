@@ -1,5 +1,4 @@
-import * as constants from "../web/src/constants";
-import Web3 from "web3";
+//import * as constants from "../web/src/constants";
 
 const express = require('express');
 const server = express();
@@ -131,7 +130,6 @@ server.post("/createEvent", (req, res) => {
         console.log(err);
     });
     // res.status
-
 });
 
 server.get("/eventrespondees", (req, res) => {

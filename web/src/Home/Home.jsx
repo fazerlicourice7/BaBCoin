@@ -28,8 +28,8 @@ class Home extends Component {
         //alert('test');
         this.getEvents();
         this.state = {
-            email: this.props.location.state.email,
-            coin: this.getCoinFromServer(this.props.location.state.email)
+            "email": this.props.location.state.email
+
         };
     }
 
@@ -42,6 +42,7 @@ class Home extends Component {
             .then(() => {
                 console.log("useraddress", this.state.userEthAddress);
             });
+        this.getCoinFromServer(this.props.location.state.email);
         this.render();
     }
 
@@ -119,9 +120,6 @@ class Home extends Component {
         }).then(function (response) {
             var events = response.result.items;
             if (events.length > 0) {
-                for (var i = 0; i < events.length; i++) {
-                    console.log("event in getEvents, home: " + events[i]);
-                }
                 comp.setState({"events": events});
             } else {
                 return ['No upcoming events found.'];
@@ -134,7 +132,7 @@ class Home extends Component {
             <div className={"home"}>
                 <table>
                     <tbody>
-                    <br/><br/><br/>
+                    <br/>
                     <tr>
                         <td>
                             <Profile name={this.state.email} coin={this.state.coin} totalCoin={this.state.totalCoin}
@@ -142,7 +140,7 @@ class Home extends Component {
                         </td>
 
                     </tr>
-                    <br/><br/><br/>
+                    <br/>
                     <tr>
                         <td>
                             <EventList events={this.state.events} userEmail={this.state.email}
