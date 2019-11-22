@@ -30,7 +30,8 @@ class EventsList extends Component {
         return <EventCard title={rawEventData.summary} description={rawEventData.description}
                           location={rawEventData.location} datetime={rawEventData.start.dateTime}
                           userEmail={this.props.userEmail} balance={this.props.balance}
-                          userEthAddress={this.props.userEthAddress} iCalID={rawEventData.iCalUID}/>
+                          userEthAddress={this.props.userEthAddress} iCalID={rawEventData.iCalUID}
+                            updateBalance={this.props.updateBalance}/>
     }
 
     render() {

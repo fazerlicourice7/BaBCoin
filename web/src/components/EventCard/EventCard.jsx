@@ -59,7 +59,7 @@ export default class EventCard extends Component {
         } else {
             return;
         }
-        axios.post("localhost:4000/rsvp", {
+        axios.post("http://localhost:4000/rsvp", {
             origin: "http://localhost:3000",
             headers: {
                 'Access-Control-Allow-Origin': '*'
@@ -70,11 +70,11 @@ export default class EventCard extends Component {
             going: isGoing,
             amount: AMOUNT
         }).then(res => {
-            var newBalance = res.balance;
+            console.log("onrsvp: " + JSON.stringify(res));
+            var newBalance = res.data.user.balance;
             console.log("new balance: " + newBalance);
-            this.props.balance = newBalance;
+            this.props.updateBalance(newBalance);
         });
-console.log("on rsvp: " + this.props.iCalID);
         BabCoinContract.methods
             .rsvp(this.props.iCalID, AMOUNT)
             .send({from: this.props.userEthAddress});

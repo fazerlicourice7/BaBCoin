@@ -43,7 +43,13 @@ server.post("/user", (req, res) => {
     var query = User.findOne({'name': user_name, 'email': user_email}, function (err, results) {
         if (results == null) {
             //Create new user:
-            let newUser = User({name: user_name, email: user_email, ehtAddress: user_eth_address, balance: 500, total_accrued: 500});
+            let newUser = User({
+                name: user_name,
+                email: user_email,
+                ethAddress: user_eth_address,
+                balance: 500,
+                total_accrued: 500
+            });
             newUser.save((err) => {
                 console.log(err);
             });
@@ -64,13 +70,14 @@ server.post("/rsvp", (req, res) => { // req  -> has new BaBCoin balance for user
     var user_email = req.body.email;
     var delta = req.body.amount;
     var going = req.body.going;
+    var eventID = req.body.iCalID;
 
     const filter = {'email': user_email};
-    var _event, _user;
 
     User.findOne(filter, function (err, user) {
         if (user == null || user.balance < delta) {
             res.sendStatus(400);
+            console.log(res);
             return;
         }
         if (going) {
@@ -78,25 +85,32 @@ server.post("/rsvp", (req, res) => { // req  -> has new BaBCoin balance for user
         } else {
             user.balance = user.balance - delta / 2;
         }
+        console.log(user);
+
         user.save((err) => {
             console.log(err);
         });
-        _user = user;
+
+        //move most of the above code into the event promise after we create events.
+        // const eventFilter = {"iCalID": eventID};
+        // Event.findOne(eventFilter, (err, event) => {
+        //     if (event == null) {
+        //         res.sendStatus(400);
+        //         return;
+        //     }
+        //
+        //     event.rsvp_map.set(user_email, going);
+        //     console.log(event);
+        //
+        //     event.save((err) => {
+        //         console.log(err);
+        //     });
+        //     console.log(event);
+        //     res.status(200).send({"user": user, "event": event});
+        // });
+        res.status(200).send({"user": user});
     });
 
-    const eventFilter = {};
-    Event.findOne(eventFilter, (err, event) => {
-        if (event == null) {
-            res.sendStatus(400);
-            return;
-        }
-        event.save((err) => {
-            console.log(err);
-        });
-        event.rsvp_map.set(user_email, going);
-        _event = event;
-    });
-    res.status(200).send({_user, _event});
 
 });
 
@@ -111,10 +125,11 @@ server.post("/checkin", (req, res) => {
             res.sendStatus(400);
             return;
         }
+
+        event.attended.push(email);
         event.save((err) => {
             console.log(err);
         });
-        event.attended.push(email);
         res.status(200).send(event);
     });
 });
@@ -144,14 +159,17 @@ server.get("/eventrespondees", (req, res) => {
 });
 
 server.post("/setuserbalance", (req, res) => {
-var email = req.body.email;
-var newBalance = req.body.newBalance;
+    var email = req.body.email;
+    var newBalance = req.body.newBalance;
     User.findOne({'email': email}, function (err, user) {
-        if(user == null){
+        if (user == null) {
             res.sendStatus(400);
             return;
         }
         user.balance = newBalance;
+        user.save((err) => {
+            console.log(err);
+        });
     });
 });
 

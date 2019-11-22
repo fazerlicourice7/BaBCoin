@@ -31,6 +31,7 @@ class Home extends Component {
             "email": this.props.location.state.email
 
         };
+        this.handleUpdateBalance = this.handleUpdateBalance.bind(this);
     }
 
     componentDidMount() {
@@ -41,15 +42,15 @@ class Home extends Component {
             })
             .then(() => {
                 console.log("useraddress", this.state.userEthAddress);
+                this.getCoinFromServer(this.props.location.state.email);
             });
-        this.getCoinFromServer(this.props.location.state.email);
         this.render();
     }
 
     getCoinFromServer(userEmail) {
         BabCoinContract.methods
             .initUser()
-            .call({from: this.state.userAddress})
+            .call({from: this.state.userEthAddress})
             .then(() => {
                 var userName = userEmail.split("@")[0];
                 console.log(userName);
@@ -60,7 +61,8 @@ class Home extends Component {
                     },
                     mode: 'no-cors',
                     "name": userName,
-                    "email": userEmail
+                    "email": userEmail,
+                    "userEthAddress": this.state.userEthAddress
                 }).then(res => {
                     this.setState({
                         coin: res.data.balance,
@@ -108,6 +110,10 @@ class Home extends Component {
         };
     }
 
+    handleUpdateBalance(newBalance) {
+        this.setState({"coin": newBalance});
+    }
+
     getEvents() {
         var comp = this;
         window.gapi.client.calendar.events.list({
@@ -144,7 +150,8 @@ class Home extends Component {
                     <tr>
                         <td>
                             <EventList events={this.state.events} userEmail={this.state.email}
-                                       balance={this.state.coin} userEthAddress={this.state.userEthAddress}/>
+                                       balance={this.state.coin} updateBalance={this.handleUpdateBalance}
+                                       userEthAddress={this.state.userEthAddress}/>
                         </td>
                     </tr>
                     </tbody>
