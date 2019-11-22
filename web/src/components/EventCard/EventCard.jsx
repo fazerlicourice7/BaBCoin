@@ -74,7 +74,7 @@ export default class EventCard extends Component {
             console.log("new balance: " + newBalance);
             this.props.balance = newBalance;
         });
-
+console.log("on rsvp: " + this.props.iCalID);
         BabCoinContract.methods
             .rsvp(this.props.iCalID, AMOUNT)
             .send({from: this.props.userEthAddress});
