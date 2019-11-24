@@ -6,6 +6,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import Login from "./components/Login/Login";
 import Home from "./Home/Home";
 import Navbar from "./components/NavBar/Navbar";
+import CheckIn from './components/CheckIn/CheckIn';
 import web3Testing from "./components/web3Testing/web3Testing";
 
 import "./App.css";
@@ -45,6 +46,7 @@ class App extends Component {
           <Route exact path={"/"} component={Login} />
           <Route exact path="/home" component={Home} />
           <Route exact path={"/web3Testing"} component={web3Testing} />
+          <Route exact path="/checkin" component={CheckIn} />
         </div>
       </Router>
     );

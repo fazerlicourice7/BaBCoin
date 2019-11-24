@@ -46,27 +46,27 @@ class Home extends Component {
     }
 
     getCoinFromServer(userEmail) {
-        BabCoinContract.methods
-            .initUser()
-            .call({from: this.state.userAddress})
-            .then(() => {
-                var userName = userEmail.split("@")[0];
-                console.log(userName);
-                axios.post("http://localhost:4000/user", {
-                    origin: "http://localhost:3000",
-                    headers: {
-                        'Access-Control-Allow-Origin': '*'
-                    },
-                    mode: 'no-cors',
-                    "name": userName,
-                    "email": userEmail
-                }).then(res => {
-                    this.setState({
-                        coin: res.data.balance,
-                        totalCoin: res.data.total_accrued
-                    });
-                });
-            });
+        // BabCoinContract.methods
+        //     .initUser()
+        //     .call({from: this.state.userAddress})
+        //     .then(() => {
+      var userName = userEmail.split("@")[0];
+      console.log(userName);
+      axios.post("http://localhost:4000/user", {
+          origin: "http://localhost:3000",
+          headers: {
+              'Access-Control-Allow-Origin': '*'
+          },
+          mode: 'no-cors',
+          "name": userName,
+          "email": userEmail
+      }).then(res => {
+          this.setState({
+              coin: res.data.balance,
+              totalCoin: res.data.total_accrued
+          });
+      });
+            // });
     }
 
     getUserDetails() {

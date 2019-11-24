@@ -81,17 +81,21 @@ export default class EventCard extends Component {
     }
 
     scanIn() {
-        axios.post("localhost:4000/checkin", {
-            origin: "http://localhost:3000",
-            headers: {
-                'Access-Control-Allow-Origin': '*'
-            },
-            mode: 'no-cors',
-            email: this.props.userEmail,
-            ical: this.props.iCalID
-        }).then(res => {
-
-        });
+        //  this.props.history.push({
+        //   pathname: "/checkin/",
+        //   state: {iCalID: this.state.iCalID}
+        // });
+        // axios.post("localhost:4000/checkin", {
+        //     origin: "http://localhost:3000",
+        //     headers: {
+        //         'Access-Control-Allow-Origin': '*'
+        //     },
+        //     mode: 'no-cors',
+        //     email: this.props.userEmail,
+        //     ical: this.props.iCalID
+        // }).then(res => {
+        //
+        // });
     }
 
     payoutEachPerson(rsvpStatus, email, map) {
@@ -138,7 +142,7 @@ export default class EventCard extends Component {
 
 //<!-- <Button variant="primary" onClick={this.onRSVP}>RSVP</Button> -->
     render() {
-        if (!this.state.isExec) {
+        if (this.state.isExec) {
             return (
                 <div className={"eventCard"}>
                     <Card>
@@ -187,8 +191,6 @@ export default class EventCard extends Component {
                                     <Col xs><Button variant="info" onClick={this.scanIn}>Scan</Button></Col>
                                     <Col xs></Col>
                                     <Col xs><Button variant="info" onClick={this.endEvent}>End Event</Button></Col>
-
-
                                 </Row>
                             </Container>
                         </Card.Footer>
