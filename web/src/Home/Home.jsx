@@ -49,29 +49,6 @@ class Home extends Component {
     }
 
     getCoinFromServer(userEmail) {
-<<<<<<< HEAD
-        // BabCoinContract.methods
-        //     .initUser()
-        //     .call({from: this.state.userAddress})
-        //     .then(() => {
-      var userName = userEmail.split("@")[0];
-      console.log(userName);
-      axios.post("http://localhost:4000/user", {
-          origin: "http://localhost:3000",
-          headers: {
-              'Access-Control-Allow-Origin': '*'
-          },
-          mode: 'no-cors',
-          "name": userName,
-          "email": userEmail
-      }).then(res => {
-          this.setState({
-              coin: res.data.balance,
-              totalCoin: res.data.total_accrued
-          });
-      });
-            // });
-=======
         BabCoinContract.methods
             .initUser()
             .send({from: this.state.userEthAddress})
@@ -94,7 +71,6 @@ class Home extends Component {
                     });
                 });
             });
->>>>>>> 98b91cbe400c28057ad6e0f146e681bdbc284360
     }
 
     getUserDetails() {
@@ -152,6 +128,7 @@ class Home extends Component {
             var events = response.result.items;
             if (events.length > 0) {
                 comp.setState({"events": events});
+                comp.uploadEvents(events);
             } else {
                 return ['No upcoming events found.'];
             }
@@ -161,6 +138,7 @@ class Home extends Component {
     uploadEvents(events) {
         for (var i = 0; i < events.length; i++) {
             const calEvent = events[i];
+            console.log("trying to upload: " + JSON.stringify(calEvent));
             axios.post("http://localhost:4000/createEvent", {
                 origin: "http://localhost:3000",
                 headers: {
@@ -171,7 +149,7 @@ class Home extends Component {
             }).then(res => {
                 if (!res.exists) {
                     BabCoinContract.methods
-                        .createEvent(events.iCalUID, 10)
+                        .createEvent(events[i].iCalUID, 10)
                         .send({from: this.state.userEthAddress})
                         .then(() => {
                             // don't need to do anything

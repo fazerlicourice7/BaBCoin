@@ -13,7 +13,6 @@ import {
 } from 'react-bootstrap';
 import Web3 from "web3";
 import * as constants from "../../constants";
-import {forEach} from "react-bootstrap/cjs/utils/ElementChildren";
 
 const axios = require('axios');
 
@@ -45,13 +44,14 @@ export default class EventCard extends Component {
 
         console.log("event card");
 
+        this.rsvpStatus = React.createRef();
         this.onRSVP = this.onRSVP.bind(this);
         this.endEvent = this.endEvent.bind(this);
         this.scanIn = this.scanIn.bind(this);
     }
 
     componentDidMount() {
-        axios.get("http://localhost:4000/rsvpstatus", {
+        axios.post("http://localhost:4000/rsvpStatus", {
             origin: "http://localhost:3000",
             headers: {
                 'Access-Control-Allow-Origin': '*'
@@ -60,12 +60,12 @@ export default class EventCard extends Component {
             email: this.props.userEmail,
             iCalID: this.props.iCalID
         }).then(res => {
-            this.eventCard.rsvpStatus.getDOMNode().value = res.data.status;
+            this.rsvpStatus.value = res.data.status;
         });
     }
 
     onRSVP(e) {
-        axios.get("http://localhost:4000/rsvpstatus", {
+        axios.post("http://localhost:4000/rsvpStatus", {
             origin: "http://localhost:3000",
             headers: {
                 'Access-Control-Allow-Origin': '*'
@@ -74,6 +74,7 @@ export default class EventCard extends Component {
             email: this.props.userEmail,
             iCalID: this.props.iCalID
         }).then(res => {
+            console.log("got rsvp status, now rsvping back");
             var currentStatus = res.data.status;
             var amountToCharge = 0;
             if (e !== currentStatus) {
@@ -188,7 +189,7 @@ export default class EventCard extends Component {
     }
 
     render() {
-        if (this.state.isExec) {
+        if (!this.state.isExec) {
             return (
                 <div className={"eventCard"}>
                     <Card>
@@ -200,7 +201,7 @@ export default class EventCard extends Component {
 
 
                             <ButtonToolbar>
-                                <ToggleButtonGroup className={"rsvpStatus"} id={this.state.iCalID} type="radio"
+                                <ToggleButtonGroup ref={this.rsvpStatus} id={this.state.iCalID} type="radio"
                                                    name="options" defaultValue={3}
                                                    onChange={this.onRSVP}>
                                     <ToggleButton variant="outline-success" value={1}>Going</ToggleButton>

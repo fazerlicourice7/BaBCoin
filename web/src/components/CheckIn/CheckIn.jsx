@@ -1,12 +1,15 @@
 import React, {Component} from 'react';
+import {Button} from 'react-bootstrap';
+
+const axios = require('axios');
 
 class CheckIn extends Component {
 
     constructor(props) {
         super(props);
         this.state = {
-             iCalID: this.props.location.state.iCalID,
-             selectValue: ''
+            iCalID: this.props.location.state.iCalID,
+            selectValue: ''
         };
         axios.post("localhost:4000/eventrespondees", {
             origin: "http://localhost:3000",
@@ -16,8 +19,8 @@ class CheckIn extends Component {
             mode: 'no-cors',
             iCalID: this.state.iCalID
         }).then(res => {
-             // res.data.rsvp_map - take the keys;
-             this.state.rsvped = res.data.rspv_map.keys();
+            // res.data.rsvp_map - take the keys;
+            this.state.rsvped = res.data.rspv_map.keys();
         });
         // call eventrespondees to get list of ppl who can checkin, add to props
         this.handleChange = this.handleChange.bind(this);
@@ -25,12 +28,12 @@ class CheckIn extends Component {
     }
 
     handleChange(e) {
-         this.setState({selectValue: e}); //might be e.value
+        this.setState({selectValue: e}); //might be e.value
     }
 
-   addPerson() {
+    addPerson() {
         if (this.props.selectValue == '') {
-             return;
+            return;
         }
         axios.post("localhost:4000/checkin", {
             origin: "http://localhost:3000",
@@ -43,19 +46,15 @@ class CheckIn extends Component {
         }).then(res => {
             console.log("checked in!");
         });
-   }
+    }
 
     render() {
         return (
             <div className={"CheckIn"}>
-            // use options of dropdown to map people and
+                // use options of dropdown to map people and
 
-               <Input type="select" label="Select person to check in" onChange={this.handleChange}>
-                    {this.state.rsvped.map((e, index) => {
-                         return <option value={e}>{e}</option>;
-                    })}
-               </Input>
-               <Button variant="success" onClick={this.addPerson}>Add</Button>
+
+                <Button variant="success" onClick={this.addPerson}>Add</Button>
 
             </div>
         );
