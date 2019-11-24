@@ -131,7 +131,7 @@ server.post("/checkin", (req, res) => {
 
 server.post("/createEvent", (req, res) => {
     var iCalID = req.body.icalUID;
-    var datetime = req.body.start.datetime; //format: 2016-11-14T20:30:00-08:00 - DATETtime-timezone
+    var datetime = req.body.start; //format: 2016-11-14T20:30:00-08:00 - DATETtime-timezone
     var name = req.body.summary;
     var description = req.body.description;
 
@@ -139,11 +139,13 @@ server.post("/createEvent", (req, res) => {
 
     Event.findOne(eventDetails, (err, event) => {
         if (event == null) {
+            console.log(eventDetails);
             let event = Event(eventDetails);
             event.save((err) => {
                 console.log(err);
             });
-            res.status(200).send({"exists": false});
+            res.status(200).send({"event": event});
+            return;
         }
         res.status(200).send({"exists": true});
     });
