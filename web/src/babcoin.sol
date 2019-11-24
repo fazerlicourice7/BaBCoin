@@ -14,8 +14,9 @@ contract BaBCoin {
     mapping (address => mapping(address => uint)) _allowance; // change this to direct transfer to contract, but allow changing rsvp up to 24 hours before.
     mapping (string => CalEvent) events;
 
-    uint256 private _initSupply;
+    uint256 private _totalSupply;
     uint256 private _minCoin = 1;
+    uint256 private _initCoin = 500;
     address _exec;
 
     constructor(uint256 initialSupply) public {
@@ -27,6 +28,11 @@ contract BaBCoin {
 
     function totalSupply() public view returns (uint256){
         return _totalSupply;
+    }
+
+    function initUser() public {
+        balances[msg.sender] = _initCoin;
+        _totalSupply += _initCoin;
     }
 
     /**
@@ -93,18 +99,23 @@ contract BaBCoin {
      */
     function rsvp(string memory icalHash, uint stakeAmount) public {
         require(balances[msg.sender] > stakeAmount);
-        require(stakeAmount >= events[icalHash].minStakeAmount);
+        //require(stakeAmount >= events[icalHash].minStakeAmount);
+        //make an undo rsvp function later
         events[icalHash].amountStaked[msg.sender] = stakeAmount;
         events[icalHash].poolAmount += stakeAmount;
         balances[msg.sender] -= stakeAmount;
     }
 
+
     /**
      * this will be called from our back end ?which address is this? exec?
      * this is called per person to move any loops out of the solidity code and into the backend
      * returns the final balance of every person
+     *
+     * TODO: add functionality for bonuses because they are not implemented right now
+     * TODO: Add a check event pool call function
      */
-    function eventPayout(string memory icalHash, address person, uint amountToRedistribute) public {
+    function eventPayout(string memory icalHash, address person, uint amountToRedistribute) public returns (uint){
         require(balances[person] > 0);
         require(events[icalHash].poolAmount >= amountToRedistribute);
         events[icalHash].amountRedistributed[person] = amountToRedistribute;
@@ -113,4 +124,6 @@ contract BaBCoin {
         return balances[person];
         //transferFrom(person, address(this), events[icalHash].amountStaked[person]);
     }
+
+
 }
