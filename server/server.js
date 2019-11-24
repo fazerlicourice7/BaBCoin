@@ -130,24 +130,37 @@ server.post("/checkin", (req, res) => {
 });
 
 server.post("/createEvent", (req, res) => {
-    var iCalID = req.body.event.icalUID;
+    var iCalID = req.body.event.iCalUID;
     var name = req.body.event.summary;
     var description = req.body.event.description;
     var datetime = req.body.event.start.dateTime; //format: 2016-11-14T20:30:00-08:00 - DATETtime-timezone
 
     console.log("creating event: " + name);
+    if (description === undefined) {
+        description = "temp";
+    }
 
-    const eventDetails = {"iCalID": iCalID, "datetime": datetime, "name": name, "description": description};
+    const eventDetails = {
+        "iCalID": iCalID,
+        "datetime": datetime,
+        "name": name,
+        "description": description,
+        "rsvp_map": {'temp': 3}
+    };
 
     Event.findOne(eventDetails, (err, event) => {
         if (event == null) {
+            console.log(eventDetails);
             let event = Event(eventDetails);
             event.save((err) => {
                 console.log(err);
             });
+            console.log("created event: " + name);
             res.status(200).send({"exists": false});
+            return;
         }
         res.status(200).send({"exists": true});
+        return;
     });
 });
 

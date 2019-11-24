@@ -60,7 +60,7 @@ export default class EventCard extends Component {
             email: this.props.userEmail,
             iCalID: this.props.iCalID
         }).then(res => {
-            this.rsvpStatus.value = res.data.status;
+            //this.rsvpStatus.value = res.data.status;
         });
     }
 
@@ -189,7 +189,7 @@ export default class EventCard extends Component {
     }
 
     render() {
-        if (!this.state.isExec) {
+        if (this.state.isExec) {
             return (
                 <div className={"eventCard"}>
                     <Card>
