@@ -29,9 +29,10 @@ class Home extends Component {
         this.getEvents();
         this.state = {
             "email": this.props.location.state.email
-            
+
         };
         this.handleUpdateBalance = this.handleUpdateBalance.bind(this);
+        this.uploadEvents = this.uploadEvents.bind(this);
     }
 
     componentDidMount() {
@@ -131,6 +132,29 @@ class Home extends Component {
                 return ['No upcoming events found.'];
             }
         });
+    }
+
+    uploadEvents(events) {
+        for (var i = 0; i < events.length; i++) {
+            const calEvent = events[i];
+            axios.post("http://localhost:4000/createEvent", {
+                origin: "http://localhost:3000",
+                headers: {
+                    'Access-Control-Allow-Origin': '*'
+                },
+                mode: 'no-cors',
+                "event": calEvent
+            }).then(res => {
+                if (!res.exists) {
+                    BabCoinContract.methods
+                        .createEvent(events.iCalUID, 10)
+                        .send({from: this.state.userEthAddress})
+                        .then(() => {
+                            // don't need to do anything
+                        });
+                }
+            });
+        }
     }
 
     render() {

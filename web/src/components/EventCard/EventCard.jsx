@@ -50,34 +50,82 @@ export default class EventCard extends Component {
         this.scanIn = this.scanIn.bind(this);
     }
 
-    onRSVP(e) {
-        var isGoing;
-        if (e == 1) {
-            isGoing = true;
-        } else if (e == 2) {
-            isGoing = false;
-        } else {
-            return;
-        }
-        axios.post("http://localhost:4000/rsvp", {
+    componentDidMount() {
+        axios.get("http://localhost:4000/rsvpstatus", {
             origin: "http://localhost:3000",
             headers: {
                 'Access-Control-Allow-Origin': '*'
             },
             mode: 'no-cors',
             email: this.props.userEmail,
-            iCalID: this.props.iCalID,
-            going: isGoing,
-            amount: AMOUNT
+            iCalID: this.props.iCalID
         }).then(res => {
-            console.log("onrsvp: " + JSON.stringify(res));
-            var newBalance = res.data.user.balance;
-            console.log("new balance: " + newBalance);
-            this.props.updateBalance(newBalance);
+            var currentStatus = res.data.status;
+            
         });
-        BabCoinContract.methods
-            .rsvp(this.props.iCalID, AMOUNT)
-            .send({from: this.props.userEthAddress});
+    }
+
+    onRSVP(e) {
+        axios.get("http://localhost:4000/rsvpstatus", {
+            origin: "http://localhost:3000",
+            headers: {
+                'Access-Control-Allow-Origin': '*'
+            },
+            mode: 'no-cors',
+            email: this.props.userEmail,
+            iCalID: this.props.iCalID
+        }).then(res => {
+            var currentStatus = res.data.status;
+            var amountToCharge = 0;
+            if (e !== currentStatus) {
+                switch (e) {
+                    case 1:
+                        if (currentStatus === 2) {
+                            amountToCharge = AMOUNT / 2;
+                        } else {
+                            amountToCharge = AMOUNT;
+                        }
+                        break;
+                    case 2:
+                        if (currentStatus === 1) {
+                            amountToCharge = -1 * (AMOUNT / 2);
+                        } else {
+                            amountToCharge = AMOUNT / 2;
+                        }
+                        break;
+                    case 3:
+                        if (currentStatus === 1) {
+                            amountToCharge = -AMOUNT;
+                        } else {
+                            amountToCharge = -(AMOUNT / 2);
+                        }
+                        break;
+                    default:
+                        break;
+                }
+                BabCoinContract.methods
+                    .rsvp(this.props.iCalID, amountToCharge)
+                    .send({from: this.props.userEthAddress})
+                    .then(() => {
+                        axios.post("http://localhost:4000/rsvp", {
+                            origin: "http://localhost:3000",
+                            headers: {
+                                'Access-Control-Allow-Origin': '*'
+                            },
+                            mode: 'no-cors',
+                            email: this.props.userEmail,
+                            iCalID: this.props.iCalID,
+                            going: e,
+                            amount: amountToCharge
+                        }).then(res => {
+                            var newBalance = res.data.user.balance;
+                            this.props.updateBalance(newBalance);
+                        });
+                    });
+            }
+        });
+
+
     }
 
     scanIn() {
@@ -136,7 +184,6 @@ export default class EventCard extends Component {
         });
     }
 
-//<!-- <Button variant="primary" onClick={this.onRSVP}>RSVP</Button> -->
     render() {
         if (!this.state.isExec) {
             return (
@@ -187,8 +234,6 @@ export default class EventCard extends Component {
                                     <Col xs><Button variant="info" onClick={this.scanIn}>Scan</Button></Col>
                                     <Col xs></Col>
                                     <Col xs><Button variant="info" onClick={this.endEvent}>End Event</Button></Col>
-
-
                                 </Row>
                             </Container>
                         </Card.Footer>

@@ -80,35 +80,30 @@ server.post("/rsvp", (req, res) => { // req  -> has new BaBCoin balance for user
             console.log(res);
             return;
         }
-        if (going) {
-            user.balance = user.balance - delta;
-        } else {
-            user.balance = user.balance - delta / 2;
-        }
-        console.log(user);
+        const eventFilter = {"iCalID": eventID};
+        Event.findOne(eventFilter, (err, event) => {
+            if (event == null) {
+                res.sendStatus(400);
+                return;
+            }
+            if (going === 1) {
+                user.balance = user.balance - delta;
+            } else if (going === 2){
+                user.balance = user.balance - delta / 2;
+            }
+            console.log(user);
 
-        user.save((err) => {
-            console.log(err);
+            user.save((err) => {
+                console.log(err);
+            });
+
+            event.rsvp_map.set(user_email, going);
+
+            event.save((err) => {
+                console.log(err);
+            });
+            res.status(200).send({"user": user, "event": event});
         });
-
-        //move most of the above code into the event promise after we create events.
-        // const eventFilter = {"iCalID": eventID};
-        // Event.findOne(eventFilter, (err, event) => {
-        //     if (event == null) {
-        //         res.sendStatus(400);
-        //         return;
-        //     }
-        //
-        //     event.rsvp_map.set(user_email, going);
-        //     console.log(event);
-        //
-        //     event.save((err) => {
-        //         console.log(err);
-        //     });
-        //     console.log(event);
-        //     res.status(200).send({"user": user, "event": event});
-        // });
-        res.status(200).send({"user": user});
     });
 
 
@@ -135,26 +130,22 @@ server.post("/checkin", (req, res) => {
 });
 
 server.post("/createEvent", (req, res) => {
-    var iCalID = req.body.calID;
-    var datetime = req.body.datetime; //format: 2016-11-14T20:30:00-08:00 - DATETtime-timezone
-    var name = req.body.name;
+    var iCalID = req.body.icalUID;
+    var datetime = req.body.start.datetime; //format: 2016-11-14T20:30:00-08:00 - DATETtime-timezone
+    var name = req.body.summary;
     var description = req.body.description;
 
-    let event = Event({iCalID: iCalID, datetime: datetime, name: name, description: description});
-    event.save((err) => {
-        console.log(err);
-    });
-    // res.status
-});
+    const eventDetails = {"iCalID": iCalID, "datetime": datetime, "name": name, "description": description};
 
-server.get("/eventrespondees", (req, res) => {
-    var iCalID = req.body.iCalID;
-    Event.findOne({"iCalID": iCalID}, (err, event) => {
+    Event.findOne(eventDetails, (err, event) => {
         if (event == null) {
-            res.sendStatus(400);
-            return;
+            let event = Event(eventDetails);
+            event.save((err) => {
+                console.log(err);
+            });
+            res.status(200).send({"exists": false});
         }
-        res.status(200).send(event.rsvp_map);
+        res.status(200).send({"exists": true});
     });
 });
 
@@ -170,6 +161,34 @@ server.post("/setuserbalance", (req, res) => {
         user.save((err) => {
             console.log(err);
         });
+    });
+});
+
+server.get("/eventrespondees", (req, res) => {
+    var iCalID = req.body.iCalID;
+    Event.findOne({"iCalID": iCalID}, (err, event) => {
+        if (event == null) {
+            res.sendStatus(400);
+            return;
+        }
+        res.status(200).send(event.rsvp_map);
+    });
+});
+
+server.get("/rsvpstatus", (req, res) => {
+    var userEmail = req.email;
+    var eventID = req.event;
+
+    Event.findOne({"event": eventID}, (err, event) => {
+
+        if (event == null) {
+            res.sendStatus(400);
+            return;
+        }
+
+        var currentStatus = event.rsvp_map.get(userEmail);
+
+        res.status(200).send({"status": currentStatus});
     });
 });
 

@@ -4,7 +4,6 @@ contract BaBCoin {
 
     struct CalEvent { // mapping of ical hash to amount of coin in the pool for that event. PUT ICAL ON CHAIN?
         string icalHash;
-        address creator;
         uint minStakeAmount; //stake for the reply "maybe"
         uint poolAmount;
         mapping (address => uint) amountRedistributed;
@@ -81,9 +80,11 @@ contract BaBCoin {
     /**
      *
      */
-    function createEvent(address creator, string memory icalHash, uint minStakeAmount) public returns (bool){
-        require(balances[creator] > 0);
-        events[icalHash] = CalEvent(icalHash, creator, minStakeAmount, 0);
+    function createEvent(string memory icalHash, uint minStakeAmount) public returns (bool){
+        require(balances[_exec] > 0);
+        events[icalHash] = CalEvent(icalHash, minStakeAmount, 0);
+        events[icalHash].poolAmount += 2*minStakeAmount;
+        balances[_exec] -= 2*minStakeAmount;
         return true;
     }
 
