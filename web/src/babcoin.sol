@@ -31,8 +31,10 @@ contract BaBCoin {
     }
 
     function initUser() public {
-        balances[msg.sender] = _initCoin;
-        _totalSupply += _initCoin;
+        if (balances[msg.sender] <= 0) {
+            balances[msg.sender] = _initCoin;
+            _totalSupply += _initCoin;
+        }
     }
 
     /**
@@ -94,11 +96,15 @@ contract BaBCoin {
         return true;
     }
 
+    function getEventPool(string memory icalHash) public view returns (uint){
+        return events[icalHash].poolAmount;
+    }
+
     /**
      *  Exec account always rsvps to an event, but is never marked present. Therefore that stake gets redistributed to the attendees.
      */
     function rsvp(string memory icalHash, uint stakeAmount) public {
-        require(balances[msg.sender] > stakeAmount);
+        //require(balances[msg.sender] > stakeAmount);
         //require(stakeAmount >= events[icalHash].minStakeAmount);
         //make an undo rsvp function later
         events[icalHash].amountStaked[msg.sender] = stakeAmount;
