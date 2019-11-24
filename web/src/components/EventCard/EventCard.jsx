@@ -128,17 +128,21 @@ export default class EventCard extends Component {
     }
 
     scanIn() {
-        axios.post("localhost:4000/checkin", {
-            origin: "http://localhost:3000",
-            headers: {
-                'Access-Control-Allow-Origin': '*'
-            },
-            mode: 'no-cors',
-            email: this.props.userEmail,
-            ical: this.props.iCalID
-        }).then(res => {
-
-        });
+        //  this.props.history.push({
+        //   pathname: "/checkin/",
+        //   state: {iCalID: this.state.iCalID}
+        // });
+        // axios.post("localhost:4000/checkin", {
+        //     origin: "http://localhost:3000",
+        //     headers: {
+        //         'Access-Control-Allow-Origin': '*'
+        //     },
+        //     mode: 'no-cors',
+        //     email: this.props.userEmail,
+        //     ical: this.props.iCalID
+        // }).then(res => {
+        //
+        // });
     }
 
     payoutEachPerson(rsvpStatus, email, map) {
@@ -184,7 +188,7 @@ export default class EventCard extends Component {
     }
 
     render() {
-        if (!this.state.isExec) {
+        if (this.state.isExec) {
             return (
                 <div className={"eventCard"}>
                     <Card>

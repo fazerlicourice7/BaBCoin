@@ -34,6 +34,8 @@ class EventsList extends Component {
                             updateBalance={this.props.updateBalance}/>
     }
 
+
+
     render() {
         return (
             <div className={"eventsList"}>
