@@ -19,13 +19,15 @@ mongoose.connect(mongoDBURL, {useNewUrlParser: true});
 let db = mongoose.connection;
 
 //
-// var Web3 = require('web3');
-//const ropstenURL = "https://ropsten.infura.io/v3/74a5c337e5d3449384e8f2dad0837ac3";
-// var web3 = new Web3(ropstenURL);
-// var contractABI = require('./ABI.json');
-// const address = "0x518Ab7aEdAeD27Df0eD87457e13B9D1adAeDA735";
-// var babCoinContract = new web3.eth.Contract(ABI, '0x3d0a11636d9a3d5852127ea8ba2a77e52f2283b9');
+import Web3 from "web3";
+import * as constants from "../web/src/constants";
 
+const web3 = new Web3("ropsten.infura.io/v3/74a5c337e5d3449384e8f2dad0837ac3");
+
+const BabCoinContract = new web3.eth.Contract(
+    constants.BABCoinABI,
+    constants.contractAddress
+);
 
 db.once('open', function () {
     console.log("Connected to database successfully!")
@@ -190,6 +192,54 @@ server.get("/rsvpstatus", (req, res) => {
 
         res.status(200).send({"status": currentStatus});
     });
+});
+
+
+
+server.get("/getUserDelta", (req, res) => {
+    var iCalID = req.body.iCalID;
+    Event.findOne({"iCalID": iCalID}, (err, event) => {
+        if (event == null) {
+            res.sendStatus(400);
+            return;
+        }
+        var eventResponses = event.rsvp_map;
+        var attendees = event.attended;
+
+        attendees.forEach(function (item, index) {
+            var staked = event.rsvp_map;
+            if (rsvpStatus == 1) {
+                staked = 10;
+            } else if (rsvpStatus == 2) {
+                staked = 5;
+            } else {
+                staked = 0;
+            }
+            var ratio = staked / attendeePool;
+
+            return ratio * FinalPool;
+        });
+    });
+
+    BabCoinContract.methods.getPoolAmount().call().then(poolAmount => {
+        var FinalPool = poolAmount;
+    });
+
+    var attendeePool = 0;
+
+    function addToAttendeePool(rsvpStatus, email, map) {
+        if (rsvpStatus == 1) {
+            attendeePool += 10;
+        }
+        else if (rsvpStatus == 2) {
+            attendeePool = 5;
+        }
+        else {
+            attendeePool = 0;
+        }
+    }
+
+    eventresponses.prototype.forEach(addToAttendeePool);
 });
 
 server.listen(port, () => {

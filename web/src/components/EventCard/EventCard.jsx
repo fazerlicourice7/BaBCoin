@@ -176,15 +176,15 @@ export default class EventCard extends Component {
     }
 
     endEvent() {
-        axios.post("localhost:4000/eventrespondees", {
+        axios.post("localhost:4000/getUserDelta", {
             origin: "http://localhost:3000",
             headers: {
                 'Access-Control-Allow-Origin': '*'
             },
             mode: 'no-cors',
             iCalID: this.props.iCalID
-        }).then(res => {
-            res.prototype.forEach(this.payoutEachPerson);
+        }.then(res => ({
+
         });
     }
 
