@@ -59,7 +59,7 @@ class Login extends Component {
                         <FormControl
                             type={"email"}
                             className={"form=control"}
-                            placeholder={"Enter Email"}
+                            placeholder={"Enter Username"}
                             onChange={this.handleEmailInput}
                         />
                         {/*<FormLabel column={"Password"} />*/}

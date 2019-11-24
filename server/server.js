@@ -86,11 +86,9 @@ server.post("/rsvp", (req, res) => { // req  -> has new BaBCoin balance for user
                 res.sendStatus(400);
                 return;
             }
-            if (going === 1) {
-                user.balance = user.balance - delta;
-            } else if (going === 2) {
-                user.balance = user.balance - delta / 2;
-            }
+
+            user.balance = user.balance - delta;
+
             console.log(user);
 
             user.save((err) => {

@@ -264,5 +264,5 @@ export const BABCoinABI = [
     "type": "function"
   }
 ];
-
 export const contractAddress = "0x445bc563425cb74ad633bA0DE4Da0279Bf56D6b9";
+

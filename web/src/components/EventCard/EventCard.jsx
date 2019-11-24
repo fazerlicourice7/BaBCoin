@@ -1,5 +1,5 @@
 import './EventCard.css';
-import React, {Component} from 'react';
+import React, {Component, useState} from 'react';
 import {
     Card,
     Button,
@@ -9,10 +9,16 @@ import {
     ToggleButton,
     Container,
     Row,
-    Col
+    Col,
+    Modal, Image
 } from 'react-bootstrap';
 import Web3 from "web3";
 import * as constants from "../../constants";
+
+import {forEach} from "react-bootstrap/cjs/utils/ElementChildren";
+import CheckIn from "../CheckIn/CheckIn";
+
+const qr_code = require("../../qr_code.png");
 
 const axios = require('axios');
 
@@ -34,12 +40,13 @@ export default class EventCard extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            isExec: props.isExec,
+            isExec: (props.userEmail === "robertpeltekov"),
             title: props.title,
             description: props.description,
             location: props.location,
             datetime: props.datetime,
-            iCalID: props.iCalID
+            iCalID: props.iCalID,
+            show: false
         };
 
         console.log("event card");
@@ -48,6 +55,16 @@ export default class EventCard extends Component {
         this.onRSVP = this.onRSVP.bind(this);
         this.endEvent = this.endEvent.bind(this);
         this.scanIn = this.scanIn.bind(this);
+        this.showModal = this.showModal.bind(this);
+        this.hideModal = this.hideModal.bind(this);
+    }
+
+    showModal() {
+        this.setState({show: true});
+    }
+
+    hideModal() {
+        this.setState({show: false});
     }
 
     componentDidMount() {
@@ -61,6 +78,7 @@ export default class EventCard extends Component {
             iCalID: this.props.iCalID
         }).then(res => {
             //this.rsvpStatus.value = res.data.status;
+            var currentStatus = res.data.status;
         });
     }
 
@@ -129,10 +147,10 @@ export default class EventCard extends Component {
     }
 
     scanIn() {
-        //  this.props.history.push({
-        //   pathname: "/checkin/",
-        //   state: {iCalID: this.state.iCalID}
-        // });
+        this.props.history.push({
+            pathname: "/checkin/",
+            state: {iCalID: this.state.iCalID}
+        });
         // axios.post("localhost:4000/checkin", {
         //     origin: "http://localhost:3000",
         //     headers: {
@@ -189,15 +207,18 @@ export default class EventCard extends Component {
     }
 
     render() {
-        if (this.state.isExec) {
+        if (!this.state.isExec) {
             return (
                 <div className={"eventCard"}>
                     <Card>
                         <Card.Body>
                             <Card.Title>{this.state.title}</Card.Title>
+                            <div className={"rowC"}>
                             <Card.Body> <Card.Text>{this.state.description}</Card.Text>
                                 <Card.Text>{this.state.location}</Card.Text>
                                 <Card.Text>{this.state.datetime}</Card.Text></Card.Body>
+                                <Image src={qr_code}/>
+                            </div>
 
 
                             <ButtonToolbar>
@@ -216,6 +237,11 @@ export default class EventCard extends Component {
         } else {
             return (
                 <div className={"eventCard"}>
+                    <Modal show={this.state.show} onHide={this.hideModal} animation={true}>
+                        <Modal.Body>
+                            <CheckIn iCalID={this.state.iCalID}/>
+                        </Modal.Body>
+                    </Modal>
                     <Card>
                         <Card.Body>
                             <Card.Title>{this.state.title}</Card.Title>
@@ -236,7 +262,7 @@ export default class EventCard extends Component {
                         <Card.Footer>
                             <Container>
                                 <Row>
-                                    <Col xs><Button variant="info" onClick={this.scanIn}>Scan</Button></Col>
+                                    <Col xs><Button variant="info" onClick={this.showModal}>Scan</Button></Col>
                                     <Col xs></Col>
                                     <Col xs><Button variant="info" onClick={this.endEvent}>End Event</Button></Col>
                                 </Row>
