@@ -129,10 +129,10 @@ export default class EventCard extends Component {
     }
 
     scanIn() {
-        //  this.props.history.push({
-        //   pathname: "/checkin/",
-        //   state: {iCalID: this.state.iCalID}
-        // });
+        this.props.history.push({
+          pathname: "/checkin/",
+          state: {iCalID: this.state.iCalID}
+        });
         // axios.post("localhost:4000/checkin", {
         //     origin: "http://localhost:3000",
         //     headers: {
