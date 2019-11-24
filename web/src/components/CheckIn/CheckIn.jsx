@@ -1,5 +1,8 @@
 import React, {Component} from 'react';
-
+import {
+    Button,
+    InputGroup
+} from 'react-bootstrap';
 class CheckIn extends Component {
 
     constructor(props) {
@@ -50,11 +53,11 @@ class CheckIn extends Component {
             <div className={"CheckIn"}>
             // use options of dropdown to map people and
 
-               <Input type="select" label="Select person to check in" onChange={this.handleChange}>
+               <InputGroup type="select" label="Select person to check in" onChange={this.handleChange}>
                     {this.state.rsvped.map((e, index) => {
                          return <option value={e}>{e}</option>;
                     })}
-               </Input>
+               </InputGroup>
                <Button variant="success" onClick={this.addPerson}>Add</Button>
 
             </div>
