@@ -28,9 +28,11 @@ class Home extends Component {
         //alert('test');
         this.getEvents();
         this.state = {
-            email: this.props.location.state.email,
-            coin: this.getCoinFromServer(this.props.location.state.email)
+            "email": this.props.location.state.email
+
         };
+        this.handleUpdateBalance = this.handleUpdateBalance.bind(this);
+        this.uploadEvents = this.uploadEvents.bind(this);
     }
 
     componentDidMount() {
@@ -41,11 +43,13 @@ class Home extends Component {
             })
             .then(() => {
                 console.log("useraddress", this.state.userEthAddress);
+                this.getCoinFromServer(this.props.location.state.email);
             });
         this.render();
     }
 
     getCoinFromServer(userEmail) {
+<<<<<<< HEAD
         // BabCoinContract.methods
         //     .initUser()
         //     .call({from: this.state.userAddress})
@@ -67,6 +71,30 @@ class Home extends Component {
           });
       });
             // });
+=======
+        BabCoinContract.methods
+            .initUser()
+            .send({from: this.state.userEthAddress})
+            .then(() => {
+                var userName = userEmail.split("@")[0];
+                console.log(userName);
+                axios.post("http://localhost:4000/user", {
+                    origin: "http://localhost:3000",
+                    headers: {
+                        'Access-Control-Allow-Origin': '*'
+                    },
+                    mode: 'no-cors',
+                    "name": userName,
+                    "email": userEmail,
+                    "userEthAddress": this.state.userEthAddress
+                }).then(res => {
+                    this.setState({
+                        coin: res.data.balance,
+                        totalCoin: res.data.total_accrued
+                    });
+                });
+            });
+>>>>>>> 98b91cbe400c28057ad6e0f146e681bdbc284360
     }
 
     getUserDetails() {
@@ -107,6 +135,10 @@ class Home extends Component {
         };
     }
 
+    handleUpdateBalance(newBalance) {
+        this.setState({"coin": newBalance});
+    }
+
     getEvents() {
         var comp = this;
         window.gapi.client.calendar.events.list({
@@ -119,9 +151,6 @@ class Home extends Component {
         }).then(function (response) {
             var events = response.result.items;
             if (events.length > 0) {
-                for (var i = 0; i < events.length; i++) {
-                    console.log("event in getEvents, home: " + events[i]);
-                }
                 comp.setState({"events": events});
             } else {
                 return ['No upcoming events found.'];
@@ -129,12 +158,35 @@ class Home extends Component {
         });
     }
 
+    uploadEvents(events) {
+        for (var i = 0; i < events.length; i++) {
+            const calEvent = events[i];
+            axios.post("http://localhost:4000/createEvent", {
+                origin: "http://localhost:3000",
+                headers: {
+                    'Access-Control-Allow-Origin': '*'
+                },
+                mode: 'no-cors',
+                "event": calEvent
+            }).then(res => {
+                if (!res.exists) {
+                    BabCoinContract.methods
+                        .createEvent(events.iCalUID, 10)
+                        .send({from: this.state.userEthAddress})
+                        .then(() => {
+                            // don't need to do anything
+                        });
+                }
+            });
+        }
+    }
+
     render() {
         return (
             <div className={"home"}>
                 <table>
                     <tbody>
-                    <br/><br/><br/>
+                    <br/>
                     <tr>
                         <td>
                             <Profile name={this.state.email} coin={this.state.coin} totalCoin={this.state.totalCoin}
@@ -142,11 +194,12 @@ class Home extends Component {
                         </td>
 
                     </tr>
-                    <br/><br/><br/>
+                    <br/>
                     <tr>
                         <td>
                             <EventList events={this.state.events} userEmail={this.state.email}
-                                       balance={this.state.coin} userEthAddress={this.state.userEthAddress}/>
+                                       balance={this.state.coin} updateBalance={this.handleUpdateBalance}
+                                       userEthAddress={this.state.userEthAddress}/>
                         </td>
                     </tr>
                     </tbody>

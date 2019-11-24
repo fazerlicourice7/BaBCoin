@@ -88,11 +88,6 @@ export const BABCoinABI = [
     "constant": false,
     "inputs": [
       {
-        "internalType": "address",
-        "name": "creator",
-        "type": "address"
-      },
-      {
         "internalType": "string",
         "name": "icalHash",
         "type": "string"
@@ -249,4 +244,4 @@ export const BABCoinABI = [
   }
 ];
 
-export const contractAddress = "0xD822a35dF1cbA22576e8f800DD1242f31Ce9fEd3";
+export const contractAddress = "0xD8Cb897cD1475B7c20aF1F4faC31a114d4f82E50";

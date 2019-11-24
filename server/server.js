@@ -1,5 +1,4 @@
-import * as constants from "../web/src/constants";
-import Web3 from "web3";
+//import * as constants from "../web/src/constants";
 
 const express = require('express');
 const server = express();
@@ -44,7 +43,13 @@ server.post("/user", (req, res) => {
     var query = User.findOne({'name': user_name, 'email': user_email}, function (err, results) {
         if (results == null) {
             //Create new user:
-            let newUser = User({name: user_name, email: user_email, ehtAddress: user_eth_address, balance: 500, total_accrued: 500});
+            let newUser = User({
+                name: user_name,
+                email: user_email,
+                ethAddress: user_eth_address,
+                balance: 500,
+                total_accrued: 500
+            });
             newUser.save((err) => {
                 console.log(err);
             });
@@ -65,39 +70,42 @@ server.post("/rsvp", (req, res) => { // req  -> has new BaBCoin balance for user
     var user_email = req.body.email;
     var delta = req.body.amount;
     var going = req.body.going;
+    var eventID = req.body.iCalID;
 
     const filter = {'email': user_email};
-    var _event, _user;
 
     User.findOne(filter, function (err, user) {
         if (user == null || user.balance < delta) {
             res.sendStatus(400);
+            console.log(res);
             return;
         }
-        if (going) {
-            user.balance = user.balance - delta;
-        } else {
-            user.balance = user.balance - delta / 2;
-        }
-        user.save((err) => {
-            console.log(err);
+        const eventFilter = {"iCalID": eventID};
+        Event.findOne(eventFilter, (err, event) => {
+            if (event == null) {
+                res.sendStatus(400);
+                return;
+            }
+            if (going === 1) {
+                user.balance = user.balance - delta;
+            } else if (going === 2){
+                user.balance = user.balance - delta / 2;
+            }
+            console.log(user);
+
+            user.save((err) => {
+                console.log(err);
+            });
+
+            event.rsvp_map.set(user_email, going);
+
+            event.save((err) => {
+                console.log(err);
+            });
+            res.status(200).send({"user": user, "event": event});
         });
-        _user = user;
     });
 
-    const eventFilter = {};
-    Event.findOne(eventFilter, (err, event) => {
-        if (event == null) {
-            res.sendStatus(400);
-            return;
-        }
-        event.save((err) => {
-            console.log(err);
-        });
-        event.rsvp_map.set(user_email, going);
-        _event = event;
-    });
-    res.status(200).send({_user, _event});
 
 });
 
@@ -112,26 +120,48 @@ server.post("/checkin", (req, res) => {
             res.sendStatus(400);
             return;
         }
+
+        event.attended.push(email);
         event.save((err) => {
             console.log(err);
         });
-        event.attended.push(email);
         res.status(200).send(event);
     });
 });
 
 server.post("/createEvent", (req, res) => {
-    var iCalID = req.body.calID;
-    var datetime = req.body.datetime; //format: 2016-11-14T20:30:00-08:00 - DATETtime-timezone
-    var name = req.body.name;
+    var iCalID = req.body.icalUID;
+    var datetime = req.body.start.datetime; //format: 2016-11-14T20:30:00-08:00 - DATETtime-timezone
+    var name = req.body.summary;
     var description = req.body.description;
 
-    let event = Event({iCalID: iCalID, datetime: datetime, name: name, description: description});
-    event.save((err) => {
-        console.log(err);
-    });
-    // res.status
+    const eventDetails = {"iCalID": iCalID, "datetime": datetime, "name": name, "description": description};
 
+    Event.findOne(eventDetails, (err, event) => {
+        if (event == null) {
+            let event = Event(eventDetails);
+            event.save((err) => {
+                console.log(err);
+            });
+            res.status(200).send({"exists": false});
+        }
+        res.status(200).send({"exists": true});
+    });
+});
+
+server.post("/setuserbalance", (req, res) => {
+    var email = req.body.email;
+    var newBalance = req.body.newBalance;
+    User.findOne({'email': email}, function (err, user) {
+        if (user == null) {
+            res.sendStatus(400);
+            return;
+        }
+        user.balance = newBalance;
+        user.save((err) => {
+            console.log(err);
+        });
+    });
 });
 
 server.get("/eventrespondees", (req, res) => {
@@ -145,15 +175,20 @@ server.get("/eventrespondees", (req, res) => {
     });
 });
 
-server.post("/setuserbalance", (req, res) => {
-var email = req.body.email;
-var newBalance = req.body.newBalance;
-    User.findOne({'email': email}, function (err, user) {
-        if(user == null){
+server.get("/rsvpstatus", (req, res) => {
+    var userEmail = req.email;
+    var eventID = req.event;
+
+    Event.findOne({"event": eventID}, (err, event) => {
+
+        if (event == null) {
             res.sendStatus(400);
             return;
         }
-        user.balance = newBalance;
+
+        var currentStatus = event.rsvp_map.get(userEmail);
+
+        res.status(200).send({"status": currentStatus});
     });
 });
 
