@@ -60,8 +60,7 @@ export default class EventCard extends Component {
             email: this.props.userEmail,
             iCalID: this.props.iCalID
         }).then(res => {
-            var currentStatus = res.data.status;
-            
+            this.eventCard.rsvpStatus.getDOMNode().value = res.data.status;
         });
     }
 
@@ -197,7 +196,8 @@ export default class EventCard extends Component {
 
 
                             <ButtonToolbar>
-                                <ToggleButtonGroup id={this.state.iCalID} type="radio" name="options" defaultValue={3}
+                                <ToggleButtonGroup className={"rsvpStatus"} id={this.state.iCalID} type="radio"
+                                                   name="options" defaultValue={3}
                                                    onChange={this.onRSVP}>
                                     <ToggleButton variant="outline-success" value={1}>Going</ToggleButton>
                                     <ToggleButton variant="outline-warning" value={2}>Maybe</ToggleButton>
