@@ -244,4 +244,4 @@ export const BABCoinABI = [
   }
 ];
 
-export const contractAddress = "0xD8Cb897cD1475B7c20aF1F4faC31a114d4f82E50";
+export const contractAddress = "0xe7f1c638F0fBfFc01F028a941b43118b9207AdcB";
