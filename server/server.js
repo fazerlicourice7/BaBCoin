@@ -86,11 +86,9 @@ server.post("/rsvp", (req, res) => { // req  -> has new BaBCoin balance for user
                 res.sendStatus(400);
                 return;
             }
-            if (going === 1) {
-                user.balance = user.balance - delta;
-            } else if (going === 2){
-                user.balance = user.balance - delta / 2;
-            }
+
+            user.balance = user.balance - delta;
+
             console.log(user);
 
             user.save((err) => {
@@ -130,12 +128,23 @@ server.post("/checkin", (req, res) => {
 });
 
 server.post("/createEvent", (req, res) => {
-    var iCalID = req.body.icalUID;
-    var datetime = req.body.start; //format: 2016-11-14T20:30:00-08:00 - DATETtime-timezone
-    var name = req.body.summary;
-    var description = req.body.description;
+    var iCalID = req.body.event.iCalUID;
+    var name = req.body.event.summary;
+    var description = req.body.event.description;
+    var datetime = req.body.event.start.dateTime; //format: 2016-11-14T20:30:00-08:00 - DATETtime-timezone
 
-    const eventDetails = {"iCalID": iCalID, "datetime": datetime, "name": name, "description": description};
+    console.log("creating event: " + name);
+    if (description === undefined) {
+        description = "temp";
+    }
+
+    const eventDetails = {
+        "iCalID": iCalID,
+        "datetime": datetime,
+        "name": name,
+        "description": description,
+        "rsvp_map": {'temp': 3}
+    };
 
     Event.findOne(eventDetails, (err, event) => {
         if (event == null) {
@@ -144,10 +153,12 @@ server.post("/createEvent", (req, res) => {
             event.save((err) => {
                 console.log(err);
             });
-            res.status(200).send({"event": event});
+            console.log("created event: " + name);
+            res.status(200).send({"exists": false});
             return;
         }
         res.status(200).send({"exists": true});
+        return;
     });
 });
 
@@ -177,11 +188,14 @@ server.get("/eventrespondees", (req, res) => {
     });
 });
 
-server.get("/rsvpstatus", (req, res) => {
-    var userEmail = req.email;
-    var eventID = req.event;
+server.post("/rsvpStatus", (req, res) => {
+    var userEmail = req.body.email;
+    var eventID = req.body.iCalID;
+    //console.log(req);
 
-    Event.findOne({"event": eventID}, (err, event) => {
+    console.log("email: " + userEmail + ", event: " + eventID);
+
+    Event.findOne({"iCalID": eventID}, (err, event) => {
 
         if (event == null) {
             res.sendStatus(400);

@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+
 import Modal from 'react-bootstrap/Modal'
 import {
     Button,
@@ -14,6 +15,7 @@ class CheckIn extends Component {
     constructor(props) {
         super(props);
         this.state = {
+
             iCalID: this.props.iCalID,
             selectValue: ''
         };
@@ -35,6 +37,7 @@ class CheckIn extends Component {
     }
 
     handleChange(e) {
+
         this.setState({selectValue: e.target.value}); //might be e.value
     }
 
@@ -59,6 +62,7 @@ class CheckIn extends Component {
     render() {
         return (
             <div className={"CheckIn"}>
+
             <Form>
                <Form.Group>
                <Form.Label>Select a person to Check in</Form.Label>
