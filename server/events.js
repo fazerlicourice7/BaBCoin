@@ -7,7 +7,7 @@ const Event = new Schema({
          type: String,
          required: true
      },
-     rsvp_map: {type: Map, of: Number}, // user_email => RSVP_type (true - going, false - maybe)
+     rsvp_map: {type: Map, of: Number}, // user_email => RSVP_type (1 - going, 2 - maybe, 3 - Not Going)
      attended: [{type: Schema.Types.ObjectId, ref: 'User'}],
      datetime: {
          type: String,
