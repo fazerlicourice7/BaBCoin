@@ -176,25 +176,12 @@ export default class EventCard extends Component {
             "email": email
         }).then(res => {
             memberEthAddress = res.data.ethAddress;
-            BabCoinContract.methods
-                .eventPayout(this.props.iCalID, memberEthAddress, AMOUNT)
-                .send({from: this.props.userEthAddress})
-                .then((res) => {
-                    axios.post("http://localhost:4000/setuserbalance", {
-                        origin: "http://localhost:3000",
-                        headers: {
-                            'Access-Control-Allow-Origin': '*'
-                        },
-                        mode: 'no-cors',
-                        "newBalance": res,
-                        "email": email
-                    });
-                });
+
         });
     }
 
     endEvent() {
-        axios.post("localhost:4000/eventrespondees", {
+        axios.post("localhost:4000/payout", {
             origin: "http://localhost:3000",
             headers: {
                 'Access-Control-Allow-Origin': '*'
@@ -202,12 +189,24 @@ export default class EventCard extends Component {
             mode: 'no-cors',
             iCalID: this.props.iCalID
         }).then(res => {
-            res.prototype.forEach(this.payoutEachPerson);
+            BabCoinContract.methods
+                .eventPayout(this.props.iCalID, res.users_attended)
+                .send({from: this.props.userEthAddress})
+                .then((res) => {
+                    // axios.post("http://localhost:4000/setuserbalance", {
+                    //     origin: "http://localhost:3000",
+                    //     headers: {
+                    //         'Access-Control-Allow-Origin': '*'
+                    //     },
+                    //     mode: 'no-cors',
+                    //     "newBalance": res,
+                    //     "email": email
+                    });
         });
     }
 
     render() {
-        if (!this.state.isExec) {
+        if (this.state.isExec) {
             return (
                 <div className={"eventCard"}>
                     <Card>

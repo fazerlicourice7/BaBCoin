@@ -225,7 +225,7 @@ server.get("/payout", (req, res) => {
             usersAttended.push(user.toJSON().ethAddress);
         }
 
-        res.status(200).send(usersAttended);
+        res.status(200).send({"users_attended": usersAttended});
     });
 });
 
