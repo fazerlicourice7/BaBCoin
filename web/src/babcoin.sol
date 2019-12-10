@@ -121,15 +121,22 @@ contract BaBCoin {
      * TODO: add functionality for bonuses because they are not implemented right now
      * TODO: Add a check event pool call function
      */
-    function eventPayout(string memory icalHash, address person, uint amountToRedistribute) public returns (uint){
-        require(balances[person] > 0);
-        require(events[icalHash].poolAmount >= amountToRedistribute);
-        events[icalHash].amountRedistributed[person] = amountToRedistribute;
-        balances[person] += amountToRedistribute;
-        events[icalHash].poolAmount -= amountToRedistribute;
-        return balances[person];
+
+    function eventPayout(string memory icalHash, address[] memory _addresses) public returns (uint){
+        uint attended_pool_amount = 0;
+        for (uint i=0; i<_addresses.length; i++) {
+            attended_pool_amount += events[icalHash].amountStaked[_addresses[i]];
+        }
+
+        for (uint i=0; i<_addresses.length; i++) {
+            require(balances[_addresses[i]] > 0);
+
+            uint ratio = events[icalHash].amountStaked[_addresses[i]] / attended_pool_amount;
+            uint redistribute = ratio * events[icalHash].poolAmount;
+
+            events[icalHash].amountRedistributed[_addresses[i]] = redistribute;
+            balances[_addresses[i]] += redistribute;
+        }
         //transferFrom(person, address(this), events[icalHash].amountStaked[person]);
     }
-
-
 }

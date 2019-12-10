@@ -208,6 +208,27 @@ server.post("/rsvpStatus", (req, res) => {
     });
 });
 
+server.get("/payout", (req, res) => {
+    var userEmail = req.body.email;
+    var eventID = req.body.email;
+
+    console.log("email: " + userEmail + ", event: " + eventID);
+
+    Event.findOne({"iCalID": eventID}, (err, event) => {
+        if (event == null) {
+            res.sendStatus(400);
+            return;
+        }
+
+        var usersAttended = [];
+        for (var user in event.attended) {
+            usersAttended.push(user.toJSON().ethAddress);
+        }
+
+        res.status(200).send(usersAttended);
+    });
+});
+
 server.listen(port, () => {
     console.log(`server listening at ${port}`);
 });
