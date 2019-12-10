@@ -128,6 +128,7 @@ class Home extends Component {
             var events = response.result.items;
             if (events.length > 0) {
                 comp.setState({"events": events});
+                console.log("Uploading Events");
                 comp.uploadEvents(events);
             } else {
                 return ['No upcoming events found.'];

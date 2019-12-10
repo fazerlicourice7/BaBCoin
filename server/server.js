@@ -109,21 +109,30 @@ server.post("/rsvp", (req, res) => { // req  -> has new BaBCoin balance for user
 
 server.post("/checkin", (req, res) => {
     var email = req.body.email;
-    var ical = req.body.ical;
+    var ical = req.body.iCalID;
 
     const filter = {"iCalID": ical};
 
     Event.findOne(filter, (err, event) => {
-        if (event == null || !event.rsvp_map.contains(email)) {
+        if (event == null || Object.keys(event.rsvp_map).includes(email)) {
             res.sendStatus(400);
+            if (event == null) {
+                console.log("event doesn't exist");
+            } else {
+                console.log("this person hasn't rsvpd to this event");
+            }
             return;
         }
 
-        event.attended.push(email);
-        event.save((err) => {
-            console.log(err);
+        User.findOne({'email': email}, (err, user) => {
+            if (!event.attended.includes(user._id)) {
+                event.attended.push(user);
+            }
+            event.save((err) => {
+                console.log(err);
+            });
+            res.status(200).send({"event": event});
         });
-        res.status(200).send(event);
     });
 });
 
@@ -143,10 +152,10 @@ server.post("/createEvent", (req, res) => {
         "datetime": datetime,
         "name": name,
         "description": description,
-        "rsvp_map": {'temp': 3}
+        "rsvp_map": {'No one': 3}
     };
 
-    Event.findOne(eventDetails, (err, event) => {
+    Event.findOne({"iCalID": iCalID}, (err, event) => {
         if (event == null) {
             console.log(eventDetails);
             let event = Event(eventDetails);
@@ -158,7 +167,6 @@ server.post("/createEvent", (req, res) => {
             return;
         }
         res.status(200).send({"exists": true});
-        return;
     });
 });
 
@@ -177,14 +185,14 @@ server.post("/setuserbalance", (req, res) => {
     });
 });
 
-server.get("/eventrespondees", (req, res) => {
+server.post("/eventrespondees", (req, res) => {
     var iCalID = req.body.iCalID;
     Event.findOne({"iCalID": iCalID}, (err, event) => {
         if (event == null) {
             res.sendStatus(400);
             return;
         }
-        res.status(200).send(event.rsvp_map);
+        res.status(200).send({"rsvp_map": event.rsvp_map.toJSON()});
     });
 });
 
@@ -207,6 +215,46 @@ server.post("/rsvpStatus", (req, res) => {
         res.status(200).send({"status": currentStatus});
     });
 });
+
+var ObjectId = require('mongoose').Types.ObjectId;
+
+var usersAttended = [];
+var relLength = 0;
+server.post("/getattendees", function (req, res) {
+    var iCalID = req.body.iCalID;
+
+    Event.findOne({"iCalID": iCalID}, (err, event) => {
+        if (event == null) {
+            res.sendStatus(400);
+            return;
+        }
+
+        usersAttended = [];
+        console.log(event.attended.length);
+        relLength = event.attended.length;
+        for (var i = 0; i < event.attended.length; i++) {
+            var query = {"_id": new ObjectId(event.attended[i])};
+            User.findOne(query, (err, user) => {
+                if (user != null) {
+                    usersAttended.push(user);
+                    console.log(usersAttended);
+                }
+            });
+
+        }
+        __helper_respond(res);
+
+    });
+});
+
+function __helper_respond(res) {
+    if (usersAttended.length < relLength) {
+        setTimeout(function () {__helper_respond(res)}, 1000);
+        return;
+    }
+    console.log("list using map: " + usersAttended);
+    res.status(200).send({"users_attended": usersAttended});
+}
 
 server.listen(port, () => {
     console.log(`server listening at ${port}`);
