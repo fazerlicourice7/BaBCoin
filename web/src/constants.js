@@ -158,6 +158,27 @@ export const BABCoinABI = [
     "type": "function"
   },
   {
+    "constant": true,
+    "inputs": [
+      {
+        "internalType": "string",
+        "name": "icalHash",
+        "type": "string"
+      }
+    ],
+    "name": "getEventPool",
+    "outputs": [
+      {
+        "internalType": "uint256",
+        "name": "",
+        "type": "uint256"
+      }
+    ],
+    "payable": false,
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
     "constant": false,
     "inputs": [],
     "name": "initUser",
@@ -260,3 +281,4 @@ export const BABCoinABI = [
   }
 ];
 export const contractAddress = "0x0f9c7a3Dc89cb3aa04f4670d7CD67355Eb0C776D";
+

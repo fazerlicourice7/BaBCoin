@@ -210,11 +210,7 @@ export default class EventCard extends Component {
             BabCoinContract.methods
                 .eventPayout(this.props.iCalID, atendeesEthAddresses)
                 .send({from: this.props.userEthAddress});
-        });//.then(
-        //     res => {
-        //     var newBalance = res;
-        //     this.props.updateBalance(newBalance);
-        // });
+        });
     }
 
     render() {
