@@ -1,0 +1,3632 @@
+{
+  "1001407065815272462": {
+    "message": "Ezin da gehitu $2​Nire unitatea$1​ atalean"
+  },
+  "1013939682284715002": {
+    "message": "Antolatu"
+  },
+  "1039394921418415681": {
+    "message": "Hasi saioa"
+  },
+  "1040405721361467195": {
+    "message": "Iruzkindu nahi dituzun hitzak hautatzeko, erabili gezi-teklak. Hautapena zabaltzeko, eduki sakatuta Maius tekla gezi-teklak sakatzen dituzun bitartean. Iruzkina sortzeko, sakatu Sartu tekla; bertan behera uzteko, ordea, sakatu Ihes."
+  },
+  "1055686627716339120": {
+    "message": "Artxiboa"
+  },
+  "1083918249169198626": {
+    "message": "Laster-teklak desgaituta daude."
+  },
+  "1101371910696766077": {
+    "message": "Egin kopia"
+  },
+  "1122146167985532789": {
+    "message": "atzo"
+  },
+  "1127320433256851404": {
+    "message": "Bideo-erreproduzigailua"
+  },
+  "1131044617724567645": {
+    "message": "Fitxategian bertan gordetzen dira PDFetako iruzkinak, eta beste aplikazio batzuetan daude ikusgai"
+  },
+  "1137446830169628669": {
+    "message": "Handitu da elementuaren koska."
+  },
+  "1158660505977623040": {
+    "message": "Ezabatu betiko"
+  },
+  "1162642135048988280": {
+    "message": "Aldatu dokumentuaren izena"
+  },
+  "1163324543881570799": {
+    "message": "Google Dokumentuak"
+  },
+  "116696227691552491": {
+    "message": "Aukeratu tokia"
+  },
+  "1176812982629195161": {
+    "message": "Google aplikazioak"
+  },
+  "1179891706526242218": {
+    "message": "Hurrengoa"
+  },
+  "1185164838496022543": {
+    "message": "Orria berriro kargatzeko, egin klik hemen."
+  },
+  "1213005208968286932": {
+    "message": "Ebatzita gisa markatu da"
+  },
+  "1226017195419883732": {
+    "message": "Unitate partekatuak"
+  },
+  "124010372300613445": {
+    "message": "{numNotes,plural, =1{Sortu da artxibatu gabeko oharra}other{Sortu dira artxibatu gabeko # ohar}}"
+  },
+  "1248242541854939846": {
+    "message": "Konpondu aldaketen ondoriozko gatazkak"
+  },
+  "124900027451629830": {
+    "message": "Erreproduzitu"
+  },
+  "125608713654167241": {
+    "message": "Anila"
+  },
+  "1256362146573583104": {
+    "message": "Atera"
+  },
+  "1259492729704800881": {
+    "message": "Artxibatu oharra"
+  },
+  "125962421212090538": {
+    "message": "Datorren astea"
+  },
+  "1263685395252160366": {
+    "message": "LaTeX"
+  },
+  "1271038294394884640": {
+    "message": "Utzi"
+  },
+  "12768758038718216": {
+    "message": "Ainguratu artxibatutako oharra"
+  },
+  "1280430284217153733": {
+    "message": "Gehitu ordua"
+  },
+  "1294762503951327157": {
+    "message": "Markatutako elementuak automatikoki eramaten dira zerrendaren amaierara, enbarazurik egin ez diezazuten"
+  },
+  "1317394270020748066": {
+    "message": "Orain, Google-ren Laguntzailea konekta dezakezu Keep-eko oharrak eta zerrendak sortu, eguneratu eta kudeatzeko."
+  },
+  "1317913074512528649": {
+    "message": "Ez ahaztu inoiz buruan darabilzuna."
+  },
+  "1330083198022464084": {
+    "message": "Sortu oharra"
+  },
+  "1333255388111908292": {
+    "message": "Jangaiak"
+  },
+  "1335763707789999819": {
+    "message": "{NUM_ITEMS,plural, =1{Ez duzu baimenik elementu hau uneko karpetetatik eramateko. Horren ordez, gehitu elementua {START_SPAN_1}{NAME}{END_SPAN} karpetan.}other{Ez duzu baimenik elementuak uneko karpetetatik eramateko. Horren ordez, gehitu elementuak {START_SPAN_2}{NAME}{END_SPAN} karpetan.}}"
+  },
+  "1338300799355131761": {
+    "message": "Ohar izengabea"
+  },
+  "1349697396109290623": {
+    "message": "Bereizmen handiagoan dago ikusgai $1​"
+  },
+  "1355047515597245353": {
+    "message": "Ezin da sortu elementu honetarako lasterbide gehiagorik. Geroago elementua aurkitzeko, gehi ezazu izardunetan."
+  },
+  "1359937199332190522": {
+    "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} fitxategi gehitu da {XXX_1} karpetan.}other{{NUM_ITEMS_2} fitxategi gehitu dira {XXX_2} karpetan.}}"
+  },
+  "136335357683289450": {
+    "message": "Itxi"
+  },
+  "1365216822837281424": {
+    "message": "Chrome luzapena"
+  },
+  "1368808491835583439": {
+    "message": "More bizia"
+  },
+  "1377158635423797368": {
+    "message": "Joan etiketara"
+  },
+  "1379850360723600538": {
+    "message": "Ez dira onartzen pasahitz bidez babestutako fitxategiak."
+  },
+  "1388712764439031120": {
+    "message": "Ireki esteka"
+  },
+  "1397887822627488928": {
+    "message": "Partekatzeko pertsonaren izena edo helbidea"
+  },
+  "1429848477922945853": {
+    "message": "Hutsik dagoen oharra"
+  },
+  "1432850707344442376": {
+    "message": "Sortu $1​ etiketa"
+  },
+  "1434081385486479995": {
+    "message": "Une honetan ez dago erabilgarri partekatzeko aukera"
+  },
+  "1439211265324766071": {
+    "message": "Zaborrontzira eramandako oharra"
+  },
+  "1441487391064925653": {
+    "message": "Ikusi laster-tekla guztiak Laguntza-zentroan"
+  },
+  "1441712877952841568": {
+    "message": "Azken aldaketa: $1​"
+  },
+  "1442417474192183694": {
+    "message": "Erakutsi ikustailearen arazketaren xehetasunak"
+  },
+  "1442722292947881614": {
+    "message": "Motak"
+  },
+  "1446829548948002072": {
+    "message": "koma"
+  },
+  "1453330983536591773": {
+    "message": "Gris argia"
+  },
+  "1463389029497634261": {
+    "message": "Jaitsi bolumena"
+  },
+  "1466663154000252842": {
+    "message": "Baliteke sarbidea galtzea erabiltzaile batzuek"
+  },
+  "1467797923781828000": {
+    "message": "$1​ elementu gehitu dira $2​ karpetan."
+  },
+  "1475258635371833968": {
+    "message": "$2​, $1​"
+  },
+  "1478393252643397554": {
+    "message": "Laranja"
+  },
+  "1482452362096735080": {
+    "message": "{numOccurrences} aldiz errepikatzen da"
+  },
+  "1490217372377947899": {
+    "message": "Kargatu Drive-n"
+  },
+  "1505876360160857231": {
+    "message": "$1​ TB"
+  },
+  "1507063529674142853": {
+    "message": "Hileko azken egunean"
+  },
+  "1507445189431379166": {
+    "message": "Ezabatu"
+  },
+  "1512114410402431831": {
+    "message": "Freskatu"
+  },
+  "1512454807955173272": {
+    "message": "Internetera konektatzen zarenean eguneratuko da Keep"
+  },
+  "1513178578981188988": {
+    "message": "Edge"
+  },
+  "1532717559893630620": {
+    "message": "$1​ eta $2​ etiketak bateratu dira."
+  },
+  "1536051766421561160": {
+    "message": "berdin ikurra"
+  },
+  "153659275234722804": {
+    "message": "Baztertu"
+  },
+  "1543499632005215694": {
+    "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Datu-galerak prebenitzeko abisuak sorrarazi ditu \"{ADDED_PARENT_NAME}\" karpetara eramatera zoazen fitxategiak. Agian kontuzko informazioa du.}other{Datu-galerak prebenitzeko abisuak sorrarazi dituzte \"{ADDED_PARENT_NAME}\" karpetara eramatera zoazen fitxategi batzuek. Agian kontuzko informazioa dute.}}"
+  },
+  "1568379678795589771": {
+    "message": "Karratuak"
+  },
+  "1586968957182554447": {
+    "message": "Desgaitu"
+  },
+  "1600730176972144699": {
+    "message": "Aurreko kokapenera eramateko, sakatu Maius + J; hurrengora eramateko, aldiz, Maius + K"
+  },
+  "1606998668553414638": {
+    "message": "Eskatu sarbidea"
+  },
+  "1612117309990202511": {
+    "message": "Puntuak"
+  },
+  "1645936035034659132": {
+    "message": "{itemsRemaining,plural, =1{Zerrendako # elementu geratzen da}other{Zerrendako # elementu geratzen dira}}"
+  },
+  "1655692513689044870": {
+    "message": "Saioa amaitu da."
+  },
+  "1656911987308166143": {
+    "message": "Ezabatu"
+  },
+  "1665821947855814052": {
+    "message": "Tamaina"
+  },
+  "1675711464233426777": {
+    "message": "Geroago"
+  },
+  "1675900304699098572": {
+    "message": "{count,plural, =1{Kendu zaio aingura oharrari}other{Kendu zaie aingura # oharri}}"
+  },
+  "1680617124502957636": {
+    "message": "Une honetan ezin da konektatu. Saiatu berriro geroago."
+  },
+  "1680818623013843452": {
+    "message": "Lucidchart"
+  },
+  "1683762293389974494": {
+    "message": "Ezabatu"
+  },
+  "1694896269813520248": {
+    "message": "Gehitu marrazkia"
+  },
+  "1697160643589236962": {
+    "message": "$1​ PB"
+  },
+  "1700455651867499062": {
+    "message": "Google Drive lasterbidea"
+  },
+  "1703175513040690135": {
+    "message": "$1​ domeinuko edonork"
+  },
+  "1704004075228783011": {
+    "message": "{every,plural, =1{Hilero errepikatzen da, azken egunean}other{# hilez behin errepikatzen da, azken egunean}}"
+  },
+  "1711424025297585662": {
+    "message": "||"
+  },
+  "171683163267149669": {
+    "message": "$1​ GB"
+  },
+  "1719906320230837590": {
+    "message": "Google-ren Irudi-bilaketa"
+  },
+  "1730171019350750807": {
+    "message": "Beltza"
+  },
+  "1737240194537729525": {
+    "message": "Astero"
+  },
+  "1739900012825270238": {
+    "message": "Joan aurreko elementura"
+  },
+  "1740371341228065086": {
+    "message": "Kargatu berriro"
+  },
+  "1745782414562966515": {
+    "message": "\"$1​\" etiketa \"$2​\" etiketarekin bateratu nahi duzu? \"$1​\" etiketa duten oharrak \"$2​\" gisa etiketatuko dira, eta \"$1​\" etiketa ezabatuko da."
+  },
+  "1746512984326924716": {
+    "message": "Ekintza ezin da desegin."
+  },
+  "1770899865480106963": {
+    "message": "Android-eko gailuak"
+  },
+  "1781922622745161264": {
+    "message": "Gehitzen dituzun oharrak hemen agertzen dira"
+  },
+  "1783719421893050637": {
+    "message": "Neurriak"
+  },
+  "1790494039990261456": {
+    "message": "Utzi biak beren horretan"
+  },
+  "1791115075948268631": {
+    "message": "Ireki lasterbideen laguntza"
+  },
+  "179545118447015250": {
+    "message": "Sareta-ikuspegia"
+  },
+  "1803966010993357655": {
+    "message": "Gehiago"
+  },
+  "1808245543551507519": {
+    "message": "Audioa"
+  },
+  "1810354345035313773": {
+    "message": "Ireki Markatzailea tresnaren kolore- eta tamaina-hautatzailea"
+  },
+  "1829174126565818591": {
+    "message": "Firefox"
+  },
+  "1830157062072535681": {
+    "message": "$1​ ikusgai dago"
+  },
+  "1830980674971538385": {
+    "message": "Kargatu"
+  },
+  "1852745815330163711": {
+    "message": "Google Marrazkiak"
+  },
+  "1857224091554117760": {
+    "message": "Gorria"
+  },
+  "1858255237143975969": {
+    "message": "$2​Pribatutasuna$1​"
+  },
+  "1870691479127746185": {
+    "message": "eskuinera"
+  },
+  "187077078156858455": {
+    "message": "Audio-oharra"
+  },
+  "189303170370862360": {
+    "message": "$1​/$2​ elementua"
+  },
+  "1900571668686750716": {
+    "message": "vCard"
+  },
+  "1901215424950227523": {
+    "message": "Ez dago $1​ etiketa"
+  },
+  "1936219394601788126": {
+    "message": "nagusia"
+  },
+  "1938115711058331119": {
+    "message": "Erakutsi iruzkinen zutabea"
+  },
+  "195154114623528341": {
+    "message": "Gehitu kokapena"
+  },
+  "1956794332842050061": {
+    "message": "Hurrengo orria"
+  },
+  "1963323419655107448": {
+    "message": "Ezabatu markatutako elementuak"
+  },
+  "1965626377712226216": {
+    "message": "Keynote"
+  },
+  "1967536906522187719": {
+    "message": "Arazo bat izan da orria ikustean."
+  },
+  "1969531182936822963": {
+    "message": "Desegin da ekintza"
+  },
+  "1972885107693687510": {
+    "message": "Joan ikusgai dagoen etiketa-burbuilara"
+  },
+  "1973454937875679500": {
+    "message": "Idatzi etiketaren izena"
+  },
+  "1975630610063119352": {
+    "message": "{charsRemaining,plural, =1{# karaktere geratzen da}other{# karaktere geratzen dira}}"
+  },
+  "1980209166254310911": {
+    "message": "Egunero"
+  },
+  "1986228872461282439": {
+    "message": "Lehenetsia"
+  },
+  "1998476658842502120": {
+    "message": "Ohar berri bat idazteko, sakatu C"
+  },
+  "200488920523496447": {
+    "message": "Handitu da elementua."
+  },
+  "2039757863628752523": {
+    "message": "Maiztasun-aukerak"
+  },
+  "205445381296663832": {
+    "message": "Ezin izan da kargatu."
+  },
+  "205876860571942679": {
+    "message": "Google My Maps"
+  },
+  "2059084517358086391": {
+    "message": "Itxi bilaketa-barra"
+  },
+  "2061440050632248160": {
+    "message": "Artxibatu"
+  },
+  "2068023589621557589": {
+    "message": "TrueType letra-tipoa"
+  },
+  "2072502213578290051": {
+    "message": "Oharrak gehiago behar ez dituzunean, artxibatzeko botoia erabil dezakezu"
+  },
+  "2073322475696388995": {
+    "message": "Saltatu aurrerantz"
+  },
+  "2074454463201225704": {
+    "message": "Berrezarri zoom-maila"
+  },
+  "2096559615401306102": {
+    "message": "Ezin dituzu eraman fitxategiak $1​ domeinutik kanpo"
+  },
+  "2107379241532042955": {
+    "message": "Kokapena"
+  },
+  "2109979457438465538": {
+    "message": "Ireki da etiketak hautatzeko menua"
+  },
+  "2113092209746357267": {
+    "message": "Chrome"
+  },
+  "2118635459760443566": {
+    "message": "Hurrengoa"
+  },
+  "2119255452378336327": {
+    "message": "Leheneratu da buletaren $1​ testua"
+  },
+  "212796670323571824": {
+    "message": "Ados"
+  },
+  "2142420359113070963": {
+    "message": "Pila-aztarna (barneko sarearen erabiltzaileek soilik ikus dezakete):"
+  },
+  "214517458278879973": {
+    "message": "Hasi saioa $1​ gisa"
+  },
+  "2154372123324862271": {
+    "message": "barra"
+  },
+  "2159130950882492111": {
+    "message": "Utzi"
+  },
+  "2166966123760559393": {
+    "message": "Sortu etiketa"
+  },
+  "2181197458532159304": {
+    "message": "{numberOfNotes,plural, =1{Zaborrontzira eraman da oharra}other{Zaborrontzira eraman dira # ohar}}"
+  },
+  "2184278444368405837": {
+    "message": "$1​ elementu"
+  },
+  "2189621188983913867": {
+    "message": "Konektatu aplikazio gehiago"
+  },
+  "2190049738646901760": {
+    "message": "{count,plural, =1{Oharra ezabatu nahi duzu?}other{Oharrak ezabatu nahi dituzu?}}"
+  },
+  "2195440644060728966": {
+    "message": "{NUM_ITEMS,plural, =1{Karpeta batean dagoen karpeta mugitzen ari zara}other{Karpeta batean dauden karpetak mugitzen ari zara}}"
+  },
+  "220168959069469607": {
+    "message": "Ekintza gehiago"
+  },
+  "2203926649090909861": {
+    "message": "$1​ indizera eraman da zerrendako elementua"
+  },
+  "2215890921415017560": {
+    "message": "Pantaila osoko modua"
+  },
+  "2216904725760458480": {
+    "message": "Egunero"
+  },
+  "221715292685577880": {
+    "message": "Bai"
+  },
+  "2226562046914098941": {
+    "message": "Fitxategia handiegia da aurreikusteko"
+  },
+  "2226937423434054727": {
+    "message": "$1​, $2​ gelaxkatik $3​, $4​ gelaxkara hautatu da"
+  },
+  "223198388381606871": {
+    "message": "Izpiliku-kolorea"
+  },
+  "2254586145235168886": {
+    "message": "Tolestu da onarpenen panela."
+  },
+  "2264311811697505466": {
+    "message": "Freskatu"
+  },
+  "2265238034451062417": {
+    "message": "{count,plural, =1{+ osatutako # elementu}other{+ osatutako # elementu}}"
+  },
+  "2270469222412517777": {
+    "message": "Ezin da atzeman testurik"
+  },
+  "2270633624888102832": {
+    "message": "Kendu aingura oharrari"
+  },
+  "2280650195464600721": {
+    "message": "Nabigazioa"
+  },
+  "2282423663539387332": {
+    "message": "Datozenak"
+  },
+  "2285069188138705005": {
+    "message": "Konektatutako aplikazioak"
+  },
+  "2286685488296851497": {
+    "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Elementu bat ateratzera zoaz \"{SHARED_FOLDER_NAME}\" karpeta partekatutik. Hori egiten baduzu, ezin izango du atzitu jendeak.}other{{NUM_ITEMS_2} elementu ateratzera zoaz \"{SHARED_FOLDER_NAME}\" karpeta partekatutik. Hori egiten baduzu, ezin izango ditu atzitu jendeak.}}"
+  },
+  "228741435562395266": {
+    "message": "Inprimatzeko aukera oraindik ez dago erabilgarri"
+  },
+  "2289534534793293486": {
+    "message": "Kendu artxibotik"
+  },
+  "2289812403593835836": {
+    "message": "Pages"
+  },
+  "229177484946387188": {
+    "message": "Google Earth"
+  },
+  "2292696732672795285": {
+    "message": "Igo bolumena"
+  },
+  "2299671629154778581": {
+    "message": "Aingura kendu zaie oharrei, eta artxibatu egin dira"
+  },
+  "2308018963132768704": {
+    "message": "Tamaina: 4"
+  },
+  "2310145944356900158": {
+    "message": "Markatutakoak"
+  },
+  "2311880726221661199": {
+    "message": "Bereizmen handiagoak kargatzen"
+  },
+  "2323249770683736002": {
+    "message": "Sortu etiketa"
+  },
+  "2324955914430674498": {
+    "message": "Ez da aurkitu \"$1​\" bilaketaren emaitzarik"
+  },
+  "2346361265476305332": {
+    "message": "Audio-fitxategi hau deskargatzea eragotzi du jabeak."
+  },
+  "2357623745116912085": {
+    "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Haiekin partekatu ezean, \"{TEAM_DRIVE_NAME}\" taldeko unitateko kideek ezin izango dute atzitu elementu hau.}other{Haiekin partekatu ezean, \"{TEAM_DRIVE_NAME}\" taldeko unitateko kideek ezin izango dituzte atzitu elementu hauek.}}"
+  },
+  "2359614137862708172": {
+    "message": "Maius"
+  },
+  "2364374826543847335": {
+    "message": "Kendu iturburua"
+  },
+  "236689092839978781": {
+    "message": "Ez da errepikatzen"
+  },
+  "2370656573843123707": {
+    "message": "eskuineko kako zuzena"
+  },
+  "2373760032138505521": {
+    "message": "Lehendik dago etiketa hori"
+  },
+  "2386536768112358461": {
+    "message": "OrBeh"
+  },
+  "2396804279177914769": {
+    "message": "Taldeko unitatera transferitu nahi duzu jabetza?"
+  },
+  "2402010336938670264": {
+    "message": "Hasi marrazten hatz-puntarekin, edo, arkatza baduzu, idatzi eskuz ohar bat"
+  },
+  "2405795704816921421": {
+    "message": "$1​ fitxategia"
+  },
+  "2408383448126741628": {
+    "message": "Iraupena"
+  },
+  "2408933271548524782": {
+    "message": "Blokeatuta"
+  },
+  "2423364695613735749": {
+    "message": "Zerrenda berri bat idazteko, sakatu L"
+  },
+  "2423877407428530040": {
+    "message": "Fitxategiak diagrama gehiegi ditu."
+  },
+  "2433429041384246549": {
+    "message": "Desaktibatu audioa"
+  },
+  "2438741853303074449": {
+    "message": "agerraldi"
+  },
+  "2444198666025646119": {
+    "message": "Bioleta"
+  },
+  "2452145367257933677": {
+    "message": "Desegin"
+  },
+  "2452522051596946166": {
+    "message": "Arazo bat izan da $1​ aurreikustean. Berriro saiatzen."
+  },
+  "2454642351139428112": {
+    "message": "Desegin"
+  },
+  "246828342952819465": {
+    "message": "Hartu buruan darabilzunaren oharrak $1​ edozein gailutatik"
+  },
+  "2469046390122693414": {
+    "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}other{{NUM_ITEMS_2} elementu ateratzera zoaz unitate eta karpeta partekatuetatik. Hori egiten baduzu, erabiltzaileek ezin izango dituzte atzitu.}}"
+  },
+  "2478862372619762755": {
+    "message": "Nabarmendu iruzkindu beharreko eremua"
+  },
+  "2483363439634684283": {
+    "message": "Tamaina: 20"
+  },
+  "2494928104701250542": {
+    "message": "Ainguratu oharrak eta ezarri abisuak, gauza garrantzitsuen jakinaren gainean egon zaitezen."
+  },
+  "2504232652631703202": {
+    "message": "Konektatuta"
+  },
+  "2509141182388535183": {
+    "message": "Ikusi"
+  },
+  "251025074207413762": {
+    "message": "Gehitu azalpena"
+  },
+  "2525633490863427854": {
+    "message": "Berregin"
+  },
+  "2527534830196374788": {
+    "message": "Ktrl"
+  },
+  "2532280782491328445": {
+    "message": "Aurkitu aurrekoa"
+  },
+  "2542788471536661524": {
+    "message": "Jaregin irudiak hemen"
+  },
+  "2562881166530755046": {
+    "message": "Marrazkiak"
+  },
+  "257317112834806705": {
+    "message": "Txandakatu zerrenda- eta sareta-ikuspegiaren artean"
+  },
+  "2579261044590673579": {
+    "message": "Nire unitatea"
+  },
+  "2579679351920691492": {
+    "message": "Saltatu atzerantz"
+  },
+  "2584557103820423944": {
+    "message": "Ezarri/Kendu koska zerrendako elementuari"
+  },
+  "2592236094918360632": {
+    "message": "Ezin da mugitu fitxategia, jabea ez delako unitate partekatuko kidea."
+  },
+  "2600731575260427177": {
+    "message": "Fitxategia ez dago; agian ezabatu egin da. Karga ezazu berriro."
+  },
+  "2601304136110057215": {
+    "message": "Marrazki berria"
+  },
+  "2604527707881848686": {
+    "message": "Ezin da gehiago txikiagotu elementuaren koska."
+  },
+  "2609409316752026806": {
+    "message": "PDF"
+  },
+  "2623861453769098676": {
+    "message": "Arazo bat izan da dokumentua aurreikustean."
+  },
+  "2626653026098396543": {
+    "message": "{NUM_ITEMS,plural, =0{Unused}=1{Elementu hau mugitzen baduzu, \"{SHARED_FOLDER_NAME}\" karpeta partekatua ikus dezaketen pertsona guztiekin partekatuko duzu.}other{Elementu hauek mugitzen badituzu, \"{SHARED_FOLDER_NAME}\" karpeta partekatua ikus dezaketen pertsona guztiekin partekatuko dituzu.}}"
+  },
+  "2632263751512428257": {
+    "message": "Urtero"
+  },
+  "2632538140519286364": {
+    "message": "Zaborrontziko oharrak zazpi egunez behin ezabatzen dira."
+  },
+  "2645469029410848421": {
+    "message": "{noteCount,plural, =1{Oharren etiketa}other{Oharren etiketak}}"
+  },
+  "2661850177130037208": {
+    "message": "Ireki elementua"
+  },
+  "2673781847036352269": {
+    "message": "Ezkutatu iruzkin inaktiboak"
+  },
+  "2680303811435018716": {
+    "message": "Ezin dira gehitu elementu gehiago"
+  },
+  "2681830832355823748": {
+    "message": "Bilatu laster-tekla guztietan"
+  },
+  "268402507078609011": {
+    "message": "{imagesAdded,plural, =1{Gehitu da irudia}other{Gehitu dira # irudi}}"
+  },
+  "269301203471243703": {
+    "message": "Gehitu lasterbidea"
+  },
+  "2713989182797848963": {
+    "message": "Sortu marrazkiak eta eskuz idatzitako oharrak"
+  },
+  "2715199780155065699": {
+    "message": "Fitxategiak forma, testu-koadro edo marrazki gehiegi ditu."
+  },
+  "2716433087531258659": {
+    "message": "orrian aurrera"
+  },
+  "2719125961689709460": {
+    "message": "Oharra"
+  },
+  "2725185337656029651": {
+    "message": "Gehitu irudiak edo audioak"
+  },
+  "2742719907061406418": {
+    "message": "XML"
+  },
+  "2757876083706839152": {
+    "message": "Marrazkia bikoiztu da, izan dezakeen tamaina dela-eta"
+  },
+  "2758125083752925237": {
+    "message": "(jabea)"
+  },
+  "2760106082595028595": {
+    "message": "Handiegia da oharra."
+  },
+  "2761695221066052931": {
+    "message": "Ireki ikusgai dagoen esteka-burbuila"
+  },
+  "2762925619340374825": {
+    "message": "URLaren arabera"
+  },
+  "277430914014962533": {
+    "message": "Arazo bat izan da $1​ aurreikustean."
+  },
+  "2777453609143551768": {
+    "message": "Bolumenaren kontrolagailua"
+  },
+  "2793841261389879255": {
+    "message": "Aurreko orria"
+  },
+  "2794676336056877832": {
+    "message": "{every,plural, =1{Hilero errepikatzen da, egun berean}other{# hilez behin errepikatzen da, egun berean}}"
+  },
+  "2803553109654833664": {
+    "message": "Arrosa"
+  },
+  "2814354342017225342": {
+    "message": "Aurreikusi esteka aberastuak"
+  },
+  "2818020101821669029": {
+    "message": "Sortze-data"
+  },
+  "2820045170951016567": {
+    "message": "Abisuak"
+  },
+  "2823533464825550362": {
+    "message": "Dokumentua kontrolatzeko aukerak"
+  },
+  "2827039933590757722": {
+    "message": "Windows-eko lasterbidea"
+  },
+  "2828060233316503200": {
+    "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} elementu eraman da {XXX_1} karpetatik {XXX_2} karpetara.}other{{NUM_ITEMS_2} elementu eraman dira {XXX_3} karpetatik {XXX_4} karpetara.}}"
+  },
+  "2828258538208588139": {
+    "message": "{shortcutCount,plural, =1{1 lasterbide gehitu duzu}other{# lasterbide gehitu dituzu}}"
+  },
+  "2829226075651806940": {
+    "message": "Handitu"
+  },
+  "2842462703735289745": {
+    "message": "\"$1​\" karpeta partekatua ikus dezaketen pertsona guztiek izango dute sarbidea."
+  },
+  "2853036885874864031": {
+    "message": "$1​ domeinura transferituko da jabetza."
+  },
+  "2854717396594966319": {
+    "message": "OpenOffice Writer"
+  },
+  "2868845399811178993": {
+    "message": "\"$1​\" karpetaren jabeak bakarrik ezaba ditzake han gehitutako lasterbideak."
+  },
+  "2873089307546162154": {
+    "message": "Ados"
+  },
+  "2877285560485318801": {
+    "message": "Pausatu"
+  },
+  "2879276552944958066": {
+    "message": "Itzuli $1​ karpetara."
+  },
+  "2886313667612471214": {
+    "message": "Freskatu egin behar da. Baliteke zenbait minutu behar izatea."
+  },
+  "2893055432094515558": {
+    "message": "Ikusgai daude kontrol-laukiak"
+  },
+  "289798573180023043": {
+    "message": "Ados"
+  },
+  "2901360496423912565": {
+    "message": "Eman honen berri"
+  },
+  "2908917161758545146": {
+    "message": "{count,plural, =1{Aingura kendu zaio oharrari, eta artxibatu egin da}other{Aingura kendu zaie # oharri, eta artxibatu egin dira}}"
+  },
+  "2930974997943171554": {
+    "message": "Desgaitu da gai iluna"
+  },
+  "2935193106137642160": {
+    "message": "Zooma ez dago erabilgarri"
+  },
+  "295331174171409695": {
+    "message": "Arazo bat izan da \"$1​\" elementuaren deskarga-baimena eguneratzean."
+  },
+  "2960516445247616550": {
+    "message": "Inprimatzeko aukera ez dago erabilgarri"
+  },
+  "296391753033307868": {
+    "message": "$1​ etiketa sortu da, eta oharrean gehitu da."
+  },
+  "2971623719720688041": {
+    "message": "Desegin da ekintza"
+  },
+  "2973306402585941108": {
+    "message": "Goiza"
+  },
+  "2983318659047499045": {
+    "message": "Abisuak"
+  },
+  "298817883481775869": {
+    "message": "Kargatzen…"
+  },
+  "2990497076082409431": {
+    "message": "\"$1​\" $2​ karpetara eraman da."
+  },
+  "2993901764282547916": {
+    "message": "App Maker"
+  },
+  "3005058076425755361": {
+    "message": "Atzera"
+  },
+  "3018905429279095639": {
+    "message": "{NUM_ITEMS,plural, =1{Ez duzu baimenik karpeta hau uneko karpetetatik eramateko. Horren ordez, gehitu karpeta {START_SPAN_1}{NAME}{END_SPAN} karpetan.}other{Ez duzu baimenik karpeta hauek uneko karpetetatik eramateko. Horren ordez, gehitu karpetak {START_SPAN_2}{NAME}{END_SPAN} karpetan.}}"
+  },
+  "3038603165081234302": {
+    "message": "$2​Nire unitatea$1​ atalean gehitzen…"
+  },
+  "3043961722025425136": {
+    "message": "Azalpena"
+  },
+  "304438440663479110": {
+    "message": "Kalkulu-orrien lasterbide bateragarriak"
+  },
+  "306516303501625305": {
+    "message": "Ezin izan da autentifikatu."
+  },
+  "3074915509081765994": {
+    "message": "iPhone eta iPad"
+  },
+  "3091440425606975088": {
+    "message": "Zerrenda izengabea"
+  },
+  "3108098439469164127": {
+    "message": "Marrazki berria ireki da"
+  },
+  "3121560585545725724": {
+    "message": "$1​ ($2​)"
+  },
+  "3150651996344750990": {
+    "message": "{count,plural, =1{Oharra artxibotik kendu da}other{# ohar artxibotik kendu dira}}"
+  },
+  "3167198321908629554": {
+    "message": "Oharrak freskatzen eta berriro kargatzen…"
+  },
+  "3176246635438298155": {
+    "message": "Ezabatu"
+  },
+  "3187117482772485385": {
+    "message": "Irudi txikia sortzen…"
+  },
+  "3189854932778515441": {
+    "message": "Oharra artxiboan"
+  },
+  "3190546672187601036": {
+    "message": "Gaua"
+  },
+  "3195812604657128345": {
+    "message": "Hautatu Drive-ko zein karpetatara atera nahi duzun edukia"
+  },
+  "32059145043728507": {
+    "message": "{numberOfNotes,plural, =1{Leheneratu da oharra}other{# ohar leheneratu dira}}"
+  },
+  "3207650089232728475": {
+    "message": "Aldatu etiketak"
+  },
+  "3211163842850942567": {
+    "message": "Handitu"
+  },
+  "3217354672216773127": {
+    "message": "Aktibatze-data: $1​"
+  },
+  "3220641589840600333": {
+    "message": "Aldatu da $1​ ikuspegira"
+  },
+  "3241696131593027453": {
+    "message": "Hautatu oharra"
+  },
+  "3243075164136265612": {
+    "message": "Zabaldu da Onarpenak panela."
+  },
+  "3249966726137025950": {
+    "message": "Kolaboratzailearen familiaren taldea"
+  },
+  "3250489229749307913": {
+    "message": "Argitalpen elektronikoa"
+  },
+  "3258100527833044153": {
+    "message": "Baztertu da marrazki hutsa"
+  },
+  "3261131345401321392": {
+    "message": "Iruzkin dezake"
+  },
+  "3266448715145955862": {
+    "message": "Artxibotik kendu dira oharrak, eta ainguratu egin dira"
+  },
+  "3272496516667407797": {
+    "message": "Arazo bat izan da xehetasunak kargatzean."
+  },
+  "3278046126264096288": {
+    "message": "Astero"
+  },
+  "3281684668260174833": {
+    "message": "{numberOfNotes,plural, =1{ da}other{Aingura kendu zaie # oharri, eta zaborrontzira eraman dira}}"
+  },
+  "3285255128259782773": {
+    "message": "Disko lokala"
+  },
+  "3285552194638444776": {
+    "message": "Orain, $1​ fitxategien zuzenketak editatu, partekatu eta kudea ditzakezu $2​ erabilita"
+  },
+  "3288498486633948368": {
+    "message": "\"$1​\" Google Drive-n gehitu da."
+  },
+  "330603631583186798": {
+    "message": "Word"
+  },
+  "3308935528045767909": {
+    "message": "Marrazki-ohar berria"
+  },
+  "3312545971976531405": {
+    "message": "Mezua"
+  },
+  "3313557905033219672": {
+    "message": "{numNotes,plural, =1{Artxibatu gabeko oharra sortu da}other{Artxibatu gabeko # ohar sortu dira}}"
+  },
+  "3325094738421414114": {
+    "message": "Hautatutako oharren sortan ohar bat gehitzeko edo bertatik kentzeko, sakatu X"
+  },
+  "3345567742278474807": {
+    "message": "Oharra desegokia dela salatu da eta ezin da partekatu."
+  },
+  "3348057264663626000": {
+    "message": "Gora eraman da hautapena."
+  },
+  "3362903141674317449": {
+    "message": "Kolaboratzailea"
+  },
+  "3371033609268806242": {
+    "message": "$1​ etiketa ezabatu da."
+  },
+  "3378875258397512442": {
+    "message": "Ezarri ordu eta toki jakinetan abiarazi beharreko abisuak oharretan, grabatu ahots-oharrak eta egin lan Internetera konektatuta nahiz konektatu gabe."
+  },
+  "3381619429606029445": {
+    "message": "Visio"
+  },
+  "3382236845597426718": {
+    "message": "Ireki"
+  },
+  "3385831848537487538": {
+    "message": "Bidaiak"
+  },
+  "3409483962000136213": {
+    "message": "Erreproduzitu/Pausatu"
+  },
+  "3418677553313974490": {
+    "message": "Zaborrontzia"
+  },
+  "3418767079436101103": {
+    "message": "Arazo bat izan da orri hau kargatzean."
+  },
+  "3419821606494999471": {
+    "message": "Kudeatu iruzkinen jakinarazpenak"
+  },
+  "3437227878928998987": {
+    "message": "Egin zerrenda bat"
+  },
+  "3447704623213039325": {
+    "message": "Erosketa-zerrendako produktua"
+  },
+  "3448234415275521882": {
+    "message": "Informazio orokorra"
+  },
+  "3449090379302140902": {
+    "message": "Argazkiak"
+  },
+  "3451851833460018584": {
+    "message": "{NUM_COMMENTS,plural, =0{Ez dago iruzkinik}=1{1 iruzkin}other{# iruzkin}}"
+  },
+  "3455405209271884570": {
+    "message": "Atera"
+  },
+  "345718983715470367": {
+    "message": "Iturburua"
+  },
+  "3462556632501534753": {
+    "message": "$2​Kode irekiko lizentziak$1​"
+  },
+  "3468441711253011521": {
+    "message": "Google Kalkulu-orriak"
+  },
+  "3473620774713000513": {
+    "message": "Ebatzi egin da"
+  },
+  "3478630283627055305": {
+    "message": "Oharrak editatzeari uzteko, sakatu Ihes"
+  },
+  "3485469306694683931": {
+    "message": "Atera edukia eta gorde ezazu Drive-ko kontuan"
+  },
+  "3487924397596265480": {
+    "message": "$1​ hautatu da."
+  },
+  "3493932452507671194": {
+    "message": "Koska ezartzeko, sakatu $1​ + ezkerreko kako zuzena; koska kentzeko, aldiz, sakatu $1​ + eskuineko kako zuzena"
+  },
+  "3496410038494993160": {
+    "message": "Lasterbide ezagunak"
+  },
+  "3518073392823563581": {
+    "message": "Laster-teklak"
+  },
+  "3527565741177531691": {
+    "message": "$2​$3​$1​ karpetan lasterbidea gehitzen…"
+  },
+  "3528739824697875943": {
+    "message": "zerrendako elementua"
+  },
+  "3539889527558048258": {
+    "message": "Google-ren Irudi-bilaketa"
+  },
+  "3544847661620838201": {
+    "message": "Proba ezazu! Geroago ere berreskuratu ahal izango dituzu ezkutatzen dituzun oharrak."
+  },
+  "3549581437554274388": {
+    "message": "Eskuinera eraman da hautapena."
+  },
+  "3551522853788442530": {
+    "message": "Egin atzera"
+  },
+  "3551608745198442336": {
+    "message": "$1​/$2​ marrazkia"
+  },
+  "3553997866738769437": {
+    "message": "Editatu marrazkia"
+  },
+  "3555297636767750285": {
+    "message": "Berdea"
+  },
+  "3561658662634401836": {
+    "message": "Izena"
+  },
+  "3569884090205828853": {
+    "message": "OpenOffice Calc"
+  },
+  "3571391964903695725": {
+    "message": "Errepikatu"
+  },
+  "3571704286086017611": {
+    "message": "Ezabatu da abisua"
+  },
+  "3574963906259719128": {
+    "message": "Arakatzaileak ezin du erreproduzitu audio-fitxategi hau."
+  },
+  "3580243353280636963": {
+    "message": "Aukeratu data eta ordua"
+  },
+  "3595000514985906359": {
+    "message": "Excel"
+  },
+  "3595562664731337243": {
+    "message": "Aldatu izena etiketari"
+  },
+  "3603931013946597836": {
+    "message": "{NUM_ITEMS,plural, =1{{NUM_PARENTS} karpetatan dagoen fitxategia mugitzen ari zara}other{{NUM_PARENTS} karpetatan dauden fitxategiak mugitzen ari zara}}"
+  },
+  "3608521102844050208": {
+    "message": "Abisua:"
+  },
+  "3608606849109645545": {
+    "message": "Idatzi dokumentuaren izen berria:"
+  },
+  "3609912631958780352": {
+    "message": "Kaligrafia-tresna"
+  },
+  "3611573349633408445": {
+    "message": "Deskargatu"
+  },
+  "3612936866865912552": {
+    "message": "Kargatzen…"
+  },
+  "3617727970098875990": {
+    "message": "Bilatu lasterbide guztien artean"
+  },
+  "362521762755836201": {
+    "message": "Sortze-data: $1​"
+  },
+  "3628141779141388914": {
+    "message": "Ezin dira eraman karpetak unitate partekatuetara oraindik."
+  },
+  "3634885664399305142": {
+    "message": "Marrazkia ez dago erabilgarri"
+  },
+  "3642907339426904506": {
+    "message": "Ez dago oharrik zaborrontzian"
+  },
+  "3651893685901703652": {
+    "message": "…"
+  },
+  "3657386785336906042": {
+    "message": "alderantzizko barra"
+  },
+  "3659554681396757189": {
+    "message": "Nik azken aldiz irekitako data"
+  },
+  "366289214151975122": {
+    "message": "Esteka duen $1​ domeinuko edonork"
+  },
+  "3663571259791438207": {
+    "message": "Salatu erabilera okerra"
+  },
+  "3664842788764635265": {
+    "message": "Bat ere ez"
+  },
+  "3666123569747918021": {
+    "message": "Dokumentuak gorde gabeko aldaketak ditu. Orria utzi eta gorde gabeko aldaketak baztertu nahi dituzu?"
+  },
+  "3678477908297567934": {
+    "message": "azpimarra"
+  },
+  "3684032082082645570": {
+    "message": "{count,plural, =1{Hautatu kolore bat oharrari aplikatzeko.}other{Hautatu kolore bat oharrei aplikatzeko.}}"
+  },
+  "3690515530505404607": {
+    "message": "Arazo bat izan da bideoa erreproduzitzean."
+  },
+  "369764661829607970": {
+    "message": "{NUM_ITEMS,plural, =0{Ez dago elementurik}=1{elementu bat}other{# elementu}}"
+  },
+  "3703024996011822310": {
+    "message": "Ongi etorri Google Keep zerbitzura"
+  },
+  "3712215972250917265": {
+    "message": "Iruzkinak"
+  },
+  "3714239567487848851": {
+    "message": "Gaitu da gai iluna"
+  },
+  "3721649886572275931": {
+    "message": "Tamaina: 8"
+  },
+  "372633345629975481": {
+    "message": "Ainguratu dira oharrak"
+  },
+  "372823375470132483": {
+    "message": "Desautatu zaborrontziko oharra"
+  },
+  "3734444903221631913": {
+    "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}other{{NUM_ITEMS_2} elementu ateratzera zoaz taldeko unitateetatik eta karpeta partekatuetatik. Hori egiten baduzu, ezin izango ditu atzitu jendeak.}}"
+  },
+  "3751183760611784323": {
+    "message": "Aplikatu zaio zooma elementuari, pantailaren zabalerara egoki dadin."
+  },
+  "3768927257183755959": {
+    "message": "Gorde"
+  },
+  "3787959261309150430": {
+    "message": "Lerroak marrazteko, sakatu bolalumaren ikonoa"
+  },
+  "3793086499925031123": {
+    "message": "Ireki bilaketa-barra eta bilatu aurrekoa"
+  },
+  "3796511349428373407": {
+    "message": "Data-aukerak"
+  },
+  "37992665410817181": {
+    "message": "Berriro ireki da"
+  },
+  "3802992573289114390": {
+    "message": "Eguneratu da \"$1​\" fitxategiaren azalpena."
+  },
+  "381100310424863459": {
+    "message": "Illustrator"
+  },
+  "3827179818223863356": {
+    "message": "Berde argia"
+  },
+  "383396092993661575": {
+    "message": "Unitate partekatura eraman nahi duzu?"
+  },
+  "3845302429676793049": {
+    "message": "Arazo bat izan da \"$1​\" elementuaren azalpena eguneratzean."
+  },
+  "3852386690131857488": {
+    "message": "Gaitu partekatzeko aukera"
+  },
+  "3856687081748327279": {
+    "message": "Fitxategiak unitate partekatutik ateratzen badituzu, haien sarbidea eta jabetza aldatu egingo dira."
+  },
+  "3856960241878617076": {
+    "message": "Iruzkinak kargatzen. Itxaron, mesedez."
+  },
+  "3858324058837632381": {
+    "message": "Arazo bat izan da audio-fitxategia erreproduzitzean."
+  },
+  "3869166581651870488": {
+    "message": "Amaitu editatzen"
+  },
+  "3874597373619381607": {
+    "message": "Ikusgai daude ebatzitako iruzkinak"
+  },
+  "3877974536163446728": {
+    "message": "$1​, $2​ hautatu da"
+  },
+  "3880648579756747781": {
+    "message": "Unitate partekatu batek izan dezakeen gehieneko elementu kopurua gainditzen badu karpetak, baliteke baimenak galtzea. $2​Lortu informazio gehiago$1​"
+  },
+  "3888733084985311515": {
+    "message": "Familiaren talde bat dago erabilgarri."
+  },
+  "3897281533382850749": {
+    "message": "Aktibatu audioa"
+  },
+  "3907816292084809686": {
+    "message": "Berregin da ekintza"
+  },
+  "3909380459614154542": {
+    "message": "Joan estekara"
+  },
+  "3920849627538402857": {
+    "message": "Deskargatu"
+  },
+  "3952341864324097024": {
+    "message": "Garbitu bilaketa"
+  },
+  "3955575370175991097": {
+    "message": "Aldatu da $1​ etiketaren ikuspegira"
+  },
+  "395680759377627007": {
+    "message": "Sortu \"$3​$2​$1​\""
+  },
+  "397098723873502323": {
+    "message": "Eginda"
+  },
+  "3974822583047850066": {
+    "message": "Utzi"
+  },
+  "3977699855735576796": {
+    "message": "Arazo bat izan da orri gehiago kargatzean."
+  },
+  "3981269900634596036": {
+    "message": "{numberOfNotes,plural, =1{Ezabatu oharra}other{Ezabatu oharrak}}"
+  },
+  "3988418762222300024": {
+    "message": "puntua"
+  },
+  "3989925953740167133": {
+    "message": "Google Keep zerbitzuak zure kokapena erabili nahi du kokapen-abisuetako tokien iradokizunak hobetzeko."
+  },
+  "4005725939358875643": {
+    "message": "Ekintza desegin da."
+  },
+  "4020393055976236243": {
+    "message": "$2​ domeinuko \"$3​\" taldeko unitatetik \"$1​\" taldeko unitatera transferituko da jabetza."
+  },
+  "4023299615382814997": {
+    "message": "Ezin da zaborrontzian editatu"
+  },
+  "4034637528003033305": {
+    "message": "Taldeko unitate batek izan dezakeen gehieneko elementu kopurua gainditzen badu karpetak, baliteke baimenak galtzea. $2​Lortu informazio gehiago$1​"
+  },
+  "4036523543547629779": {
+    "message": "Irudiak"
+  },
+  "4044915502415235332": {
+    "message": "Hautatu ainguratutako oharra"
+  },
+  "4052960606031736645": {
+    "message": "{NUM_ITEMS,plural, =1{{NUM_PARENTS} karpetatan dagoen karpeta mugitzen ari zara}other{{NUM_PARENTS} karpetatan dauden karpetak mugitzen ari zara}}"
+  },
+  "4061102590585232601": {
+    "message": "Kendu egin da $1​"
+  },
+  "4064820890482961434": {
+    "message": "Erakutsi kontrol-laukiak"
+  },
+  "4072353527895477784": {
+    "message": "Jendea"
+  },
+  "407982090576503781": {
+    "message": "Nire unitatera eraman nahi dituzu?"
+  },
+  "4081524305222967804": {
+    "message": "Anila"
+  },
+  "4085493778209859942": {
+    "message": "Erreproduzitu, halere"
+  },
+  "4097921967754832323": {
+    "message": "marratxoa"
+  },
+  "411137507354526852": {
+    "message": "Hilero"
+  },
+  "4111452225725405610": {
+    "message": "Izarra kendu zaio \"$1​\" elementuari."
+  },
+  "4117632433281998979": {
+    "message": "Hilero"
+  },
+  "4122858386674768321": {
+    "message": "Eraman $3​$2​$1​ karpetatik"
+  },
+  "4145164831312518309": {
+    "message": "Iritzia bidaltzeko, sakatu @"
+  },
+  "4155905925766040098": {
+    "message": "Ez dago aurrebistarik erabilgarri"
+  },
+  "4157091150222353401": {
+    "message": ".DOCX, .PPTX eta .XLSX fitxategietan gordetzen dira iruzkinak, eta Microsoft Office-n daude ikusgai"
+  },
+  "4167720915844687374": {
+    "message": "Formak ezabatzeko, sakatu borragoma."
+  },
+  "4174786386751618325": {
+    "message": "Argazki-oharra"
+  },
+  "4182427157920112948": {
+    "message": "azentu zorrotza"
+  },
+  "4186465168527990324": {
+    "message": "\"$1​\" behar bezala atera da $2​ karpetara"
+  },
+  "4194905394104253796": {
+    "message": "Konfiguratu"
+  },
+  "4204345954541079744": {
+    "message": "Ez dago etiketa hori duen oharrik"
+  },
+  "4206529410529166231": {
+    "message": "{NUM_ITEMS,plural, =1{{NUM_PARENTS} karpetatan dagoen elementua mugitzen ari zara}other{{NUM_PARENTS} karpetatan dauden elementuak mugitzen ari zara}}"
+  },
+  "4209658291185545281": {
+    "message": "Ezin izan da desegin ekintza"
+  },
+  "4211182812451835307": {
+    "message": "Edita dezake"
+  },
+  "4214190403999219403": {
+    "message": "Zooma"
+  },
+  "4216242742234357612": {
+    "message": "Hautatu ohar guztiak"
+  },
+  "4216628828665009319": {
+    "message": "Ahuakate-berdea"
+  },
+  "4227185265023581008": {
+    "message": "Google Calendar"
+  },
+  "4228870062013120023": {
+    "message": "Joan aurreko edo hurrengo oharrera"
+  },
+  "4230101516585408149": {
+    "message": "Idatzi ohar berria"
+  },
+  "4236714142889891754": {
+    "message": "Unitate partekatu batetik bestera eraman nahi duzu?"
+  },
+  "4239183034054216803": {
+    "message": "Marroia"
+  },
+  "4267845092591696061": {
+    "message": "Ezarri edo kendu izarra hautatutako elementuei"
+  },
+  "426927371216979233": {
+    "message": "Lerroak"
+  },
+  "4293996570221590891": {
+    "message": "Zuria"
+  },
+  "4296310694082659873": {
+    "message": "Borragoma"
+  },
+  "4299690446455033653": {
+    "message": "Works"
+  },
+  "4310202846681054741": {
+    "message": "{numberOfPreviews,plural, =1{Kendu da estekaren aurrebista}other{Kendu dira # estekaren aurrebistak}}"
+  },
+  "4318861667254318892": {
+    "message": "Google Video"
+  },
+  "4320831042030778": {
+    "message": "Utzi"
+  },
+  "4320942249997687388": {
+    "message": "Amaiera"
+  },
+  "4321382260116636620": {
+    "message": "Hautatu oharra"
+  },
+  "4332252081504252077": {
+    "message": "Ene!"
+  },
+  "433537592689162064": {
+    "message": "Lortu informazio gehiago"
+  },
+  "4343825450663233452": {
+    "message": "Ikus dezake"
+  },
+  "4343836986248234462": {
+    "message": "Zerrendako elementua"
+  },
+  "4343848624651344174": {
+    "message": "Eguerdia"
+  },
+  "435214284915110062": {
+    "message": "Ireki bilaketa-barra"
+  },
+  "435444400175963053": {
+    "message": "$1​ elementu $2​ karpetara eraman dira."
+  },
+  "4356312843186491987": {
+    "message": "Mugitu"
+  },
+  "4357246389840951053": {
+    "message": "Ezin dira eraman erantsitako scriptak dituzten elementu batzuk unitate partekatuetara oraindik."
+  },
+  "4391715930031906467": {
+    "message": "Aurkitu hurrengoa"
+  },
+  "4397482594800054550": {
+    "message": "Arazo bat izan da \"$1​\" elementuaren izena aldatzean."
+  },
+  "4412626362660239325": {
+    "message": "Antolatu Drive-n"
+  },
+  "4422985761498356257": {
+    "message": "Ireki honekin"
+  },
+  "4429542915339609008": {
+    "message": "Aplikazio honekin ezin dira fitxategi bat baino gehiago ireki."
+  },
+  "4439831283519683004": {
+    "message": "Grisa"
+  },
+  "4448871104213529122": {
+    "message": "Ezkutatu xehetasunak"
+  },
+  "4457424709416639982": {
+    "message": "Gehitu nire unitatean"
+  },
+  "4486429060311743289": {
+    "message": "Desautatu elementuak"
+  },
+  "4494250072784000771": {
+    "message": "Arkatza detektatu da. Hatza erabilita mugitzeko aukera gaituta dago."
+  },
+  "45228242181482134": {
+    "message": "Erreproduzitu"
+  },
+  "4533605085334699862": {
+    "message": "Aipuak"
+  },
+  "4543077011795639870": {
+    "message": "Txikiagotu da elementuaren koska."
+  },
+  "4546909961510778468": {
+    "message": "Drive"
+  },
+  "4550209323331625907": {
+    "message": "$2​Lortu informazio gehiago$1​"
+  },
+  "4557086341175267918": {
+    "message": "Konexioa behar da partekatzeko"
+  },
+  "4558568516353053251": {
+    "message": "Iruzkinak eta iradokizunak ikus ditzakete fitxategi honen ikusleek."
+  },
+  "4564682305303579317": {
+    "message": "Jarraitu"
+  },
+  "456512308416555173": {
+    "message": "Liburuak"
+  },
+  "4566838580250578446": {
+    "message": "{every,plural, =1{Urtero errepikatzen da}other{# urtez behin errepikatzen da}}"
+  },
+  "4583714435275461910": {
+    "message": "zerrendako elementu nagusia"
+  },
+  "4586373282767984140": {
+    "message": "Horia"
+  },
+  "4595551195988564947": {
+    "message": "Google-ren Laguntzailea eginbidearen erosketa-zerrenda aldatzear da."
+  },
+  "4602655470033495470": {
+    "message": "Gehitu oharrak, zerrendak, marrazkiak, argazkiak eta audioak Google Keep zerbitzuan."
+  },
+  "4607656353105320648": {
+    "message": "{count,plural, =1{Betiko ezabatu nahi duzu oharra?}other{Betiko ezabatu nahi dituzu oharrak?}}"
+  },
+  "4607802784047113873": {
+    "message": "Gehitu kolaboratzaile bat"
+  },
+  "4608848277887462246": {
+    "message": "Orri gehiago"
+  },
+  "461126197624379601": {
+    "message": "Sakatu hau beste erabiltzaile batzuekin fitxategi honi buruz hitz egiteko"
+  },
+  "4620034373159179678": {
+    "message": "$1​/$2​ orria"
+  },
+  "4632830890362652221": {
+    "message": "{NUM_ITEMS,plural, =1{Karpeta batean dagoen elementua mugitzen ari zara}other{Karpeta batean dauden elementuak mugitzen ari zara}}"
+  },
+  "4642196066412650732": {
+    "message": "Ezin duzu partekatu ezer erabiltzaile hauekin, haien administratzaileak haien erakundearekin partekatzeko aukera desgaitu duelako eta zure administratzaileak zure erakundetik kanpo partekatzeko aukera desgaitu duelako."
+  },
+  "4643940860676429496": {
+    "message": "Gordetzen…"
+  },
+  "4671836579708244357": {
+    "message": "Kontaktuak"
+  },
+  "4675792829115971960": {
+    "message": "Oharra desegokia dela salatuko dugu, eta kontutik kenduko dizugu."
+  },
+  "4685321580747790677": {
+    "message": "{every,plural, =1{Astero errepikatzen da ({days})}other{# astez behin errepikatzen da ({days})}}"
+  },
+  "4691283408020124345": {
+    "message": "Zerrenda-ikuspegia"
+  },
+  "4697169479015785830": {
+    "message": "Ireki Kaligrafia-tresnaren kolore- eta tamaina-hautatzailea"
+  },
+  "4697673185436885400": {
+    "message": "Kalkulu-orriak zerbitzuak ordeztu egin du $1​ arakatzailearen $2​ lasterbidea"
+  },
+  "4698144269846224816": {
+    "message": "Tamaina: 1"
+  },
+  "4699778906119153977": {
+    "message": "Bilatu"
+  },
+  "4704493722060638379": {
+    "message": "Aurreko kokapenera eramateko, sakatu Maius + N; hurrengora eramateko, aldiz, Maius + P"
+  },
+  "4722167255291887189": {
+    "message": "Tamaina: 2"
+  },
+  "4734349318830134239": {
+    "message": "Amaiera"
+  },
+  "4738612839683751348": {
+    "message": "Ezin da gehiago handitu elementuaren koska."
+  },
+  "4740100782728373253": {
+    "message": "Gorde Drive-n"
+  },
+  "4748046231232264180": {
+    "message": "Google inprimakia"
+  },
+  "4751144871302640150": {
+    "message": "Nirekin partekatutakoak"
+  },
+  "4751202914935960324": {
+    "message": "Helbide hau lehendik dago"
+  },
+  "4752655540567953719": {
+    "message": "Kokapena: $1​"
+  },
+  "4762625944764691132": {
+    "message": "Menu nagusia"
+  },
+  "47670360985205683": {
+    "message": "Google-k birusak bilatzeko onartzen duen fitxategien gehieneko tamaina gainditzen du \"$1​\" fitxategiak ($2​). Agian kalte egingo dio ordenagailuari; beraz, erreproduzi ezazu arriskuak ulertzen badituzu soilik."
+  },
+  "4767722428137216885": {
+    "message": "Utzi"
+  },
+  "477328789314249432": {
+    "message": "Bilatu oharretan"
+  },
+  "4775368111547931093": {
+    "message": "Ez dauka azalpenik"
+  },
+  "4780778609011268862": {
+    "message": "Ezin da mugitu fitxategia, unitate partekatua jada iritsi delako unitate partekatu batek izan dezakeen gehieneko fitxategi kopurura."
+  },
+  "4805047680716507619": {
+    "message": " - Eraman hona:"
+  },
+  "4806763987633034948": {
+    "message": "PKCS7 sinadura"
+  },
+  "4807444103404336088": {
+    "message": "Arazo bat izan da \"$1​\" elementuan izarra gehitzean."
+  },
+  "4816888965396680834": {
+    "message": "Editatu eta jardun elkarlanean une-unean $2​ fitxategiekin Google-ren $1​ zerbitzuan"
+  },
+  "4821130290026382049": {
+    "message": "Lasterbide ezagunak"
+  },
+  "4833214200453019325": {
+    "message": "$1​/$2​"
+  },
+  "4839460587397079680": {
+    "message": "Bideoak"
+  },
+  "4840513623749850224": {
+    "message": "Filmak"
+  },
+  "4847795993918486929": {
+    "message": "Ezin da hartu irudiko testua. Saiatu berriro geroago."
+  },
+  "4853788427396558692": {
+    "message": "$1​ MB"
+  },
+  "4858389278403807208": {
+    "message": "Oharra zaborrontzian"
+  },
+  "4864051612562026766": {
+    "message": "{count,plural, =1{1 hautatuta}other{# hautatuta}}"
+  },
+  "4878012031550736317": {
+    "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Erabiltzaileak ez badira \"{TEAM_DRIVE_NAME}\" taldeko unitateko kide, ezin izango dute atzitu fitxategia.}other{Erabiltzaileak ez badira \"{TEAM_DRIVE_NAME}\" taldeko unitateko kide, ezin izango dituzte atzitu fitxategiak.}}"
+  },
+  "490045476479394048": {
+    "message": "Nabarmendu iruzkindu beharreko testua"
+  },
+  "4906669330059413958": {
+    "message": "Bidali pasahitza"
+  },
+  "4907349694646937491": {
+    "message": "$1​ indizera eraman da oharra"
+  },
+  "4915450884407029247": {
+    "message": "$1​ etiketa gehitu da."
+  },
+  "4918998818369420588": {
+    "message": "Eman erabilera okerraren berri"
+  },
+  "4930422592340561418": {
+    "message": "Nire unitatea"
+  },
+  "4930506384627295710": {
+    "message": "Ezarpenak"
+  },
+  "4937266179792749481": {
+    "message": "Azkenak"
+  },
+  "4955094356920130803": {
+    "message": "Horixka"
+  },
+  "4957674814179289955": {
+    "message": "Joan zerrendako aurreko edo hurrengo elementura"
+  },
+  "4963533275503057654": {
+    "message": "Irudi txikia sortzen…"
+  },
+  "4963784280521435720": {
+    "message": "Gordetzen…"
+  },
+  "4974059227183970715": {
+    "message": "Etiketak ere gehi ditzakezu, \"#\" idatzita."
+  },
+  "4974261966265341751": {
+    "message": "Desgaitu gai iluna"
+  },
+  "4982284738093713321": {
+    "message": "Antolatzailea"
+  },
+  "4988132901627446385": {
+    "message": "Xehetasunen panela zabaldu da."
+  },
+  "5000971639019912199": {
+    "message": "$2​Baldintzak$1​"
+  },
+  "5006765610090288212": {
+    "message": "Kolorea aplikatu da: $1​"
+  },
+  "5008901799534614532": {
+    "message": "Ezabatu"
+  },
+  "5009448218905630614": {
+    "message": "Kendu"
+  },
+  "5011858093760184160": {
+    "message": "Kendu izarra"
+  },
+  "5013331898336483156": {
+    "message": "Beste domeinu bateko unitate batera eraman nahi dituzu?"
+  },
+  "5023623739220371850": {
+    "message": "Ezin izan da autentifikatu. Saioa hasten duzunean sinkronizatuko dira aldaketak."
+  },
+  "5041572047197549869": {
+    "message": "Hilero, egun berean"
+  },
+  "5045725997997672553": {
+    "message": "{weekNumber,plural, =1{Hilero (lehenengo {day})}=2{Hilero (bigarren {day})}=3{Hilero (hirugarren {day})}=4{Hilero (laugarren {day})}other{Hilero (azken {day})}}"
+  },
+  "5046371569383796818": {
+    "message": "Utzi bere horretan"
+  },
+  "5052461293250181960": {
+    "message": "orrian atzera"
+  },
+  "5060107422621709815": {
+    "message": "Ezin izan da freskatu"
+  },
+  "5075841894330153061": {
+    "message": "Marrazkia ixteko, joan gora ezkerrera eta sakatu Atzera"
+  },
+  "5078184843381528205": {
+    "message": "Ainguratu oharra"
+  },
+  "5085332075590890665": {
+    "message": "Desegin"
+  },
+  "5086862627563516607": {
+    "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{\"{TEAM_DRIVE_NAME}\" taldeko unitateko kideek elementu hau atzitu ahal izango dute.}other{\"{TEAM_DRIVE_NAME}\" taldeko unitateko kideek elementu hauek atzitu ahal izango dituzte.}}"
+  },
+  "5089697363226053379": {
+    "message": "Eraman hona:"
+  },
+  "5094400861508407603": {
+    "message": "Kendu da buleta"
+  },
+  "5095987896933771566": {
+    "message": "Inprimatu dokumentua"
+  },
+  "509815948423424872": {
+    "message": "Nabigazioa"
+  },
+  "5098941979861776792": {
+    "message": "Sartu"
+  },
+  "5121976648047240846": {
+    "message": "Kendu etiketa"
+  },
+  "5130903421326358933": {
+    "message": "Arazo bat izan da eranskina Google Drive-n gordetzean."
+  },
+  "5134649253619244584": {
+    "message": "Ezabatu etiketa"
+  },
+  "5140285776541296873": {
+    "message": "Pertsonalizatua"
+  },
+  "5140450179685369890": {
+    "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} karpeta eraman da {XXX_1} karpetara.}other{{NUM_ITEMS_2} karpeta eraman dira {XXX_2} karpetara.}}"
+  },
+  "5151247077945318396": {
+    "message": "Errore bat gertatu da edukia zer karpetatara atera behar den zehaztean."
+  },
+  "5159511879001144721": {
+    "message": "Kobalto-urdina"
+  },
+  "5167365673547406876": {
+    "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{\"{TEAM_DRIVE_NAME}\" taldeko unitateko kideek atzitu ahal izango dute.}other{\"{TEAM_DRIVE_NAME}\" taldeko unitateko kideek atzitu ahal izango dituzte.}}"
+  },
+  "5178674191443894176": {
+    "message": "Etiketak"
+  },
+  "5178939467831590680": {
+    "message": "Ezkutatu ikustailearen arazketaren xehetasunak"
+  },
+  "5180454621500142444": {
+    "message": "Leheneratu"
+  },
+  "5180989337128758117": {
+    "message": "ezkerreko kako zuzena"
+  },
+  "5182569285908080938": {
+    "message": "Amaiera-daten aukerak"
+  },
+  "5184692850089055965": {
+    "message": "Hartu irudiko testua"
+  },
+  "5184785218378634051": {
+    "message": "Kendu zaio zooma elementuari."
+  },
+  "5197718200713913936": {
+    "message": "C++"
+  },
+  "5201670213497642487": {
+    "message": "Xehetasunen panelaren fitxako barra. Fitxa batetik bestera joateko, sakatu Ezkerrera eta Eskuinera geziak."
+  },
+  "5202835861850747976": {
+    "message": "$2​Lortu informazio gehiago$1​"
+  },
+  "5204391636475413312": {
+    "message": "Gorde"
+  },
+  "5238284741118437734": {
+    "message": "Desegin"
+  },
+  "5238307666527496111": {
+    "message": "Ados"
+  },
+  "5238371081785912565": {
+    "message": "Ireki $1​ aplikazioaren bidez"
+  },
+  "5255388116256536182": {
+    "message": "Iruzkindu nahi dituzun gelaxkak hautatzeko, erabili gezi-teklak. Hautapena zabaltzeko, eduki sakatuta Maius tekla gezi-teklak sakatzen dituzun bitartean. Iruzkina sortzeko, sakatu Sartu tekla; bertan behera uzteko, ordea, sakatu Ihes."
+  },
+  "5259541708332520733": {
+    "message": "Kendu da iturburua"
+  },
+  "5271615049826004958": {
+    "message": "Esteka bidezko aurrebistaren aukerak"
+  },
+  "527438013974545289": {
+    "message": "Iritsi da gai iluna"
+  },
+  "5281121179861637423": {
+    "message": "Pasahitza behar da $1​ atzitzeko. Idatzi pasahitza."
+  },
+  "5288037028604092288": {
+    "message": "XPS"
+  },
+  "5292097099562224381": {
+    "message": "Zaborrontzia hustu nahi duzu?  Zaborrontzian dauden ohar guztiak betiko ezabatuko dira."
+  },
+  "5299648222246616124": {
+    "message": "azentu kamutsa"
+  },
+  "5300527252159851865": {
+    "message": "Fitxategia ez dator bat espero zen fitxategi-formatuarekin."
+  },
+  "5310593920481358659": {
+    "message": "Gaiak"
+  },
+  "5311386381313171872": {
+    "message": "Google Drive"
+  },
+  "5320475549855398784": {
+    "message": "Internetera konektatzean egongo da erabilgarri marrazki hau."
+  },
+  "5321772883765574323": {
+    "message": "\"$1​\" $2​ karpetatik $3​ karpetara eraman."
+  },
+  "5334959887390704534": {
+    "message": "Etiketa hau ezabatuko dugu, eta Keep zerbitzuko ohar guztietatik kenduko dugu. Oharrak ez dira ezabatuko."
+  },
+  "5336801339221383042": {
+    "message": "Javascript"
+  },
+  "5336924963122494935": {
+    "message": "Hautatu"
+  },
+  "534191528712675978": {
+    "message": "Pausatu"
+  },
+  "534228323125524312": {
+    "message": "Txikitu"
+  },
+  "5353129315502554762": {
+    "message": "Estilo-orria"
+  },
+  "5362121973783326712": {
+    "message": "Kamera"
+  },
+  "5362962746518601227": {
+    "message": "{NUM_ITEMS,plural, =1{Karpeta batean dagoen fitxategia mugitzen ari zara}other{Karpeta batean dauden fitxategiak mugitzen ari zara}}"
+  },
+  "5363853533596749934": {
+    "message": "Idatzi etiketaren izena"
+  },
+  "5366505386236199032": {
+    "message": "YouTube"
+  },
+  "5372160981898991853": {
+    "message": "Publisher"
+  },
+  "5392844646168201484": {
+    "message": "Tamaina: 3"
+  },
+  "5394695048211047984": {
+    "message": "Gehitu data"
+  },
+  "5398036630337418486": {
+    "message": "Ireki dokumentua"
+  },
+  "5403636185480096151": {
+    "message": "Telebista"
+  },
+  "540596856674438371": {
+    "message": "Ezin da partekatu, partekatzeko aukera desaktibatuta dagoelako."
+  },
+  "5408091115193390231": {
+    "message": "AutoCAD"
+  },
+  "5413225497191133249": {
+    "message": "Jarri edo kendu aingura oharrei"
+  },
+  "5422660126805186552": {
+    "message": "Irakurri modu atseginagoan. Ezarpenetan aktibatu edo desaktiba dezakezu modu iluna."
+  },
+  "5423742603774911808": {
+    "message": "Handiegia da zerrenda."
+  },
+  "5435749276779042277": {
+    "message": "BESTE $1​"
+  },
+  "5447119197363232006": {
+    "message": "Erakutsi Drive-n"
+  },
+  "5455566801812656827": {
+    "message": "GUTXIAGO"
+  },
+  "5465081454525683943": {
+    "message": "Oharra jada ez da zure kontuarekin partekatzen. Eskatu jabeari sartzeko baimena edo aldatu baimen hori duen kontu batera."
+  },
+  "5467649767578147801": {
+    "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Erabiltzaileak ez badira \"{TEAM_DRIVE_NAME}\" taldeko unitateko kide edo {DOMAIN_NAME} domeinutik kanpo badaude, ezin izango dute atzitu fitxategia.}other{Erabiltzaileak ez badira \"{TEAM_DRIVE_NAME}\" taldeko unitateko kide edo {DOMAIN_NAME} domeinutik kanpo badaude, ezin izango dituzte atzitu fitxategiak.}}"
+  },
+  "546766753072101168": {
+    "message": "Etiketak"
+  },
+  "5478662967017843220": {
+    "message": "Urdin iluna"
+  },
+  "5480497191725157666": {
+    "message": "Ihes"
+  },
+  "5482604275203517054": {
+    "message": "ezkerrera"
+  },
+  "5503885447744017882": {
+    "message": "$2​ domeinutik kanpo dagoen \"$1​\" taldeko unitatera eraman nahi dituzu?"
+  },
+  "5506390497558702263": {
+    "message": "{count,plural, =1{Artxibotik kendu da oharra, eta ainguratu egin da}other{Artxibotik kendu dira # ohar, eta ainguratu egin dira}}"
+  },
+  "5520112019886360037": {
+    "message": "Itxi"
+  },
+  "5534694255293809224": {
+    "message": "Oharrak editatzeari uzteko, sakatu $1​ + Sartu"
+  },
+  "5539958940810433464": {
+    "message": "Eraman oharra zaborrontzira"
+  },
+  "5542817571710587822": {
+    "message": "Fitxategiak irudi gehiegi ditu."
+  },
+  "5545146751578623220": {
+    "message": "Blok Maius"
+  },
+  "5555182241047709329": {
+    "message": "Aukeratu kokapena"
+  },
+  "5562491070882550010": {
+    "message": "Behin ezabatuta, oharrak ez dira egongo ikusgai partekatuta zituzten erabiltzaileentzat."
+  },
+  "556742419793425318": {
+    "message": "Baztertu"
+  },
+  "5570885401952336951": {
+    "message": "Bezeroaren erregistroa"
+  },
+  "5578032872220617725": {
+    "message": "Ohar guztiak hautatzeko, sakatu $1​ + A"
+  },
+  "5581834527128285229": {
+    "message": "Arazo bat izan da \"$1​\" Nire unitatea atalean gehitzean."
+  },
+  "5592884381280360832": {
+    "message": "Ados"
+  },
+  "5598649706113950710": {
+    "message": "Editorea"
+  },
+  "5601530442010506564": {
+    "message": "Ados"
+  },
+  "5603830044099155569": {
+    "message": "Aurreko oharrera joateko, sakatu J; hurrengora joateko, aldiz, K"
+  },
+  "564165666160590723": {
+    "message": "Windows Media Player"
+  },
+  "5648022012893174586": {
+    "message": "Lerro lodiak marrazteko, sakatu markatzailearen ikonoa"
+  },
+  "5652536812290902558": {
+    "message": "Deskargatu audioa"
+  },
+  "5678095606167600931": {
+    "message": "Txertatu da buleta"
+  },
+  "568072913338360182": {
+    "message": "HTML"
+  },
+  "5687611645532246887": {
+    "message": "Albumak"
+  },
+  "5714240424645614611": {
+    "message": "Android Package"
+  },
+  "5714760273477184428": {
+    "message": "Iruzkindu beharreko eremua nabarmentzeko, erabili geziak; ondoren, sakatu Sartu"
+  },
+  "5738003914096572768": {
+    "message": "Aktibatutakoak"
+  },
+  "5755541943799933389": {
+    "message": "Izarra gehitu zaio \"$1​\" elementuari."
+  },
+  "5772465571783741830": {
+    "message": "Arazo bat izan da \"$1​\" elementurako lasterbidea sortzean"
+  },
+  "577619047319778196": {
+    "message": "Garbitu hautapena"
+  },
+  "5801257863595278616": {
+    "message": "Ezkerrera eraman da hautapena."
+  },
+  "5808038805122520160": {
+    "message": "Marrazkiak izan dezakeen tamainara iritsi zara."
+  },
+  "5813834209240603556": {
+    "message": "Aurreko elementura joateko, sakatu N; hurrengora joateko, aldiz, P"
+  },
+  "5820033033803019104": {
+    "message": "Antolatu"
+  },
+  "5826302153453971149": {
+    "message": "Arrosa argia"
+  },
+  "5840202488368071194": {
+    "message": "Gehitu irudidun oharra"
+  },
+  "5840330517914556080": {
+    "message": "Txikitu"
+  },
+  "5854158607727111728": {
+    "message": "Tabulazioa"
+  },
+  "5869813956121628651": {
+    "message": "Iruzkintzeko aukera ez dago erabilgarri"
+  },
+  "5870134033985574990": {
+    "message": "Ateratzen…"
+  },
+  "5871692308013280837": {
+    "message": "Ikusi kategoriak"
+  },
+  "5871966496153339793": {
+    "message": "$1​ bideoaren irudi txikia ikusgai"
+  },
+  "5876498556450482026": {
+    "message": "Kolorearekin nabarmentzeko, sakatu nabarmentze-tresnaren ikonoa"
+  },
+  "5895666393386604578": {
+    "message": "Koska ezartzeko elementuei, arrasta itzazu edo erabili $1​ lasterbidea."
+  },
+  "5906730626678011496": {
+    "message": "Gehitu lasterbide bat Drive-n"
+  },
+  "5909490544352162901": {
+    "message": "Eskatu jabeari oharrean sartzeko baimena, edo erabili baimen hori duen kontu bat. $1​ gisa daukazu hasita saioa."
+  },
+  "5911012384539794869": {
+    "message": "Ezin izan da abiarazi edukia ateratzeko prozesua."
+  },
+  "591481266986424156": {
+    "message": "Une honetan, lasterbide hau honetarako darabil $1​ arakatzaileak:$2​"
+  },
+  "5916010927050975496": {
+    "message": "$1​ KB"
+  },
+  "5917528552332886959": {
+    "message": "Erakutsi ebatzitako iruzkinak"
+  },
+  "5947790263929501779": {
+    "message": "Bulet bihurtu da"
+  },
+  "5949528478488617689": {
+    "message": "Deskarga-baimena"
+  },
+  "5950887255133612666": {
+    "message": "Hasi gabe."
+  },
+  "5954965790623966933": {
+    "message": "Gorrimina"
+  },
+  "5961691090101357621": {
+    "message": "Oihala beherantz zabaldu da."
+  },
+  "5961981688037913870": {
+    "message": "$1​ gehitu da"
+  },
+  "5965683144165568126": {
+    "message": "Aldatu zerrendako elementuaren ordena"
+  },
+  "5969696744752069015": {
+    "message": "Aurrebista ez dago erabilgarri."
+  },
+  "597927944425927829": {
+    "message": "\"$1​\" taldeko unitatetik zuri transferituko zaizu jabetza."
+  },
+  "5984398071085567332": {
+    "message": "Google Taula dinamikoak"
+  },
+  "5987609488177213747": {
+    "message": "Sortu etiketa"
+  },
+  "5989809255170931770": {
+    "message": "{time,plural, =1{# segundo barru eguneratuko da Keep}other{# segundo barru eguneratuko da Keep}}"
+  },
+  "5994697604396931641": {
+    "message": "Kendu guztiak"
+  },
+  "5999179030782577147": {
+    "message": "Oharrak zaborrontzira eramateko, sakatu #"
+  },
+  "6009962986062136164": {
+    "message": "$1​ kargatzen ari da."
+  },
+  "6011637630664474614": {
+    "message": "Zuriunea"
+  },
+  "6011708967018957768": {
+    "message": "Unitate partekatura transferitu nahi duzu jabetza?"
+  },
+  "6027516495119898580": {
+    "message": "Kokapen-abisuak ez daude erabilgarri"
+  },
+  "6030537159236285525": {
+    "message": "Eraman zerrendako elementua hurrengo/aurreko kokapenera"
+  },
+  "60305871484579258": {
+    "message": "Alt"
+  },
+  "6033916931543811803": {
+    "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} karpeta eraman da {XXX_1} karpetatik {XXX_2} karpetara.}other{{NUM_ITEMS_2} karpeta eraman dira {XXX_3} karpetatik {XXX_4} karpetara.}}"
+  },
+  "6043578784980337112": {
+    "message": "$1​ fitxategi $2​ karpetara eraman dira."
+  },
+  "6049952042443321325": {
+    "message": "Lasterbideen taula"
+  },
+  "6062216008944363143": {
+    "message": "{weekNumber,plural, =1{{every} hilez behin errepikatzen da (lehenengo {day})}=2{{every} hilez behin errepikatzen da (bigarren {day})}=3{{every} hilez behin errepikatzen da (hirugarren {day})}=4{{every} hilez behin errepikatzen da (laugarren {day})}other{{every} hilez behin errepikatzen da (azken {day})}}"
+  },
+  "6069780031254134657": {
+    "message": "Markatu egindako gisa"
+  },
+  "6087078248621415351": {
+    "message": "Azken aldaketa: $1​"
+  },
+  "6100883940579706314": {
+    "message": "Estekaren aurrebista"
+  },
+  "6103793971765619589": {
+    "message": "Ezin duzu partekatu ezer erabiltzaile hauekin, haien administratzaileak haien erakundearekin partekatzeko aukera desgaitu duelako."
+  },
+  "6105571474005679446": {
+    "message": "Arazo bat izan da aurrebista kargatzean."
+  },
+  "6113237889871930608": {
+    "message": "Ohar zuria"
+  },
+  "6118623991445349480": {
+    "message": "$1​. orria"
+  },
+  "6122643025527543706": {
+    "message": "Ktrl"
+  },
+  "6127325177382263770": {
+    "message": "URLak"
+  },
+  "6128550071219729739": {
+    "message": "Ezabatu da irudia"
+  },
+  "6131822680770571276": {
+    "message": "PowerPoint"
+  },
+  "6149175749937815029": {
+    "message": "Ikusi elementu guztiak"
+  },
+  "6159229289552931928": {
+    "message": "Karpeta partekatura eraman nahi duzu?"
+  },
+  "616807262818311711": {
+    "message": "Mota"
+  },
+  "6176354714840789272": {
+    "message": "Estekak gorde ere egin ditzakezu geroko $2​Chrome-ko Google Keep luzapena$1​ erabilita."
+  },
+  "6186753450686672643": {
+    "message": "{every,plural, =1{Egunero errepikatzen da}other{# egunez behin errepikatzen da}}"
+  },
+  "6189397065139465013": {
+    "message": "Maiztasuna:"
+  },
+  "6201176165479907499": {
+    "message": "{count,plural, =1{Ainguratu da oharra}other{Ainguratu dira # ohar}}"
+  },
+  "6203260615455347677": {
+    "message": "Numbers"
+  },
+  "6209117354086898503": {
+    "message": "Atzera"
+  },
+  "6211895332551673425": {
+    "message": "$2​Nire unitatean$1​ gehituta"
+  },
+  "6223207695466118454": {
+    "message": "YouTube"
+  },
+  "6223530531885788421": {
+    "message": "Lasterbidea Drive-n gehitzen…"
+  },
+  "6224687211096863620": {
+    "message": "Edonork"
+  },
+  "6225875898439047571": {
+    "message": "Ukatu"
+  },
+  "6231442995102088007": {
+    "message": "Google Keep zerbitzuko berritasunak"
+  },
+  "6252259197986158120": {
+    "message": "Atzo"
+  },
+  "6263940822259442857": {
+    "message": "Ezkutatu kontrol-laukiak"
+  },
+  "6286379137937560558": {
+    "message": "Artikulua"
+  },
+  "6286806453721792102": {
+    "message": "Antolatu Drive-n"
+  },
+  "6305748545202493254": {
+    "message": "Erakutsi/Ezkutatu xehetasunen panela"
+  },
+  "6306268376900894985": {
+    "message": "Amaiera-data: {endDate}"
+  },
+  "6324768448533022780": {
+    "message": "$2​(e)ko $1​"
+  },
+  "6347484050944915390": {
+    "message": "Bidali da eskaera. Onartzen denean, mezu elektroniko bat jasoko duzu."
+  },
+  "6352952829934775705": {
+    "message": "GEHIAGO"
+  },
+  "6366376928558090914": {
+    "message": "Janaria"
+  },
+  "6371576811194810854": {
+    "message": "Errepikaldi kopurua:"
+  },
+  "6375244206466599493": {
+    "message": "Urtero"
+  },
+  "6375395544374251820": {
+    "message": "Arazo bat izan da orri gehiago kargatzean. Berriro saiatzen…"
+  },
+  "6377664889539934": {
+    "message": "Marraztu hatza erabilita"
+  },
+  "6381941041429900831": {
+    "message": "Gehitu kolaboratzaile bat"
+  },
+  "6386587519843563719": {
+    "message": "Fitxategi bitarra"
+  },
+  "639451288140270562": {
+    "message": "Kopiatu da Google Dokumentuak zerbitzuan"
+  },
+  "6394816510866826521": {
+    "message": "Dogfoody"
+  },
+  "6402092370576716734": {
+    "message": "Hustu zaborrontzia"
+  },
+  "6413404795391222793": {
+    "message": "Idatzi zerrenda berria"
+  },
+  "6416495701611778255": {
+    "message": "Iradokitako hirugarrenen aplikazioak"
+  },
+  "6417706204201069253": {
+    "message": "Oharrak ezabatzen badituzu, ez dira egongo ikusgai partekatuta zituzten erabiltzaileentzat."
+  },
+  "6424277546995954045": {
+    "message": "Uneko arakatzailean, ez dira ordeztu lasterbideak.\nEginbide hori gaitzeko, erabili Chrome, Firefox, IE/Edge edo Safari."
+  },
+  "6426979759685079955": {
+    "message": "Erakutsi iruzkin inaktiboak"
+  },
+  "6428000916830484004": {
+    "message": "Marroia"
+  },
+  "6432019580434957057": {
+    "message": "Audioa"
+  },
+  "6443103650988201046": {
+    "message": "Colaboratory"
+  },
+  "6443615802319581315": {
+    "message": "{NUM_ITEMS,plural, =1{Ez duzu baimenik fitxategi hau uneko karpetetatik eramateko. Horren ordez, gehitu fitxategia {START_SPAN_1}{NAME}{END_SPAN} karpetan.}other{Ez duzu baimenik fitxategi hauek uneko karpetetatik eramateko. Horren ordez, gehitu fitxategiak {START_SPAN_2}{NAME}{END_SPAN} karpetan.}}"
+  },
+  "6450508807204492448": {
+    "message": "$1​ ikonoa"
+  },
+  "6457802200418354862": {
+    "message": "Ikusleek deskarga dezakete"
+  },
+  "6459405233858728718": {
+    "message": "Google Aurkezpenak"
+  },
+  "6473102097014191455": {
+    "message": "Marrazki-oharra"
+  },
+  "6477306554098527424": {
+    "message": "Google-ren Laguntzailea"
+  },
+  "6480376252068839019": {
+    "message": "Ireki saretaren aukerak"
+  },
+  "6487295087519678926": {
+    "message": "Kargatu Drive-n"
+  },
+  "6490084340347327400": {
+    "message": "Ohar eta zerrenda baten artean aldatzeko, sakatu $1​ + Maius + 8"
+  },
+  "6497197865876438261": {
+    "message": "Musika"
+  },
+  "6507257480072167483": {
+    "message": "$1​ da etiketaren izen berria."
+  },
+  "6510131849363684615": {
+    "message": "Bihar"
+  },
+  "6513721414466645971": {
+    "message": "Zeure burua kendu duzu"
+  },
+  "6524849072392100692": {
+    "message": "Google Drive-ko karpeta"
+  },
+  "653160061888539741": {
+    "message": "Garapenaren kontrolagailua"
+  },
+  "6571686604846453345": {
+    "message": "Arazo bat izan da elementu hau Drive-n gehitzean."
+  },
+  "6578339688410021742": {
+    "message": "\"$1​\" taldeko unitateko kide guztiek atzitu ahal izango dituzte elementuak."
+  },
+  "6579707685908557993": {
+    "message": "Arratsaldea"
+  },
+  "6588176324871799870": {
+    "message": "Google Apps Script"
+  },
+  "6595703969647338657": {
+    "message": "{count,plural, =1{Oharra sortu da}other{# ohar sortu dira}}"
+  },
+  "6618562607681757575": {
+    "message": "Ez eraman inora karpetetatik. Besterik gabe, gehitu $3​$2​$1​ karpetan."
+  },
+  "6622304228074863427": {
+    "message": "Aplikazioa"
+  },
+  "6627510416186113122": {
+    "message": "Anil argia"
+  },
+  "6664835828596108553": {
+    "message": "Aukera"
+  },
+  "6667440728495437281": {
+    "message": "Arazo bat izan da dokumentua aurreikustean. Berriro saiatzen…"
+  },
+  "6674095299257911962": {
+    "message": "Elementu honek eduki mugatua du eta, ondorioz, ezin da partekatu $1​ domeinutik kanpo"
+  },
+  "670419277288558500": {
+    "message": "Bideoa/Audioa"
+  },
+  "6707173584987026005": {
+    "message": "Gaur"
+  },
+  "6710728478489145370": {
+    "message": "Itxi"
+  },
+  "6713235295664405475": {
+    "message": "|"
+  },
+  "6715985122107380503": {
+    "message": "Grabaketak"
+  },
+  "6726462693927865256": {
+    "message": "Xehetasunak"
+  },
+  "6726879257388338969": {
+    "message": "Inprimatu"
+  },
+  "6732800471045353930": {
+    "message": "Ohar hau onartutako gehieneko pertsona kopuruarekin partekatu da."
+  },
+  "673551770550324419": {
+    "message": "Doitu zabalerara"
+  },
+  "6747528043814108113": {
+    "message": "$1​ darabilzu orain"
+  },
+  "6749829802551750923": {
+    "message": "gora"
+  },
+  "6750600017746655174": {
+    "message": "Aukera"
+  },
+  "6750827506231593056": {
+    "message": "Aldatu kontuz"
+  },
+  "6755327423364814290": {
+    "message": "Aplikazioarekin, oharrak bizkorrago egin ditzakezu"
+  },
+  "6761622351199419182": {
+    "message": "Artxibatutako oharra"
+  },
+  "6773222938695237983": {
+    "message": "{NUM_ITEMS,plural, =0{Unused}=1{Elementu hau partekatu nahi duzu?}other{Elementu hauek partekatu nahi dituzu?}}"
+  },
+  "6778577079172085976": {
+    "message": "Ainguratutakoak"
+  },
+  "678660085936036852": {
+    "message": "Irudiak prozesatzen…"
+  },
+  "6787580031482277539": {
+    "message": "Inoiz ere ez"
+  },
+  "6798055902819777633": {
+    "message": "Mugitu hatza erabilita"
+  },
+  "6801348618370627980": {
+    "message": "$1​ etiketa sortu da."
+  },
+  "6815042072535422726": {
+    "message": "Ezabatu da audio-grabaketa"
+  },
+  "6822520214440117457": {
+    "message": "Lantokia"
+  },
+  "6831650827360444197": {
+    "message": "Oharra partekatzeari utzi zaio."
+  },
+  "6833062695195555756": {
+    "message": "Ireki Borragoma tresnaren aukeren menua"
+  },
+  "6833760103261954639": {
+    "message": "Arazo bat izan da orri hau kargatzean. Berriro saiatzen…"
+  },
+  "68477685313713097": {
+    "message": "{MINUTES,plural, =0{0 minutu}=1{1 minutu}other{{MINUTES} minutu}}"
+  },
+  "6864144421392687943": {
+    "message": "Ordenagailuak"
+  },
+  "687402923448150707": {
+    "message": "Desmarkatu da"
+  },
+  "689017442055275529": {
+    "message": "$1​ erabiltzailearen familiaren taldea"
+  },
+  "6891563484025164308": {
+    "message": "Aurrekoa"
+  },
+  "6898823203505321799": {
+    "message": "Xehetasunak"
+  },
+  "6904351530369058983": {
+    "message": "Jabea"
+  },
+  "6905505747689522124": {
+    "message": "Life-ko artxibo-bilaketa"
+  },
+  "6907559338225657032": {
+    "message": "Mugitu"
+  },
+  "691041991673354191": {
+    "message": "Kendu neure burua"
+  },
+  "6918505531548047245": {
+    "message": "Nabarmentze-tresna"
+  },
+  "6921237745237410511": {
+    "message": "Gehitu iruzkina"
+  },
+  "6922953828399110511": {
+    "message": "Itxi ikustailea"
+  },
+  "6925056317406251324": {
+    "message": "Irudi-bilaketa"
+  },
+  "693770783324368110": {
+    "message": "Aingura kendu zaie oharrei, eta zaborrontzira eraman dira"
+  },
+  "6956515948204056309": {
+    "message": "Ezkutatu dira iruzkin inaktiboak"
+  },
+  "6966912428667098497": {
+    "message": "Artxibatu dituzun oharrak hemen agertzen dira"
+  },
+  "6979766453743005049": {
+    "message": "Zerrendako elementuak berrantolatzeko eta haiei koska ezartzeko, arrastatu eta jaregin itzazu"
+  },
+  "6980199665979997122": {
+    "message": "Leheneratu"
+  },
+  "6982321568096234183": {
+    "message": "Deskargatu audioa ($1​)"
+  },
+  "6982682101118067511": {
+    "message": "Antolatzen…"
+  },
+  "7005745151564974365": {
+    "message": "Lasterbideak"
+  },
+  "7005977332887563273": {
+    "message": "Gehitu lasterbidea"
+  },
+  "701276785305022936": {
+    "message": "Dokumentua hondatuta dago. Ziurtatu fitxategia formatu berrienean dagoela."
+  },
+  "7017485862232001373": {
+    "message": "\"$1​\" $2​ karpetan gehitu da."
+  },
+  "7019002927048576918": {
+    "message": "$1​Bilaketa-iragazkiak"
+  },
+  "7030308038380934896": {
+    "message": "Ezin izan da kopiatu Google Dokumentuak zerbitzuan"
+  },
+  "7050021021988648361": {
+    "message": "Kopiatu URLa"
+  },
+  "7050898523853841537": {
+    "message": "Maiztasun-aukerak"
+  },
+  "705714112650622350": {
+    "message": "Arazo bat izan da elementua Google Drive-n gehitzean."
+  },
+  "7059437903473652416": {
+    "message": "Erreproduzitu YouTube-ko $1​ bideoa"
+  },
+  "7066744251212631722": {
+    "message": "Lima-kolorea"
+  },
+  "7084991134824194740": {
+    "message": "Gogorarazi"
+  },
+  "7086801490719148597": {
+    "message": "Desautatu"
+  },
+  "7094548885298700726": {
+    "message": "Marroi iluna"
+  },
+  "7102649289752747375": {
+    "message": "Bidali oharrak"
+  },
+  "7121259585839664942": {
+    "message": "Utzi"
+  },
+  "7126326627883991568": {
+    "message": "Ezabatu uneko marrazkia"
+  },
+  "7126535013613878060": {
+    "message": "Ainguratu ohar garrantzitsuak goialdean."
+  },
+  "7135182401951359795": {
+    "message": "Transferitu egingo zaizu jabetza."
+  },
+  "7141983486405549971": {
+    "message": "Txertatu"
+  },
+  "7145753028985071097": {
+    "message": "Oharraren ordena aldatzen"
+  },
+  "7146242673022399081": {
+    "message": "Testua"
+  },
+  "7148992630785407972": {
+    "message": "Fitxategia pasahitzarekin babestuta dago eta ezin da aurreikusi."
+  },
+  "7149013203800794567": {
+    "message": "{count,plural, =1{Kolorea {color} da. Hautatu beste kolore bat oharrari aplikatzeko.}other{Kolorea {color} da. Hautatu beste kolore bat oharrei aplikatzeko.}}"
+  },
+  "7153847618034547771": {
+    "message": "Gaitu"
+  },
+  "7161134329606048317": {
+    "message": "Itxi"
+  },
+  "7164532930742017984": {
+    "message": "Esteka duen edonork"
+  },
+  "7166989725427500881": {
+    "message": "Hautatu zaborrontziko oharra"
+  },
+  "7174409400206281023": {
+    "message": "Aldaketek sortutako gatazkak aurkitu dira"
+  },
+  "7181961085183734135": {
+    "message": "Ezin da inprimatu fitxategia"
+  },
+  "7182285309564868243": {
+    "message": "Errore bat gertatu da fitxategiak edo karpetak mugitzean"
+  },
+  "7187441427660427801": {
+    "message": "Ireki marrazkia"
+  },
+  "7190398092435016951": {
+    "message": "{count,plural, =1{Oharra ezabatzen baduzu, ez da egongo ikusgai partekatzeko aukeratu dituzun erabiltzaileentzat.}other{Oharrak ezabatzen badituzu, ez dira egongo ikusgai partekatzeko aukeratu dituzun erabiltzaileentzat.}}"
+  },
+  "7201188472754345797": {
+    "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Erabiltzaileak {DESTINATION_DOMAIN} domeinutik kanpo badaude, ezin izango dute atzitu fitxategia.}other{Erabiltzaileak {DESTINATION_DOMAIN} domeinutik kanpo badaude, ezin izango dituzte atzitu fitxategiak.}}"
+  },
+  "7207109722898253285": {
+    "message": "Utzi hautatuak beren horretan"
+  },
+  "7218693060378095915": {
+    "message": "Berria"
+  },
+  "722264179594523168": {
+    "message": "Utzi"
+  },
+  "7225445911355686176": {
+    "message": "Hautatu artxibatutako oharra"
+  },
+  "722702934847795304": {
+    "message": "Project"
+  },
+  "7231231875581131930": {
+    "message": "{NUM_ITEMS,plural, =0{Unused}=1{Ezin duzu atzera eraman elementu hau \"{TEAM_DRIVE_NAME}\" taldeko unitatera. Beraz, ezin izango duzu desegin ekintza hau.}other{Ezin duzu atzera eraman elementu bat gutxienez \"{TEAM_DRIVE_NAME}\" taldeko unitatera. Beraz, ezin izango duzu desegin ekintza hau.}}"
+  },
+  "7247530225058410142": {
+    "message": "$2​ ($1​)"
+  },
+  "7247965266239591227": {
+    "message": "Arazo bat izan da \"$1​\" ateratzean."
+  },
+  "7251490702980298031": {
+    "message": "Ireki Nabarmentze-tresnaren kolore- eta tamaina-hautatzailea"
+  },
+  "7265183966796883739": {
+    "message": "Ezkutatu ebatzitako iruzkinak"
+  },
+  "7278398674737413598": {
+    "message": "Ezin da bihurtu dokumentua."
+  },
+  "7278859550373246865": {
+    "message": "{count,plural, =1{Artxibatu da oharra}other{# ohar artxibatu dira}}"
+  },
+  "7290932540630116546": {
+    "message": "Ezarri da abisua ($1​)"
+  },
+  "7295254213841803546": {
+    "message": "Aldaketak baztertu nahi dituzu? Egin dituzun aldaketak ez dira gordeko."
+  },
+  "7299749713933143099": {
+    "message": "Morea"
+  },
+  "7301081435623917576": {
+    "message": "Abisuen ezarpen lehenetsiak"
+  },
+  "7306962184871750459": {
+    "message": "$3​ domeinuko \"$4​\" taldeko unitatetik $1​ domeinuko \"$2​\" taldeko unitatera transferituko da jabetza."
+  },
+  "7330497278645626593": {
+    "message": "Probatu"
+  },
+  "7342923890755029722": {
+    "message": "Itxi"
+  },
+  "7344507440412470266": {
+    "message": "Zabaldu da hautapena."
+  },
+  "734478884582426793": {
+    "message": "Fitxategi konprimatua"
+  },
+  "7353547650196788656": {
+    "message": "Gorria"
+  },
+  "7364571366369083618": {
+    "message": "Bideoa"
+  },
+  "7376703418960184879": {
+    "message": "Kopiatu"
+  },
+  "7377239345926788722": {
+    "message": "Ekintzak"
+  },
+  "7379369644162401367": {
+    "message": "Ken itzazu"
+  },
+  "7381817875028728077": {
+    "message": "Ez"
+  },
+  "7382688299146249119": {
+    "message": "Deskargatu elementua"
+  },
+  "7384785369409503695": {
+    "message": "Gaitu gai iluna"
+  },
+  "7393771571081973549": {
+    "message": "C"
+  },
+  "7420117636241237177": {
+    "message": "$1​ fitxategiko mezuak posta-kontura atera dira, eta \"Inportatuak: $2​\" etiketarekin sailkatu dira."
+  },
+  "7420364754178516134": {
+    "message": "Arazketa-tresnak"
+  },
+  "7426603384368095928": {
+    "message": "Saioa berriro hasteko eta lanean jarraitzeko, kargatu orria berriro."
+  },
+  "7427333772418801813": {
+    "message": "BESTE $1​ botoia zabaldu da"
+  },
+  "7429084719905985261": {
+    "message": "Objective C"
+  },
+  "7432956605646331928": {
+    "message": "SQL"
+  },
+  "7438696235870090716": {
+    "message": "Nire unitatea"
+  },
+  "7440735091552109962": {
+    "message": "$2​ (editatze-ordua: $1​)"
+  },
+  "7441891675459021164": {
+    "message": "Drive-n gordetzen"
+  },
+  "744753705925710199": {
+    "message": "Ezin izan diogu eman baimenik aplikazioari eskatu dizkiozun fitxategi guztiak irekitzeko. Saiatu berriro."
+  },
+  "7452116603589558390": {
+    "message": "Desautatu ainguratutako oharra"
+  },
+  "7453297286571818554": {
+    "message": "Kopiatu Google Dokumentuak zerbitzuan"
+  },
+  "7453307802804717178": {
+    "message": "Urdin argia"
+  },
+  "7458942806393710991": {
+    "message": "Desautatu artxibatutako oharra"
+  },
+  "7464780237502381438": {
+    "message": "Konektatu aplikazio gehiago"
+  },
+  "7468842863971844562": {
+    "message": "Zerrenda berria"
+  },
+  "7469895656894091562": {
+    "message": "Helbide elektronikoak ez du balio"
+  },
+  "7480128655944127234": {
+    "message": "Aldatu izena"
+  },
+  "7482924911694634213": {
+    "message": "{weekNumber,plural, =1{Hilero errepikatzen da (lehenengo {day})}=2{Hilero errepikatzen da (bigarren {day})}=3{Hilero errepikatzen da (hirugarren {day})}=4{Hilero errepikatzen da (laugarren {day})}other{Hilero errepikatzen da (azken {day})}}"
+  },
+  "7483088916037874359": {
+    "message": "Fitxategia handiegia da. "
+  },
+  "7488945223835574498": {
+    "message": "PostScript"
+  },
+  "7503234138288940590": {
+    "message": "Bilatu"
+  },
+  "7507827375601925075": {
+    "message": "Eraman oharra hurrengo/aurreko kokapenera"
+  },
+  "7510155920769316048": {
+    "message": "Oharrak eta zerrendak"
+  },
+  "7516769578943800930": {
+    "message": "Markatu da"
+  },
+  "7528204871156404767": {
+    "message": "Safari"
+  },
+  "7528441140724145783": {
+    "message": "Editatu etiketak"
+  },
+  "7529683448345488779": {
+    "message": "Idatzitako pasahitza ez da zuzena. Idatzi beste pasahitz bat."
+  },
+  "7530677128711603655": {
+    "message": "\"$1​\" bilaketaren emaitzak"
+  },
+  "7564771400033548584": {
+    "message": "{selectedCount,plural, =1{# hautatu da}other{# hautatu dira}}"
+  },
+  "7565795669925550891": {
+    "message": "Honek partekatu du:"
+  },
+  "7579280421767578228": {
+    "message": "Gogorarazi noiz edo noiz"
+  },
+  "7585826646011739428": {
+    "message": "Editatu"
+  },
+  "7586291841734385643": {
+    "message": "Ireki beste fitxa batean"
+  },
+  "7587936635257676112": {
+    "message": "Gehitu egin da $1​"
+  },
+  "7598582624136632660": {
+    "message": "Ireki bilaketa-barra eta bilatu hurrengoa"
+  },
+  "7599358608613738069": {
+    "message": "Ezabatu"
+  },
+  "7604275940271852148": {
+    "message": "Atera edukia eta ezarri posta elektronikoko kontuan"
+  },
+  "7604400308311739073": {
+    "message": "Ainguratu"
+  },
+  "7610628906656867728": {
+    "message": "Artxiboa"
+  },
+  "7610654194202731772": {
+    "message": "Ezabatu"
+  },
+  "7624042048123264803": {
+    "message": "Ireki oharra"
+  },
+  "7630069597298444649": {
+    "message": "Bilaketa-koadroa fokuratzeko, sakatu /"
+  },
+  "7630723924002267143": {
+    "message": "Laster-teklak gaituta daude."
+  },
+  "7631302417932873160": {
+    "message": "Ezin da bilatu birusik fitxategian"
+  },
+  "7648759818896108920": {
+    "message": "eta beste $1​"
+  },
+  "7649506133540465463": {
+    "message": "Ezin izan da desegin ekintza."
+  },
+  "7653702763016575386": {
+    "message": "Urdina"
+  },
+  "7656983816661099886": {
+    "message": "Gauzak"
+  },
+  "7659047104232758352": {
+    "message": "hura|hori|hau"
+  },
+  "7669677145513127809": {
+    "message": "Taldeko unitate batetik bestera eraman nahi dituzu?"
+  },
+  "7669846901402551021": {
+    "message": "Gaur"
+  },
+  "7690349821507417537": {
+    "message": "Kendu da zerrendako $1​. elementua"
+  },
+  "7690355160889785521": {
+    "message": "Berdea"
+  },
+  "7709557808259730054": {
+    "message": "Onarpenak"
+  },
+  "7709889936233398701": {
+    "message": "Kendu"
+  },
+  "7715892737835649602": {
+    "message": "Etiketak ere gehi ditzakezu, \"#\" idatzita"
+  },
+  "7724602581120994002": {
+    "message": "Laranja"
+  },
+  "7728066040934031356": {
+    "message": "Morea"
+  },
+  "7734578122414851725": {
+    "message": "PHP"
+  },
+  "7735981667219692675": {
+    "message": "{resultCount,plural, =1{# bilaketa-emaitza}other{# bilaketa-emaitza}}"
+  },
+  "774390292128857049": {
+    "message": "Bilatu"
+  },
+  "7751981235297474273": {
+    "message": "Desegin"
+  },
+  "7754093419850121316": {
+    "message": "⌘"
+  },
+  "7757440777278143092": {
+    "message": "Gris iluna"
+  },
+  "7766150028615181766": {
+    "message": "Gehitu beste lasterbide bat hemen"
+  },
+  "7766580018314203658": {
+    "message": "Marrazkiak izan dezakeen tamainara iristera zoaz. Kontuan hartu oharrean beste marrazki bat gehitzeko aukera duzula."
+  },
+  "7772544658778579390": {
+    "message": "Aurkitu dokumentuan"
+  },
+  "778181404304502404": {
+    "message": "Txikitu da elementua."
+  },
+  "7791050524692390574": {
+    "message": "Koloreak"
+  },
+  "7796648733955818629": {
+    "message": "Ezin da kargatu fitxategia. $2​ MB eta $3​ megapixel baino gutxiagoko $1​ fitxategiak onartzen ditugu."
+  },
+  "7800318069267901681": {
+    "message": "Azken aldatze-data"
+  },
+  "7803075387516434727": {
+    "message": "Ez dago bat datorren emaitzarik."
+  },
+  "7814778057875152792": {
+    "message": "Arazo bat izan da eranskina Google Drive-ren hautatutako karpetara eramatean."
+  },
+  "7819314041543176992": {
+    "message": "Itxi"
+  },
+  "7821512290975371360": {
+    "message": "Arrosa bizia"
+  },
+  "7828886646639771557": {
+    "message": "Egin oharra…"
+  },
+  "7830513726270865588": {
+    "message": "Calendar"
+  },
+  "7842164552344536314": {
+    "message": "Antolatzen…"
+  },
+  "7844842290699524598": {
+    "message": "Etiketen mugara iritsi zara. Etiketa berri bat gehitu nahi baduzu, kendu lehendik duzunetako bat."
+  },
+  "7849249492061822610": {
+    "message": "Laguntza-leiho gainerakorra erakusteko, sakatu galdera-ikurra"
+  },
+  "785840448809859989": {
+    "message": "Ordu-aukerak"
+  },
+  "7865240075542402013": {
+    "message": "Gehitu izarra"
+  },
+  "7868324478160174739": {
+    "message": "Urdina"
+  },
+  "7872546153972922699": {
+    "message": "Gauzak amaitu ahala, marka itzazu zerrendan"
+  },
+  "7873060817438017568": {
+    "message": "$2​ · $1​"
+  },
+  "7873698934773957560": {
+    "message": "Bat ere ez"
+  },
+  "787773550893657271": {
+    "message": "Aurreko marrazkia ireki da"
+  },
+  "7888520165977111723": {
+    "message": "Taldeko unitatera eraman nahi dituzu?"
+  },
+  "7895643887742936844": {
+    "message": "puntu eta koma"
+  },
+  "7906726367011430855": {
+    "message": "Konektatu"
+  },
+  "7910887984113996757": {
+    "message": "Aktibatu partekatzeko aukera"
+  },
+  "7911416166208830577": {
+    "message": "Laguntza"
+  },
+  "7924606175376623897": {
+    "message": "Oharrak ainguratzeko edo haiei aingura kentzeko, sakatu F"
+  },
+  "7934833136974560675": {
+    "message": "Saiatu berriro"
+  },
+  "7943657844420237650": {
+    "message": "OpenOffice Impress"
+  },
+  "7946114032014914338": {
+    "message": "{repeatSentence}. {endSentence}"
+  },
+  "7947001788143789176": {
+    "message": "Kargatzen…"
+  },
+  "7959130747647079558": {
+    "message": "{selectedCount,plural, =1{# ohar hautatu da}other{# ohar hautatu dira}}"
+  },
+  "7976461426527138085": {
+    "message": "Zerrendak"
+  },
+  "7991475666499751798": {
+    "message": "Markatu abisua egindako gisa"
+  },
+  "7996360883730444101": {
+    "message": "Errore bat gertatu da fitxategia irekitzean. Saiatu berriro."
+  },
+  "7998118521140187915": {
+    "message": "Ezkutatuta daude ebatzitako iruzkinak"
+  },
+  "8003252582874834655": {
+    "message": "Elementuak taldeko unitatera eramaten badituzu, haien sarbidea eta jabetza aldatuko dira."
+  },
+  "8010075936095394680": {
+    "message": "Fitxategiaren bertsioa zaharregia da. Ziurtatu fitxategia formatu berrienean dagoela. "
+  },
+  "8011497727123874703": {
+    "message": "$1​ karpetaren botoia"
+  },
+  "8013687642711017862": {
+    "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Elementu bat ateratzera zoaz karpeta partekatuetatik. Hori egiten baduzu, ezin izango du atzitu jendeak.}other{{NUM_ITEMS_2} elementu ateratzera zoaz karpeta partekatuetatik. Hori egiten baduzu, ezin izango ditu atzitu jendeak.}}"
+  },
+  "8019402848412685977": {
+    "message": "\"$2​\" \"$1​\" da orain."
+  },
+  "802668096552856965": {
+    "message": "{checkedItemCount,plural, =1{Osatutako # elementu}other{Osatutako # elementu}}"
+  },
+  "8043514121228710092": {
+    "message": "Gehitu irudia"
+  },
+  "8046884224424523922": {
+    "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} fitxategi eraman da {XXX_1} karpetatik {XXX_2} karpetara.}other{{NUM_ITEMS_2} fitxategi eraman dira {XXX_3} karpetatik {XXX_4} karpetara.}}"
+  },
+  "8063817953234049242": {
+    "message": "Hautapen-tresna"
+  },
+  "807840433749698811": {
+    "message": "Ziana"
+  },
+  "8080583426915938264": {
+    "message": "Ordenagailuko aplikazioak"
+  },
+  "8085493757603803516": {
+    "message": "Editatu hautapena"
+  },
+  "8090743714060857028": {
+    "message": "Ikusleek ezin dute deskargatu"
+  },
+  "8095838445486198080": {
+    "message": "{FILE_SIZE,plural, =0{0 byte}=1{1 byte}other{# byte}}"
+  },
+  "8104421162933956065": {
+    "message": "Oharrak"
+  },
+  "8111632928339277375": {
+    "message": "{NUM_FOLDERS,plural, =1{Eraman karpeta batetik bestera}=2{Eraman bi karpetetatik}other{Eraman # karpetetatik}}"
+  },
+  "8119839693658969418": {
+    "message": "Ezin duzu partekatu ezer erabiltzaile hauekin, administratzaileak zure erakundetik kanpo partekatzeko aukera desgaitu duelako."
+  },
+  "8125425371755035523": {
+    "message": "Desegin"
+  },
+  "8133866583554546341": {
+    "message": "$1​, $2​"
+  },
+  "8137338584146377170": {
+    "message": "Ezin da mugitu fitxategia, jabea ez delako unitate partekatuaren domeinuko kidea."
+  },
+  "8139785559888164453": {
+    "message": "Lortu informazio gehiago"
+  },
+  "8144512434938656483": {
+    "message": "edo"
+  },
+  "8149439558305434788": {
+    "message": "$1​ ($2​)"
+  },
+  "8159493406018222636": {
+    "message": "Bidali oharrak"
+  },
+  "8163727651556550203": {
+    "message": "Gehitu beste lasterbide bat"
+  },
+  "8163781449224244510": {
+    "message": "Txikiagotu da hautapena."
+  },
+  "8174654098152723289": {
+    "message": "Editatu azalpena"
+  },
+  "818217888086545352": {
+    "message": "Horia"
+  },
+  "8189126656205301402": {
+    "message": "Kopiatu Google Dokumentuak zerbitzuan"
+  },
+  "8193677552005249631": {
+    "message": "Aplikazioen deskargak"
+  },
+  "8194941811853358224": {
+    "message": "Arazo bat izan da \"$1​\" elementutik izarra kentzean."
+  },
+  "8199137154169358847": {
+    "message": "Gehiago"
+  },
+  "819996403327805209": {
+    "message": "Lortu informazio gehiago"
+  },
+  "8207659457248280436": {
+    "message": "Ezin dira eraman lasterbideak unitate partekatuetara oraindik."
+  },
+  "8208179689358649003": {
+    "message": "Oharrak artxibatzeko, sakatu E"
+  },
+  "8224193807932432983": {
+    "message": "Ekintzak"
+  },
+  "8225614702924834215": {
+    "message": "Aukera gehiago"
+  },
+  "8231449936104909428": {
+    "message": "Arazo bat izan da \"$1​\" Drive-ko hautatutako karpetara eramatean."
+  },
+  "8233656381635014955": {
+    "message": "\"Ok Google, zer dago nire egitekoen zerrendan?\""
+  },
+  "8233945959714786736": {
+    "message": "Aurrekoa"
+  },
+  "8242655297101700529": {
+    "message": "Nire unitatea"
+  },
+  "824468664656304495": {
+    "message": "Ez zaude konektatuta. Agian funtzio batzuk ez dira erabilgarri egongo."
+  },
+  "8265689758492685194": {
+    "message": "Gaiak"
+  },
+  "8273434617910595878": {
+    "message": "behera"
+  },
+  "8281141013543828574": {
+    "message": "RAW irudia"
+  },
+  "8281169978199539270": {
+    "message": "Ezin da eraman irakurtzeko soilik den karpetatik"
+  },
+  "8284315184632755389": {
+    "message": "Izardunak"
+  },
+  "8292708563843446267": {
+    "message": "\"$1​\" taldeko unitatea izango da elementuen jabea."
+  },
+  "8305505634689906340": {
+    "message": "Bilatu \"$1​\" barruan"
+  },
+  "8322416564157128458": {
+    "message": "Partekatze-baimenak"
+  },
+  "8323603365638981303": {
+    "message": "Goian, sakatu Marrazki-ohar berria botoia"
+  },
+  "8333974577908804438": {
+    "message": "Ezin da eraman fitxategi mota hau unitate partekatuetara oraindik."
+  },
+  "8337582740675387693": {
+    "message": "Java"
+  },
+  "8342620486324515462": {
+    "message": "Baztertu"
+  },
+  "8343105225506381659": {
+    "message": "Ikusgai jarri dira iruzkin inaktiboak"
+  },
+  "8379952094517631162": {
+    "message": "Ez"
+  },
+  "8389434962426321219": {
+    "message": "Laster abisuak izango dituzten oharrak hemen agertzen dira"
+  },
+  "8409190394690387796": {
+    "message": "Gehitu iruzkina"
+  },
+  "8412098268689886334": {
+    "message": "Bateratu"
+  },
+  "8412733496413412439": {
+    "message": "Konexiorik gabe"
+  },
+  "8422875188929347819": {
+    "message": "Partekatzeak"
+  },
+  "84334343973701810": {
+    "message": "Hasiera"
+  },
+  "8452647597930138120": {
+    "message": "Nabarmendu iruzkindu beharreko gelaxka"
+  },
+  "8453627484113670693": {
+    "message": "Laranja argia"
+  },
+  "8467894483369467251": {
+    "message": "Flash"
+  },
+  "8471029293590878384": {
+    "message": "Pausatu"
+  },
+  "8493378997610580289": {
+    "message": "Lasterbide gehiago"
+  },
+  "8505989225387082493": {
+    "message": "Gehitu etiketa"
+  },
+  "8506292502710287776": {
+    "message": "Ohar luzeak egiten al dituzu? Behealdera heltzean, toki gehiago gehituko dugu automatikoki."
+  },
+  "8509270263487836281": {
+    "message": "Hasi saioa"
+  },
+  "8517148045938431718": {
+    "message": "Konpondu erroreak"
+  },
+  "8529203008291528328": {
+    "message": "Hustu zaborrontzia"
+  },
+  "8535303351837089357": {
+    "message": "Aldaketak desegiteko eta berregiteko, erabili {modifierKey}+Z eta {modifierKey}+Y."
+  },
+  "8559513397356310933": {
+    "message": "Gehitu elementu berriak behealdean"
+  },
+  "8562196940800756925": {
+    "message": "Markatzailea"
+  },
+  "857379832182429172": {
+    "message": "Aktibatu"
+  },
+  "8575113875567233985": {
+    "message": "Ezin duzu elementurik kendu \"$1​\" taldeko unitatetik."
+  },
+  "8589423377647285975": {
+    "message": "$1​ zerrendako elementu $2​ ($3​)."
+  },
+  "8595175575778060149": {
+    "message": "Gehiago"
+  },
+  "8596279649507974639": {
+    "message": "Eraman hona"
+  },
+  "8602525917014156029": {
+    "message": "Tokiak"
+  },
+  "8611058223830804795": {
+    "message": "Eraman markatutako elementuak behealdera"
+  },
+  "8616342546716995946": {
+    "message": "Ados"
+  },
+  "8621067185485606452": {
+    "message": "ECMAScript"
+  },
+  "8621178077822096827": {
+    "message": "Txertatu da zerrendako $1​. elementua"
+  },
+  "8626694988569301667": {
+    "message": "Marrazkia ez dago erabilgarri"
+  },
+  "8637215430007224613": {
+    "message": "Hurrengo marrazkia ireki da"
+  },
+  "8660016472468563221": {
+    "message": "bi puntu"
+  },
+  "8663507590720636709": {
+    "message": "$1​ eta beste $2​"
+  },
+  "8663993454460982287": {
+    "message": "Ezkutatu dira kontrol-laukiak"
+  },
+  "8674222789100049233": {
+    "message": "Itxi"
+  },
+  "8708723278154759600": {
+    "message": "Artxibatu dira oharrak"
+  },
+  "8734569874711220205": {
+    "message": "Nabigazio-menua"
+  },
+  "8738345098829705526": {
+    "message": "Tamaina: 12"
+  },
+  "8773943264600860531": {
+    "message": "Internet Explorer"
+  },
+  "8775097441636640256": {
+    "message": "$2​ - $1​"
+  },
+  "8781837301864053001": {
+    "message": "Testu aberastua"
+  },
+  "8786673003584562680": {
+    "message": "OrGor"
+  },
+  "8790687303221198259": {
+    "message": "Chrome aplikazioa"
+  },
+  "8792038552136453044": {
+    "message": "Arazoren bat izan da"
+  },
+  "8793166064242077041": {
+    "message": "Arazo bat izan da irudia bistaratzean."
+  },
+  "8797656338249040679": {
+    "message": "$2​Instalatu Chrome-ko Google Keep luzapena,$1​ klik bakarra eginda Keep zerbitzuan gorde ditzazun interesatzen zaizkizun gauzak."
+  },
+  "8822326207328431952": {
+    "message": "Ezin dira irudiak kargatu"
+  },
+  "8825353897919495748": {
+    "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Ziur fitxategi hau mugitu nahi duzula?}other{Ziur fitxategi hauek mugitu nahi dituzula?}}"
+  },
+  "8845176264121061589": {
+    "message": "Desmarkatu elementu guztiak"
+  },
+  "8852550049823214385": {
+    "message": "ondoren"
+  },
+  "885480352148498682": {
+    "message": "Baliteke iruzkin inaktiboak kentzea Google Drive-tik kanpo editatzen badira"
+  },
+  "8860658114732392347": {
+    "message": "Ezabatu abisua"
+  },
+  "8865141968381070659": {
+    "message": "Gehitu lasterbidea hemen"
+  },
+  "8867634760949689122": {
+    "message": "Ezin izan da bihurtu fitxategia: bihurketak denbora-muga gainditu du. Saiatu berriro geroago."
+  },
+  "8868758864963683383": {
+    "message": "Desautatu oharra"
+  },
+  "8869202143464930500": {
+    "message": "\"$1​\" taldeko unitatera transferitu nahi duzu jabetza?"
+  },
+  "887001400549949730": {
+    "message": "Ireki beste leiho batean"
+  },
+  "8889019648958415451": {
+    "message": "Fitxategi ezezaguna"
+  },
+  "8895209347521686105": {
+    "message": "Google Argazkiak"
+  },
+  "8903612093856047007": {
+    "message": "Kolaboratzaileak"
+  },
+  "8905995985388209337": {
+    "message": "Onartu"
+  },
+  "8917554093651202032": {
+    "message": "Erreproduzitu $1​"
+  },
+  "8919660666733306860": {
+    "message": "Irudia"
+  },
+  "8923591894816841670": {
+    "message": "Behera eraman da hautapena."
+  },
+  "8925842014466254066": {
+    "message": "Google Dokumentuak zerbitzuan kopiatzen"
+  },
+  "8930959387403789939": {
+    "message": "Abisua"
+  },
+  "8931267220766224111": {
+    "message": "Google Keep abisuak aktibatu nahi dituzu? Arakatzailearen jakinarazpenak onartu beharko dituzu agian."
+  },
+  "8938626240031421092": {
+    "message": "Aldatu kontrol-laukiak"
+  },
+  "8943760679396635042": {
+    "message": "$1​ ikusgai dago."
+  },
+  "8962132866274125834": {
+    "message": "Berregin"
+  },
+  "896590342186332268": {
+    "message": "Tamaina: 16"
+  },
+  "8975305711699693093": {
+    "message": "Ezkutatu iruzkinen zutabea"
+  },
+  "8978442832029227748": {
+    "message": "Google Jamboard"
+  },
+  "8979104019474011578": {
+    "message": "{every,plural, =1{Astero errepikatzen da}other{# astez behin errepikatzen da}}"
+  },
+  "8979615310931291676": {
+    "message": "Azken aldaketa: $1​"
+  },
+  "8988925599985431446": {
+    "message": "Kendu aingura"
+  },
+  "8990769651805334695": {
+    "message": "Aktibatuta"
+  },
+  "900086393693234779": {
+    "message": "Etxea"
+  },
+  "9003585743562048321": {
+    "message": "Ezin izan dira sinkronizatu iruzkinak sareko errore bat dela-eta."
+  },
+  "9012753183662045049": {
+    "message": "Idatzi izen laburrago bat"
+  },
+  "9012809035908808124": {
+    "message": "Zerrenda- eta sareta-ikuspegien artean aldatzeko, sakatu $1​ + G"
+  },
+  "9021945828354340363": {
+    "message": "{count,plural, =1{Aurrerantzean, ohar hau ez da zurekin partekatuko}other{Aurrerantzean, ohar hauek ez dira zurekin partekatuko}}"
+  },
+  "9024023699330078373": {
+    "message": "Elementua irekitzen baduzu, Drive-n gehituko da"
+  },
+  "9051304537377804875": {
+    "message": "{HOURS,plural, =0{0 ordu}=1{1 ordu}other{{HOURS} ordu}}"
+  },
+  "9058308423774656474": {
+    "message": "Hangul Word Processor"
+  },
+  "9063863448028905602": {
+    "message": "Kendu emaitzetatik"
+  },
+  "9066539791850693252": {
+    "message": "Drive"
+  },
+  "9072994494820207560": {
+    "message": "Markatutako elementua"
+  },
+  "9088582015610828915": {
+    "message": "Gutxiago"
+  },
+  "9094248058931620597": {
+    "message": "Xehetasunen panela tolestu da."
+  },
+  "9096768033530566606": {
+    "message": "Lasterbidea gehitu da $2​$3​$1​ karpetan"
+  },
+  "911586799466052745": {
+    "message": "OpenOffice Draw"
+  },
+  "911698676339750373": {
+    "message": "Familiaren taldea"
+  },
+  "9121915169985572840": {
+    "message": "Aldatu kolorea"
+  },
+  "9124422680181020503": {
+    "message": "Ezabatu da marrazkia"
+  },
+  "9129734193759025482": {
+    "message": "Bihar"
+  },
+  "9131268871618792263": {
+    "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{unused plural form}other{Haiekin partekatu ezean, taldeko unitateetako kideek ezin izango dituzte atzitu elementu hauek.}}"
+  },
+  "9140728449558729773": {
+    "message": "Ezin da gehiago zabaldu. Gehieneko altuerara iritsi da oihala."
+  },
+  "9146862513672039744": {
+    "message": "Xahutu kontua"
+  },
+  "9149141099919589043": {
+    "message": "Comma Separated Values"
+  },
+  "9150202601400529256": {
+    "message": "Ezin da gehitu lasterbidea $2​$3​$1​ karpetan"
+  },
+  "9155213204821633067": {
+    "message": "$1​ desautatu da."
+  },
+  "9180910903828232576": {
+    "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} karpeta gehitu da {XXX_1} karpetan.}other{{NUM_ITEMS_2} karpeta gehitu dira {XXX_2} karpetan.}}"
+  },
+  "9197837492705576727": {
+    "message": "Joan hurrengo elementura"
+  },
+  "919969969251998566": {
+    "message": "Inportatu artxibo hau posta-kontura."
+  },
+  "9202541782096241233": {
+    "message": "Ez duzu baimenik unitate partekatu honetako fitxategiak mugitzeko."
+  },
+  "9203454763088526300": {
+    "message": "Ezin da hauteman testua."
+  },
+  "9213031420087755232": {
+    "message": "Garbitu orria"
+  },
+  "938074023403688885": {
+    "message": "Kendu"
+  },
+  "951963820437151566": {
+    "message": "Google Sites"
+  },
+  "960732173870658714": {
+    "message": "Google Keep dokumentua"
+  },
+  "969509857504028202": {
+    "message": "Fitxategiak taldeko unitatetik kanpo eramaten badituzu, haien sarbidea eta jabetza aldatuko dira."
+  },
+  "981637388660093923": {
+    "message": "{SECONDS,plural, =0{0 segundo}=1{1 segundo}other{{SECONDS} segundo}}"
+  },
+  "985197728509875956": {
+    "message": "Chemical Model"
+  },
+  "989685768146008877": {
+    "message": "Elementuak unitate partekatu batera eramaten badituzu, haien sarbidea eta jabetza aldatu egingo dira."
+  },
+  "991852286447868510": {
+    "message": "\"$1​\" bilatzen"
+  },
+  "99635082918315028": {
+    "message": "Irudiko testua hartu da"
+  },
+  "996381410993745580": {
+    "message": "Photoshop"
+  },
+  "appDesc": {
+    "description": "App description",
+    "message": "Ez ahaztu inoiz buruan darabilzuna eta partekatu ideiak lagunekin eta familiarekin."
+  },
+  "appName": {
+    "description": "App name",
+    "message": "Google Keep: oharrak eta zerrendak"
+  },
+  "shortName": {
+    "description": "App short name",
+    "message": "Google Keep"
+  }
+}

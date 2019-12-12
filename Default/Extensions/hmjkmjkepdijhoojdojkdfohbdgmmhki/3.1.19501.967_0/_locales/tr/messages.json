@@ -1,0 +1,3632 @@
+{
+   "1001407065815272462": {
+      "message": "$2​Drive'ım$1​ klasörüne eklenemedi"
+   },
+   "1013939682284715002": {
+      "message": "Düzenle"
+   },
+   "1039394921418415681": {
+      "message": "Oturum aç"
+   },
+   "1040405721361467195": {
+      "message": "Yorum yapmak istediğiniz kelimeleri seçmek için ok tuşlarını kullanın. Seçimi genişletmek için, ok tuşlarına basarken üst karakter tuşunu basılı tutun. Yorum oluşturmak için Enter, iptal etmek içinse Escape tuşunu kullanın."
+   },
+   "1055686627716339120": {
+      "message": "Arşiv"
+   },
+   "1083918249169198626": {
+      "message": "Klavye kısayolları devre dışı."
+   },
+   "1101371910696766077": {
+      "message": "Kopya oluştur"
+   },
+   "1122146167985532789": {
+      "message": "dün"
+   },
+   "1127320433256851404": {
+      "message": "Video oynatıcı"
+   },
+   "1131044617724567645": {
+      "message": "PDF'lerdeki yorumlar dosyaya kaydedilir ve diğer uygulamalarda görünür"
+   },
+   "1137446830169628669": {
+      "message": "Öğenin girintisi artırıldı."
+   },
+   "1158660505977623040": {
+      "message": "Tamamıyla sil"
+   },
+   "1162642135048988280": {
+      "message": "Dokümanı yeniden adlandır"
+   },
+   "1163324543881570799": {
+      "message": "Google Dokümanlar"
+   },
+   "116696227691552491": {
+      "message": "Yer seç"
+   },
+   "1176812982629195161": {
+      "message": "Google uygulamaları"
+   },
+   "1179891706526242218": {
+      "message": "Sonraki"
+   },
+   "1185164838496022543": {
+      "message": "Sayfayı yeniden yüklemek için lütfen burayı tıklayın."
+   },
+   "1213005208968286932": {
+      "message": "Çözüldü olarak işaretlendi"
+   },
+   "1226017195419883732": {
+      "message": "Ortak drive'lar"
+   },
+   "124010372300613445": {
+      "message": "{numNotes,plural, =1{Notun arşiv dışında bir kopyası oluşturuldu}other{Notun arşiv dışında # kopyası oluşturuldu}}"
+   },
+   "1248242541854939846": {
+      "message": "Çakışan düzenlemeleri düzeltin"
+   },
+   "124900027451629830": {
+      "message": "Çal"
+   },
+   "125608713654167241": {
+      "message": "Turkuaz"
+   },
+   "1256362146573583104": {
+      "message": "Çıkar"
+   },
+   "1259492729704800881": {
+      "message": "Notu arşivle"
+   },
+   "125962421212090538": {
+      "message": "Sonraki hafta"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1271038294394884640": {
+      "message": "İptal"
+   },
+   "12768758038718216": {
+      "message": "Arşivlenmiş notu sabitle"
+   },
+   "1280430284217153733": {
+      "message": "Zaman ekle"
+   },
+   "1294762503951327157": {
+      "message": "İşaretlenmiş öğeler otomatik olarak listenin sonuna gider ve gözden kaybolur"
+   },
+   "1317394270020748066": {
+      "message": "Keep notları ve listeleri oluşturmak, bunları güncellemek ve yönetmek için artık Google Asistan'a bağlanabilirsiniz."
+   },
+   "1317913074512528649": {
+      "message": "Aklınızdakileri kaydedin."
+   },
+   "1330083198022464084": {
+      "message": "Yeni not oluştur"
+   },
+   "1333255388111908292": {
+      "message": "Market Alışverişi"
+   },
+   "1335763707789999819": {
+      "message": "{NUM_ITEMS,plural, =1{Bu öğeyi bulunduğu klasörlerden taşıma izniniz yok. Bunun yerine öğeyi {START_SPAN_1}{NAME}{END_SPAN} klasörüne ekleyin.}other{Bu öğeleri bulundukları klasörlerden taşıma izniniz yok. Bunun yerine öğeleri {START_SPAN_2}{NAME}{END_SPAN} klasörüne ekleyin.}}"
+   },
+   "1338300799355131761": {
+      "message": "Adsız not"
+   },
+   "1349697396109290623": {
+      "message": "$1​ adlı resim dosyası daha yüksek çözünürlükte gösteriliyor"
+   },
+   "1355047515597245353": {
+      "message": "Bu öğe için başka kısayol oluşturulamaz. Daha sonra bulabilmek için bu öğeyi Yıldızlı bölümüne ekleyin."
+   },
+   "1359937199332190522": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} dosya {XXX_1} klasörüne eklendi.}other{{NUM_ITEMS_2} dosya {XXX_2} klasörüne eklendi.}}"
+   },
+   "136335357683289450": {
+      "message": "Kapat"
+   },
+   "1365216822837281424": {
+      "message": "Chrome Uzantısı"
+   },
+   "1368808491835583439": {
+      "message": "Koyu Mor"
+   },
+   "1377158635423797368": {
+      "message": "Etikete git"
+   },
+   "1379850360723600538": {
+      "message": "Şifre korumalı dosyalar desteklenmiyor."
+   },
+   "1388712764439031120": {
+      "message": "Bağlantıyı aç"
+   },
+   "1397887822627488928": {
+      "message": "Paylaşılacak kişi veya e-posta adresi"
+   },
+   "1429848477922945853": {
+      "message": "Boş not"
+   },
+   "1432850707344442376": {
+      "message": "$1​ etiketini oluştur"
+   },
+   "1434081385486479995": {
+      "message": "Paylaşım şu an kullanılamıyor"
+   },
+   "1439211265324766071": {
+      "message": "Not, Çöp Kutusu'nda"
+   },
+   "1441487391064925653": {
+      "message": "Yardım Merkezi'nde tüm kısayolları görüntüle"
+   },
+   "1441712877952841568": {
+      "message": "$1​ tarihinde düzenlendi"
+   },
+   "1442417474192183694": {
+      "message": "Görüntüleyici hata ayıklama ayrıntılarını göster"
+   },
+   "1442722292947881614": {
+      "message": "Türler"
+   },
+   "1446829548948002072": {
+      "message": "virgül"
+   },
+   "1453330983536591773": {
+      "message": "Açık Gri"
+   },
+   "1463389029497634261": {
+      "message": "Ses düzeyini azalt"
+   },
+   "1466663154000252842": {
+      "message": "Bazı kullanıcılar erişimi kaybedebilir"
+   },
+   "1467797923781828000": {
+      "message": "$1​ öğe, $2​ konumuna eklendi."
+   },
+   "1475258635371833968": {
+      "message": "$2​, $1​"
+   },
+   "1478393252643397554": {
+      "message": "Turuncu"
+   },
+   "1482452362096735080": {
+      "message": "{numOccurrences} kez yinelenir"
+   },
+   "1490217372377947899": {
+      "message": "Drive'a Yükleme"
+   },
+   "1505876360160857231": {
+      "message": "$1​ TB"
+   },
+   "1507063529674142853": {
+      "message": "Her ayın son günü"
+   },
+   "1507445189431379166": {
+      "message": "Sil"
+   },
+   "1512114410402431831": {
+      "message": "Yenile"
+   },
+   "1512454807955173272": {
+      "message": "Keep, çevrimiçi olduğunuzda güncellenecek"
+   },
+   "1513178578981188988": {
+      "message": "Edge"
+   },
+   "1532717559893630620": {
+      "message": "$1​ etiketi $2​ etiketiyle birleştirildi."
+   },
+   "1536051766421561160": {
+      "message": "eşittir"
+   },
+   "153659275234722804": {
+      "message": "Kapat"
+   },
+   "1543499632005215694": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{\"{ADDED_PARENT_NAME}\" klasörüne taşınmakta olan dosya BKE algılamalarını tetikledi. Bu dosyada hassas bilgiler bulunuyor olabilir.}other{\"{ADDED_PARENT_NAME}\" klasörüne taşınmakta olan bazı dosyalar BKE algılamalarını tetikledi. Bu dosyalarda hassas bilgiler bulunuyor olabilir.}}"
+   },
+   "1568379678795589771": {
+      "message": "Kare"
+   },
+   "1586968957182554447": {
+      "message": "Devre dışı bırak"
+   },
+   "1600730176972144699": {
+      "message": "Önceki konuma taşımak için Üst Karakter ve J, sonraki konuma taşımak içinse Üst Karakter ve K tuşlarına basın"
+   },
+   "1606998668553414638": {
+      "message": "Erişim iste"
+   },
+   "1612117309990202511": {
+      "message": "Noktalar"
+   },
+   "1645936035034659132": {
+      "message": "{itemsRemaining,plural, =1{# liste öğesi kaldı}other{# liste öğesi kaldı}}"
+   },
+   "1655692513689044870": {
+      "message": "Oturumunuz kapatıldı."
+   },
+   "1656911987308166143": {
+      "message": "Sil"
+   },
+   "1665821947855814052": {
+      "message": "Boyut"
+   },
+   "1675711464233426777": {
+      "message": "Bugün daha sonra"
+   },
+   "1675900304699098572": {
+      "message": "{count,plural, =1{Notun sabitlemesi kaldırıldı}other{# notun sabitlemesi kaldırıldı}}"
+   },
+   "1680617124502957636": {
+      "message": "Şu anda bağlanılamıyor. Daha sonra tekrar deneyin."
+   },
+   "1680818623013843452": {
+      "message": "Lucidchart"
+   },
+   "1683762293389974494": {
+      "message": "Sil"
+   },
+   "1694896269813520248": {
+      "message": "Çizim ekle"
+   },
+   "1697160643589236962": {
+      "message": "$1​ PB"
+   },
+   "1700455651867499062": {
+      "message": "Google Drive Kısayolu"
+   },
+   "1703175513040690135": {
+      "message": "$1​ alanındaki herkes"
+   },
+   "1704004075228783011": {
+      "message": "{every,plural, =1{Her ayın son gününde yinelenir}other{# ayda bir ayın son gününde yinelenir}}"
+   },
+   "1711424025297585662": {
+      "message": "bir"
+   },
+   "171683163267149669": {
+      "message": "$1​ GB"
+   },
+   "1719906320230837590": {
+      "message": "Google Görsel Arama"
+   },
+   "1730171019350750807": {
+      "message": "Siyah"
+   },
+   "1737240194537729525": {
+      "message": "Haftalık"
+   },
+   "1739900012825270238": {
+      "message": "Önceki öğeye git"
+   },
+   "1740371341228065086": {
+      "message": "Yeniden yükle"
+   },
+   "1745782414562966515": {
+      "message": "$1​ etiketi, \"$2​\" etiketiyle birleştirilsin mi? $1​ olarak etiketlenmiş tüm notlar \"$2​\" olarak etiketlenecek ve sonra, \"$1​\" etiketi silinecektir."
+   },
+   "1746512984326924716": {
+      "message": "Bu işlem geri alınamaz."
+   },
+   "1770899865480106963": {
+      "message": "Android Cihazlar"
+   },
+   "1781922622745161264": {
+      "message": "Eklediğiniz notlar burada görünür"
+   },
+   "1783719421893050637": {
+      "message": "Boyutlar"
+   },
+   "1790494039990261456": {
+      "message": "İkisini de sakla"
+   },
+   "1791115075948268631": {
+      "message": "Klavye kısayolu yardımını aç"
+   },
+   "179545118447015250": {
+      "message": "Tablo Görünümü"
+   },
+   "1803966010993357655": {
+      "message": "Diğerleri"
+   },
+   "1808245543551507519": {
+      "message": "Ses"
+   },
+   "1810354345035313773": {
+      "message": "İşaretçi Aracı Renk ve Boyut Seçiciyi Açın"
+   },
+   "1829174126565818591": {
+      "message": "Firefox"
+   },
+   "1830157062072535681": {
+      "message": "$1​ görüntüleniyor"
+   },
+   "1830980674971538385": {
+      "message": "Yükle"
+   },
+   "1852745815330163711": {
+      "message": "Google Çizimler"
+   },
+   "1857224091554117760": {
+      "message": "Kırmızı"
+   },
+   "1858255237143975969": {
+      "message": "$2​Gizlilik$1​"
+   },
+   "1870691479127746185": {
+      "message": "sağ ok"
+   },
+   "187077078156858455": {
+      "message": "Sesli not"
+   },
+   "189303170370862360": {
+      "message": "$1​ / $2​ öğe"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901215424950227523": {
+      "message": "$1​ etiketi yok"
+   },
+   "1936219394601788126": {
+      "message": "üst"
+   },
+   "1938115711058331119": {
+      "message": "Yorum sütununu göster"
+   },
+   "195154114623528341": {
+      "message": "Konum ekle"
+   },
+   "1956794332842050061": {
+      "message": "Sonraki sayfa"
+   },
+   "1963323419655107448": {
+      "message": "İşaretli öğeleri silin"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1967536906522187719": {
+      "message": "Bu e-tablo önizlenirken bir sorun oluştu."
+   },
+   "1969531182936822963": {
+      "message": "İşlem geri alındı"
+   },
+   "1972885107693687510": {
+      "message": "Etikete git baloncuğu gösteriliyor"
+   },
+   "1973454937875679500": {
+      "message": "Etiket adı girin"
+   },
+   "1975630610063119352": {
+      "message": "{charsRemaining,plural, =1{# karakter kaldı}other{# karakter kaldı}}"
+   },
+   "1980209166254310911": {
+      "message": "Günde bir"
+   },
+   "1986228872461282439": {
+      "message": "Varsayılan"
+   },
+   "1998476658842502120": {
+      "message": "Yeni not oluşturmak için C tuşuna basın"
+   },
+   "200488920523496447": {
+      "message": "Öğe yakınlaştırıldı."
+   },
+   "2039757863628752523": {
+      "message": "Sıklık seçenekleri"
+   },
+   "205445381296663832": {
+      "message": "Yükleme başarısız oldu."
+   },
+   "205876860571942679": {
+      "message": "Google Haritalarım"
+   },
+   "2059084517358086391": {
+      "message": "Bulma çubuğunu kapat"
+   },
+   "2061440050632248160": {
+      "message": "Arşivle"
+   },
+   "2068023589621557589": {
+      "message": "TrueType Yazı Tipi"
+   },
+   "2072502213578290051": {
+      "message": "Artık notla işiniz kalmadı mı? Arşivle düğmesini kullanın"
+   },
+   "2073322475696388995": {
+      "message": "İleriye atla"
+   },
+   "2074454463201225704": {
+      "message": "Yakınlaştırma düzeyini sıfırla"
+   },
+   "2096559615401306102": {
+      "message": "$1​ alanının dışına dosya taşıyamazsınız"
+   },
+   "2107379241532042955": {
+      "message": "Konum"
+   },
+   "2109979457438465538": {
+      "message": "Etiket seçici menüsü açıldı"
+   },
+   "2113092209746357267": {
+      "message": "Chrome"
+   },
+   "2118635459760443566": {
+      "message": "Sonraki"
+   },
+   "2119255452378336327": {
+      "message": "Madde işareti, $1​ metnine geri döndürüldü"
+   },
+   "212796670323571824": {
+      "message": "Tamam"
+   },
+   "2142420359113070963": {
+      "message": "Yığın izleme (yalnızca dahili ağ kullanıcıları görebilir):"
+   },
+   "214517458278879973": {
+      "message": "$1​ olarak oturum aç"
+   },
+   "2154372123324862271": {
+      "message": "eğik çizgi"
+   },
+   "2159130950882492111": {
+      "message": "İptal"
+   },
+   "2166966123760559393": {
+      "message": "Yeni etiket oluştur"
+   },
+   "2181197458532159304": {
+      "message": "{numberOfNotes,plural, =1{Not çöp kutusuna gönderildi}other{# not çöp kutusuna gönderildi}}"
+   },
+   "2184278444368405837": {
+      "message": "$1​ öğe"
+   },
+   "2189621188983913867": {
+      "message": "Daha fazla uygulama bağlayın"
+   },
+   "2190049738646901760": {
+      "message": "{count,plural, =1{Not silinsin mi?}other{Notlar silinsin mi?}}"
+   },
+   "2195440644060728966": {
+      "message": "{NUM_ITEMS,plural, =1{Bir klasörde bulunan bir klasörü taşıyorsunuz}other{Bir klasörde bulunan klasörleri taşıyorsunuz}}"
+   },
+   "220168959069469607": {
+      "message": "Daha fazla işlem"
+   },
+   "2203926649090909861": {
+      "message": "Liste öğesi $1​. konuma taşındı"
+   },
+   "2215890921415017560": {
+      "message": "Tam Ekran Modu"
+   },
+   "2216904725760458480": {
+      "message": "Günlük"
+   },
+   "221715292685577880": {
+      "message": "Evet"
+   },
+   "2226562046914098941": {
+      "message": "Bu dosya önizlenemeyecek kadar büyük"
+   },
+   "2226937423434054727": {
+      "message": "$1​, $2​ ile $3​, $4​ arası seçildi"
+   },
+   "223198388381606871": {
+      "message": "Lavanta"
+   },
+   "2254586145235168886": {
+      "message": "Onaylar paneli daraltıldı."
+   },
+   "2264311811697505466": {
+      "message": "Yenile"
+   },
+   "2265238034451062417": {
+      "message": "{count,plural, =1{+ tamamlanmış # öğe}other{+ tamamlanmış # öğe}}"
+   },
+   "2270469222412517777": {
+      "message": "Metin tanınamıyor"
+   },
+   "2270633624888102832": {
+      "message": "Notun sabitlemesini kaldır"
+   },
+   "2280650195464600721": {
+      "message": "Gezinme"
+   },
+   "2282423663539387332": {
+      "message": "Yaklaşanlar"
+   },
+   "2285069188138705005": {
+      "message": "Bağlı uygulamalar"
+   },
+   "2286685488296851497": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Bir öğeyi \"{SHARED_FOLDER_NAME}\" paylaşılan klasöründen taşıyorsunuz. Kullanıcılar bu öğeye erişemeyecek.}other{{NUM_ITEMS_2} öğeyi \"{SHARED_FOLDER_NAME}\" paylaşılan klasöründen taşıyorsunuz. Kullanıcılar bu öğelere erişemeyecek.}}"
+   },
+   "228741435562395266": {
+      "message": "Yazdırma işlevi henüz kullanılamıyor"
+   },
+   "2289534534793293486": {
+      "message": "Arşivden kaldır"
+   },
+   "2289812403593835836": {
+      "message": "Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Ses düzeyini artır"
+   },
+   "2299671629154778581": {
+      "message": "Notların sabitlemesi kaldırıldı ve arşivlendi"
+   },
+   "2308018963132768704": {
+      "message": "4 Numara"
+   },
+   "2310145944356900158": {
+      "message": "İşaretliler"
+   },
+   "2311880726221661199": {
+      "message": "Daha yüksek çözünürlükler yükleniyor"
+   },
+   "2323249770683736002": {
+      "message": "Yeni etiket oluştur"
+   },
+   "2324955914430674498": {
+      "message": "\"$1​\" ile ilgili arama sonucu yok"
+   },
+   "2346361265476305332": {
+      "message": "Sahibi bu ses dosyasının indirilmesini engelledi."
+   },
+   "2357623745116912085": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{\"{TEAM_DRIVE_NAME}\" Ekip Drive'ının üyeleri, bu öğe kendileriyle paylaşılmazsa erişimi kaybedecek.}other{\"{TEAM_DRIVE_NAME}\" Ekip Drive'ının üyeleri, bu öğeler kendileriyle paylaşılmazsa erişimi kaybedecek.}}"
+   },
+   "2359614137862708172": {
+      "message": "Üst Karakter"
+   },
+   "2364374826543847335": {
+      "message": "Kaynağı kaldır"
+   },
+   "236689092839978781": {
+      "message": "Yinelenmiyor"
+   },
+   "2370656573843123707": {
+      "message": "sağ parantez"
+   },
+   "2373760032138505521": {
+      "message": "Bu etiket zaten var"
+   },
+   "2386536768112358461": {
+      "message": "Pg-Down"
+   },
+   "2396804279177914769": {
+      "message": "Sahiplik Ekip Drive'ına aktarılsın mı?"
+   },
+   "2402010336938670264": {
+      "message": "Parmak ucunuzla çizim yapmaya başlayın veya ekran kaleminiz varsa elle not yazmayı deneyin"
+   },
+   "2405795704816921421": {
+      "message": "$1​ Dosyası"
+   },
+   "2408383448126741628": {
+      "message": "Süre"
+   },
+   "2408933271548524782": {
+      "message": "Kilitli"
+   },
+   "2423364695613735749": {
+      "message": "Yeni liste oluşturmak için L tuşuna basın"
+   },
+   "2423877407428530040": {
+      "message": "Dosyada çok fazla grafik var."
+   },
+   "2433429041384246549": {
+      "message": "Sesi kapat"
+   },
+   "2438741853303074449": {
+      "message": "tekrar"
+   },
+   "2444198666025646119": {
+      "message": "Menekşe Rengi"
+   },
+   "2452145367257933677": {
+      "message": "Geri al"
+   },
+   "2452522051596946166": {
+      "message": "Hata! $1​ önizlenirken bir sorun oluştu. Yeniden deneniyor."
+   },
+   "2454642351139428112": {
+      "message": "Geri al"
+   },
+   "246828342952819465": {
+      "message": "Düşüncelerinizi istediğiniz $1​ cihazdan aktarın"
+   },
+   "2469046390122693414": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}other{{NUM_ITEMS_2} öğeyi ortak drive'lardan ve paylaşılan klasörlerden taşıyorsunuz. Kullanıcılar bu öğelere erişemeyecek.}}"
+   },
+   "2478862372619762755": {
+      "message": "Hakkında yorum yapacağınız alanı vurgulayın"
+   },
+   "2483363439634684283": {
+      "message": "20 Numara"
+   },
+   "2494928104701250542": {
+      "message": "Önemli konuları kaçırmamak için notlar sabitleyin ve hatırlatıcılar oluşturun."
+   },
+   "2504232652631703202": {
+      "message": "Bağlandı"
+   },
+   "2509141182388535183": {
+      "message": "Görüntüle"
+   },
+   "251025074207413762": {
+      "message": "Açıklama·ekleyin"
+   },
+   "2525633490863427854": {
+      "message": "Yeniden yap"
+   },
+   "2527534830196374788": {
+      "message": "Ctrl"
+   },
+   "2532280782491328445": {
+      "message": "Öncekini bul"
+   },
+   "2542788471536661524": {
+      "message": "Resimleri buraya bırakın"
+   },
+   "2562881166530755046": {
+      "message": "Çizimler"
+   },
+   "257317112834806705": {
+      "message": "Liste ve tablo görünümü arasında geçiş yap"
+   },
+   "2579261044590673579": {
+      "message": "Drive'ım"
+   },
+   "2579679351920691492": {
+      "message": "Geriye atla"
+   },
+   "2584557103820423944": {
+      "message": "Liste öğesini girintile/girintisini kaldır"
+   },
+   "2592236094918360632": {
+      "message": "Dosyanın sahibi ortak drive üyesi olmadığı için bu dosya taşınamaz."
+   },
+   "2600731575260427177": {
+      "message": "Dosya yok; silinmiş olabilir. Lütfen dosyayı tekrar yüklemeyi deneyin."
+   },
+   "2601304136110057215": {
+      "message": "Yeni çizim"
+   },
+   "2604527707881848686": {
+      "message": "Öğenin girintisi daha fazla azaltılamıyor."
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2623861453769098676": {
+      "message": "Bu doküman önizlenirken bir sorun oluştu."
+   },
+   "2626653026098396543": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Bu öğe taşındığında \"{SHARED_FOLDER_NAME}\" paylaşılan klasörünü görebilen herkesle paylaşılacak.}other{Bu öğeler taşındıklarında \"{SHARED_FOLDER_NAME}\" paylaşılan klasörünü görebilen herkesle paylaşılacak.}}"
+   },
+   "2632263751512428257": {
+      "message": "Yıllık"
+   },
+   "2632538140519286364": {
+      "message": "Çöp Kutusu'ndaki notlar 7 gün sonra silinir."
+   },
+   "2645469029410848421": {
+      "message": "{noteCount,plural, =1{Nota etiket ekle}other{Notlara etiket ekle}}"
+   },
+   "2661850177130037208": {
+      "message": "Öğeyi aç"
+   },
+   "2673781847036352269": {
+      "message": "Etkin olmayan yorumları gizle"
+   },
+   "2680303811435018716": {
+      "message": "Daha fazla öğe eklenemiyor"
+   },
+   "2681830832355823748": {
+      "message": "Tüm kısayolları arayın"
+   },
+   "268402507078609011": {
+      "message": "{imagesAdded,plural, =1{Resim eklendi}other{# resim eklendi}}"
+   },
+   "269301203471243703": {
+      "message": "Kısayol ekle"
+   },
+   "2713989182797848963": {
+      "message": "Çizimler ve elle yazılmış notlar oluşturun"
+   },
+   "2715199780155065699": {
+      "message": "Dosyada çok fazla şekil, metin kutusu veya çizim var."
+   },
+   "2716433087531258659": {
+      "message": "page up"
+   },
+   "2719125961689709460": {
+      "message": "Not"
+   },
+   "2725185337656029651": {
+      "message": "Resim veya ses ekle"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2757876083706839152": {
+      "message": "Çizim, boyut sınırı nedeniyle çoğaltıldı"
+   },
+   "2758125083752925237": {
+      "message": "(Sahibi)"
+   },
+   "2760106082595028595": {
+      "message": "Not çok büyük."
+   },
+   "2761695221066052931": {
+      "message": "Bağlantıyı aç baloncuğu gösteriliyor"
+   },
+   "2762925619340374825": {
+      "message": "URL ile"
+   },
+   "277430914014962533": {
+      "message": "Hata! $1​ önizlenirken bir sorun oluştu."
+   },
+   "2777453609143551768": {
+      "message": "Ses düzeyi denetimi"
+   },
+   "2793841261389879255": {
+      "message": "Önceki sayfa"
+   },
+   "2794676336056877832": {
+      "message": "{every,plural, =1{Her ayın aynı gününde yinelenir}other{# ayda bir her ayın aynı gününde yinelenir}}"
+   },
+   "2803553109654833664": {
+      "message": "Pembe"
+   },
+   "2814354342017225342": {
+      "message": "Zengin bağlantı önizlemelerini göster"
+   },
+   "2818020101821669029": {
+      "message": "Oluşturulma"
+   },
+   "2820045170951016567": {
+      "message": "Hatırlatıcılar"
+   },
+   "2823533464825550362": {
+      "message": "Doküman denetimleri"
+   },
+   "2827039933590757722": {
+      "message": "Windows Kısayol"
+   },
+   "2828060233316503200": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{XXX_1} klasöründeki {NUM_ITEMS_2} öğe {XXX_2} klasörüne taşındı.}other{{XXX_3} klasöründeki {NUM_ITEMS_2} öğe {XXX_4} klasörüne taşındı.}}"
+   },
+   "2828258538208588139": {
+      "message": "{shortcutCount,plural, =1{1 kısayol eklediniz}other{# kısayol eklediniz}}"
+   },
+   "2829226075651806940": {
+      "message": "Yakınlaştır"
+   },
+   "2842462703735289745": {
+      "message": "\"$1​\" adlı paylaşılan klasörü görebilen herkes erişim sahibi olacak."
+   },
+   "2853036885874864031": {
+      "message": "Sahiplik $1​ alanına aktarılacak."
+   },
+   "2854717396594966319": {
+      "message": "OpenOffice Writer"
+   },
+   "2868845399811178993": {
+      "message": "Yalnızca \"$1​\" klasörünün sahibi, bu klasöre eklenen kısayolları silebilir."
+   },
+   "2873089307546162154": {
+      "message": "Tamam"
+   },
+   "2877285560485318801": {
+      "message": "Duraklat"
+   },
+   "2879276552944958066": {
+      "message": "$1​ Klasörüne dön"
+   },
+   "2886313667612471214": {
+      "message": "Yenileme gerekli. Bu işlem birkaç dakika sürebilir."
+   },
+   "2893055432094515558": {
+      "message": "Onay kutuları gösteriliyor"
+   },
+   "289798573180023043": {
+      "message": "Tamam"
+   },
+   "2901360496423912565": {
+      "message": "Bildir"
+   },
+   "2908917161758545146": {
+      "message": "{count,plural, =1{Notun sabitlemesi kaldırıldı ve arşivlendi}other{# notun sabitlemesi kaldırıldı ve arşivlendi}}"
+   },
+   "2930974997943171554": {
+      "message": "Koyu tema devre dışı bırakıldı"
+   },
+   "2935193106137642160": {
+      "message": "Yakınlaştırma işlevi kullanılamıyor"
+   },
+   "295331174171409695": {
+      "message": "\"$1​\" öğesinin indirme izni güncellenirken sorun oluştu."
+   },
+   "2960516445247616550": {
+      "message": "Yazdırma işlevi kullanılamıyor"
+   },
+   "296391753033307868": {
+      "message": "$1​ etiketi oluşturuldu ve nota eklendi."
+   },
+   "2971623719720688041": {
+      "message": "İşlem geri alındı"
+   },
+   "2973306402585941108": {
+      "message": "Sabah"
+   },
+   "2983318659047499045": {
+      "message": "Hatırlatıcılar"
+   },
+   "298817883481775869": {
+      "message": "Yükleniyor..."
+   },
+   "2990497076082409431": {
+      "message": "\"$1​\", $2​ klasörüne taşındı."
+   },
+   "2993901764282547916": {
+      "message": "App Maker"
+   },
+   "3005058076425755361": {
+      "message": "Geri Tuşu"
+   },
+   "3018905429279095639": {
+      "message": "{NUM_ITEMS,plural, =1{Bu klasörü bulunduğu klasörlerden taşıma izniniz yok. Klasörü taşımak yerine {START_SPAN_1}{NAME}{END_SPAN} klasörüne ekleyin.}other{Bu klasörleri bulundukları klasörlerden taşıma izniniz yok. Klasörleri taşımak yerine {START_SPAN_2}{NAME}{END_SPAN} klasörüne ekleyin.}}"
+   },
+   "3038603165081234302": {
+      "message": "$2​Drive'ım$1​ klasörüne ekleniyor…"
+   },
+   "3043961722025425136": {
+      "message": "Açıklama"
+   },
+   "304438440663479110": {
+      "message": "Uyumlu e-tablo kısayolu"
+   },
+   "306516303501625305": {
+      "message": "Kimlik doğrulaması başarısız oldu."
+   },
+   "3074915509081765994": {
+      "message": "iPhone ve iPad"
+   },
+   "3091440425606975088": {
+      "message": "Adsız liste"
+   },
+   "3108098439469164127": {
+      "message": "Yeni Çizim Açıldı"
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​"
+   },
+   "3150651996344750990": {
+      "message": "{count,plural, =1{Not arşivden kaldırıldı}other{# not arşivden kaldırıldı}}"
+   },
+   "3167198321908629554": {
+      "message": "Notlarınız yenileniyor ve yeniden yükleniyor…"
+   },
+   "3176246635438298155": {
+      "message": "Delete"
+   },
+   "3187117482772485385": {
+      "message": "Küçük resim oluşturuluyor..."
+   },
+   "3189854932778515441": {
+      "message": "Not, Arşiv'de"
+   },
+   "3190546672187601036": {
+      "message": "Gece"
+   },
+   "3195812604657128345": {
+      "message": "Arşivin çıkarılacağı Drive klasörünü seçin"
+   },
+   "32059145043728507": {
+      "message": "{numberOfNotes,plural, =1{Not geri yüklendi}other{# not geri yüklendi}}"
+   },
+   "3207650089232728475": {
+      "message": "Etiketleri değiştir"
+   },
+   "3211163842850942567": {
+      "message": "Yakınlaştır"
+   },
+   "3217354672216773127": {
+      "message": "Tetiklenme zamanı: $1​"
+   },
+   "3220641589840600333": {
+      "message": "$1​ görünümüne geçildi"
+   },
+   "3241696131593027453": {
+      "message": "Notu seç"
+   },
+   "3243075164136265612": {
+      "message": "Onaylar paneli genişletildi."
+   },
+   "3249966726137025950": {
+      "message": "Ortak Çalışanın Aile Grubu"
+   },
+   "3250489229749307913": {
+      "message": "Electronic Publication"
+   },
+   "3258100527833044153": {
+      "message": "Boş çizim silindi"
+   },
+   "3261131345401321392": {
+      "message": "Yorum Yapabilir"
+   },
+   "3266448715145955862": {
+      "message": "Notlar arşivden kaldırıldı ve sabitlendi"
+   },
+   "3272496516667407797": {
+      "message": "Ayrıntılar yüklenirken bir sorun oluştu."
+   },
+   "3278046126264096288": {
+      "message": "Haftada bir"
+   },
+   "3281684668260174833": {
+      "message": "{numberOfNotes,plural, =1{Notun sabitlemesi kaldırıldı ve çöp kutusuna gönderildi}other{# notun sabitlemesi kaldırıldı ve çöp kutusuna gönderildi}}"
+   },
+   "3285255128259782773": {
+      "message": "Yerel Disk"
+   },
+   "3285552194638444776": {
+      "message": "Artık $2​ düzenleyicisini kullanarak $1​ dosyaları için düzeltmeleri düzenleyebilir, paylaşabilir ve yönetebilirsiniz"
+   },
+   "3288498486633948368": {
+      "message": "\"$1​\", Google Drive'a eklendi."
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3308935528045767909": {
+      "message": "Çizimle yeni not"
+   },
+   "3312545971976531405": {
+      "message": "İleti"
+   },
+   "3313557905033219672": {
+      "message": "{numNotes,plural, =1{Notun arşiv dışında bir kopyası oluşturuldu}other{Notun arşiv dışında # kopyası oluşturuldu}}"
+   },
+   "3325094738421414114": {
+      "message": "Notu seçili notlar grubuna eklemek veya bu gruptan kaldırmak için X tuşuna basın"
+   },
+   "3345567742278474807": {
+      "message": "Bu not uygunsuz olarak işaretlendi ve bu yüzden paylaşılamaz."
+   },
+   "3348057264663626000": {
+      "message": "Seçim yukarı taşındı."
+   },
+   "3362903141674317449": {
+      "message": "Ortak çalışan"
+   },
+   "3371033609268806242": {
+      "message": "$1​ etiketi silindi."
+   },
+   "3378875258397512442": {
+      "message": "Notlarda yerler ve zamanlar için hatırlatıcılar oluşturun, sesli notlar alın ve çevrimiçi veya çevrimdışı çalışın."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Aç"
+   },
+   "3385831848537487538": {
+      "message": "Seyahat"
+   },
+   "3409483962000136213": {
+      "message": "Oynat/Duraklat"
+   },
+   "3418677553313974490": {
+      "message": "Çöp Kutusu"
+   },
+   "3418767079436101103": {
+      "message": "Bu sayfa yüklenirken bir sorun oluştu."
+   },
+   "3419821606494999471": {
+      "message": "Yorum bildirimlerini yönet"
+   },
+   "3437227878928998987": {
+      "message": "Liste yapın"
+   },
+   "3447704623213039325": {
+      "message": "Market Alışverişi Öğesi"
+   },
+   "3448234415275521882": {
+      "message": "Genel Bilgiler"
+   },
+   "3449090379302140902": {
+      "message": "Fotoğraflar"
+   },
+   "3451851833460018584": {
+      "message": "{NUM_COMMENTS,plural, =0{Yorum yok}=1{Bir yorum}other{# yorum}}"
+   },
+   "3455405209271884570": {
+      "message": "Çıkar"
+   },
+   "345718983715470367": {
+      "message": "Kaynak"
+   },
+   "3462556632501534753": {
+      "message": "$2​Açık kaynak lisansları$1​"
+   },
+   "3468441711253011521": {
+      "message": "Google E-Tablolar"
+   },
+   "3473620774713000513": {
+      "message": "Çözüldü"
+   },
+   "3478630283627055305": {
+      "message": "Notu düzenlemeye son vermek için Escape tuşuna basın"
+   },
+   "3485469306694683931": {
+      "message": "Drive hesabıma çıkar"
+   },
+   "3487924397596265480": {
+      "message": "$1​ seçildi."
+   },
+   "3493932452507671194": {
+      "message": "Girinti eklemek için $1​ ve kapanış köşeli ayracı tuşlarına, girintiyi kaldırmak içinse $1​ ve açılış köşeli ayracı tuşlarına basın"
+   },
+   "3496410038494993160": {
+      "message": "Popüler klavye kısayolları"
+   },
+   "3518073392823563581": {
+      "message": "Klavye kısayolları"
+   },
+   "3527565741177531691": {
+      "message": "Kısayol, $2​$3​$1​ konumuna ekleniyor…"
+   },
+   "3528739824697875943": {
+      "message": "liste öğesi"
+   },
+   "3539889527558048258": {
+      "message": "Google Görsel Arama"
+   },
+   "3544847661620838201": {
+      "message": "Deneyin! Notu daha sonra istediğiniz zaman arayabilirsiniz."
+   },
+   "3549581437554274388": {
+      "message": "Seçim sağa taşındı."
+   },
+   "3551522853788442530": {
+      "message": "Geri git"
+   },
+   "3551608745198442336": {
+      "message": "Çizim $1​/$2​"
+   },
+   "3553997866738769437": {
+      "message": "Çizimi Düzenle"
+   },
+   "3555297636767750285": {
+      "message": "Yeşil"
+   },
+   "3561658662634401836": {
+      "message": "Başlık"
+   },
+   "3569884090205828853": {
+      "message": "OpenOffice Calc"
+   },
+   "3571391964903695725": {
+      "message": "Yinele"
+   },
+   "3571704286086017611": {
+      "message": "Hatırlatıcı silindi"
+   },
+   "3574963906259719128": {
+      "message": "Bu ses dosyası tarayıcınızda çalınamıyor."
+   },
+   "3580243353280636963": {
+      "message": "Tarih ve saat seç"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3595562664731337243": {
+      "message": "Etiketi yeniden adlandır"
+   },
+   "3603931013946597836": {
+      "message": "{NUM_ITEMS,plural, =1{{NUM_PARENTS} klasörde bulunan bir dosyayı taşıyorsunuz}other{{NUM_PARENTS} klasörde bulunan dosyaları taşıyorsunuz}}"
+   },
+   "3608521102844050208": {
+      "message": "Hatırlatıcı:"
+   },
+   "3608606849109645545": {
+      "message": "Yeni bir doküman adı girin:"
+   },
+   "3609912631958780352": {
+      "message": "Kaligrafi Aracı"
+   },
+   "3611573349633408445": {
+      "message": "İndir"
+   },
+   "3612936866865912552": {
+      "message": "Yükleniyor..."
+   },
+   "3617727970098875990": {
+      "message": "Tüm kısayollarda ara"
+   },
+   "362521762755836201": {
+      "message": "Oluşturulma zamanı: $1​"
+   },
+   "3628141779141388914": {
+      "message": "Klasörler henüz ortak drive'a taşınamaz."
+   },
+   "3634885664399305142": {
+      "message": "Çizim kullanılamıyor"
+   },
+   "3642907339426904506": {
+      "message": "Çöp Kutusu'nda not yok"
+   },
+   "3651893685901703652": {
+      "message": "..."
+   },
+   "3657386785336906042": {
+      "message": "ters eğik çizgi"
+   },
+   "3659554681396757189": {
+      "message": "Benim açtıklarım"
+   },
+   "366289214151975122": {
+      "message": "$1​ alanında olan ve bağlantıyı bilen herkes"
+   },
+   "3663571259791438207": {
+      "message": "Kötüye kullanım bildirin"
+   },
+   "3664842788764635265": {
+      "message": "Yok"
+   },
+   "3666123569747918021": {
+      "message": "Bu dokümanda kaydedilmemiş değişiklikler var. Sayfadan ayrılıp değişikliklerin yoksayılmasını istiyor musunuz?"
+   },
+   "3678477908297567934": {
+      "message": "alt çizgi"
+   },
+   "3684032082082645570": {
+      "message": "{count,plural, =1{Nota bir renk uygulamak için o rengi seçin.}other{Notlara bir renk uygulamak için o rengi seçin.}}"
+   },
+   "3690515530505404607": {
+      "message": "Bu video oynatılırken bir sorun oluştu."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Hiç öğe yok}=1{1 öğe}other{# öğe}}"
+   },
+   "3703024996011822310": {
+      "message": "Google Keep'e Hoş Geldiniz"
+   },
+   "3712215972250917265": {
+      "message": "Yorumlar"
+   },
+   "3714239567487848851": {
+      "message": "Koyu tema etkinleştirildi"
+   },
+   "3721649886572275931": {
+      "message": "8 Numara"
+   },
+   "372633345629975481": {
+      "message": "Notlar sabitlendi"
+   },
+   "372823375470132483": {
+      "message": "Çöp kutusuna gönderilen notun seçimini kaldır"
+   },
+   "3734444903221631913": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}other{{NUM_ITEMS_2} öğeyi Ekip Drive'larından ve paylaşılan klasörlerden taşıyorsunuz. Kullanıcılar bu öğelere erişemeyecek.}}"
+   },
+   "3751183760611784323": {
+      "message": "Ekran genişliğine sığdırmak için öğe yakınlaştırıldı."
+   },
+   "3768927257183755959": {
+      "message": "Kaydet"
+   },
+   "3787959261309150430": {
+      "message": "Çizgi çizmek için Kalem simgesini tıklayın"
+   },
+   "3793086499925031123": {
+      "message": "Arama çubuğunu aç/öncekini bul"
+   },
+   "3796511349428373407": {
+      "message": "Tarih seçenekleri"
+   },
+   "37992665410817181": {
+      "message": "Yeniden açıldı"
+   },
+   "3802992573289114390": {
+      "message": "\"$1​\" adlı dosyanın açıklaması başarıyla güncellendi."
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3827179818223863356": {
+      "message": "Açık Yeşil"
+   },
+   "383396092993661575": {
+      "message": "Ortak drive'a taşımak istiyor musunuz?"
+   },
+   "3845302429676793049": {
+      "message": "\"$1​\" öğesinin açıklaması güncellenirken bir sorun oluştu."
+   },
+   "3852386690131857488": {
+      "message": "Paylaşımı etkinleştir"
+   },
+   "3856687081748327279": {
+      "message": "Dosyaların ortak drive'dan taşınması erişimi ve sahipliği değiştirir."
+   },
+   "3856960241878617076": {
+      "message": "Yorumlar yükleniyor, lütfen bekleyin"
+   },
+   "3858324058837632381": {
+      "message": "Bu ses dosyası çalınırken bir sorun oluştu."
+   },
+   "3869166581651870488": {
+      "message": "Düzenlemeyi bitir"
+   },
+   "3874597373619381607": {
+      "message": "Sonlandırılan yorumlar gösteriliyor"
+   },
+   "3877974536163446728": {
+      "message": "$1​, $2​ seçildi"
+   },
+   "3880648579756747781": {
+      "message": "Bu klasör, bir ortak drive'da izin verilen maksimum öğe sayısını aşarsa izinler kaybedilebilir. $2​Daha Fazla Bilgi$1​"
+   },
+   "3888733084985311515": {
+      "message": "Aile Grubu mevcut."
+   },
+   "3897281533382850749": {
+      "message": "Sesi aç"
+   },
+   "3907816292084809686": {
+      "message": "İşlem yeniden yapıldı"
+   },
+   "3909380459614154542": {
+      "message": "Bağlantıya git"
+   },
+   "3920849627538402857": {
+      "message": "İndir"
+   },
+   "3952341864324097024": {
+      "message": "Aramayı temizle"
+   },
+   "3955575370175991097": {
+      "message": "$1​ etiket görünümüne geçildi"
+   },
+   "395680759377627007": {
+      "message": "\"$3​$2​$1​\" etiketini oluştur"
+   },
+   "397098723873502323": {
+      "message": "Tamamlandı"
+   },
+   "3974822583047850066": {
+      "message": "İptal et"
+   },
+   "3977699855735576796": {
+      "message": "Diğer sayfalar yüklenirken bir sorun oluştu."
+   },
+   "3981269900634596036": {
+      "message": "{numberOfNotes,plural, =1{Notu sil}other{Notları sil}}"
+   },
+   "3988418762222300024": {
+      "message": "nokta"
+   },
+   "3989925953740167133": {
+      "message": "Google Keep, konuma dayalı hatırlatıcılar için yer önerilerini iyileştirmek amacıyla konum bilgilerinizi kullanmak istiyor."
+   },
+   "4005725939358875643": {
+      "message": "İşlem geri alındı."
+   },
+   "4020393055976236243": {
+      "message": "Sahiplik $2​ alanındaki \"$3​\" adlı Ekip Drive'ından $1​ alanına aktarılacak."
+   },
+   "4023299615382814997": {
+      "message": "Çöp Kutusu'nda düzenlenemez"
+   },
+   "4034637528003033305": {
+      "message": "Bu klasör, bir Ekip Drive'ında izin verilen maksimum öğe sayısını aşarsa izinler kaybedilebilir. $2​Daha Fazla Bilgi$1​"
+   },
+   "4036523543547629779": {
+      "message": "Resimler"
+   },
+   "4044915502415235332": {
+      "message": "Sabitlenen notu seç"
+   },
+   "4052960606031736645": {
+      "message": "{NUM_ITEMS,plural, =1{{NUM_PARENTS} klasörde bulunan bir klasörü taşıyorsunuz}other{{NUM_PARENTS} klasörde bulunan klasörleri taşıyorsunuz}}"
+   },
+   "4061102590585232601": {
+      "message": "$1​ kaldırıldı"
+   },
+   "4064820890482961434": {
+      "message": "Onay kutularını göster"
+   },
+   "4072353527895477784": {
+      "message": "Kişiler"
+   },
+   "407982090576503781": {
+      "message": "Drive'ım bölümüne taşınsınlar mı?"
+   },
+   "4081524305222967804": {
+      "message": "Turkuaz"
+   },
+   "4085493778209859942": {
+      "message": "Yine de oynat"
+   },
+   "4097921967754832323": {
+      "message": "kısa çizgi"
+   },
+   "411137507354526852": {
+      "message": "Ayda bir"
+   },
+   "4111452225725405610": {
+      "message": "\"$1​\" öğesinin yıldızı kaldırıldı."
+   },
+   "4117632433281998979": {
+      "message": "Aylık"
+   },
+   "4122858386674768321": {
+      "message": "$3​$2​$1​ klasöründen taşı"
+   },
+   "4145164831312518309": {
+      "message": "Geri bildirim göndermek için @ tuşuna basın"
+   },
+   "4155905925766040098": {
+      "message": "Önizleme yok"
+   },
+   "4157091150222353401": {
+      "message": "Yorumlar DOCX, PPTX ve XLSX dosyalarına kaydedilir ve Microsoft Office'te görünür"
+   },
+   "4167720915844687374": {
+      "message": "Bir şekli silmek için Silgi'yi tıklayın."
+   },
+   "4174786386751618325": {
+      "message": "Fotoğraflı not"
+   },
+   "4182427157920112948": {
+      "message": "yaklaşık işareti"
+   },
+   "4186465168527990324": {
+      "message": "\"$1​\" adlı dosya $2​ klasörüne başarıyla çıkarıldı"
+   },
+   "4194905394104253796": {
+      "message": "Yapılandırın"
+   },
+   "4204345954541079744": {
+      "message": "Bu etiket henüz hiçbir notta kullanılmıyor"
+   },
+   "4206529410529166231": {
+      "message": "{NUM_ITEMS,plural, =1{{NUM_PARENTS} klasörde bulunan bir öğeyi taşıyorsunuz}other{{NUM_PARENTS} klasörde bulunan öğeleri taşıyorsunuz}}"
+   },
+   "4209658291185545281": {
+      "message": "İşlem geri alınamadı"
+   },
+   "4211182812451835307": {
+      "message": "Düzenleyebilir"
+   },
+   "4214190403999219403": {
+      "message": "Zum"
+   },
+   "4216242742234357612": {
+      "message": "Tüm notları seç"
+   },
+   "4216628828665009319": {
+      "message": "Avokado Yeşili"
+   },
+   "4227185265023581008": {
+      "message": "Google Takvim"
+   },
+   "4228870062013120023": {
+      "message": "Sonraki/önceki nota git"
+   },
+   "4230101516585408149": {
+      "message": "Yeni not oluşturun"
+   },
+   "4236714142889891754": {
+      "message": "Ortak drive'lar arasında taşımak istiyor musunuz?"
+   },
+   "4239183034054216803": {
+      "message": "Kahverengi"
+   },
+   "4267845092591696061": {
+      "message": "Seçili öğelere yıldız ekle/seçili öğelerin yıldızını kaldır"
+   },
+   "426927371216979233": {
+      "message": "Çizgiler"
+   },
+   "4293996570221590891": {
+      "message": "Beyaz"
+   },
+   "4296310694082659873": {
+      "message": "Silgi Aracı"
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4310202846681054741": {
+      "message": "{numberOfPreviews,plural, =1{Bağlantı önizlemesi kaldırıldı}other{# bağlantı önizlemesi kaldırıldı}}"
+   },
+   "4318861667254318892": {
+      "message": "Google Video"
+   },
+   "4320831042030778": {
+      "message": "İptal"
+   },
+   "4320942249997687388": {
+      "message": "End"
+   },
+   "4321382260116636620": {
+      "message": "Notu seç"
+   },
+   "4332252081504252077": {
+      "message": "Hata!"
+   },
+   "433537592689162064": {
+      "message": "Daha fazla bilgi"
+   },
+   "4343825450663233452": {
+      "message": "Görüntüleyebilir"
+   },
+   "4343836986248234462": {
+      "message": "Liste öğesi"
+   },
+   "4343848624651344174": {
+      "message": "Öğleden sonra"
+   },
+   "435214284915110062": {
+      "message": "Arama çubuğunu aç"
+   },
+   "435444400175963053": {
+      "message": "$1​ öğe $2​ klasörüne taşındı."
+   },
+   "4356312843186491987": {
+      "message": "Taşı"
+   },
+   "4357246389840951053": {
+      "message": "Komut dosyası ekli bazı öğeler henüz ortak drive'lara taşınamaz."
+   },
+   "4391715930031906467": {
+      "message": "Sonrakini bul"
+   },
+   "4397482594800054550": {
+      "message": "\"$1​\" öğesi yeniden adlandırılırken bir sorun oluştu."
+   },
+   "4412626362660239325": {
+      "message": "Drive'da organize edin"
+   },
+   "4422985761498356257": {
+      "message": "Şununla aç"
+   },
+   "4429542915339609008": {
+      "message": "Maalesef bu uygulamada birden çok dosya açma desteklenmiyor."
+   },
+   "4439831283519683004": {
+      "message": "Gri"
+   },
+   "4448871104213529122": {
+      "message": "Ayrıntıları gizle"
+   },
+   "4457424709416639982": {
+      "message": "Drive'ım bölümüne ekle"
+   },
+   "4486429060311743289": {
+      "message": "Seçimi temizleyin"
+   },
+   "4494250072784000771": {
+      "message": "Ekran kalemi algılandı. Parmakla Yatay Kaydırma etkinleştirildi."
+   },
+   "45228242181482134": {
+      "message": "Oynat"
+   },
+   "4533605085334699862": {
+      "message": "Alıntılar"
+   },
+   "4543077011795639870": {
+      "message": "Öğenin girintisi azaltıldı."
+   },
+   "4546909961510778468": {
+      "message": "Drive"
+   },
+   "4550209323331625907": {
+      "message": "$2​Daha fazla bilgi$1​"
+   },
+   "4557086341175267918": {
+      "message": "Çevrimdışıyken paylaşılamaz"
+   },
+   "4558568516353053251": {
+      "message": "Bu dosyayı görüntüleyenler, yorumları ve önerileri görebilir."
+   },
+   "4564682305303579317": {
+      "message": "Devam"
+   },
+   "456512308416555173": {
+      "message": "Kitaplar"
+   },
+   "4566838580250578446": {
+      "message": "{every,plural, =1{Her yıl yinelenir}other{# yılda bir yinelenir}}"
+   },
+   "4583714435275461910": {
+      "message": "üst liste öğesi"
+   },
+   "4586373282767984140": {
+      "message": "Sarı"
+   },
+   "4595551195988564947": {
+      "message": "Google Asistan Alışveriş Listesi değişiyor."
+   },
+   "4602655470033495470": {
+      "message": "Keep'e notlar, listeler, çizimler, fotoğraflar ve ses dosyaları ekleyin."
+   },
+   "4607656353105320648": {
+      "message": "{count,plural, =1{Not tamamıyla silinsin mi?}other{Notlar tamamıyla silinsin mi?}}"
+   },
+   "4607802784047113873": {
+      "message": "Ortak çalışan ekle"
+   },
+   "4608848277887462246": {
+      "message": "Daha fazla sayfa"
+   },
+   "461126197624379601": {
+      "message": "Bu dosyayı diğer kullanıcılarla tartışmak için buraya dokunun"
+   },
+   "4620034373159179678": {
+      "message": "Sayfa $1​/$2​"
+   },
+   "4632830890362652221": {
+      "message": "{NUM_ITEMS,plural, =1{Bir klasörde bulunan bir öğeyi taşıyorsunuz}other{Bir klasörde bulunan öğeleri taşıyorsunuz}}"
+   },
+   "4642196066412650732": {
+      "message": "Yöneticileri kuruluşlarına dışarıdan paylaşımları ve yöneticiniz kuruluşunuzdan dışarıya paylaşımları devre dışı bıraktığı için aşağıdaki kullanıcılarla paylaşımda bulunulamıyor."
+   },
+   "4643940860676429496": {
+      "message": "Kaydediliyor..."
+   },
+   "4671836579708244357": {
+      "message": "Kişiler"
+   },
+   "4675792829115971960": {
+      "message": "Bu notu işaretleyecek ve hesabınızdan kaldıracağız."
+   },
+   "4685321580747790677": {
+      "message": "{every,plural, =1{Her hafta {days} günleri yinelenir.}other{# haftada bir {days} günleri yinelenir.}}"
+   },
+   "4691283408020124345": {
+      "message": "Liste Görünümü"
+   },
+   "4697169479015785830": {
+      "message": "Kaligrafi Aracı Renk ve Boyut Seçiciyi Açın"
+   },
+   "4697673185436885400": {
+      "message": "$1​ tarayıcıda $2​ klavye kısayolu E-Tablolar tarafından geçersiz kılındı"
+   },
+   "4698144269846224816": {
+      "message": "1 Numara"
+   },
+   "4699778906119153977": {
+      "message": "Bul"
+   },
+   "4704493722060638379": {
+      "message": "Önceki konuma taşımak için Üst Karakter ve N, sonraki konuma taşımak içinse Üst Karakter ve P tuşlarına basın"
+   },
+   "4722167255291887189": {
+      "message": "2 Numara"
+   },
+   "4734349318830134239": {
+      "message": "Bitiş:"
+   },
+   "4738612839683751348": {
+      "message": "Öğenin girintisi daha fazla artırılamıyor."
+   },
+   "4740100782728373253": {
+      "message": "Drive'a kaydet"
+   },
+   "4748046231232264180": {
+      "message": "Google Formlar"
+   },
+   "4751144871302640150": {
+      "message": "Benimle paylaşılanlar"
+   },
+   "4751202914935960324": {
+      "message": "Bu e-posta adresi zaten mevcut"
+   },
+   "4752655540567953719": {
+      "message": "Konum $1​"
+   },
+   "4762625944764691132": {
+      "message": "Ana menü"
+   },
+   "47670360985205683": {
+      "message": "\"$1​\" ($2​) Google'ın tarayabileceği maksimum dosya boyutunu aşıyor. Bu dosya bilgisayarınıza zarar verebileceği için dosyayı yalnızca risklerin farkındaysanız oynatın."
+   },
+   "4767722428137216885": {
+      "message": "İptal"
+   },
+   "477328789314249432": {
+      "message": "Notlarda ara"
+   },
+   "4775368111547931093": {
+      "message": "Açıklama yok"
+   },
+   "4780778609011268862": {
+      "message": "Bu ortak drive zaten bir ortak drive'da bulunabilecek maksimum sayıda dosya içerdiği için bu dosya taşınamaz."
+   },
+   "4805047680716507619": {
+      "message": " - Şuraya taşı:"
+   },
+   "4806763987633034948": {
+      "message": "PKCS7 Signature"
+   },
+   "4807444103404336088": {
+      "message": "\"$1​\" öğesine yıldız eklenirken bir sorun oluştu."
+   },
+   "4816888965396680834": {
+      "message": "Google $1​ düzenleyicisinde $2​ dosyalarıyla gerçek zamanlı olarak düzenleme yapın ve ortak çalışın"
+   },
+   "4821130290026382049": {
+      "message": "Popüler klavye kısayolları"
+   },
+   "4833214200453019325": {
+      "message": "$1​ / $2​"
+   },
+   "4839460587397079680": {
+      "message": "Videolar"
+   },
+   "4840513623749850224": {
+      "message": "Filmler"
+   },
+   "4847795993918486929": {
+      "message": "Resimdeki metin yakalanamıyor. Daha sonra tekrar deneyin."
+   },
+   "4853788427396558692": {
+      "message": "$1​ MB"
+   },
+   "4858389278403807208": {
+      "message": "Not, Çöp Kutusu'nda"
+   },
+   "4864051612562026766": {
+      "message": "{count,plural, =1{1 öğe seçildi}other{# öğe seçildi}}"
+   },
+   "4878012031550736317": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Kullanıcılar \"{TEAM_DRIVE_NAME}\" adlı Ekip Drive'ının üyesi olmamaları durumunda bu dosyaya erişimi kaybeder.}other{Kullanıcılar \"{TEAM_DRIVE_NAME}\" adlı Ekip Drive'ının üyesi olmamaları durumunda bu dosyalara erişimi kaybeder.}}"
+   },
+   "490045476479394048": {
+      "message": "Hakkında yorum yapacağınız metni vurgulayın"
+   },
+   "4906669330059413958": {
+      "message": "Şifreyi gönder"
+   },
+   "4907349694646937491": {
+      "message": "Not $1​. konuma taşındı"
+   },
+   "4915450884407029247": {
+      "message": "$1​ etiketi eklendi."
+   },
+   "4918998818369420588": {
+      "message": "Kötüye kullanım bildir"
+   },
+   "4930422592340561418": {
+      "message": "Drive'ım"
+   },
+   "4930506384627295710": {
+      "message": "Ayarlar"
+   },
+   "4937266179792749481": {
+      "message": "En son"
+   },
+   "4955094356920130803": {
+      "message": "Kehribar Rengi"
+   },
+   "4957674814179289955": {
+      "message": "Sonraki/önceki liste öğesine git"
+   },
+   "4963533275503057654": {
+      "message": "Küçük resim oluşturuluyor..."
+   },
+   "4963784280521435720": {
+      "message": "Kaydediliyor..."
+   },
+   "4974059227183970715": {
+      "message": "\"#\" girerek de etiket ekleyebilirsiniz."
+   },
+   "4974261966265341751": {
+      "message": "Koyu temayı devre dışı bırak"
+   },
+   "4982284738093713321": {
+      "message": "Organize eden"
+   },
+   "4988132901627446385": {
+      "message": "Ayrıntılar paneli genişletildi."
+   },
+   "5000971639019912199": {
+      "message": "$2​Şartlar$1​"
+   },
+   "5006765610090288212": {
+      "message": "$1​ renk uygulandı"
+   },
+   "5008901799534614532": {
+      "message": "Sil"
+   },
+   "5009448218905630614": {
+      "message": "Kaldır"
+   },
+   "5011858093760184160": {
+      "message": "Yıldızı kaldır"
+   },
+   "5013331898336483156": {
+      "message": "Yeni bir alandaki Drive'ım bölümüne mi taşımak istiyorsunuz?"
+   },
+   "5023623739220371850": {
+      "message": "Kimlik doğrulanamadı. Değişiklikler, oturum açtığınızda senkronize edilecek."
+   },
+   "5041572047197549869": {
+      "message": "Her ay aynı gün"
+   },
+   "5045725997997672553": {
+      "message": "{weekNumber,plural, =1{Her ayın ilk {day} günü}=2{Her ayın ikinci {day} günü}=3{Her ayın üçüncü {day} günü}=4{Her ayın dördüncü {day} günü}other{Her ayın son {day} günü}}"
+   },
+   "5046371569383796818": {
+      "message": "Sakla"
+   },
+   "5052461293250181960": {
+      "message": "page down"
+   },
+   "5060107422621709815": {
+      "message": "Yenilenemedi"
+   },
+   "5075841894330153061": {
+      "message": "Çizimi kapatmak için sol üste gidin ve Geri'yi tıklayın"
+   },
+   "5078184843381528205": {
+      "message": "Notu sabitle"
+   },
+   "5085332075590890665": {
+      "message": "Geri al"
+   },
+   "5086862627563516607": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{\"{TEAM_DRIVE_NAME}\" Ekip Drive'ının üyeleri bu öğeye erişim kazanacak.}other{\"{TEAM_DRIVE_NAME}\" Ekip Drive'ının üyeleri bu öğelere erişim kazanacak.}}"
+   },
+   "5089697363226053379": {
+      "message": "Taşı"
+   },
+   "5094400861508407603": {
+      "message": "Madde işareti kaldırıldı"
+   },
+   "5095987896933771566": {
+      "message": "Dokümanı yazdır"
+   },
+   "509815948423424872": {
+      "message": "Gezinme"
+   },
+   "5098941979861776792": {
+      "message": "Enter"
+   },
+   "5121976648047240846": {
+      "message": "Etiketi kaldır"
+   },
+   "5130903421326358933": {
+      "message": "Bu ek, Google Drive'a kaydedilirken bir sorun oluştu."
+   },
+   "5134649253619244584": {
+      "message": "Etiketi sil"
+   },
+   "5140285776541296873": {
+      "message": "Özel"
+   },
+   "5140450179685369890": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} klasör {XXX_1} klasörüne taşındı.}other{{NUM_ITEMS_2} klasör {XXX_2} klasörüne taşındı.}}"
+   },
+   "5151247077945318396": {
+      "message": "Dosyaların çıkarılacağı klasör seçilirken bir hata oluştu."
+   },
+   "5159511879001144721": {
+      "message": "Çini Mavisi"
+   },
+   "5167365673547406876": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{\"{TEAM_DRIVE_NAME}\" adlı Ekip Drive'ının üyeleri erişim sahibi olacak.}other{\"{TEAM_DRIVE_NAME}\" adlı Ekip Drive'ının üyeleri erişim sahibi olacak.}}"
+   },
+   "5178674191443894176": {
+      "message": "Etiketler"
+   },
+   "5178939467831590680": {
+      "message": "Görüntüleyici hata ayıklama ayrıntılarını gizle"
+   },
+   "5180454621500142444": {
+      "message": "Geri yükle"
+   },
+   "5180989337128758117": {
+      "message": "sol parantez"
+   },
+   "5182569285908080938": {
+      "message": "Bitiş tarihi seçenekleri"
+   },
+   "5184692850089055965": {
+      "message": "Resimdeki metni yakala"
+   },
+   "5184785218378634051": {
+      "message": "Öğede artık yakınlaştırma yok."
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Ayrıntılar paneli sekme çubuğu. Sekmeler arasında geçiş yapmak için sağ ve sol ok tuşlarına basın."
+   },
+   "5202835861850747976": {
+      "message": "$2​Daha Fazla Bilgi$1​"
+   },
+   "5204391636475413312": {
+      "message": "Kaydet"
+   },
+   "5238284741118437734": {
+      "message": "Geri al"
+   },
+   "5238307666527496111": {
+      "message": "Tamam"
+   },
+   "5238371081785912565": {
+      "message": "$1​ ile aç"
+   },
+   "5255388116256536182": {
+      "message": "Yorum yapmak istediğiniz hücreleri seçmek için ok tuşlarını kullanın. Seçimi genişletmek için, ok tuşlarına basarken üst karakter tuşunu basılı tutun. Yorum oluşturmak için Enter, iptal etmek içinse Escape tuşuna basın."
+   },
+   "5259541708332520733": {
+      "message": "Kaynak kaldırıldı"
+   },
+   "5271615049826004958": {
+      "message": "Bağlantı önizleme seçenekleri"
+   },
+   "527438013974545289": {
+      "message": "Koyu tema kullanıma hazır"
+   },
+   "5281121179861637423": {
+      "message": "$1​ öğesine erişim için şifre gerekli. Lütfen şifreyi girin"
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5292097099562224381": {
+      "message": "Çöp kutusu boşaltılsın mı?  Çöp Kutusu'ndaki tüm notlar kalıcı olarak silinecektir."
+   },
+   "5299648222246616124": {
+      "message": "vurgu işareti"
+   },
+   "5300527252159851865": {
+      "message": "Dosya içeriği, beklenen dosya biçimiyle eşleşmiyor."
+   },
+   "5310593920481358659": {
+      "message": "Temalar"
+   },
+   "5311386381313171872": {
+      "message": "Google Drive"
+   },
+   "5320475549855398784": {
+      "message": "Bu çizim internete bağlandığınızda kullanılabilecek."
+   },
+   "5321772883765574323": {
+      "message": "\"$1​\", $2​ klasöründen $3​ klasörüne taşındı."
+   },
+   "5334959887390704534": {
+      "message": "Bu etiket silinecek ve tüm Keep notlarınızdan kaldırılacak. Notlarınız silinmeyecektir."
+   },
+   "5336801339221383042": {
+      "message": "JavaScript"
+   },
+   "5336924963122494935": {
+      "message": "Bunu seç"
+   },
+   "534191528712675978": {
+      "message": "Pause"
+   },
+   "534228323125524312": {
+      "message": "Uzaklaştır"
+   },
+   "5353129315502554762": {
+      "message": "Stil Sayfası"
+   },
+   "5362121973783326712": {
+      "message": "Kamera"
+   },
+   "5362962746518601227": {
+      "message": "{NUM_ITEMS,plural, =1{Bir klasörde bulunan bir dosyayı taşıyorsunuz}other{Bir klasörde bulunan dosyaları taşıyorsunuz}}"
+   },
+   "5363853533596749934": {
+      "message": "Etiket adı girin"
+   },
+   "5366505386236199032": {
+      "message": "YouTube"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5392844646168201484": {
+      "message": "3 Numara"
+   },
+   "5394695048211047984": {
+      "message": "Tarih ekle"
+   },
+   "5398036630337418486": {
+      "message": "Dokümanı aç"
+   },
+   "5403636185480096151": {
+      "message": "TV"
+   },
+   "540596856674438371": {
+      "message": "Paylaşım kapalı olduğundan paylaşılamıyor."
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "5413225497191133249": {
+      "message": "Notları sabitleme veya notların sabitlemesini kaldırma"
+   },
+   "5422660126805186552": {
+      "message": "Daha rahat bir okuma deneyiminin tadını çıkarın. Bu özelliği Ayarlar'da açabilir veya kapatabilirsiniz."
+   },
+   "5423742603774911808": {
+      "message": "Liste çok büyük."
+   },
+   "5435749276779042277": {
+      "message": "+ $1​ TANE DAHA"
+   },
+   "5447119197363232006": {
+      "message": "Drive'da göster"
+   },
+   "5455566801812656827": {
+      "message": "DAHA AZ"
+   },
+   "5465081454525683943": {
+      "message": "Bu not artık hesabınızla paylaşılmıyor. Notun sahibinden erişim izni isteyin veya izni olan bir hesaba geçiş yapın."
+   },
+   "5467649767578147801": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Kullanıcılar \"{TEAM_DRIVE_NAME}\" adlı Ekip Drive'ının üyesi olmamaları veya {DOMAIN_NAME} alanının dışında olmaları durumunda bu dosyaya erişimi kaybeder.}other{Kullanıcılar \"{TEAM_DRIVE_NAME}\" adlı Ekip Drive'ının üyesi olmamaları veya {DOMAIN_NAME} alanının dışında olmaları durumunda bu dosyalara erişimi kaybeder.}}"
+   },
+   "546766753072101168": {
+      "message": "Etiketler"
+   },
+   "5478662967017843220": {
+      "message": "Koyu mavi"
+   },
+   "5480497191725157666": {
+      "message": "Esc"
+   },
+   "5482604275203517054": {
+      "message": "sol ok"
+   },
+   "5503885447744017882": {
+      "message": "$2​ dışındaki $1​ hedefine taşımak istiyor musunuz?"
+   },
+   "5506390497558702263": {
+      "message": "{count,plural, =1{Not arşivden kaldırıldı ve sabitlendi}other{# not arşivden kaldırıldı ve sabitlendi}}"
+   },
+   "5520112019886360037": {
+      "message": "Kapat"
+   },
+   "5534694255293809224": {
+      "message": "Notu düzenlemeye son vermek için $1​ ve Enter tuşlarına basın"
+   },
+   "5539958940810433464": {
+      "message": "Notu çöp kutusuna at"
+   },
+   "5542817571710587822": {
+      "message": "Dosyada çok fazla resim var."
+   },
+   "5545146751578623220": {
+      "message": "Caps-Lock"
+   },
+   "5555182241047709329": {
+      "message": "Bir konum seçin"
+   },
+   "5562491070882550010": {
+      "message": "Paylaşılan notlar silindiğinde notun paylaşıldığı kişiler tarafından görülemez."
+   },
+   "556742419793425318": {
+      "message": "Sil"
+   },
+   "5570885401952336951": {
+      "message": "İstemci günlüğü"
+   },
+   "5578032872220617725": {
+      "message": "Tüm notları seçmek için $1​ ve A tuşlarına basın"
+   },
+   "5581834527128285229": {
+      "message": "\"$1​\" öğesi Drive'ıma eklenirken bir sorun oluştu."
+   },
+   "5592884381280360832": {
+      "message": "Anladım"
+   },
+   "5598649706113950710": {
+      "message": "Düzenleyici"
+   },
+   "5601530442010506564": {
+      "message": "Anladım"
+   },
+   "5603830044099155569": {
+      "message": "Öncekine gitmek için J, sonrakine gitmek içinse K tuşuna basın"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "5648022012893174586": {
+      "message": "Kalın çizgiler çizmek için Keçeli Kalem simgesini tıklayın"
+   },
+   "5652536812290902558": {
+      "message": "Ses Dosyasını İndir"
+   },
+   "5678095606167600931": {
+      "message": "Madde işareti eklendi"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5687611645532246887": {
+      "message": "Albümler"
+   },
+   "5714240424645614611": {
+      "message": "Android Paketi"
+   },
+   "5714760273477184428": {
+      "message": "Hakkında yorum yapacağınız alanı vurgulamak için okları kullanın, ardından enter tuşuna basın"
+   },
+   "5738003914096572768": {
+      "message": "Etkinleşenler"
+   },
+   "5755541943799933389": {
+      "message": "\"$1​\" öğesine yıldız eklendi."
+   },
+   "5772465571783741830": {
+      "message": "\"$1​\" kısayolu oluşturulurken bir sorunla karşılaşıldı"
+   },
+   "577619047319778196": {
+      "message": "Seçimi Temizle"
+   },
+   "5801257863595278616": {
+      "message": "Seçim sola taşındı."
+   },
+   "5808038805122520160": {
+      "message": "Bu çizim, boyut sınırına ulaştı."
+   },
+   "5813834209240603556": {
+      "message": "Öncekine gitmek için N, sonrakine gitmek içinse P tuşuna basın"
+   },
+   "5820033033803019104": {
+      "message": "Düzenle"
+   },
+   "5826302153453971149": {
+      "message": "Açık Pembe"
+   },
+   "5840202488368071194": {
+      "message": "Resimli yeni not"
+   },
+   "5840330517914556080": {
+      "message": "Uzaklaştır"
+   },
+   "5854158607727111728": {
+      "message": "Sekme"
+   },
+   "5869813956121628651": {
+      "message": "Yorum yapılamaz"
+   },
+   "5870134033985574990": {
+      "message": "Çıkarılıyor..."
+   },
+   "5871692308013280837": {
+      "message": "Kategorileri görüntüle"
+   },
+   "5871966496153339793": {
+      "message": "$1​ adlı videonun küçük resmi görüntüleniyor"
+   },
+   "5876498556450482026": {
+      "message": "Renkle vurgulamak için Fosforlu Kalem simgesini tıklayın"
+   },
+   "5895666393386604578": {
+      "message": "Girinti eklemek için listenizdeki öğeleri sürükleyin veya $1​ kısayolunu kullanın."
+   },
+   "5906730626678011496": {
+      "message": "Drive'a kısayol ekle"
+   },
+   "5909490544352162901": {
+      "message": "Bu nota erişmek için notun sahibinden izin isteyin veya izni olan bir hesaba geçiş yapın. Şu anda $1​ olarak oturum açmış durumdasınız."
+   },
+   "5911012384539794869": {
+      "message": "Çıkartma işi başlatılamadı."
+   },
+   "591481266986424156": {
+      "message": "Bu klavye kısayolu şu anda $1​ tarayıcı tarafından $2​ işlemi için kullanılıyor"
+   },
+   "5916010927050975496": {
+      "message": "$1​ KB"
+   },
+   "5917528552332886959": {
+      "message": "Sonlandırılan yorumları göster"
+   },
+   "5947790263929501779": {
+      "message": "Madde işaretine dönüştürüldü"
+   },
+   "5949528478488617689": {
+      "message": "İndirme İzni"
+   },
+   "5950887255133612666": {
+      "message": "Başlatılmadı."
+   },
+   "5954965790623966933": {
+      "message": "Kızıl"
+   },
+   "5961691090101357621": {
+      "message": "Tuval aşağı doğru genişletildi."
+   },
+   "5961981688037913870": {
+      "message": "$1​ eklendi"
+   },
+   "5965683144165568126": {
+      "message": "Liste öğesinin sırasını değiştir"
+   },
+   "5969696744752069015": {
+      "message": "Önizleme yok."
+   },
+   "597927944425927829": {
+      "message": "Sahiplik \"$1​\" adlı Ekip Drive'ından size aktarılacak."
+   },
+   "5984398071085567332": {
+      "message": "Google Füzyon Tabloları"
+   },
+   "5987609488177213747": {
+      "message": "Etiket oluştur"
+   },
+   "5989809255170931770": {
+      "message": "{time,plural, =1{Keep # saniye içinde güncellenecek}other{Keep # saniye içinde güncellenecek}}"
+   },
+   "5994697604396931641": {
+      "message": "Tümünü Kaldır"
+   },
+   "5999179030782577147": {
+      "message": "Notu çöp kutusuna göndermek için # tuşuna basın"
+   },
+   "6009962986062136164": {
+      "message": "$1​ yükleniyor."
+   },
+   "6011637630664474614": {
+      "message": "Boşluk Tuşu"
+   },
+   "6011708967018957768": {
+      "message": "Sahiplik ortak drive'a aktarılsın mı?"
+   },
+   "6027516495119898580": {
+      "message": "Konum tabanlı hatırlatıcılar kullanılamıyor"
+   },
+   "6030537159236285525": {
+      "message": "Liste öğesini sonraki/önceki konuma taşı"
+   },
+   "60305871484579258": {
+      "message": "Alt"
+   },
+   "6033916931543811803": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{XXX_1} klasöründeki {NUM_ITEMS_2} klasör {XXX_2} klasörüne taşındı.}other{{XXX_3} klasöründeki {NUM_ITEMS_2} klasör {XXX_4} klasörüne taşındı.}}"
+   },
+   "6043578784980337112": {
+      "message": "$1​ dosya $2​ klasörüne taşındı."
+   },
+   "6049952042443321325": {
+      "message": "Klavye kısayolları tablosu"
+   },
+   "6062216008944363143": {
+      "message": "{weekNumber,plural, =1{{every} ayda bir ayın ilk {day} günü yinelenir}=2{{every} ayda bir ayın ikinci {day} günü yinelenir}=3{{every} ayda bir ayın üçüncü {day} günü yinelenir}=4{{every} ayda bir ayın dördüncü {day} günü yinelenir}other{{every} ayda bir ayın son {day} günü yinelenir}}"
+   },
+   "6069780031254134657": {
+      "message": "Tamamlandı olarak işaretle"
+   },
+   "6087078248621415351": {
+      "message": "Değiştirilme tarihi: $1​"
+   },
+   "6100883940579706314": {
+      "message": "Bağlantı önizleme"
+   },
+   "6103793971765619589": {
+      "message": "Yöneticileri kuruluşlarına dışarıdan paylaşımları devre dışı bıraktığı için aşağıdaki kullanıcılarla paylaşımda bulunulamıyor."
+   },
+   "6105571474005679446": {
+      "message": "Önizlemeyle ilgili bir sorun oluştu."
+   },
+   "6113237889871930608": {
+      "message": "Boş not"
+   },
+   "6118623991445349480": {
+      "message": "Sayfa $1​"
+   },
+   "6122643025527543706": {
+      "message": "Ctrl"
+   },
+   "6127325177382263770": {
+      "message": "URL'ler"
+   },
+   "6128550071219729739": {
+      "message": "Resim silindi"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6149175749937815029": {
+      "message": "Tüm öğeleri görüntüle"
+   },
+   "6159229289552931928": {
+      "message": "Paylaşılan klasöre taşımak ister misiniz?"
+   },
+   "616807262818311711": {
+      "message": "Tür"
+   },
+   "6176354714840789272": {
+      "message": "$2​Google Keep Chrome Uzantısı$1​'nı kullanarak bağlantıları daha sonra kullanılmak üzere de kaydedebilirsiniz."
+   },
+   "6186753450686672643": {
+      "message": "{every,plural, =1{Her gün yinelenir}other{# günde bir yinelenir}}"
+   },
+   "6189397065139465013": {
+      "message": "Her"
+   },
+   "6201176165479907499": {
+      "message": "{count,plural, =1{Not sabitlendi}other{# not sabitlendi}}"
+   },
+   "6203260615455347677": {
+      "message": "Numbers"
+   },
+   "6209117354086898503": {
+      "message": "Geri"
+   },
+   "6211895332551673425": {
+      "message": "$2​Drive'ım$1​ klasörüne eklendi"
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6223530531885788421": {
+      "message": "Kısayol Drive'a ekleniyor..."
+   },
+   "6224687211096863620": {
+      "message": "Herkes"
+   },
+   "6225875898439047571": {
+      "message": "Reddet"
+   },
+   "6231442995102088007": {
+      "message": "Google Keep'teki yenilikler"
+   },
+   "6252259197986158120": {
+      "message": "Dün"
+   },
+   "6263940822259442857": {
+      "message": "Onay kutularını gizle"
+   },
+   "6286379137937560558": {
+      "message": "Makale"
+   },
+   "6286806453721792102": {
+      "message": "Drive'da organize edin"
+   },
+   "6305748545202493254": {
+      "message": "Ayrıntılar bölmesini göster/gizle"
+   },
+   "6306268376900894985": {
+      "message": "{endDate} tarihine kadar yinelenir"
+   },
+   "6324768448533022780": {
+      "message": "$1​ $2​"
+   },
+   "6347484050944915390": {
+      "message": "İstek gönderildi. Onaylandığında bir e-posta alacaksınız."
+   },
+   "6352952829934775705": {
+      "message": "DAHA FAZLA"
+   },
+   "6366376928558090914": {
+      "message": "Yiyecek"
+   },
+   "6371576811194810854": {
+      "message": "Şu kadar tekrardan sonra:"
+   },
+   "6375244206466599493": {
+      "message": "Yılda bir"
+   },
+   "6375395544374251820": {
+      "message": "Diğer sayfalar yüklenirken bir sorun oluştu. Yeniden deneniyor..."
+   },
+   "6377664889539934": {
+      "message": "Parmağınızla Çizin"
+   },
+   "6381941041429900831": {
+      "message": "Ortak çalışan ekle"
+   },
+   "6386587519843563719": {
+      "message": "İkili Dosya"
+   },
+   "639451288140270562": {
+      "message": "Google Dokümanlar'a kopyalandı"
+   },
+   "6394816510866826521": {
+      "message": "Test sürümü"
+   },
+   "6402092370576716734": {
+      "message": "Çöp Kutusunu Boşalt"
+   },
+   "6413404795391222793": {
+      "message": "Yeni bir liste oluştur"
+   },
+   "6416495701611778255": {
+      "message": "Önerilen üçüncü taraf uygulamalar"
+   },
+   "6417706204201069253": {
+      "message": "Silinen notlar, paylaşıldıkları kişiler tarafından görülemez."
+   },
+   "6424277546995954045": {
+      "message": "Klavye kısayollarını geçersiz kılma özelliği geçerli tarayıcıyla kullanılamıyor.\nBu özelliği etkinleştirmek için Chrome, Firefox, IE/Edge veya Safari'ye geçin"
+   },
+   "6426979759685079955": {
+      "message": "Etkin olmayan yorumları göster"
+   },
+   "6428000916830484004": {
+      "message": "Kahverengi"
+   },
+   "6432019580434957057": {
+      "message": "Ses"
+   },
+   "6443103650988201046": {
+      "message": "Colaboratory"
+   },
+   "6443615802319581315": {
+      "message": "{NUM_ITEMS,plural, =1{Bu dosyayı bulunduğu klasörlerden taşıma izniniz yok. Dosyayı taşımak yerine {START_SPAN_1}{NAME}{END_SPAN} klasörüne ekleyin.}other{Bu dosyaları bulundukları klasörlerden taşıma izniniz yok. Dosyaları taşımak yerine {START_SPAN_2}{NAME}{END_SPAN} klasörüne ekleyin.}}"
+   },
+   "6450508807204492448": {
+      "message": "$1​ simgesi"
+   },
+   "6457802200418354862": {
+      "message": "Görüntüleyenler indirebilir"
+   },
+   "6459405233858728718": {
+      "message": "Google Slaytlar"
+   },
+   "6473102097014191455": {
+      "message": "Çizim not"
+   },
+   "6477306554098527424": {
+      "message": "Google Asistan"
+   },
+   "6480376252068839019": {
+      "message": "Izgara seçeneklerini aç"
+   },
+   "6487295087519678926": {
+      "message": "Drive'a Yükleme"
+   },
+   "6490084340347327400": {
+      "message": "Not ve liste arasında geçiş yapmak için $1​, Üst Karakter ve 8 tuşlarına basın"
+   },
+   "6497197865876438261": {
+      "message": "Müzik"
+   },
+   "6507257480072167483": {
+      "message": "Etiket adı $1​ olarak değiştirildi."
+   },
+   "6510131849363684615": {
+      "message": "Yarın"
+   },
+   "6513721414466645971": {
+      "message": "Kaldırıldı"
+   },
+   "6524849072392100692": {
+      "message": "Google Drive Klasörü"
+   },
+   "653160061888539741": {
+      "message": "İlerleme denetimi"
+   },
+   "6571686604846453345": {
+      "message": "Bu öğe, Drive'a eklenirken bir sorun oluştu."
+   },
+   "6578339688410021742": {
+      "message": "\"$1​\" Ekip Drive'ının tüm üyeleri öğelere erişebilecek."
+   },
+   "6579707685908557993": {
+      "message": "Akşam"
+   },
+   "6588176324871799870": {
+      "message": "Google Apps Komut Dosyası"
+   },
+   "6595703969647338657": {
+      "message": "{count,plural, =1{Not oluşturuldu}other{# not oluşturuldu}}"
+   },
+   "6618562607681757575": {
+      "message": "Herhangi bir klasörden taşıma, yalnızca $3​$2​$1​ klasörüne ekle"
+   },
+   "6622304228074863427": {
+      "message": "Uygulama"
+   },
+   "6627510416186113122": {
+      "message": "Açık Turkuaz"
+   },
+   "6664835828596108553": {
+      "message": "Seçenek"
+   },
+   "6667440728495437281": {
+      "message": "Bu dokümanın önizlemesi yapılırken bir sorun oluştu. Yeniden deneniyor..."
+   },
+   "6674095299257911962": {
+      "message": "Bu öğe, kısıtlanmış içerik barındırdığı için $1​ alanının dışında paylaşılamaz"
+   },
+   "670419277288558500": {
+      "message": "Video/Ses"
+   },
+   "6707173584987026005": {
+      "message": "Bugün"
+   },
+   "6710728478489145370": {
+      "message": "Kapat"
+   },
+   "6713235295664405475": {
+      "message": "üzerinde|-e/-a"
+   },
+   "6715985122107380503": {
+      "message": "Kayıtlar"
+   },
+   "6726462693927865256": {
+      "message": "Ayrıntılar"
+   },
+   "6726879257388338969": {
+      "message": "Yazdır"
+   },
+   "6732800471045353930": {
+      "message": "Bu not izin verilen maksimum sayıda kişiyle paylaşıldı."
+   },
+   "673551770550324419": {
+      "message": "Genişliğe sığdır"
+   },
+   "6747528043814108113": {
+      "message": "$1​'ne geçildi"
+   },
+   "6749829802551750923": {
+      "message": "yukarı ok"
+   },
+   "6750600017746655174": {
+      "message": "Option"
+   },
+   "6750827506231593056": {
+      "message": "Hesap değiştir"
+   },
+   "6755327423364814290": {
+      "message": "Uygulamayla daha hızlı notlar alın"
+   },
+   "6761622351199419182": {
+      "message": "Not, Arşiv'de"
+   },
+   "6773222938695237983": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Bu öğe paylaşılsın mı?}other{Bu öğeler paylaşılsın mı?}}"
+   },
+   "6778577079172085976": {
+      "message": "Sabitlenenler"
+   },
+   "678660085936036852": {
+      "message": "Resimler işleniyor..."
+   },
+   "6787580031482277539": {
+      "message": "Hiçbir zaman"
+   },
+   "6798055902819777633": {
+      "message": "Parmağınızla Yatay Kaydırın"
+   },
+   "6801348618370627980": {
+      "message": "$1​ etiketi oluşturuldu."
+   },
+   "6815042072535422726": {
+      "message": "Ses silindi"
+   },
+   "6822520214440117457": {
+      "message": "İş yeri"
+   },
+   "6831650827360444197": {
+      "message": "Paylaşılan not geri alındı."
+   },
+   "6833062695195555756": {
+      "message": "Silgi Aracı Seçenekler Menüsünü Açın"
+   },
+   "6833760103261954639": {
+      "message": "Bu sayfa yüklenirken bir sorun oluştu. Yeniden deneniyor..."
+   },
+   "68477685313713097": {
+      "message": "{MINUTES,plural, =0{0 dakika}=1{1 dakika}other{{MINUTES} dakika}}"
+   },
+   "6864144421392687943": {
+      "message": "Bilgisayarlar"
+   },
+   "687402923448150707": {
+      "message": "İşareti kaldırıldı"
+   },
+   "689017442055275529": {
+      "message": "$1​ Adlı Kullanıcının Aile Grubu"
+   },
+   "6891563484025164308": {
+      "message": "Önceki"
+   },
+   "6898823203505321799": {
+      "message": "Ayrıntılar"
+   },
+   "6904351530369058983": {
+      "message": "Sahibi"
+   },
+   "6905505747689522124": {
+      "message": "Life Arşiv Araması"
+   },
+   "6907559338225657032": {
+      "message": "Taşı"
+   },
+   "691041991673354191": {
+      "message": "Beni kaldır"
+   },
+   "6918505531548047245": {
+      "message": "Fosforlu Kalem Aracı"
+   },
+   "6921237745237410511": {
+      "message": "Yorum ekleyin"
+   },
+   "6922953828399110511": {
+      "message": "Görüntüleyiciyi kapat"
+   },
+   "6925056317406251324": {
+      "message": "Görsel Arama"
+   },
+   "693770783324368110": {
+      "message": "Notların sabitlemesi kaldırıldı ve çöp kutusuna gönderildi"
+   },
+   "6956515948204056309": {
+      "message": "Etkin olmayan yorumlar gizlendi"
+   },
+   "6966912428667098497": {
+      "message": "Arşivlenen notlarınız burada görünür"
+   },
+   "6979766453743005049": {
+      "message": "Liste öğelerini yeniden düzenlemek ve onlara girinti eklemek için listenizdeki öğeleri sürükleyip bırakın"
+   },
+   "6980199665979997122": {
+      "message": "Geri yükle"
+   },
+   "6982321568096234183": {
+      "message": "Ses Dosyasını ($1​) İndir"
+   },
+   "6982682101118067511": {
+      "message": "Organize ediliyor…"
+   },
+   "7005745151564974365": {
+      "message": "Klavye kısayolları"
+   },
+   "7005977332887563273": {
+      "message": "Kısayol ekle"
+   },
+   "701276785305022936": {
+      "message": "Bozuk doküman. Lütfen dosyanın en son biçimde olduğundan emin olun."
+   },
+   "7017485862232001373": {
+      "message": "\"$1​\", $2​ klasörüne eklendi."
+   },
+   "7019002927048576918": {
+      "message": "$1​ Arama Filtreleri"
+   },
+   "7030308038380934896": {
+      "message": "Google Dokümanlar'a kopyalanamadı"
+   },
+   "7050021021988648361": {
+      "message": "URL'yi kopyala"
+   },
+   "7050898523853841537": {
+      "message": "Sıklık seçenekleri"
+   },
+   "705714112650622350": {
+      "message": "Öğenin Google Drive'a eklenmesi sırasında bir sorun oluştu."
+   },
+   "7059437903473652416": {
+      "message": "$1​ adlı YouTube videosunu oynat"
+   },
+   "7066744251212631722": {
+      "message": "Küf Yeşili"
+   },
+   "7084991134824194740": {
+      "message": "Hatırlat"
+   },
+   "7086801490719148597": {
+      "message": "Bunun seçimini kaldır"
+   },
+   "7094548885298700726": {
+      "message": "Koyu Kahverengi"
+   },
+   "7102649289752747375": {
+      "message": "Geri bildirim gönder"
+   },
+   "7121259585839664942": {
+      "message": "İptal"
+   },
+   "7126326627883991568": {
+      "message": "Geçerli çizimi sil"
+   },
+   "7126535013613878060": {
+      "message": "Önemli notlarınızı en üste sabitleyin."
+   },
+   "7135182401951359795": {
+      "message": "Sahiplik size aktarılacaktır."
+   },
+   "7141983486405549971": {
+      "message": "Insert"
+   },
+   "7145753028985071097": {
+      "message": "Notun sırası değiştiriliyor"
+   },
+   "7146242673022399081": {
+      "message": "Metin"
+   },
+   "7148992630785407972": {
+      "message": "Bu dosya şifre korumalıdır ve önizlenemez."
+   },
+   "7149013203800794567": {
+      "message": "{count,plural, =1{Renk {color}. Nota başka bir renk uygulamak için o rengi seçin.}other{Renk {color}. Notlara başka bir renk uygulamak için o rengi seçin.}}"
+   },
+   "7153847618034547771": {
+      "message": "Etkinleştir"
+   },
+   "7161134329606048317": {
+      "message": "Kapat"
+   },
+   "7164532930742017984": {
+      "message": "Bağlantıya sahip olan herkes"
+   },
+   "7166989725427500881": {
+      "message": "Çöp kutusuna gönderilen notu seç"
+   },
+   "7174409400206281023": {
+      "message": "Çakışan düzenlemeler bulundu"
+   },
+   "7181961085183734135": {
+      "message": "Bu dosya için yazdırma işlevi devre dışı"
+   },
+   "7182285309564868243": {
+      "message": "Dosyalar veya klasörler taşınırken hata oluştu"
+   },
+   "7187441427660427801": {
+      "message": "Çizim aç"
+   },
+   "7190398092435016951": {
+      "message": "{count,plural, =1{Silinen not, notu paylaştığınız kişiler tarafından görülemez.}other{Silinen notlar, notları paylaştığınız kişiler tarafından görülemez.}}"
+   },
+   "7201188472754345797": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Kullanıcılar \"{DESTINATION_DOMAIN}\" alanının dışında olmaları durumunda bu dosyaya erişimi kaybeder.}other{Kullanıcılar \"{DESTINATION_DOMAIN}\" alanının dışında olmaları durumunda bu dosyalara erişimi kaybeder.}}"
+   },
+   "7207109722898253285": {
+      "message": "Seçileni sakla"
+   },
+   "7218693060378095915": {
+      "message": "Yeni"
+   },
+   "722264179594523168": {
+      "message": "İptal"
+   },
+   "7225445911355686176": {
+      "message": "Arşivlenen notu seç"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7231231875581131930": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Bu öğe \"{TEAM_DRIVE_NAME}\" Ekip Drive'ına geri taşınamayacağı için bu işlemi geri alamayacaksınız.}other{En az bir öğe \"{TEAM_DRIVE_NAME}\" Ekip Drive'ına geri taşınamayacağı için bu işlemi geri alamayacaksınız.}}"
+   },
+   "7247530225058410142": {
+      "message": "$1​ $2​"
+   },
+   "7247965266239591227": {
+      "message": "\"$1​\" çıkarılırken bir sorun oluştu."
+   },
+   "7251490702980298031": {
+      "message": "Fosforlu Kalem Aracı Renk ve Boyut Seçiciyi Açın"
+   },
+   "7265183966796883739": {
+      "message": "Sonlandırılan yorumları gizle"
+   },
+   "7278398674737413598": {
+      "message": "Doküman dönüştürülemiyor."
+   },
+   "7278859550373246865": {
+      "message": "{count,plural, =1{Not arşivlendi}other{# not arşivlendi}}"
+   },
+   "7290932540630116546": {
+      "message": "Hatırlatıcı ayarlandı. $1​"
+   },
+   "7295254213841803546": {
+      "message": "Değişiklikler silinsin mi? Yaptığınız değişiklikler kaydedilmeyecek."
+   },
+   "7299749713933143099": {
+      "message": "Mor"
+   },
+   "7301081435623917576": {
+      "message": "Hatırlatıcı Varsayılanları"
+   },
+   "7306962184871750459": {
+      "message": "Sahiplik $3​ alanındaki \"$4​\" adlı Ekip Drive'ından $1​ alanındaki \"$2​\" adlı Ekip Drive'ına aktarılacak."
+   },
+   "7330497278645626593": {
+      "message": "Deneyin"
+   },
+   "7342923890755029722": {
+      "message": "Kapat"
+   },
+   "7344507440412470266": {
+      "message": "Seçim genişletildi."
+   },
+   "734478884582426793": {
+      "message": "Sıkıştırılmış Arşiv"
+   },
+   "7353547650196788656": {
+      "message": "Kırmızı"
+   },
+   "7364571366369083618": {
+      "message": "Video"
+   },
+   "7376703418960184879": {
+      "message": "Kopyala"
+   },
+   "7377239345926788722": {
+      "message": "İşlemler"
+   },
+   "7379369644162401367": {
+      "message": "Ortak çalışanları kaldır"
+   },
+   "7381817875028728077": {
+      "message": "Hayır, teşekkürler"
+   },
+   "7382688299146249119": {
+      "message": "Öğeyi indir"
+   },
+   "7384785369409503695": {
+      "message": "Koyu temayı etkinleştir"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "7420117636241237177": {
+      "message": "$1​ adlı dosyadaki iletiler, posta hesabınızda \"İçe Aktar: $2​\" etiketinin altına çıkarıldı."
+   },
+   "7420364754178516134": {
+      "message": "Hata ayıklama araçları"
+   },
+   "7426603384368095928": {
+      "message": "Tekrar oturum açıp çalışmaya devam etmek için lütfen sayfayı yeniden yükleyin."
+   },
+   "7427333772418801813": {
+      "message": "+ $1​ TANE DAHA düğmesi genişletildi"
+   },
+   "7429084719905985261": {
+      "message": "Objective C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7438696235870090716": {
+      "message": "Drive'ım"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (düzenlenme: $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Drive'a kaydediliyor"
+   },
+   "744753705925710199": {
+      "message": "Maalesef bu uygulama, açmaya çalıştığınız tüm dosyalar için yetkilendirilemedi. Lütfen tekrar deneyin."
+   },
+   "7452116603589558390": {
+      "message": "Sabitlenen notun seçimini kaldır"
+   },
+   "7453297286571818554": {
+      "message": "Google Dokümanlar'a kopyala"
+   },
+   "7453307802804717178": {
+      "message": "Açık Mavi"
+   },
+   "7458942806393710991": {
+      "message": "Arşivlenen notun seçimini kaldır"
+   },
+   "7464780237502381438": {
+      "message": "Daha fazla uygulama bağla"
+   },
+   "7468842863971844562": {
+      "message": "Yeni liste"
+   },
+   "7469895656894091562": {
+      "message": "Bu e-posta adresi geçerli değil"
+   },
+   "7480128655944127234": {
+      "message": "Yeniden adlandır"
+   },
+   "7482924911694634213": {
+      "message": "{weekNumber,plural, =1{Her ayın ilk {day} günü yinelenir}=2{Her ayın ikinci {day} günü yinelenir}=3{Her ayın üçüncü {day} günü yinelenir}=4{Her ayın dördüncü {day} günü yinelenir}other{Her ayın son {day} günü yinelenir}}"
+   },
+   "7483088916037874359": {
+      "message": "Dosya çok büyük. "
+   },
+   "7488945223835574498": {
+      "message": "PostScipt"
+   },
+   "7503234138288940590": {
+      "message": "Arama yapın"
+   },
+   "7507827375601925075": {
+      "message": "Notu sonraki/önceki konuma taşı"
+   },
+   "7510155920769316048": {
+      "message": "Notlar ve Listeler"
+   },
+   "7516769578943800930": {
+      "message": "İşaretlendi"
+   },
+   "7528204871156404767": {
+      "message": "Safari"
+   },
+   "7528441140724145783": {
+      "message": "Etiketleri düzenleyin"
+   },
+   "7529683448345488779": {
+      "message": "Girilen şifre yanlış; lütfen farklı bir şifre girin."
+   },
+   "7530677128711603655": {
+      "message": "\"$1​\" ile ilgili arama sonuçları"
+   },
+   "7564771400033548584": {
+      "message": "{selectedCount,plural, =1{# tanesi seçildi}other{# tanesi seçildi}}"
+   },
+   "7565795669925550891": {
+      "message": "Paylaşım kaynağı:"
+   },
+   "7579280421767578228": {
+      "message": "Herhangi bir gün için hatırlatıcı"
+   },
+   "7585826646011739428": {
+      "message": "Düzenle"
+   },
+   "7586291841734385643": {
+      "message": "Yeni sekmede aç"
+   },
+   "7587936635257676112": {
+      "message": "$1​ eklendi"
+   },
+   "7598582624136632660": {
+      "message": "Arama çubuğunu aç/sonrakini bul"
+   },
+   "7599358608613738069": {
+      "message": "Sil"
+   },
+   "7604275940271852148": {
+      "message": "Posta hesabıma çıkar"
+   },
+   "7604400308311739073": {
+      "message": "Sabitle"
+   },
+   "7610628906656867728": {
+      "message": "Arşivlenenler"
+   },
+   "7610654194202731772": {
+      "message": "Sil"
+   },
+   "7624042048123264803": {
+      "message": "Notu aç"
+   },
+   "7630069597298444649": {
+      "message": "Arama kutusuna odaklanmak için / tuşuna basın"
+   },
+   "7630723924002267143": {
+      "message": "Klavye kısayolları etkin."
+   },
+   "7631302417932873160": {
+      "message": "Dosyada virüs taraması yapılamıyor"
+   },
+   "7648759818896108920": {
+      "message": "+$1​"
+   },
+   "7649506133540465463": {
+      "message": "İşlem geri alınamadı."
+   },
+   "7653702763016575386": {
+      "message": "Mavi"
+   },
+   "7656983816661099886": {
+      "message": "Nesneler"
+   },
+   "7659047104232758352": {
+      "message": "şu|bu"
+   },
+   "7669677145513127809": {
+      "message": "Ekip Drive'ları arasında taşınsınlar mı?"
+   },
+   "7669846901402551021": {
+      "message": "Bugün"
+   },
+   "7690349821507417537": {
+      "message": "$1​ numaralı liste öğesi kaldırıldı"
+   },
+   "7690355160889785521": {
+      "message": "Yeşil"
+   },
+   "7709557808259730054": {
+      "message": "Onaylar"
+   },
+   "7709889936233398701": {
+      "message": "Kaldır"
+   },
+   "7715892737835649602": {
+      "message": "\"#\" girerek de etiket ekleyebilirsiniz."
+   },
+   "7724602581120994002": {
+      "message": "Turuncu"
+   },
+   "7728066040934031356": {
+      "message": "Mor"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "7735981667219692675": {
+      "message": "{resultCount,plural, =1{# arama sonucu}other{# arama sonucu}}"
+   },
+   "774390292128857049": {
+      "message": "Arama yapın"
+   },
+   "7751981235297474273": {
+      "message": "Geri al"
+   },
+   "7754093419850121316": {
+      "message": "⌘"
+   },
+   "7757440777278143092": {
+      "message": "Koyu Gri"
+   },
+   "7766150028615181766": {
+      "message": "Buraya başka bir kısayol ekle"
+   },
+   "7766580018314203658": {
+      "message": "Bu çizim, boyut sınırına yakın. Bu nota yeni bir çizim eklemeyi düşünebilirsiniz."
+   },
+   "7772544658778579390": {
+      "message": "Dokümanda bul"
+   },
+   "778181404304502404": {
+      "message": "Öğe uzaklaştırıldı."
+   },
+   "7791050524692390574": {
+      "message": "Renkler"
+   },
+   "7796648733955818629": {
+      "message": "Bu dosya yüklenemiyor. $2​ MB ve $3​ megapikselden küçük olan $1​ dosyalarını kabul ediyoruz."
+   },
+   "7800318069267901681": {
+      "message": "Değiştirilme"
+   },
+   "7803075387516434727": {
+      "message": "Eşleşen sonuç yok."
+   },
+   "7814778057875152792": {
+      "message": "Ek, Google Drive'daki seçili klasöre taşınırken bir sorun oluştu."
+   },
+   "7819314041543176992": {
+      "message": "Kapat"
+   },
+   "7821512290975371360": {
+      "message": "Parlak Pembe"
+   },
+   "7828886646639771557": {
+      "message": "Not alın…"
+   },
+   "7830513726270865588": {
+      "message": "Takvim"
+   },
+   "7842164552344536314": {
+      "message": "Organize ediliyor..."
+   },
+   "7844842290699524598": {
+      "message": "Etiket sayısı sınırına ulaşıldı. Yeni etiket eklemek için mevcut bir etiketi silin."
+   },
+   "7849249492061822610": {
+      "message": "Yardım pop-up'ının gösterilmesi için soru işareti tuşuna basın"
+   },
+   "785840448809859989": {
+      "message": "Saat seçenekleri"
+   },
+   "7865240075542402013": {
+      "message": "Yıldız ekle"
+   },
+   "7868324478160174739": {
+      "message": "Mavi"
+   },
+   "7872546153972922699": {
+      "message": "Tamamladığınız öğeleri işaretleyin"
+   },
+   "7873060817438017568": {
+      "message": "$2​ · $1​"
+   },
+   "7873698934773957560": {
+      "message": "Yok"
+   },
+   "787773550893657271": {
+      "message": "Önceki Çizim Açıldı"
+   },
+   "7888520165977111723": {
+      "message": "Ekip Drive'ına taşımak istiyor musunuz?"
+   },
+   "7895643887742936844": {
+      "message": "noktalı virgül"
+   },
+   "7906726367011430855": {
+      "message": "Bağla"
+   },
+   "7910887984113996757": {
+      "message": "Paylaşımı aç"
+   },
+   "7911416166208830577": {
+      "message": "Yardım"
+   },
+   "7924606175376623897": {
+      "message": "Notu sabitlemek veya notun sabitlemesini kaldırmak için F tuşuna basın"
+   },
+   "7934833136974560675": {
+      "message": "Yeniden dene"
+   },
+   "7943657844420237650": {
+      "message": "OpenOffice Impress"
+   },
+   "7946114032014914338": {
+      "message": "{repeatSentence}. {endSentence}"
+   },
+   "7947001788143789176": {
+      "message": "Yükleniyor..."
+   },
+   "7959130747647079558": {
+      "message": "{selectedCount,plural, =1{# not seçildi}other{# not seçildi}}"
+   },
+   "7976461426527138085": {
+      "message": "Listeler"
+   },
+   "7991475666499751798": {
+      "message": "Hatırlatıcıyı tamamlandı olarak işaretle"
+   },
+   "7996360883730444101": {
+      "message": "Maalesef bu dosya açılırken hata oluştu. Lütfen tekrar deneyin."
+   },
+   "7998118521140187915": {
+      "message": "Sonlandırılan yorumlar gizlendi"
+   },
+   "8003252582874834655": {
+      "message": "Öğelerin Ekip Drive'ına taşınması erişimi ve sahipliği değiştirir."
+   },
+   "8010075936095394680": {
+      "message": "Dosya sürümü çok eski. Lütfen dosyanın en son biçimde olduğundan emin olun. "
+   },
+   "8011497727123874703": {
+      "message": "$1​ Klasör Düğmesi"
+   },
+   "8013687642711017862": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Bir öğeyi paylaşılan klasörlerden taşıyorsunuz. Kullanıcılar bu öğeye erişemeyecek.}other{{NUM_ITEMS_2} öğeyi paylaşılan klasörlerden taşıyorsunuz. Kullanıcılar bu öğelere erişemeyecek.}}"
+   },
+   "8019402848412685977": {
+      "message": "\"$2​\", \"$1​\" olarak yeniden adlandırıldı."
+   },
+   "802668096552856965": {
+      "message": "{checkedItemCount,plural, =1{# Tamamlanmış öğe}other{# Tamamlanmış öğe}}"
+   },
+   "8043514121228710092": {
+      "message": "Resim ekle"
+   },
+   "8046884224424523922": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{XXX_1} klasöründeki {NUM_ITEMS_2} dosya {XXX_2} klasörüne taşındı.}other{{XXX_3} klasöründeki {NUM_ITEMS_2} dosya {XXX_4} klasörüne taşındı.}}"
+   },
+   "8063817953234049242": {
+      "message": "Seçim Aracı"
+   },
+   "807840433749698811": {
+      "message": "Camgöbeği"
+   },
+   "8080583426915938264": {
+      "message": "Bilgisayarınızdaki uygulamalar"
+   },
+   "8085493757603803516": {
+      "message": "Seçimi Düzenle"
+   },
+   "8090743714060857028": {
+      "message": "Görüntüleyenler indiremez"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 bayt}=1{1 bayt}other{# bayt}}"
+   },
+   "8104421162933956065": {
+      "message": "Notlar"
+   },
+   "8111632928339277375": {
+      "message": "{NUM_FOLDERS,plural, =1{Bir klasörden taşı}=2{Her iki klasörden de taşı}other{# klasörün tamamından taşı}}"
+   },
+   "8119839693658969418": {
+      "message": "Yöneticiniz kuruluşunuzdan dışarıya paylaşımları devre dışı bıraktığı için aşağıdaki kullanıcılarla paylaşımda bulunulamıyor."
+   },
+   "8125425371755035523": {
+      "message": "Geri al"
+   },
+   "8133866583554546341": {
+      "message": "$1​, $2​"
+   },
+   "8137338584146377170": {
+      "message": "Dosyanın sahibi ortak drive'ın ait olduğu alanın üyesi olmadığı için bu dosya taşınamaz."
+   },
+   "8139785559888164453": {
+      "message": "Daha fazla bilgi"
+   },
+   "8144512434938656483": {
+      "message": "veya"
+   },
+   "8149439558305434788": {
+      "message": "$1​, $2​"
+   },
+   "8159493406018222636": {
+      "message": "Geri bildirim gönder"
+   },
+   "8163727651556550203": {
+      "message": "Başka bir kısayol ekle"
+   },
+   "8163781449224244510": {
+      "message": "Seçim geri çekildi."
+   },
+   "8174654098152723289": {
+      "message": "Açıklamayı Düzenle"
+   },
+   "818217888086545352": {
+      "message": "Sarı"
+   },
+   "8189126656205301402": {
+      "message": "Google Dokümanlar'a kopyala"
+   },
+   "8193677552005249631": {
+      "message": "Uygulama indirme işlemleri"
+   },
+   "8194941811853358224": {
+      "message": "\"$1​\" öğesinden yıldız kaldırılırken bir sorun oluştu"
+   },
+   "8199137154169358847": {
+      "message": "Daha fazla"
+   },
+   "819996403327805209": {
+      "message": "Daha fazla bilgi"
+   },
+   "8207659457248280436": {
+      "message": "Kısayollar henüz ortak drive'a taşınamaz."
+   },
+   "8208179689358649003": {
+      "message": "Notu arşivlemek için E tuşuna basın"
+   },
+   "8224193807932432983": {
+      "message": "İşlemler"
+   },
+   "8225614702924834215": {
+      "message": "Diğer Seçenekler"
+   },
+   "8231449936104909428": {
+      "message": "\"$1​\", Drive'da seçilen klasöre taşınırken bir sorun oluştu."
+   },
+   "8233656381635014955": {
+      "message": "\"Merhaba Google, yapılacaklar listemde ne var?\""
+   },
+   "8233945959714786736": {
+      "message": "Önceki"
+   },
+   "8242655297101700529": {
+      "message": "Drive'ım"
+   },
+   "824468664656304495": {
+      "message": "İnternete bağlı değilsiniz. Bazı işlevler kullanılamayabilir."
+   },
+   "8265689758492685194": {
+      "message": "Temalar"
+   },
+   "8273434617910595878": {
+      "message": "aşağı ok"
+   },
+   "8281141013543828574": {
+      "message": "Raw Resim"
+   },
+   "8281169978199539270": {
+      "message": "Salt okunur bir klasörden taşıma işlemi yapılamaz"
+   },
+   "8284315184632755389": {
+      "message": "Yıldızlı"
+   },
+   "8292708563843446267": {
+      "message": "Öğelerin sahibi \"$1​\" olacak."
+   },
+   "8305505634689906340": {
+      "message": "\"$1​\" içinde arama yapın"
+   },
+   "8322416564157128458": {
+      "message": "Paylaşma"
+   },
+   "8323603365638981303": {
+      "message": "Üstteki Yeni çizim not düğmesini tıklayın"
+   },
+   "8333974577908804438": {
+      "message": "Bu türdeki dosyalar henüz ortak drive'a taşınamaz."
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342620486324515462": {
+      "message": "Kapat"
+   },
+   "8343105225506381659": {
+      "message": "Etkin olmayan yorumlar gösteriliyor"
+   },
+   "8379952094517631162": {
+      "message": "Hayır"
+   },
+   "8389434962426321219": {
+      "message": "Yaklaşan hatırlatıcıları olan notlar burada görünür"
+   },
+   "8409190394690387796": {
+      "message": "Yorum ekleyin"
+   },
+   "8412098268689886334": {
+      "message": "Birleştir"
+   },
+   "8412733496413412439": {
+      "message": "Çevrimdışı"
+   },
+   "8422875188929347819": {
+      "message": "Paylaşım"
+   },
+   "84334343973701810": {
+      "message": "Home"
+   },
+   "8452647597930138120": {
+      "message": "Hakkında yorum yapacağınız hücreyi vurgulayın"
+   },
+   "8453627484113670693": {
+      "message": "Açık Turuncu"
+   },
+   "8467894483369467251": {
+      "message": "Flash"
+   },
+   "8471029293590878384": {
+      "message": "Duraklat"
+   },
+   "8493378997610580289": {
+      "message": "Diğer kısayollar"
+   },
+   "8505989225387082493": {
+      "message": "Etiket ekle"
+   },
+   "8506292502710287776": {
+      "message": "Uzun notlar mı alıyorsunuz? Alt kısma geldiğinizde otomatik olarak daha fazla alan ekleriz."
+   },
+   "8509270263487836281": {
+      "message": "Oturum Aç"
+   },
+   "8517148045938431718": {
+      "message": "Hataları düzelt"
+   },
+   "8529203008291528328": {
+      "message": "Çöp Kutusu'nu boşalt"
+   },
+   "8535303351837089357": {
+      "message": "{modifierKey}+Z ve {modifierKey}+Y tuşlarını kullanarak değişiklikleri geri alabilir ve yeniden yapabilirsiniz."
+   },
+   "8559513397356310933": {
+      "message": "Yeni öğeleri alta ekle"
+   },
+   "8562196940800756925": {
+      "message": "İşaretçi Aracı"
+   },
+   "857379832182429172": {
+      "message": "Aç"
+   },
+   "8575113875567233985": {
+      "message": "\"$1​\" adlı Ekip Drive'ından öğe kaldıramazsınız."
+   },
+   "8589423377647285975": {
+      "message": "$1​: $2​ liste öğesi $3​."
+   },
+   "8595175575778060149": {
+      "message": "Diğer"
+   },
+   "8596279649507974639": {
+      "message": "Buraya taşı"
+   },
+   "8602525917014156029": {
+      "message": "Yerler"
+   },
+   "8611058223830804795": {
+      "message": "İşaretli öğeleri alta taşı"
+   },
+   "8616342546716995946": {
+      "message": "Tamam"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8621178077822096827": {
+      "message": "$1​ numaralı liste öğesi eklendi"
+   },
+   "8626694988569301667": {
+      "message": "Çizim kullanılamıyor"
+   },
+   "8637215430007224613": {
+      "message": "Sonraki Çizim Açıldı"
+   },
+   "8660016472468563221": {
+      "message": "iki nokta"
+   },
+   "8663507590720636709": {
+      "message": "$1​ +$2​ öğe daha"
+   },
+   "8663993454460982287": {
+      "message": "Onay kutuları gösterilmiyor"
+   },
+   "8674222789100049233": {
+      "message": "Kapat"
+   },
+   "8708723278154759600": {
+      "message": "Notlar arşivlendi"
+   },
+   "8734569874711220205": {
+      "message": "Gezinme menüsü"
+   },
+   "8738345098829705526": {
+      "message": "12 Numara"
+   },
+   "8773943264600860531": {
+      "message": "Internet Explorer"
+   },
+   "8775097441636640256": {
+      "message": "$2​ - $1​"
+   },
+   "8781837301864053001": {
+      "message": "Zengin Metin"
+   },
+   "8786673003584562680": {
+      "message": "Pg-Up"
+   },
+   "8790687303221198259": {
+      "message": "Chrome Uygulaması"
+   },
+   "8792038552136453044": {
+      "message": "Hata! Bir şeyler ters gitti."
+   },
+   "8793166064242077041": {
+      "message": "Bu resim görüntülenirken bir sorun oluştu."
+   },
+   "8797656338249040679": {
+      "message": "Önemsediğiniz şeyleri tek bir tıklamayla Keep'e kaydetmek için $2​Google Keep Chrome uzantısını yükleyin$1​."
+   },
+   "8822326207328431952": {
+      "message": "Resim yüklemeleri kullanılamıyor"
+   },
+   "8825353897919495748": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Bu dosyayı taşımak istediğinizden emin misiniz?}other{Bu dosyaları taşımak istediğinizden emin misiniz?}}"
+   },
+   "8845176264121061589": {
+      "message": "Tüm öğelerin işaretini kaldır"
+   },
+   "8852550049823214385": {
+      "message": "sonra"
+   },
+   "885480352148498682": {
+      "message": "Etkin olmayan yorumlar, Google Drive dışında düzenlenmeleri halinde kaldırılabilir"
+   },
+   "8860658114732392347": {
+      "message": "Hatırlatıcıyı sil"
+   },
+   "8865141968381070659": {
+      "message": "Buraya kısayol ekle"
+   },
+   "8867634760949689122": {
+      "message": "Dosya dönüştürülemedi: Dönüştürme işlemi zaman aşımına uğradı. Lütfen daha sonra tekrar deneyin."
+   },
+   "8868758864963683383": {
+      "message": "Notun seçimini kaldır"
+   },
+   "8869202143464930500": {
+      "message": "Sahiplik $1​ adlı Ekip Drive'ına aktarılsın mı?"
+   },
+   "887001400549949730": {
+      "message": "Yeni pencerede aç"
+   },
+   "8889019648958415451": {
+      "message": "Bilinmeyen Dosya"
+   },
+   "8895209347521686105": {
+      "message": "Google Fotoğraflar"
+   },
+   "8903612093856047007": {
+      "message": "Ortak Çalışanlar"
+   },
+   "8905995985388209337": {
+      "message": "Kabul Et"
+   },
+   "8917554093651202032": {
+      "message": "$1​ videosunu oynat"
+   },
+   "8919660666733306860": {
+      "message": "Resim"
+   },
+   "8923591894816841670": {
+      "message": "Seçim aşağı taşındı."
+   },
+   "8925842014466254066": {
+      "message": "Google Dokümanlar'a kopyalanıyor"
+   },
+   "8930959387403789939": {
+      "message": "Hatırlatıcı"
+   },
+   "8931267220766224111": {
+      "message": "Google Keep hatırlatıcıları etkinleştirilsin mi? Tarayıcı bildirimlerine izin vermeniz gerekebilir."
+   },
+   "8938626240031421092": {
+      "message": "Onay kutuları arasında geçiş yap"
+   },
+   "8943760679396635042": {
+      "message": "$1​ görüntüleniyor."
+   },
+   "8962132866274125834": {
+      "message": "Yeniden yap"
+   },
+   "896590342186332268": {
+      "message": "16 Numara"
+   },
+   "8975305711699693093": {
+      "message": "Yorum sütununu gizle"
+   },
+   "8978442832029227748": {
+      "message": "Google Jamboard"
+   },
+   "8979104019474011578": {
+      "message": "{every,plural, =1{Her hafta yinelenir}other{# haftada bir yinelenir}}"
+   },
+   "8979615310931291676": {
+      "message": "Düzenlenme zamanı: $1​"
+   },
+   "8988925599985431446": {
+      "message": "Sabitlemeyi kaldır"
+   },
+   "8990769651805334695": {
+      "message": "Şu tarihte:"
+   },
+   "900086393693234779": {
+      "message": "Ev"
+   },
+   "9003585743562048321": {
+      "message": "Bir ağ hatası nedeniyle yorumlar senkronize edilemedi."
+   },
+   "9012753183662045049": {
+      "message": "Daha kısa bir etiket adı girin"
+   },
+   "9012809035908808124": {
+      "message": "Liste ve tablo görünümü arasında geçiş yapmak için $1​ ve G tuşlarına basın"
+   },
+   "9021945828354340363": {
+      "message": "{count,plural, =1{Bu not artık sizinle paylaşılmayacak.}other{Bu notlar artık sizinle paylaşılmayacak.}}"
+   },
+   "9024023699330078373": {
+      "message": "Bu öğe açıldığında Drive'ınıza eklenir"
+   },
+   "9051304537377804875": {
+      "message": "{HOURS,plural, =0{0 saat}=1{1 saat}other{{HOURS} saat}}"
+   },
+   "9058308423774656474": {
+      "message": "Hangul Kelime İşlemci"
+   },
+   "9063863448028905602": {
+      "message": "Sonuçlardan kaldır"
+   },
+   "9066539791850693252": {
+      "message": "Drive"
+   },
+   "9072994494820207560": {
+      "message": "İşaretli Öğe"
+   },
+   "9088582015610828915": {
+      "message": "Daha az"
+   },
+   "9094248058931620597": {
+      "message": "Ayrıntılar paneli daraltıldı."
+   },
+   "9096768033530566606": {
+      "message": "Kısayol, $2​$3​$1​ konumuna eklendi"
+   },
+   "911586799466052745": {
+      "message": "Apache OpenOffice Draw"
+   },
+   "911698676339750373": {
+      "message": "Aile Grubu"
+   },
+   "9121915169985572840": {
+      "message": "Rengi değiştir"
+   },
+   "9124422680181020503": {
+      "message": "Çizim silindi"
+   },
+   "9129734193759025482": {
+      "message": "Yarın"
+   },
+   "9131268871618792263": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{unused plural form}other{Ekip Drive'larının üyeleri, bu öğeler kendileriyle paylaşılmazsa erişimi kaybedecek.}}"
+   },
+   "9140728449558729773": {
+      "message": "Daha fazla genişletilemez. Maksimum tuval yüksekliğine ulaşıldı."
+   },
+   "9146862513672039744": {
+      "message": "Hesabı temizle"
+   },
+   "9149141099919589043": {
+      "message": "Virgülle Ayrılmış Değerler"
+   },
+   "9150202601400529256": {
+      "message": "Kısayol, $2​$3​$1​ konumuna eklenemiyor"
+   },
+   "9155213204821633067": {
+      "message": "$1​ metninin seçimi kaldırıldı."
+   },
+   "9180910903828232576": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} klasör {XXX_1} klasörüne eklendi.}other{{NUM_ITEMS_2} klasör {XXX_2} klasörüne eklendi.}}"
+   },
+   "9197837492705576727": {
+      "message": "Sonraki öğeye git"
+   },
+   "919969969251998566": {
+      "message": "Bu arşivi posta hesabınıza çıkarın."
+   },
+   "9202541782096241233": {
+      "message": "Bu ortak Drive'daki dosyaları taşıma izniniz yok."
+   },
+   "9203454763088526300": {
+      "message": "Metin tanınamıyor."
+   },
+   "9213031420087755232": {
+      "message": "Sayfayı Temizle"
+   },
+   "938074023403688885": {
+      "message": "Kaldır"
+   },
+   "951963820437151566": {
+      "message": "Google Sites"
+   },
+   "960732173870658714": {
+      "message": "Google Keep Dokümanı"
+   },
+   "969509857504028202": {
+      "message": "Dosyaların Ekip Drive'ından taşınması erişimi ve sahipliği değiştirir."
+   },
+   "981637388660093923": {
+      "message": "{SECONDS,plural, =0{0 saniye}=1{1 saniye}other{{SECONDS} saniye}}"
+   },
+   "985197728509875956": {
+      "message": "Kimyasal Model"
+   },
+   "989685768146008877": {
+      "message": "Öğelerin ortak drive'a taşınması erişimi ve sahipliği değiştirir."
+   },
+   "991852286447868510": {
+      "message": "$1​ için arama yapılıyor"
+   },
+   "99635082918315028": {
+      "message": "Resimdeki metin yakalandı"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Aklınızdakileri kolayca yakalayın ve düşüncelerinizi arkadaşlarınızla ve ailenizle paylaşın."
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Google Keep - notlar ve listeler"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Google Keep"
+   }
+}

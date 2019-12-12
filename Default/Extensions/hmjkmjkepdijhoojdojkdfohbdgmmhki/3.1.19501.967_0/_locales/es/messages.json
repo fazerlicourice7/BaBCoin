@@ -1,0 +1,3632 @@
+{
+   "1001407065815272462": {
+      "message": "Error al añadir a $2​Mi unidad$1​"
+   },
+   "1013939682284715002": {
+      "message": "Organizar"
+   },
+   "1039394921418415681": {
+      "message": "Iniciar sesión"
+   },
+   "1040405721361467195": {
+      "message": "Selecciona las palabras que quieras comentar mediante las teclas de flecha. Mantén pulsada la tecla Mayús y pulsa las teclas de flecha para ampliar la selección. Pulsa Intro para añadir un comentario o Esc para cancelar."
+   },
+   "1055686627716339120": {
+      "message": "Notas archivadas"
+   },
+   "1083918249169198626": {
+      "message": "Las combinaciones de teclas están inhabilitadas."
+   },
+   "1101371910696766077": {
+      "message": "Crear una copia"
+   },
+   "1122146167985532789": {
+      "message": "ayer"
+   },
+   "1127320433256851404": {
+      "message": "Reproductor de vídeo"
+   },
+   "1131044617724567645": {
+      "message": "Los comentarios de un PDF se guardan en el archivo y se pueden ver en otras aplicaciones"
+   },
+   "1137446830169628669": {
+      "message": "Se ha aplicado sangría al elemento."
+   },
+   "1158660505977623040": {
+      "message": "Eliminar definitivamente"
+   },
+   "1162642135048988280": {
+      "message": "Cambiar nombre de documento"
+   },
+   "1163324543881570799": {
+      "message": "Documentos de Google"
+   },
+   "116696227691552491": {
+      "message": "Elegir sitio"
+   },
+   "1176812982629195161": {
+      "message": "Aplicaciones de Google"
+   },
+   "1179891706526242218": {
+      "message": "Siguente"
+   },
+   "1185164838496022543": {
+      "message": "Haz clic aquí para volver a cargar la página."
+   },
+   "1213005208968286932": {
+      "message": "Marcado como resuelto"
+   },
+   "1226017195419883732": {
+      "message": "Unidades compartidas"
+   },
+   "124010372300613445": {
+      "message": "{numNotes,plural, =1{Se ha creado una copia de la nota archivada}other{Se han creado # copias de las notas archivadas}}"
+   },
+   "1248242541854939846": {
+      "message": "Corregir cambios en conflicto"
+   },
+   "124900027451629830": {
+      "message": "Reproducir"
+   },
+   "125608713654167241": {
+      "message": "Verde azulado"
+   },
+   "1256362146573583104": {
+      "message": "Extraer"
+   },
+   "1259492729704800881": {
+      "message": "Archivar nota"
+   },
+   "125962421212090538": {
+      "message": "Próxima semana"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1271038294394884640": {
+      "message": "Cancelar"
+   },
+   "12768758038718216": {
+      "message": "Fijar nota archivada"
+   },
+   "1280430284217153733": {
+      "message": "Añade una hora"
+   },
+   "1294762503951327157": {
+      "message": "Los elementos marcados se mueven automáticamente al final de la lista para que no te molesten"
+   },
+   "1317394270020748066": {
+      "message": "Ahora puedes conectarte a Keep con el Asistente de Google para crear, modificar y gestionar tus notas y listas."
+   },
+   "1317913074512528649": {
+      "message": "Anota todo lo que se te ocurra."
+   },
+   "1330083198022464084": {
+      "message": "Crear una nota"
+   },
+   "1333255388111908292": {
+      "message": "Supermercados"
+   },
+   "1335763707789999819": {
+      "message": "{NUM_ITEMS,plural, =1{No tienes permiso para mover este elemento de sus carpetas actuales. En vez de moverlo, añádelo a {START_SPAN_1}{NAME}{END_SPAN}.}other{No tienes permiso para mover estos elementos de sus carpetas actuales. En vez de moverlos, añádelos a {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "1338300799355131761": {
+      "message": "Nota sin título"
+   },
+   "1349697396109290623": {
+      "message": "Mostrando mayor resolución de $1​"
+   },
+   "1355047515597245353": {
+      "message": "No se pueden crear más accesos directos para este elemento. Para encontrarlo más adelante, añádelo a Destacados."
+   },
+   "1359937199332190522": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Se ha añadido {NUM_ITEMS_2} archivo a {XXX_1}.}other{Se han añadido {NUM_ITEMS_2} archivos a {XXX_2}.}}"
+   },
+   "136335357683289450": {
+      "message": "Cerrar"
+   },
+   "1365216822837281424": {
+      "message": "Extensión de Chrome"
+   },
+   "1368808491835583439": {
+      "message": "Morado intenso"
+   },
+   "1377158635423797368": {
+      "message": "Ir a la etiqueta"
+   },
+   "1379850360723600538": {
+      "message": "No se admiten archivos protegidos con contraseña."
+   },
+   "1388712764439031120": {
+      "message": "Abrir enlace"
+   },
+   "1397887822627488928": {
+      "message": "Usuario o correo con el que quieres compartir contenido"
+   },
+   "1429848477922945853": {
+      "message": "Nota vacía"
+   },
+   "1432850707344442376": {
+      "message": "Crear la etiqueta $1​"
+   },
+   "1434081385486479995": {
+      "message": "No se puede compartir contenido en este momento"
+   },
+   "1439211265324766071": {
+      "message": "Nota en la papelera"
+   },
+   "1441487391064925653": {
+      "message": "Ver todos los accesos directos en el Centro de ayuda"
+   },
+   "1441712877952841568": {
+      "message": "Editado: $1​"
+   },
+   "1442417474192183694": {
+      "message": "Mostrar detalles de depuración del visor"
+   },
+   "1442722292947881614": {
+      "message": "Tipos"
+   },
+   "1446829548948002072": {
+      "message": "coma"
+   },
+   "1453330983536591773": {
+      "message": "Gris claro"
+   },
+   "1463389029497634261": {
+      "message": "Bajar el volumen"
+   },
+   "1466663154000252842": {
+      "message": "Puede que algunos usuarios dejen de tener acceso"
+   },
+   "1467797923781828000": {
+      "message": "Se han añadido $1​ elementos a la carpeta $2​."
+   },
+   "1475258635371833968": {
+      "message": "$2​, $1​"
+   },
+   "1478393252643397554": {
+      "message": "Naranja"
+   },
+   "1482452362096735080": {
+      "message": "Se repite {numOccurrences} veces"
+   },
+   "1490217372377947899": {
+      "message": "Subida a Drive"
+   },
+   "1505876360160857231": {
+      "message": "$1​ TB"
+   },
+   "1507063529674142853": {
+      "message": "El último día de cada mes"
+   },
+   "1507445189431379166": {
+      "message": "Eliminar"
+   },
+   "1512114410402431831": {
+      "message": "Actualizar"
+   },
+   "1512454807955173272": {
+      "message": "Keep se actualizará cuando estés online"
+   },
+   "1513178578981188988": {
+      "message": "Edge"
+   },
+   "1532717559893630620": {
+      "message": "Se ha incorporado la etiqueta $1​ a $2​."
+   },
+   "1536051766421561160": {
+      "message": "igual a"
+   },
+   "153659275234722804": {
+      "message": "Cerrar"
+   },
+   "1543499632005215694": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{El archivo que se va a mover a \"{ADDED_PARENT_NAME}\" ha activado las detecciones de DLP. Puede que contenga información confidencial.}other{Algunos de los archivos que se van a mover a \"{ADDED_PARENT_NAME}\" han activado las detecciones de DLP. Puede que contengan información confidencial.}}"
+   },
+   "1568379678795589771": {
+      "message": "Cuadros"
+   },
+   "1586968957182554447": {
+      "message": "Inhabilitar"
+   },
+   "1600730176972144699": {
+      "message": "Pulsar Mayús + J para ir a la posición anterior y Mayús + K para ir a la siguiente"
+   },
+   "1606998668553414638": {
+      "message": "Solicitar acceso"
+   },
+   "1612117309990202511": {
+      "message": "Puntos"
+   },
+   "1645936035034659132": {
+      "message": "{itemsRemaining,plural, =1{Queda # elemento de lista}other{Quedan # elementos de lista}}"
+   },
+   "1655692513689044870": {
+      "message": "Has cerrado la sesión."
+   },
+   "1656911987308166143": {
+      "message": "Eliminar"
+   },
+   "1665821947855814052": {
+      "message": "Dimensiones"
+   },
+   "1675711464233426777": {
+      "message": "Hoy más tarde"
+   },
+   "1675900304699098572": {
+      "message": "{count,plural, =1{Nota no fijada}other{# notas no fijadas}}"
+   },
+   "1680617124502957636": {
+      "message": "No se puede establecer conexión en este momento. Vuelve a intentarlo más tarde."
+   },
+   "1680818623013843452": {
+      "message": "Lucidchart"
+   },
+   "1683762293389974494": {
+      "message": "Eliminar"
+   },
+   "1694896269813520248": {
+      "message": "Añadir dibujo"
+   },
+   "1697160643589236962": {
+      "message": "$1​ PB"
+   },
+   "1700455651867499062": {
+      "message": "Acceso directo de Google Drive"
+   },
+   "1703175513040690135": {
+      "message": "Cualquier usuario de $1​"
+   },
+   "1704004075228783011": {
+      "message": "{every,plural, =1{Se repite todos los meses el último día del mes}other{Se repite cada # meses el último día del mes}}"
+   },
+   "1711424025297585662": {
+      "message": "un|una|unos|unas|el|la|los|las"
+   },
+   "171683163267149669": {
+      "message": "$1​ GB"
+   },
+   "1719906320230837590": {
+      "message": "Búsqueda de imágenes de Google"
+   },
+   "1730171019350750807": {
+      "message": "Negro"
+   },
+   "1737240194537729525": {
+      "message": "Semanalmente"
+   },
+   "1739900012825270238": {
+      "message": "Ir al elemento anterior"
+   },
+   "1740371341228065086": {
+      "message": "Volver a cargar"
+   },
+   "1745782414562966515": {
+      "message": "¿Quieres combinar las etiquetas $1​ y $2​? Todas las notas etiquetadas con $1​ se etiquetarán con $2​ y se eliminará la etiqueta $1​."
+   },
+   "1746512984326924716": {
+      "message": "Esta acción no se puede deshacer."
+   },
+   "1770899865480106963": {
+      "message": "Dispositivos Android"
+   },
+   "1781922622745161264": {
+      "message": "Las notas que añadas aparecerán aquí"
+   },
+   "1783719421893050637": {
+      "message": "Dimensiones"
+   },
+   "1790494039990261456": {
+      "message": "Guardar ambas"
+   },
+   "1791115075948268631": {
+      "message": "Abrir la ayuda sobre las combinaciones de teclas"
+   },
+   "179545118447015250": {
+      "message": "Vista de cuadrícula"
+   },
+   "1803966010993357655": {
+      "message": "Otras"
+   },
+   "1808245543551507519": {
+      "message": "Audio"
+   },
+   "1810354345035313773": {
+      "message": "Abrir selector de tamaño y de color del rotulador"
+   },
+   "1829174126565818591": {
+      "message": "Firefox"
+   },
+   "1830157062072535681": {
+      "message": "Mostrando $1​"
+   },
+   "1830980674971538385": {
+      "message": "Subir"
+   },
+   "1852745815330163711": {
+      "message": "Dibujos de Google"
+   },
+   "1857224091554117760": {
+      "message": "Rojo"
+   },
+   "1858255237143975969": {
+      "message": "$2​Privacidad$1​"
+   },
+   "1870691479127746185": {
+      "message": "derecha"
+   },
+   "187077078156858455": {
+      "message": "Nota de audio"
+   },
+   "189303170370862360": {
+      "message": "$1​ de $2​ elementos"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901215424950227523": {
+      "message": "La etiqueta $1​ no existe"
+   },
+   "1936219394601788126": {
+      "message": "principal"
+   },
+   "1938115711058331119": {
+      "message": "Mostrar columna de comentarios"
+   },
+   "195154114623528341": {
+      "message": "Añadir ubicación"
+   },
+   "1956794332842050061": {
+      "message": "Página siguiente"
+   },
+   "1963323419655107448": {
+      "message": "Eliminar elementos marcados"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1967536906522187719": {
+      "message": "Se ha producido un error al obtener una vista previa de esta hoja."
+   },
+   "1969531182936822963": {
+      "message": "Acción deshecha"
+   },
+   "1972885107693687510": {
+      "message": "Se ha mostrado el cuadro Ir a la etiqueta"
+   },
+   "1973454937875679500": {
+      "message": "Introduce un nombre de etiqueta"
+   },
+   "1975630610063119352": {
+      "message": "{charsRemaining,plural, =1{Queda # carácter}other{Quedan # caracteres}}"
+   },
+   "1980209166254310911": {
+      "message": "Día"
+   },
+   "1986228872461282439": {
+      "message": "Predeterminado"
+   },
+   "1998476658842502120": {
+      "message": "Pulsar C para redactar una nota"
+   },
+   "200488920523496447": {
+      "message": "Se ha ampliado el elemento."
+   },
+   "2039757863628752523": {
+      "message": "Opciones de frecuencia"
+   },
+   "205445381296663832": {
+      "message": "No se ha podido subir."
+   },
+   "205876860571942679": {
+      "message": "Google My Maps"
+   },
+   "2059084517358086391": {
+      "message": "Cerrar barra de búsqueda"
+   },
+   "2061440050632248160": {
+      "message": "Archivar"
+   },
+   "2068023589621557589": {
+      "message": "Fuente TrueType"
+   },
+   "2072502213578290051": {
+      "message": "¿Ya no necesitas una nota? Usa el botón Archivar"
+   },
+   "2073322475696388995": {
+      "message": "Avanzar"
+   },
+   "2074454463201225704": {
+      "message": "Restablecer zoom"
+   },
+   "2096559615401306102": {
+      "message": "No puedes mover archivos fuera de $1​"
+   },
+   "2107379241532042955": {
+      "message": "Ubicación"
+   },
+   "2109979457438465538": {
+      "message": "Se ha abierto el menú del selector de etiquetas"
+   },
+   "2113092209746357267": {
+      "message": "Chrome"
+   },
+   "2118635459760443566": {
+      "message": "Siguiente"
+   },
+   "2119255452378336327": {
+      "message": "Se ha cambiado la viñeta de nuevo a $1​"
+   },
+   "212796670323571824": {
+      "message": "Aceptar"
+   },
+   "2142420359113070963": {
+      "message": "Seguimiento de pila (visible solo para usuarios de la red interna):"
+   },
+   "214517458278879973": {
+      "message": "Iniciar sesión como $1​"
+   },
+   "2154372123324862271": {
+      "message": "barra diagonal"
+   },
+   "2159130950882492111": {
+      "message": "Cancelar"
+   },
+   "2166966123760559393": {
+      "message": "Crear etiqueta"
+   },
+   "2181197458532159304": {
+      "message": "{numberOfNotes,plural, =1{Nota enviada a la papelera}other{# notas enviadas a la papelera}}"
+   },
+   "2184278444368405837": {
+      "message": "$1​ elementos"
+   },
+   "2189621188983913867": {
+      "message": "Conectar más aplicaciones"
+   },
+   "2190049738646901760": {
+      "message": "{count,plural, =1{¿Quieres eliminar la nota?}other{¿Quieres eliminar las notas?}}"
+   },
+   "2195440644060728966": {
+      "message": "{NUM_ITEMS,plural, =1{Vas a mover una subcarpeta de una carpeta}other{Vas a mover subcarpetas de una carpeta}}"
+   },
+   "220168959069469607": {
+      "message": "Más acciones"
+   },
+   "2203926649090909861": {
+      "message": "Se ha movido el elemento de lista al índice $1​"
+   },
+   "2215890921415017560": {
+      "message": "Modo de pantalla completa"
+   },
+   "2216904725760458480": {
+      "message": "Diariamente"
+   },
+   "221715292685577880": {
+      "message": "Sí"
+   },
+   "2226562046914098941": {
+      "message": "Este archivo es demasiado grande para obtener una vista previa"
+   },
+   "2226937423434054727": {
+      "message": "Se ha seleccionado de $1​, $2​ a $3​, $4​"
+   },
+   "223198388381606871": {
+      "message": "Lavanda"
+   },
+   "2254586145235168886": {
+      "message": "Se ha ocultado el panel de aprobaciones."
+   },
+   "2264311811697505466": {
+      "message": "Actualizar"
+   },
+   "2265238034451062417": {
+      "message": "{count,plural, =1{+ # elemento completado}other{+ # elementos completados}}"
+   },
+   "2270469222412517777": {
+      "message": "No se reconoce ningún texto"
+   },
+   "2270633624888102832": {
+      "message": "Dejar de fijar la nota"
+   },
+   "2280650195464600721": {
+      "message": "Navegación"
+   },
+   "2282423663539387332": {
+      "message": "Próximos"
+   },
+   "2285069188138705005": {
+      "message": "Aplicaciones conectadas"
+   },
+   "2286685488296851497": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Vas a sacar un elemento de la carpeta compartida \"{SHARED_FOLDER_NAME}\", de modo que los usuarios dejarán de tener acceso a él.}other{Vas a sacar {NUM_ITEMS_2} elementos de la carpeta compartida \"{SHARED_FOLDER_NAME}\", de modo que los usuarios dejarán de tener acceso a ellos.}}"
+   },
+   "228741435562395266": {
+      "message": "Aún no se puede imprimir"
+   },
+   "2289534534793293486": {
+      "message": "Desarchivar"
+   },
+   "2289812403593835836": {
+      "message": "Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Subir el volumen"
+   },
+   "2299671629154778581": {
+      "message": "Notas no fijadas y archivadas"
+   },
+   "2308018963132768704": {
+      "message": "Tamaño 4"
+   },
+   "2310145944356900158": {
+      "message": "Seleccionados"
+   },
+   "2311880726221661199": {
+      "message": "Cargando resoluciones superiores"
+   },
+   "2323249770683736002": {
+      "message": "Crear etiqueta"
+   },
+   "2324955914430674498": {
+      "message": "No hay resultados de búsqueda con \"$1​\""
+   },
+   "2346361265476305332": {
+      "message": "El propietario ha prohibido que se descargue este archivo de audio."
+   },
+   "2357623745116912085": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Los miembros de \"{TEAM_DRIVE_NAME}\" dejarán de tener acceso a este elemento a menos que se comparta con ellos.}other{Los miembros de \"{TEAM_DRIVE_NAME}\" dejarán de tener acceso a estos elementos a menos que se compartan con ellos.}}"
+   },
+   "2359614137862708172": {
+      "message": "Mayús"
+   },
+   "2364374826543847335": {
+      "message": "Quitar el origen"
+   },
+   "236689092839978781": {
+      "message": "No repetir"
+   },
+   "2370656573843123707": {
+      "message": "corchete de cierre"
+   },
+   "2373760032138505521": {
+      "message": "Ya existe esta etiqueta"
+   },
+   "2386536768112358461": {
+      "message": "Av Pág"
+   },
+   "2396804279177914769": {
+      "message": "¿Quieres transferir la propiedad a la unidad de equipo?"
+   },
+   "2402010336938670264": {
+      "message": "Empieza a dibujar con la punta del dedo o, si tienes un lápiz óptico, prueba a escribir una nota a mano"
+   },
+   "2405795704816921421": {
+      "message": "Archivo $1​"
+   },
+   "2408383448126741628": {
+      "message": "Duración"
+   },
+   "2408933271548524782": {
+      "message": "Bloqueado"
+   },
+   "2423364695613735749": {
+      "message": "Pulsar L para redactar una lista"
+   },
+   "2423877407428530040": {
+      "message": "El archivo tiene demasiados gráficos."
+   },
+   "2433429041384246549": {
+      "message": "Silenciar"
+   },
+   "2438741853303074449": {
+      "message": "repeticiones"
+   },
+   "2444198666025646119": {
+      "message": "Violeta"
+   },
+   "2452145367257933677": {
+      "message": "Deshacer"
+   },
+   "2452522051596946166": {
+      "message": "¡Vaya! Se ha producido un problema con la vista previa de $1​. Intentando de nuevo."
+   },
+   "2454642351139428112": {
+      "message": "Deshacer"
+   },
+   "246828342952819465": {
+      "message": "Anota tus ideas $1​ en cualquier dispositivo"
+   },
+   "2469046390122693414": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}other{Vas a sacar {NUM_ITEMS_2} elementos de unidades y carpetas compartidas, de modo que los usuarios dejarán de tener acceso a ellos.}}"
+   },
+   "2478862372619762755": {
+      "message": "Resalta el área en la que quieras añadir un comentario"
+   },
+   "2483363439634684283": {
+      "message": "Tamaño 20"
+   },
+   "2494928104701250542": {
+      "message": "Fija notas y crea recordatorios para no perderte nada importante."
+   },
+   "2504232652631703202": {
+      "message": "Conectada"
+   },
+   "2509141182388535183": {
+      "message": "Ver"
+   },
+   "251025074207413762": {
+      "message": "Añadir descripción"
+   },
+   "2525633490863427854": {
+      "message": "Rehacer"
+   },
+   "2527534830196374788": {
+      "message": "Ctrl"
+   },
+   "2532280782491328445": {
+      "message": "Buscar anterior"
+   },
+   "2542788471536661524": {
+      "message": "Suelta imágenes aquí"
+   },
+   "2562881166530755046": {
+      "message": "Dibujos"
+   },
+   "257317112834806705": {
+      "message": "Alternar entre vista de lista y cuadrícula"
+   },
+   "2579261044590673579": {
+      "message": "Mi unidad"
+   },
+   "2579679351920691492": {
+      "message": "Rebobinar"
+   },
+   "2584557103820423944": {
+      "message": "Aplicar/quitar sangría del elemento de lista"
+   },
+   "2592236094918360632": {
+      "message": "No puedes mover el archivo porque su propietario no es miembro de la unidad compartida."
+   },
+   "2600731575260427177": {
+      "message": "El archivo no existe, posiblemente se ha eliminado. Vuelve a intentar subirlo."
+   },
+   "2601304136110057215": {
+      "message": "Nuevo dibujo"
+   },
+   "2604527707881848686": {
+      "message": "Ya se ha quitado toda la sangría del elemento."
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2623861453769098676": {
+      "message": "No se puede obtener una vista previa de este documento."
+   },
+   "2626653026098396543": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Si mueves este elemento, se compartirá con todos los usuarios que puedan ver la carpeta compartida \"{SHARED_FOLDER_NAME}\".}other{Si mueves estos elementos, se compartirán con todos los usuarios que puedan ver la carpeta compartida \"{SHARED_FOLDER_NAME}\".}}"
+   },
+   "2632263751512428257": {
+      "message": "Anualmente"
+   },
+   "2632538140519286364": {
+      "message": "Las notas de la papelera se eliminan después de 7 días."
+   },
+   "2645469029410848421": {
+      "message": "{noteCount,plural, =1{Etiquetar nota}other{Etiquetar notas}}"
+   },
+   "2661850177130037208": {
+      "message": "Abrir elemento"
+   },
+   "2673781847036352269": {
+      "message": "Ocultar comentarios inactivos"
+   },
+   "2680303811435018716": {
+      "message": "No se pueden añadir más elementos"
+   },
+   "2681830832355823748": {
+      "message": "Buscar todos los accesos directos"
+   },
+   "268402507078609011": {
+      "message": "{imagesAdded,plural, =1{Imagen añadida}other{# imágenes añadidas}}"
+   },
+   "269301203471243703": {
+      "message": "Añadir acceso directo"
+   },
+   "2713989182797848963": {
+      "message": "Crear dibujos y notas manuscritas"
+   },
+   "2715199780155065699": {
+      "message": "El archivo tiene demasiadas formas, cuadros de texto o dibujos."
+   },
+   "2716433087531258659": {
+      "message": "Re Pág"
+   },
+   "2719125961689709460": {
+      "message": "Nota"
+   },
+   "2725185337656029651": {
+      "message": "Añadir imágenes o audio"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2757876083706839152": {
+      "message": "Dibujo duplicado debido al límite de tamaño"
+   },
+   "2758125083752925237": {
+      "message": "(Propietario)"
+   },
+   "2760106082595028595": {
+      "message": "La nota es demasiado larga."
+   },
+   "2761695221066052931": {
+      "message": "Se ha mostrado el cuadro Abrir enlace"
+   },
+   "2762925619340374825": {
+      "message": "De URL"
+   },
+   "277430914014962533": {
+      "message": "¡Vaya! Se ha producido un problema con la vista previa de $1​."
+   },
+   "2777453609143551768": {
+      "message": "Control del volumen"
+   },
+   "2793841261389879255": {
+      "message": "Página anterior"
+   },
+   "2794676336056877832": {
+      "message": "{every,plural, =1{Se repite todos los meses el mismo día}other{Se repite cada # meses el mismo día}}"
+   },
+   "2803553109654833664": {
+      "message": "Rosa"
+   },
+   "2814354342017225342": {
+      "message": "Vistas previas enriquecidas de enlaces"
+   },
+   "2818020101821669029": {
+      "message": "Creado"
+   },
+   "2820045170951016567": {
+      "message": "Recordatorios"
+   },
+   "2823533464825550362": {
+      "message": "Controles del documento"
+   },
+   "2827039933590757722": {
+      "message": "Acceso directo de Windows"
+   },
+   "2828060233316503200": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Se ha movido {NUM_ITEMS_2} elemento de {XXX_1} a {XXX_2}.}other{Se han movido {NUM_ITEMS_2} elementos de {XXX_3} a {XXX_4}.}}"
+   },
+   "2828258538208588139": {
+      "message": "{shortcutCount,plural, =1{Has añadido 1 acceso directo}other{Has añadido # accesos directos}}"
+   },
+   "2829226075651806940": {
+      "message": "Ampliar"
+   },
+   "2842462703735289745": {
+      "message": "Todos los que puedan ver la carpeta compartida \"$1​\" tendrán acceso."
+   },
+   "2853036885874864031": {
+      "message": "La propiedad se transferirá a $1​."
+   },
+   "2854717396594966319": {
+      "message": "OpenOffice Writer"
+   },
+   "2868845399811178993": {
+      "message": "Solo el propietario de \"$1​\" puede eliminar los accesos directos añadidos a esta carpeta."
+   },
+   "2873089307546162154": {
+      "message": "Aceptar"
+   },
+   "2877285560485318801": {
+      "message": "Pausar"
+   },
+   "2879276552944958066": {
+      "message": "Volver a la carpeta $1​."
+   },
+   "2886313667612471214": {
+      "message": "Es necesario actualizar el contenido. Esto puede tardar varios minutos."
+   },
+   "2893055432094515558": {
+      "message": "Casillas de verificación mostradas"
+   },
+   "289798573180023043": {
+      "message": "Aceptar"
+   },
+   "2901360496423912565": {
+      "message": "Informar"
+   },
+   "2908917161758545146": {
+      "message": "{count,plural, =1{Nota no fijada y archivada}other{# notas no fijadas y archivadas}}"
+   },
+   "2930974997943171554": {
+      "message": "Tema oscuro inhabilitado"
+   },
+   "2935193106137642160": {
+      "message": "Zoom no disponible"
+   },
+   "295331174171409695": {
+      "message": "Se ha producido un error al actualizar el permiso de descarga de \"$1​\"."
+   },
+   "2960516445247616550": {
+      "message": "Impresión no disponible"
+   },
+   "296391753033307868": {
+      "message": "Se ha creado la etiqueta $1​ y se ha añadido a la nota."
+   },
+   "2971623719720688041": {
+      "message": "Acción deshecha"
+   },
+   "2973306402585941108": {
+      "message": "Mañana"
+   },
+   "2983318659047499045": {
+      "message": "Recordatorios"
+   },
+   "298817883481775869": {
+      "message": "Cargando..."
+   },
+   "2990497076082409431": {
+      "message": "Se ha movido \"$1​\" a $2​."
+   },
+   "2993901764282547916": {
+      "message": "App Maker"
+   },
+   "3005058076425755361": {
+      "message": "Retroceso"
+   },
+   "3018905429279095639": {
+      "message": "{NUM_ITEMS,plural, =1{No tienes permiso para mover esta subcarpeta de sus carpetas actuales. En vez de moverla, añádela a {START_SPAN_1}{NAME}{END_SPAN}.}other{No tienes permiso para mover estas subcarpetas de sus carpetas actuales. En vez de moverlas, añádelas a {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "3038603165081234302": {
+      "message": "Añadiendo a $2​Mi unidad$1​…"
+   },
+   "3043961722025425136": {
+      "message": "Descripción"
+   },
+   "304438440663479110": {
+      "message": "Combinación de teclas compatible de hoja de cálculo"
+   },
+   "306516303501625305": {
+      "message": "Error de autenticación"
+   },
+   "3074915509081765994": {
+      "message": "iPhone y iPad"
+   },
+   "3091440425606975088": {
+      "message": "Lista sin título"
+   },
+   "3108098439469164127": {
+      "message": "Se ha abierto un nuevo dibujo"
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​"
+   },
+   "3150651996344750990": {
+      "message": "{count,plural, =1{Nota no archivada}other{# notas no archivadas}}"
+   },
+   "3167198321908629554": {
+      "message": "Actualizando y volviendo a cargar tus notas…"
+   },
+   "3176246635438298155": {
+      "message": "Eliminar"
+   },
+   "3187117482772485385": {
+      "message": "Creando una miniatura..."
+   },
+   "3189854932778515441": {
+      "message": "Nota archivada"
+   },
+   "3190546672187601036": {
+      "message": "Noche"
+   },
+   "3195812604657128345": {
+      "message": "Selecciona una carpeta de Drive para extraer el contenido"
+   },
+   "32059145043728507": {
+      "message": "{numberOfNotes,plural, =1{Nota restaurada}other{# notas restauradas}}"
+   },
+   "3207650089232728475": {
+      "message": "Cambiar etiquetas"
+   },
+   "3211163842850942567": {
+      "message": "Ampliar"
+   },
+   "3217354672216773127": {
+      "message": "Activado el $1​"
+   },
+   "3220641589840600333": {
+      "message": "Se ha cambiado a la vista $1​"
+   },
+   "3241696131593027453": {
+      "message": "Seleccionar nota"
+   },
+   "3243075164136265612": {
+      "message": "Se ha mostrado el panel de aprobaciones."
+   },
+   "3249966726137025950": {
+      "message": "Grupo familiar del colaborador"
+   },
+   "3250489229749307913": {
+      "message": "Publicación electrónica"
+   },
+   "3258100527833044153": {
+      "message": "Dibujo vacío descartado"
+   },
+   "3261131345401321392": {
+      "message": "Puede comentar"
+   },
+   "3266448715145955862": {
+      "message": "Notas desarchivadas y fijadas"
+   },
+   "3272496516667407797": {
+      "message": "Se ha producido un problema al cargar los detalles."
+   },
+   "3278046126264096288": {
+      "message": "Semana"
+   },
+   "3281684668260174833": {
+      "message": "{numberOfNotes,plural, =1{Nota no fijada y enviada a la papelera}other{# notas no fijadas y enviadas a la papelera}}"
+   },
+   "3285255128259782773": {
+      "message": "Disco local"
+   },
+   "3285552194638444776": {
+      "message": "Ahora puedes editar, compartir y gestionar revisiones de archivos $1​ con $2​"
+   },
+   "3288498486633948368": {
+      "message": "Se ha añadido \"$1​\" a Google Drive."
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3308935528045767909": {
+      "message": "Nota nueva con dibujo"
+   },
+   "3312545971976531405": {
+      "message": "Mensaje"
+   },
+   "3313557905033219672": {
+      "message": "{numNotes,plural, =1{Nota desarchivada creada}other{# notas desarchivadas creadas}}"
+   },
+   "3325094738421414114": {
+      "message": "Pulsar X para añadir o quitar una nota del conjunto de notas seleccionadas"
+   },
+   "3345567742278474807": {
+      "message": "Esta nota se ha marcado como inadecuada y no se puede compartir."
+   },
+   "3348057264663626000": {
+      "message": "Se ha movido la selección hacia arriba."
+   },
+   "3362903141674317449": {
+      "message": "Colaborador"
+   },
+   "3371033609268806242": {
+      "message": "Se ha eliminado la etiqueta $1​."
+   },
+   "3378875258397512442": {
+      "message": "Crea recordatorios de sitios y horas en tus notas, graba notas de voz y trabaja online o sin conexión."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Abrir"
+   },
+   "3385831848537487538": {
+      "message": "Viajes"
+   },
+   "3409483962000136213": {
+      "message": "Reproducir/Pausar"
+   },
+   "3418677553313974490": {
+      "message": "Papelera"
+   },
+   "3418767079436101103": {
+      "message": "Se ha producido un problema al cargar esta página."
+   },
+   "3419821606494999471": {
+      "message": "Administrar las notificaciones de comentarios"
+   },
+   "3437227878928998987": {
+      "message": "Hacer una lista"
+   },
+   "3447704623213039325": {
+      "message": "Producto de supermercado"
+   },
+   "3448234415275521882": {
+      "message": "Información general"
+   },
+   "3449090379302140902": {
+      "message": "Fotos"
+   },
+   "3451851833460018584": {
+      "message": "{NUM_COMMENTS,plural, =0{Ningún comentario}=1{1 comentario}other{# comentarios}}"
+   },
+   "3455405209271884570": {
+      "message": "Extraer"
+   },
+   "345718983715470367": {
+      "message": "Fuente"
+   },
+   "3462556632501534753": {
+      "message": "$2​Licencias de código abierto$1​"
+   },
+   "3468441711253011521": {
+      "message": "Hojas de cálculo de Google"
+   },
+   "3473620774713000513": {
+      "message": "Resuelto"
+   },
+   "3478630283627055305": {
+      "message": "Pulsar Esc para dejar de editar una nota"
+   },
+   "3485469306694683931": {
+      "message": "Extraer en tu cuenta de Drive"
+   },
+   "3487924397596265480": {
+      "message": "Se ha seleccionado $1​."
+   },
+   "3493932452507671194": {
+      "message": "Pulsar $1​ + corchete de cierre para aplicar una sangría y $1​ + corchete de apertura para quitarla"
+   },
+   "3496410038494993160": {
+      "message": "Combinaciones de teclas más utilizadas"
+   },
+   "3518073392823563581": {
+      "message": "Métodos abreviados de teclado"
+   },
+   "3527565741177531691": {
+      "message": "Añadiendo acceso directo a $2​$3​$1​…"
+   },
+   "3528739824697875943": {
+      "message": "elemento de lista"
+   },
+   "3539889527558048258": {
+      "message": "Búsqueda de imágenes de Google"
+   },
+   "3544847661620838201": {
+      "message": "¡Haz la prueba! Siempre puedes buscarla más adelante."
+   },
+   "3549581437554274388": {
+      "message": "Se ha movido la selección hacia la derecha."
+   },
+   "3551522853788442530": {
+      "message": "Volver"
+   },
+   "3551608745198442336": {
+      "message": "Dibujo $1​/$2​"
+   },
+   "3553997866738769437": {
+      "message": "Editar dibujo"
+   },
+   "3555297636767750285": {
+      "message": "Verde"
+   },
+   "3561658662634401836": {
+      "message": "Título"
+   },
+   "3569884090205828853": {
+      "message": "OpenOffice Calc"
+   },
+   "3571391964903695725": {
+      "message": "Repetir"
+   },
+   "3571704286086017611": {
+      "message": "Recordatorio eliminado"
+   },
+   "3574963906259719128": {
+      "message": "Tu navegador no puede reproducir este archivo de audio."
+   },
+   "3580243353280636963": {
+      "message": "Elegir fecha y hora"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3595562664731337243": {
+      "message": "Cambiar nombre de etiqueta"
+   },
+   "3603931013946597836": {
+      "message": "{NUM_ITEMS,plural, =1{Vas a mover un archivo de {NUM_PARENTS} carpetas}other{Vas a mover archivos de {NUM_PARENTS} carpetas}}"
+   },
+   "3608521102844050208": {
+      "message": "Recordatorio:"
+   },
+   "3608606849109645545": {
+      "message": "Escribe un nombre para el nuevo documento:"
+   },
+   "3609912631958780352": {
+      "message": "Herramienta de caligrafía"
+   },
+   "3611573349633408445": {
+      "message": "Descargar"
+   },
+   "3612936866865912552": {
+      "message": "Cargando..."
+   },
+   "3617727970098875990": {
+      "message": "Buscar en todas las combinaciones de teclas"
+   },
+   "362521762755836201": {
+      "message": "Creada a las $1​"
+   },
+   "3628141779141388914": {
+      "message": "Aún no se pueden mover carpetas a la unidad compartida."
+   },
+   "3634885664399305142": {
+      "message": "El dibujo no está disponible"
+   },
+   "3642907339426904506": {
+      "message": "No hay notas en la papelera"
+   },
+   "3651893685901703652": {
+      "message": "..."
+   },
+   "3657386785336906042": {
+      "message": "barra diagonal inversa"
+   },
+   "3659554681396757189": {
+      "message": "Abierto por mí"
+   },
+   "366289214151975122": {
+      "message": "Cualquier usuario de $1​ con el enlace"
+   },
+   "3663571259791438207": {
+      "message": "Notificar uso inadecuado"
+   },
+   "3664842788764635265": {
+      "message": "Ninguno"
+   },
+   "3666123569747918021": {
+      "message": "Este documento contiene cambios sin guardar. ¿Quieres abandonar la página y descartar los cambios?"
+   },
+   "3678477908297567934": {
+      "message": "guion bajo"
+   },
+   "3684032082082645570": {
+      "message": "{count,plural, =1{Selecciona un color para aplicarlo a la nota.}other{Selecciona un color para aplicarlo a las notas.}}"
+   },
+   "3690515530505404607": {
+      "message": "Se ha producido un problema con la reproducción de este vídeo."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{No tiene elementos}=1{1 elemento}other{# elementos}}"
+   },
+   "3703024996011822310": {
+      "message": "Te damos la bienvenida a Google Keep"
+   },
+   "3712215972250917265": {
+      "message": "Comentarios"
+   },
+   "3714239567487848851": {
+      "message": "Tema oscuro habilitado"
+   },
+   "3721649886572275931": {
+      "message": "Tamaño 8"
+   },
+   "372633345629975481": {
+      "message": "Notas fijadas"
+   },
+   "372823375470132483": {
+      "message": "Anular la selección de la nota enviada a la papelera"
+   },
+   "3734444903221631913": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}other{Vas a sacar {NUM_ITEMS_2} elementos de unidades de equipo y de carpetas compartidas, de modo que los usuarios dejarán de tener acceso a ellos.}}"
+   },
+   "3751183760611784323": {
+      "message": "Se ha ajustado el elemento al ancho de la pantalla."
+   },
+   "3768927257183755959": {
+      "message": "Guardar"
+   },
+   "3787959261309150430": {
+      "message": "Para dibujar líneas, haz clic en el icono del bolígrafo"
+   },
+   "3793086499925031123": {
+      "message": "Abrir la barra de búsqueda / encontrar anterior"
+   },
+   "3796511349428373407": {
+      "message": "Opciones de fecha"
+   },
+   "37992665410817181": {
+      "message": "Reabierto"
+   },
+   "3802992573289114390": {
+      "message": "La descripción de \"$1​\" se ha cambiado correctamente."
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3827179818223863356": {
+      "message": "Verde claro"
+   },
+   "383396092993661575": {
+      "message": "¿Mover a la unidad compartida?"
+   },
+   "3845302429676793049": {
+      "message": "Se ha producido un error al actualizar la descripción de \"$1​\"."
+   },
+   "3852386690131857488": {
+      "message": "Habilitar opción para compartir"
+   },
+   "3856687081748327279": {
+      "message": "Cuando se sacan archivos de una unidad compartida, sus permisos de acceso y su propiedad cambian."
+   },
+   "3856960241878617076": {
+      "message": "Cargando comentarios, espera"
+   },
+   "3858324058837632381": {
+      "message": "Se ha producido un problema con la reproducción de este archivo de audio."
+   },
+   "3869166581651870488": {
+      "message": "Finalizar edición"
+   },
+   "3874597373619381607": {
+      "message": "Se están mostrando los comentarios resueltos"
+   },
+   "3877974536163446728": {
+      "message": "Se ha seleccionado $1​, $2​"
+   },
+   "3880648579756747781": {
+      "message": "Los permisos podrían perderse si esta carpeta supera el número máximo de elementos permitidos en una unidad compartida. $2​Más información$1​"
+   },
+   "3888733084985311515": {
+      "message": "Hay un grupo familiar disponible."
+   },
+   "3897281533382850749": {
+      "message": "Dejar de silenciar"
+   },
+   "3907816292084809686": {
+      "message": "Acción rehecha"
+   },
+   "3909380459614154542": {
+      "message": "Ir al enlace"
+   },
+   "3920849627538402857": {
+      "message": "Descargar"
+   },
+   "3952341864324097024": {
+      "message": "Borrar la búsqueda"
+   },
+   "3955575370175991097": {
+      "message": "Se ha cambiado a la vista de etiqueta $1​"
+   },
+   "395680759377627007": {
+      "message": "Crear \"$3​$2​$1​\""
+   },
+   "397098723873502323": {
+      "message": "Listo"
+   },
+   "3974822583047850066": {
+      "message": "Cancelar"
+   },
+   "3977699855735576796": {
+      "message": "Se ha producido un problema al cargar más páginas."
+   },
+   "3981269900634596036": {
+      "message": "{numberOfNotes,plural, =1{Eliminar la nota}other{Eliminar las notas}}"
+   },
+   "3988418762222300024": {
+      "message": "punto"
+   },
+   "3989925953740167133": {
+      "message": "Google Keep quiere usar tu ubicación para mejorar las sugerencias de sitios de los recordatorios de ubicación."
+   },
+   "4005725939358875643": {
+      "message": "Acción deshecha."
+   },
+   "4020393055976236243": {
+      "message": "La propiedad se transferirá de \"$3​\" en $2​ a $1​."
+   },
+   "4023299615382814997": {
+      "message": "No se puede editar en la papelera"
+   },
+   "4034637528003033305": {
+      "message": "Es posible que se pierdan permisos si en esta carpeta hay más elementos que el máximo definido en una unidad de equipo. $2​Más información$1​"
+   },
+   "4036523543547629779": {
+      "message": "Imágenes"
+   },
+   "4044915502415235332": {
+      "message": "Seleccionar una nota fijada"
+   },
+   "4052960606031736645": {
+      "message": "{NUM_ITEMS,plural, =1{Vas a mover una subcarpeta de {NUM_PARENTS} carpetas}other{Vas a mover subcarpetas de {NUM_PARENTS} carpetas}}"
+   },
+   "4061102590585232601": {
+      "message": "Se ha eliminado a $1​"
+   },
+   "4064820890482961434": {
+      "message": "Mostrar casillas"
+   },
+   "4072353527895477784": {
+      "message": "Personas"
+   },
+   "407982090576503781": {
+      "message": "¿Mover a Mi unidad?"
+   },
+   "4081524305222967804": {
+      "message": "Verde azulado"
+   },
+   "4085493778209859942": {
+      "message": "Reproducir de todas formas"
+   },
+   "4097921967754832323": {
+      "message": "guion"
+   },
+   "411137507354526852": {
+      "message": "Mes"
+   },
+   "4111452225725405610": {
+      "message": "Se ha eliminado la estrella de $1​."
+   },
+   "4117632433281998979": {
+      "message": "Mensualmente"
+   },
+   "4122858386674768321": {
+      "message": "Sacar de $3​$2​$1​"
+   },
+   "4145164831312518309": {
+      "message": "Pulsar @ para enviar comentarios"
+   },
+   "4155905925766040098": {
+      "message": "No hay ninguna vista previa disponible"
+   },
+   "4157091150222353401": {
+      "message": "Los comentarios se guardan en archivos DOCX, PPTX y XLSX y se pueden ver en Microsoft Office"
+   },
+   "4167720915844687374": {
+      "message": "Para borrar una forma, haz clic en la goma de borrar."
+   },
+   "4174786386751618325": {
+      "message": "Nota con foto"
+   },
+   "4182427157920112948": {
+      "message": "tilde"
+   },
+   "4186465168527990324": {
+      "message": "Se ha extraído \"$1​\" en la carpeta $2​ correctamente"
+   },
+   "4194905394104253796": {
+      "message": "Configurar"
+   },
+   "4204345954541079744": {
+      "message": "Aún no hay notas con esta etiqueta"
+   },
+   "4206529410529166231": {
+      "message": "{NUM_ITEMS,plural, =1{Vas a mover un elemento de {NUM_PARENTS} carpetas}other{Vas a mover elementos de {NUM_PARENTS} carpetas}}"
+   },
+   "4209658291185545281": {
+      "message": "No se ha podido deshacer la acción"
+   },
+   "4211182812451835307": {
+      "message": "Puede editar"
+   },
+   "4214190403999219403": {
+      "message": "Zoom"
+   },
+   "4216242742234357612": {
+      "message": "Seleccionar todas las notas"
+   },
+   "4216628828665009319": {
+      "message": "Verde lima"
+   },
+   "4227185265023581008": {
+      "message": "Google Calendar"
+   },
+   "4228870062013120023": {
+      "message": "Ir a la nota anterior/siguiente"
+   },
+   "4230101516585408149": {
+      "message": "Redactar una nueva nota"
+   },
+   "4236714142889891754": {
+      "message": "¿Mover de una unidad compartida a otra?"
+   },
+   "4239183034054216803": {
+      "message": "Marrón"
+   },
+   "4267845092591696061": {
+      "message": "Destacar o dejar de destacar los elementos seleccionados"
+   },
+   "426927371216979233": {
+      "message": "Rayas"
+   },
+   "4293996570221590891": {
+      "message": "Blanco"
+   },
+   "4296310694082659873": {
+      "message": "Goma de borrar"
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4310202846681054741": {
+      "message": "{numberOfPreviews,plural, =1{Se ha quitado la vista previa del enlace}other{Se han quitado # vistas previas de enlaces}}"
+   },
+   "4318861667254318892": {
+      "message": "Vídeo de Google Vídeos"
+   },
+   "4320831042030778": {
+      "message": "Cancelar"
+   },
+   "4320942249997687388": {
+      "message": "Fin"
+   },
+   "4321382260116636620": {
+      "message": "Seleccionar la nota"
+   },
+   "4332252081504252077": {
+      "message": "¡Vaya!"
+   },
+   "433537592689162064": {
+      "message": "Más información"
+   },
+   "4343825450663233452": {
+      "message": "Puede ver"
+   },
+   "4343836986248234462": {
+      "message": "Elemento de lista"
+   },
+   "4343848624651344174": {
+      "message": "Mediodía"
+   },
+   "435214284915110062": {
+      "message": "Abrir la barra de búsqueda"
+   },
+   "435444400175963053": {
+      "message": "Se han movido $1​ elementos a $2​."
+   },
+   "4356312843186491987": {
+      "message": "Mover"
+   },
+   "4357246389840951053": {
+      "message": "Algunos elementos con secuencias de comandos adjuntas no se pueden mover aún a las unidades compartidas."
+   },
+   "4391715930031906467": {
+      "message": "Buscar siguiente"
+   },
+   "4397482594800054550": {
+      "message": "Se ha producido un error al cambiar el nombre de \"$1​\"."
+   },
+   "4412626362660239325": {
+      "message": "Organizar en Drive"
+   },
+   "4422985761498356257": {
+      "message": "Abrir con"
+   },
+   "4429542915339609008": {
+      "message": "No se puede abrir varios archivos con esta aplicación."
+   },
+   "4439831283519683004": {
+      "message": "Gris"
+   },
+   "4448871104213529122": {
+      "message": "Ocultar detalles"
+   },
+   "4457424709416639982": {
+      "message": "Añadir a Mi unidad"
+   },
+   "4486429060311743289": {
+      "message": "Borrar la selección"
+   },
+   "4494250072784000771": {
+      "message": "Se ha detectado un lápiz óptico y se ha habilitado la función Desplazarse por la pantalla con el dedo."
+   },
+   "45228242181482134": {
+      "message": "Reproducir"
+   },
+   "4533605085334699862": {
+      "message": "Citas"
+   },
+   "4543077011795639870": {
+      "message": "Se ha quitado la sangría del elemento."
+   },
+   "4546909961510778468": {
+      "message": "Drive"
+   },
+   "4550209323331625907": {
+      "message": "$2​Más información$1​"
+   },
+   "4557086341175267918": {
+      "message": "No se puede compartir sin conexión"
+   },
+   "4558568516353053251": {
+      "message": "Los lectores de este archivo pueden ver los comentarios y las sugerencias."
+   },
+   "4564682305303579317": {
+      "message": "Continuar"
+   },
+   "456512308416555173": {
+      "message": "Libros"
+   },
+   "4566838580250578446": {
+      "message": "{every,plural, =1{Se repite todos los años}other{Se repite cada # años}}"
+   },
+   "4583714435275461910": {
+      "message": "elemento de lista principal"
+   },
+   "4586373282767984140": {
+      "message": "Amarillo"
+   },
+   "4595551195988564947": {
+      "message": "Se está actualizando la lista de la compra del Asistente de Google."
+   },
+   "4602655470033495470": {
+      "message": "Añade notas, listas, dibujos, fotos y audio a Keep."
+   },
+   "4607656353105320648": {
+      "message": "{count,plural, =1{¿Eliminar la nota definitivamente?}other{¿Eliminar las notas definitivamente?}}"
+   },
+   "4607802784047113873": {
+      "message": "Añadir a un colaborador"
+   },
+   "4608848277887462246": {
+      "message": "Más hojas de cálculo"
+   },
+   "461126197624379601": {
+      "message": "Toca aquí para comentar este archivo con otros usuarios"
+   },
+   "4620034373159179678": {
+      "message": "Página $1​ de $2​"
+   },
+   "4632830890362652221": {
+      "message": "{NUM_ITEMS,plural, =1{Vas a mover un elemento de una carpeta}other{Vas a mover elementos de una carpeta}}"
+   },
+   "4642196066412650732": {
+      "message": "No se puede compartir con los siguientes usuarios porque su administrador ha inhabilitado la posibilidad de compartir elementos con su organización y tu administrador ha inhabilitado la posibilidad de compartirlos fuera de tu organización."
+   },
+   "4643940860676429496": {
+      "message": "Guardando..."
+   },
+   "4671836579708244357": {
+      "message": "Contactos"
+   },
+   "4675792829115971960": {
+      "message": "Marcaremos esta nota y la eliminaremos de tu cuenta."
+   },
+   "4685321580747790677": {
+      "message": "{every,plural, =1{Se repite todas las semanas el {days}}other{Se repite cada # semanas el {days}}}"
+   },
+   "4691283408020124345": {
+      "message": "Vista de lista"
+   },
+   "4697169479015785830": {
+      "message": "Abrir selector de tamaño y de color de la herramienta de caligrafía"
+   },
+   "4697673185436885400": {
+      "message": "Hojas de cálculo ha anulado la combinación de teclas $2​ del navegador $1​"
+   },
+   "4698144269846224816": {
+      "message": "Tamaño 1"
+   },
+   "4699778906119153977": {
+      "message": "Buscar"
+   },
+   "4704493722060638379": {
+      "message": "Pulsar Mayús + N para ir a la anterior y Mayús + P para ir a la siguiente"
+   },
+   "4722167255291887189": {
+      "message": "Tamaño 2"
+   },
+   "4734349318830134239": {
+      "message": "Fin"
+   },
+   "4738612839683751348": {
+      "message": "No se puede aplicar más sangría al elemento."
+   },
+   "4740100782728373253": {
+      "message": "Guardar en Drive"
+   },
+   "4748046231232264180": {
+      "message": "Formularios de Google"
+   },
+   "4751144871302640150": {
+      "message": "Compartido conmigo"
+   },
+   "4751202914935960324": {
+      "message": "Este correo electrónico ya existe"
+   },
+   "4752655540567953719": {
+      "message": "Posición $1​"
+   },
+   "4762625944764691132": {
+      "message": "Menú principal"
+   },
+   "47670360985205683": {
+      "message": "\"$1​\" ($2​) supera el tamaño máximo de archivo que Google puede analizar. Este archivo podría dañar el ordenador; reprodúcelo solo si eres consciente de los riesgos."
+   },
+   "4767722428137216885": {
+      "message": "Cancelar"
+   },
+   "477328789314249432": {
+      "message": "Buscar notas"
+   },
+   "4775368111547931093": {
+      "message": "Sin descripción"
+   },
+   "4780778609011268862": {
+      "message": "No puedes mover el archivo porque esta unidad compartida ya contiene el número máximo de archivos permitidos."
+   },
+   "4805047680716507619": {
+      "message": " - Mover a:"
+   },
+   "4806763987633034948": {
+      "message": "Firma PKCS7"
+   },
+   "4807444103404336088": {
+      "message": "Se ha producido un error al destacar \"$1​\"."
+   },
+   "4816888965396680834": {
+      "message": "Edita archivos de $2​ y colabora en ellos en tiempo real con $1​ de Google"
+   },
+   "4821130290026382049": {
+      "message": "Combinaciones de teclas más utilizadas"
+   },
+   "4833214200453019325": {
+      "message": "$1​ de $2​"
+   },
+   "4839460587397079680": {
+      "message": "Vídeos"
+   },
+   "4840513623749850224": {
+      "message": "Películas"
+   },
+   "4847795993918486929": {
+      "message": "No se ha podido capturar el texto de la imagen. Vuelve a intentarlo más tarde."
+   },
+   "4853788427396558692": {
+      "message": "$1​ MB"
+   },
+   "4858389278403807208": {
+      "message": "Nota en la papelera"
+   },
+   "4864051612562026766": {
+      "message": "{count,plural, =1{1 seleccionado}other{# seleccionados}}"
+   },
+   "4878012031550736317": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Los usuarios dejarán de tener acceso a este archivo si no son miembros de \"{TEAM_DRIVE_NAME}\".}other{Los usuarios dejarán de tener acceso a estos archivos si no son miembros de \"{TEAM_DRIVE_NAME}\".}}"
+   },
+   "490045476479394048": {
+      "message": "Resalta el texto al que quieras añadir un comentario"
+   },
+   "4906669330059413958": {
+      "message": "Enviar contraseña"
+   },
+   "4907349694646937491": {
+      "message": "Se ha movido la nota al índice $1​"
+   },
+   "4915450884407029247": {
+      "message": "Se ha añadido la etiqueta $1​."
+   },
+   "4918998818369420588": {
+      "message": "Notificar uso inadecuado"
+   },
+   "4930422592340561418": {
+      "message": "Mi unidad"
+   },
+   "4930506384627295710": {
+      "message": "Ajustes"
+   },
+   "4937266179792749481": {
+      "message": "Reciente"
+   },
+   "4955094356920130803": {
+      "message": "Ámbar"
+   },
+   "4957674814179289955": {
+      "message": "Ir al elemento anterior o siguiente de la lista"
+   },
+   "4963533275503057654": {
+      "message": "Creando miniatura..."
+   },
+   "4963784280521435720": {
+      "message": "Guardando..."
+   },
+   "4974059227183970715": {
+      "message": "También puedes añadir etiquetas escribiendo '#'."
+   },
+   "4974261966265341751": {
+      "message": "Inhabilitar tema oscuro"
+   },
+   "4982284738093713321": {
+      "message": "Organizador"
+   },
+   "4988132901627446385": {
+      "message": "Panel de detalles ampliado."
+   },
+   "5000971639019912199": {
+      "message": "$2​Condiciones$1​"
+   },
+   "5006765610090288212": {
+      "message": "Se ha aplicado el color $1​"
+   },
+   "5008901799534614532": {
+      "message": "Eliminar"
+   },
+   "5009448218905630614": {
+      "message": "Quitar"
+   },
+   "5011858093760184160": {
+      "message": "Eliminar estrella"
+   },
+   "5013331898336483156": {
+      "message": "¿Mover a Mi unidad de otro dominio?"
+   },
+   "5023623739220371850": {
+      "message": "Error de autenticación. Los cambios se sincronizarán cuando inicies sesión."
+   },
+   "5041572047197549869": {
+      "message": "El mismo día de cada mes"
+   },
+   "5045725997997672553": {
+      "message": "{weekNumber,plural, =1{El primer {day} del mes}=2{El segundo {day} del mes}=3{El tercer {day} del mes}=4{El cuarto {day} del mes}other{El último {day} del mes}}"
+   },
+   "5046371569383796818": {
+      "message": "Mantener"
+   },
+   "5052461293250181960": {
+      "message": "Av Pág"
+   },
+   "5060107422621709815": {
+      "message": "No se ha podido actualizar"
+   },
+   "5075841894330153061": {
+      "message": "Para cerrar el dibujo, haz clic en Atrás arriba a la izquierda"
+   },
+   "5078184843381528205": {
+      "message": "Fijar nota"
+   },
+   "5085332075590890665": {
+      "message": "Deshacer"
+   },
+   "5086862627563516607": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Los miembros de \"{TEAM_DRIVE_NAME}\" podrán acceder a este elemento.}other{Los miembros de \"{TEAM_DRIVE_NAME}\" podrán acceder a estos elementos.}}"
+   },
+   "5089697363226053379": {
+      "message": "Mover a"
+   },
+   "5094400861508407603": {
+      "message": "Se ha quitado una viñeta"
+   },
+   "5095987896933771566": {
+      "message": "Imprimir el documento"
+   },
+   "509815948423424872": {
+      "message": "Navegación"
+   },
+   "5098941979861776792": {
+      "message": "Intro"
+   },
+   "5121976648047240846": {
+      "message": "Quitar etiqueta"
+   },
+   "5130903421326358933": {
+      "message": "Se ha producido un error al guardar el archivo adjunto en Google Drive."
+   },
+   "5134649253619244584": {
+      "message": "Eliminar etiqueta"
+   },
+   "5140285776541296873": {
+      "message": "Personalizado"
+   },
+   "5140450179685369890": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Se ha movido {NUM_ITEMS_2} carpeta a {XXX_1}.}other{Se han movido {NUM_ITEMS_2} carpetas a {XXX_2}.}}"
+   },
+   "5151247077945318396": {
+      "message": "Se ha producido un error al seleccionar una carpeta en la que extraer."
+   },
+   "5159511879001144721": {
+      "message": "Azul eléctrico"
+   },
+   "5167365673547406876": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Los miembros de \"{TEAM_DRIVE_NAME}\" tendrán acceso.}other{Los miembros de \"{TEAM_DRIVE_NAME}\" tendrán acceso.}}"
+   },
+   "5178674191443894176": {
+      "message": "Etiquetas"
+   },
+   "5178939467831590680": {
+      "message": "Ocultar detalles de depuración del visor"
+   },
+   "5180454621500142444": {
+      "message": "Restaurar"
+   },
+   "5180989337128758117": {
+      "message": "corchete de apertura"
+   },
+   "5182569285908080938": {
+      "message": "Opciones de fecha de finalización"
+   },
+   "5184692850089055965": {
+      "message": "Texto de imagen guardado"
+   },
+   "5184785218378634051": {
+      "message": "Se ha dejado de aplicar zoom al elemento."
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Barra de pestañas del panel de detalles. Para cambiar de una pestaña a otra, pulsa las flechas hacia la derecha y hacia la izquierda."
+   },
+   "5202835861850747976": {
+      "message": "$2​Más información$1​"
+   },
+   "5204391636475413312": {
+      "message": "Guardar"
+   },
+   "5238284741118437734": {
+      "message": "Deshacer"
+   },
+   "5238307666527496111": {
+      "message": "Aceptar"
+   },
+   "5238371081785912565": {
+      "message": "Abrir con $1​"
+   },
+   "5255388116256536182": {
+      "message": "Selecciona las celdas que quieras comentar mediante las teclas de flecha. Mantén pulsada la tecla Mayús y pulsa las teclas de flecha para ampliar la selección. Pulsa Intro para añadir un comentario o Esc para cancelar."
+   },
+   "5259541708332520733": {
+      "message": "Origen quitado"
+   },
+   "5271615049826004958": {
+      "message": "Opciones de vista previa del enlace"
+   },
+   "527438013974545289": {
+      "message": "Te presentamos el tema oscuro"
+   },
+   "5281121179861637423": {
+      "message": "Debes introducir una contraseña para acceder a $1​."
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5292097099562224381": {
+      "message": "¿Quieres vaciar la papelera? Todas las notas de la papelera se eliminarán definitivamente."
+   },
+   "5299648222246616124": {
+      "message": "acento grave"
+   },
+   "5300527252159851865": {
+      "message": "El archivo no tiene el formato esperado."
+   },
+   "5310593920481358659": {
+      "message": "Temas"
+   },
+   "5311386381313171872": {
+      "message": "Google Drive"
+   },
+   "5320475549855398784": {
+      "message": "Este dibujo estará disponible cuando te conectes a Internet."
+   },
+   "5321772883765574323": {
+      "message": "$1​ se ha movido de $2​ a $3​."
+   },
+   "5334959887390704534": {
+      "message": "Esta etiqueta se eliminará y desaparecerá de todas tus notas de Keep, pero las notas no se eliminarán."
+   },
+   "5336801339221383042": {
+      "message": "JavaScript"
+   },
+   "5336924963122494935": {
+      "message": "Selecciona este elemento"
+   },
+   "534191528712675978": {
+      "message": "Pausa"
+   },
+   "534228323125524312": {
+      "message": "Reducir"
+   },
+   "5353129315502554762": {
+      "message": "Hoja de estilo"
+   },
+   "5362121973783326712": {
+      "message": "Cámara"
+   },
+   "5362962746518601227": {
+      "message": "{NUM_ITEMS,plural, =1{Vas a mover un archivo de una carpeta}other{Vas a mover archivos de una carpeta}}"
+   },
+   "5363853533596749934": {
+      "message": "Introduce un nombre de etiqueta"
+   },
+   "5366505386236199032": {
+      "message": "YouTube"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5392844646168201484": {
+      "message": "Tamaño 3"
+   },
+   "5394695048211047984": {
+      "message": "Añade una fecha"
+   },
+   "5398036630337418486": {
+      "message": "Abrir documento"
+   },
+   "5403636185480096151": {
+      "message": "Televisión"
+   },
+   "540596856674438371": {
+      "message": "No se puede compartir porque esta opción está desactivada."
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "5413225497191133249": {
+      "message": "Fijar o dejar de fijar notas"
+   },
+   "5422660126805186552": {
+      "message": "Disfruta de una experiencia de lectura más cómoda. Activa o desactiva este modo en Ajustes."
+   },
+   "5423742603774911808": {
+      "message": "La lista es demasiado larga."
+   },
+   "5435749276779042277": {
+      "message": "Y $1​ MÁS"
+   },
+   "5447119197363232006": {
+      "message": "Mostrar en Drive"
+   },
+   "5455566801812656827": {
+      "message": "MENOS"
+   },
+   "5465081454525683943": {
+      "message": "Esta nota ya no se compartirá con tu cuenta. Solicita acceso al propietario o cambia a una cuenta con permiso."
+   },
+   "5467649767578147801": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Los usuarios dejarán de tener acceso a este archivo si no son miembros de \"{TEAM_DRIVE_NAME}\" o no pertenecen a {DOMAIN_NAME}.}other{Los usuarios dejarán de tener acceso a estos archivos si no son miembros de \"{TEAM_DRIVE_NAME}\" o no pertenecen a {DOMAIN_NAME}.}}"
+   },
+   "546766753072101168": {
+      "message": "Etiquetas"
+   },
+   "5478662967017843220": {
+      "message": "Azul oscuro"
+   },
+   "5480497191725157666": {
+      "message": "Esc"
+   },
+   "5482604275203517054": {
+      "message": "izquierda"
+   },
+   "5503885447744017882": {
+      "message": "¿Mover a $1​ fuera de $2​?"
+   },
+   "5506390497558702263": {
+      "message": "{count,plural, =1{Nota desarchivada y fijada}other{# notas desarchivadas y fijadas}}"
+   },
+   "5520112019886360037": {
+      "message": "Cerrar"
+   },
+   "5534694255293809224": {
+      "message": "Pulsar $1​ + Intro para dejar de editar una nota"
+   },
+   "5539958940810433464": {
+      "message": "Eliminar nota"
+   },
+   "5542817571710587822": {
+      "message": "El archivo tiene demasiadas imágenes."
+   },
+   "5545146751578623220": {
+      "message": "Bloq Mayús"
+   },
+   "5555182241047709329": {
+      "message": "Selecciona una ubicación"
+   },
+   "5562491070882550010": {
+      "message": "Si eliminas las notas compartidas, los usuarios con los se hayan compartido ya no podrán verlas."
+   },
+   "556742419793425318": {
+      "message": "Descartar"
+   },
+   "5570885401952336951": {
+      "message": "Registro del cliente"
+   },
+   "5578032872220617725": {
+      "message": "Pulsar $1​ + A para seleccionar todas las notas"
+   },
+   "5581834527128285229": {
+      "message": "Se ha producido un error al añadir \"$1​\" a Mi unidad."
+   },
+   "5592884381280360832": {
+      "message": "Entendido"
+   },
+   "5598649706113950710": {
+      "message": "Editor"
+   },
+   "5601530442010506564": {
+      "message": "Entendido"
+   },
+   "5603830044099155569": {
+      "message": "Pulsar J para ir a la anterior y K para ir a la siguiente"
+   },
+   "564165666160590723": {
+      "message": "Reproductor de Windows Media"
+   },
+   "5648022012893174586": {
+      "message": "Para dibujar líneas gruesas, haz clic en el icono del rotulador"
+   },
+   "5652536812290902558": {
+      "message": "Descargar audio"
+   },
+   "5678095606167600931": {
+      "message": "Se ha insertado una viñeta"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5687611645532246887": {
+      "message": "Álbumes"
+   },
+   "5714240424645614611": {
+      "message": "Paquete de Android"
+   },
+   "5714760273477184428": {
+      "message": "Resalta el área que quieras comentar con las flechas y luego pulsa Intro"
+   },
+   "5738003914096572768": {
+      "message": "Activados"
+   },
+   "5755541943799933389": {
+      "message": "Se ha añadido una estrella a $1​."
+   },
+   "5772465571783741830": {
+      "message": "Se ha producido un problema mientras se creaba un acceso directo a \"$1​\""
+   },
+   "577619047319778196": {
+      "message": "Borrar selección"
+   },
+   "5801257863595278616": {
+      "message": "Se ha movido la selección hacia la izquierda."
+   },
+   "5808038805122520160": {
+      "message": "Este dibujo ha alcanzado el tamaño máximo permitido."
+   },
+   "5813834209240603556": {
+      "message": "Pulsar N para ir al anterior y P para ir al siguiente"
+   },
+   "5820033033803019104": {
+      "message": "Organizar"
+   },
+   "5826302153453971149": {
+      "message": "Rosa claro"
+   },
+   "5840202488368071194": {
+      "message": "Nueva nota con imagen"
+   },
+   "5840330517914556080": {
+      "message": "Reducir"
+   },
+   "5854158607727111728": {
+      "message": "Tabulador"
+   },
+   "5869813956121628651": {
+      "message": "Comentarios no disponibles"
+   },
+   "5870134033985574990": {
+      "message": "Extrayendo..."
+   },
+   "5871692308013280837": {
+      "message": "Ver categorías"
+   },
+   "5871966496153339793": {
+      "message": "Mostrando la miniatura del vídeo $1​"
+   },
+   "5876498556450482026": {
+      "message": "Para resaltar algo con color, haz clic en el icono del subrayador"
+   },
+   "5895666393386604578": {
+      "message": "Para aplicar una sangría a los elementos de la lista, arrástralos o usa la combinación de teclas $1​."
+   },
+   "5906730626678011496": {
+      "message": "Añadir acceso directo a Drive"
+   },
+   "5909490544352162901": {
+      "message": "Solicita al propietario acceso a esta nota o cambia a una cuenta con permiso. Has iniciado sesión como $1​."
+   },
+   "5911012384539794869": {
+      "message": "Error al iniciar la tarea de extracción."
+   },
+   "591481266986424156": {
+      "message": "Esta combinación de teclas ya se utiliza en el navegador $1​ para $2​"
+   },
+   "5916010927050975496": {
+      "message": "$1​ KB"
+   },
+   "5917528552332886959": {
+      "message": "Mostrar comentarios resueltos"
+   },
+   "5947790263929501779": {
+      "message": "Se ha convertido en viñeta"
+   },
+   "5949528478488617689": {
+      "message": "Permiso de descarga"
+   },
+   "5950887255133612666": {
+      "message": "No se ha iniciado."
+   },
+   "5954965790623966933": {
+      "message": "Carmesí"
+   },
+   "5961691090101357621": {
+      "message": "Lienzo ampliado hacia abajo."
+   },
+   "5961981688037913870": {
+      "message": "Se ha añadido $1​"
+   },
+   "5965683144165568126": {
+      "message": "Reordenar el elemento de lista"
+   },
+   "5969696744752069015": {
+      "message": "No hay ninguna vista previa disponible."
+   },
+   "597927944425927829": {
+      "message": "La propiedad se transferirá de \"$1​\" a ti."
+   },
+   "5984398071085567332": {
+      "message": "Fusion Tables de Google"
+   },
+   "5987609488177213747": {
+      "message": "Crear etiqueta"
+   },
+   "5989809255170931770": {
+      "message": "{time,plural, =1{Keep se actualizará en # segundo}other{Keep se actualizará en # segundos}}"
+   },
+   "5994697604396931641": {
+      "message": "Quitar todas"
+   },
+   "5999179030782577147": {
+      "message": "Pulsar # para enviar una nota a la papelera"
+   },
+   "6009962986062136164": {
+      "message": "Cargando $1​."
+   },
+   "6011637630664474614": {
+      "message": "Espacio"
+   },
+   "6011708967018957768": {
+      "message": "¿Transferir la propiedad a la unidad compartida?"
+   },
+   "6027516495119898580": {
+      "message": "Los recordatorios de ubicación no están disponibles"
+   },
+   "6030537159236285525": {
+      "message": "Mover elemento de lista a la posición siguiente o anterior"
+   },
+   "60305871484579258": {
+      "message": "Alt"
+   },
+   "6033916931543811803": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Se ha movido {NUM_ITEMS_2} carpeta de {XXX_1} a {XXX_2}.}other{Se han movido {NUM_ITEMS_2} carpetas de {XXX_3} a {XXX_4}.}}"
+   },
+   "6043578784980337112": {
+      "message": "Se han movido $1​ archivos a $2​."
+   },
+   "6049952042443321325": {
+      "message": "Tabla de combinaciones de teclas"
+   },
+   "6062216008944363143": {
+      "message": "{weekNumber,plural, =1{Se repite cada {every} meses el primer {day} del mes}=2{Se repite cada {every} meses el segundo {day} del mes}=3{Se repite cada {every} meses el tercer {day} del mes}=4{Se repite cada {every} meses el cuarto {day} del mes}other{Se repite cada {every} meses el último {day} del mes}}"
+   },
+   "6069780031254134657": {
+      "message": "Marcar como completado"
+   },
+   "6087078248621415351": {
+      "message": "Modificada: $1​"
+   },
+   "6100883940579706314": {
+      "message": "Vista previa del enlace"
+   },
+   "6103793971765619589": {
+      "message": "No se puede compartir con los siguientes usuarios porque su administrador ha inhabilitado la posibilidad de compartir elementos con su organización."
+   },
+   "6105571474005679446": {
+      "message": "Se ha producido un problema con la vista previa."
+   },
+   "6113237889871930608": {
+      "message": "Nota en blanco"
+   },
+   "6118623991445349480": {
+      "message": "Página $1​"
+   },
+   "6122643025527543706": {
+      "message": "Ctrl"
+   },
+   "6127325177382263770": {
+      "message": "URL"
+   },
+   "6128550071219729739": {
+      "message": "Imagen eliminada"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6149175749937815029": {
+      "message": "Ver todos los elementos"
+   },
+   "6159229289552931928": {
+      "message": "¿Quieres mover a la carpeta compartida?"
+   },
+   "616807262818311711": {
+      "message": "Tipo"
+   },
+   "6176354714840789272": {
+      "message": "También puedes guardar enlaces para más adelante con la&nbsp;$2​extensión de Google Keep para Chrome$1​."
+   },
+   "6186753450686672643": {
+      "message": "{every,plural, =1{Se repite todos los días}other{Se repite cada # días}}"
+   },
+   "6189397065139465013": {
+      "message": "Cada"
+   },
+   "6201176165479907499": {
+      "message": "{count,plural, =1{Nota fijada}other{# notas fijadas}}"
+   },
+   "6203260615455347677": {
+      "message": "Numbers"
+   },
+   "6209117354086898503": {
+      "message": "Atrás"
+   },
+   "6211895332551673425": {
+      "message": "Añadido a $2​Mi unidad$1​"
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6223530531885788421": {
+      "message": "Añadiendo el acceso directo a Drive…"
+   },
+   "6224687211096863620": {
+      "message": "Cualquier usuario"
+   },
+   "6225875898439047571": {
+      "message": "Denegar"
+   },
+   "6231442995102088007": {
+      "message": "Novedades de Google Keep"
+   },
+   "6252259197986158120": {
+      "message": "Ayer"
+   },
+   "6263940822259442857": {
+      "message": "Ocultar casillas de verificación"
+   },
+   "6286379137937560558": {
+      "message": "Artículo"
+   },
+   "6286806453721792102": {
+      "message": "Organizar en Drive"
+   },
+   "6305748545202493254": {
+      "message": "Mostrar/Ocultar el panel de detalles"
+   },
+   "6306268376900894985": {
+      "message": "Se repite hasta el {endDate}"
+   },
+   "6324768448533022780": {
+      "message": "$1​ $2​"
+   },
+   "6347484050944915390": {
+      "message": "Se ha enviado la solicitud. Recibirás un correo electrónico cuando se haya aprobado."
+   },
+   "6352952829934775705": {
+      "message": "MÁS"
+   },
+   "6366376928558090914": {
+      "message": "Comida"
+   },
+   "6371576811194810854": {
+      "message": "Después de"
+   },
+   "6375244206466599493": {
+      "message": "Año"
+   },
+   "6375395544374251820": {
+      "message": "Se ha producido un problema al cargar más páginas. Intentando de nuevo..."
+   },
+   "6377664889539934": {
+      "message": "Dibujar con el dedo"
+   },
+   "6381941041429900831": {
+      "message": "Añadir a un colaborador"
+   },
+   "6386587519843563719": {
+      "message": "Archivo binario"
+   },
+   "639451288140270562": {
+      "message": "Copiado a Documentos de Google"
+   },
+   "6394816510866826521": {
+      "message": "Ir a la aplicación de la versión dogfood"
+   },
+   "6402092370576716734": {
+      "message": "Vaciar papelera"
+   },
+   "6413404795391222793": {
+      "message": "Redactar una nueva lista"
+   },
+   "6416495701611778255": {
+      "message": "Aplicaciones externas sugeridas"
+   },
+   "6417706204201069253": {
+      "message": "Si eliminas las notas, los usuarios con los que se hayan compartido ya no podrán verlas."
+   },
+   "6424277546995954045": {
+      "message": "No se pueden anular las combinaciones de teclas con el navegador actual.\nPara habilitar esta función, usa Chrome, Firefox, Internet Explorer/Edge o Safari."
+   },
+   "6426979759685079955": {
+      "message": "Mostrar comentarios inactivos"
+   },
+   "6428000916830484004": {
+      "message": "Marrón"
+   },
+   "6432019580434957057": {
+      "message": "Audio"
+   },
+   "6443103650988201046": {
+      "message": "Colaboratory"
+   },
+   "6443615802319581315": {
+      "message": "{NUM_ITEMS,plural, =1{No tienes permiso para mover este archivo de sus carpetas actuales. En vez de moverlo, añádelo a {START_SPAN_1}{NAME}{END_SPAN}.}other{No tienes permiso para mover estos archivos de sus carpetas actuales. En vez de moverlos, añádelos a {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "6450508807204492448": {
+      "message": "Icono $1​"
+   },
+   "6457802200418354862": {
+      "message": "Los lectores pueden descargar"
+   },
+   "6459405233858728718": {
+      "message": "Presentaciones de Google"
+   },
+   "6473102097014191455": {
+      "message": "Nota con dibujo"
+   },
+   "6477306554098527424": {
+      "message": "Asistente de Google"
+   },
+   "6480376252068839019": {
+      "message": "Abrir las opciones de cuadrícula"
+   },
+   "6487295087519678926": {
+      "message": "Subida a Drive"
+   },
+   "6490084340347327400": {
+      "message": "Pulsar $1​ + Mayús + 8 para alternar entre una nota y una lista"
+   },
+   "6497197865876438261": {
+      "message": "Música"
+   },
+   "6507257480072167483": {
+      "message": "Se ha cambiado el nombre de la etiqueta a $1​."
+   },
+   "6510131849363684615": {
+      "message": "Mañana"
+   },
+   "6513721414466645971": {
+      "message": "Quitado"
+   },
+   "6524849072392100692": {
+      "message": "Carpeta de Google Drive"
+   },
+   "653160061888539741": {
+      "message": "Control del avance"
+   },
+   "6571686604846453345": {
+      "message": "Se ha producido un error al añadir este elemento a Drive."
+   },
+   "6578339688410021742": {
+      "message": "Todos los miembros de \"$1​\" podrán acceder a los elementos."
+   },
+   "6579707685908557993": {
+      "message": "Tarde"
+   },
+   "6588176324871799870": {
+      "message": "Google Apps Script"
+   },
+   "6595703969647338657": {
+      "message": "{count,plural, =1{Nota creada}other{# notas creadas}}"
+   },
+   "6618562607681757575": {
+      "message": "No mover elementos de ninguna carpeta, solo añadirlos a $3​$2​$1​"
+   },
+   "6622304228074863427": {
+      "message": "Aplicación"
+   },
+   "6627510416186113122": {
+      "message": "Verde azulado claro"
+   },
+   "6664835828596108553": {
+      "message": "Opción"
+   },
+   "6667440728495437281": {
+      "message": "Se ha producido un problema mientras se obtenía una vista previa de este documento. Volviéndolo a intentar..."
+   },
+   "6674095299257911962": {
+      "message": "Este elemento incluye contenido restringido y, por tanto, no se puede compartir fuera de $1​"
+   },
+   "670419277288558500": {
+      "message": "Vídeo/audio"
+   },
+   "6707173584987026005": {
+      "message": "Hoy"
+   },
+   "6710728478489145370": {
+      "message": "Cerrar"
+   },
+   "6713235295664405475": {
+      "message": "sobre|para"
+   },
+   "6715985122107380503": {
+      "message": "Grabaciones"
+   },
+   "6726462693927865256": {
+      "message": "Detalles"
+   },
+   "6726879257388338969": {
+      "message": "Imprimir"
+   },
+   "6732800471045353930": {
+      "message": "Esta nota se ha compartido con el número máximo de personas posible."
+   },
+   "673551770550324419": {
+      "message": "Ajustar al ancho"
+   },
+   "6747528043814108113": {
+      "message": "Se ha cambiado a $1​"
+   },
+   "6749829802551750923": {
+      "message": "arriba"
+   },
+   "6750600017746655174": {
+      "message": "Opción"
+   },
+   "6750827506231593056": {
+      "message": "Cambiar cuentas"
+   },
+   "6755327423364814290": {
+      "message": "Crea notas más rápido con la aplicación"
+   },
+   "6761622351199419182": {
+      "message": "Nota archivada"
+   },
+   "6773222938695237983": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{¿Compartir este elemento?}other{¿Compartir estos elementos?}}"
+   },
+   "6778577079172085976": {
+      "message": "Fijadas"
+   },
+   "678660085936036852": {
+      "message": "Procesando las imágenes..."
+   },
+   "6787580031482277539": {
+      "message": "Nunca"
+   },
+   "6798055902819777633": {
+      "message": "Desplazarse por la pantalla con el dedo"
+   },
+   "6801348618370627980": {
+      "message": "Se ha creado la etiqueta $1​."
+   },
+   "6815042072535422726": {
+      "message": "Audio eliminado"
+   },
+   "6822520214440117457": {
+      "message": "Trabajo"
+   },
+   "6831650827360444197": {
+      "message": "La nota ya no está compartida."
+   },
+   "6833062695195555756": {
+      "message": "Abrir menú de opciones de la goma de borrar"
+   },
+   "6833760103261954639": {
+      "message": "Se ha producido un problema al cargar esta página. Intentando de nuevo..."
+   },
+   "68477685313713097": {
+      "message": "{MINUTES,plural, =0{0 minutos}=1{1 minuto}other{{MINUTES} minutos}}"
+   },
+   "6864144421392687943": {
+      "message": "Ordenadores"
+   },
+   "687402923448150707": {
+      "message": "Desmarcado"
+   },
+   "689017442055275529": {
+      "message": "Grupo familiar de $1​"
+   },
+   "6891563484025164308": {
+      "message": "Anterior"
+   },
+   "6898823203505321799": {
+      "message": "Detalles"
+   },
+   "6904351530369058983": {
+      "message": "Propietario"
+   },
+   "6905505747689522124": {
+      "message": "Búsqueda en el archivo de Life"
+   },
+   "6907559338225657032": {
+      "message": "Mover"
+   },
+   "691041991673354191": {
+      "message": "Salir de la nota"
+   },
+   "6918505531548047245": {
+      "message": "Subrayador"
+   },
+   "6921237745237410511": {
+      "message": "Añadir un comentario"
+   },
+   "6922953828399110511": {
+      "message": "Cerrar el visor"
+   },
+   "6925056317406251324": {
+      "message": "Búsqueda de imágenes"
+   },
+   "693770783324368110": {
+      "message": "Notas no fijadas y enviadas a la papelera"
+   },
+   "6956515948204056309": {
+      "message": "Comentarios inactivos ocultos"
+   },
+   "6966912428667098497": {
+      "message": "Tus notas archivadas se mostrarán aquí"
+   },
+   "6979766453743005049": {
+      "message": "Arrastra y suelta elementos en tu lista para reorganizarlos y aplicarles una sangría"
+   },
+   "6980199665979997122": {
+      "message": "Restaurar"
+   },
+   "6982321568096234183": {
+      "message": "Descargar audio ($1​)"
+   },
+   "6982682101118067511": {
+      "message": "Organizando…"
+   },
+   "7005745151564974365": {
+      "message": "Combinaciones de teclas"
+   },
+   "7005977332887563273": {
+      "message": "Añadir acceso directo"
+   },
+   "701276785305022936": {
+      "message": "El documento está dañado. Además, debe tener el formato más reciente."
+   },
+   "7017485862232001373": {
+      "message": "$1​ se ha añadido a $2​."
+   },
+   "7019002927048576918": {
+      "message": "Filtros de búsqueda de $1​"
+   },
+   "7030308038380934896": {
+      "message": "No se ha podido copiar a Documentos de Google"
+   },
+   "7050021021988648361": {
+      "message": "Copiar URL"
+   },
+   "7050898523853841537": {
+      "message": "Opciones de frecuencia"
+   },
+   "705714112650622350": {
+      "message": "Se ha producido un problema al añadir el elemento a Google Drive."
+   },
+   "7059437903473652416": {
+      "message": "Reproducir el vídeo $1​ de YouTube"
+   },
+   "7066744251212631722": {
+      "message": "Lima"
+   },
+   "7084991134824194740": {
+      "message": "Añadir recordatorio"
+   },
+   "7086801490719148597": {
+      "message": "Anula la selección de este elemento"
+   },
+   "7094548885298700726": {
+      "message": "Marrón oscuro"
+   },
+   "7102649289752747375": {
+      "message": "Enviar comentarios"
+   },
+   "7121259585839664942": {
+      "message": "Cancelar"
+   },
+   "7126326627883991568": {
+      "message": "Eliminar el dibujo actual"
+   },
+   "7126535013613878060": {
+      "message": "Fija tus notas importantes en la parte superior."
+   },
+   "7135182401951359795": {
+      "message": "La propiedad será tuya."
+   },
+   "7141983486405549971": {
+      "message": "Insertar"
+   },
+   "7145753028985071097": {
+      "message": "Reordenando la nota"
+   },
+   "7146242673022399081": {
+      "message": "Texto"
+   },
+   "7148992630785407972": {
+      "message": "Este archivo está protegido por contraseña y no se puede obtener una vista previa."
+   },
+   "7149013203800794567": {
+      "message": "{count,plural, =1{El color es {color}. Selecciona otro para aplicarlo a la nota.}other{El color es {color}. Selecciona otro para aplicarlo a las notas.}}"
+   },
+   "7153847618034547771": {
+      "message": "Habilitar"
+   },
+   "7161134329606048317": {
+      "message": "Cerrar"
+   },
+   "7164532930742017984": {
+      "message": "Cualquier usuario con el enlace"
+   },
+   "7166989725427500881": {
+      "message": "Seleccionar la nota enviada a la papelera"
+   },
+   "7174409400206281023": {
+      "message": "Se han encontrado cambios en conflicto"
+   },
+   "7181961085183734135": {
+      "message": "Se ha inhabilitado la impresión de este archivo"
+   },
+   "7182285309564868243": {
+      "message": "No se han podido mover archivos o carpetas"
+   },
+   "7187441427660427801": {
+      "message": "Abrir dibujo"
+   },
+   "7190398092435016951": {
+      "message": "{count,plural, =1{Si eliminas la nota, los usuarios con los que la hayas compartido ya no podrán verla.}other{Si eliminas las notas, los usuarios con los que las hayas compartido ya no podrán verlas.}}"
+   },
+   "7201188472754345797": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Los usuarios dejarán de tener acceso a este archivo si no pertenecen a \"{DESTINATION_DOMAIN}\".}other{Los usuarios dejarán de tener acceso a estos archivos si no pertenecen a \"{DESTINATION_DOMAIN}\".}}"
+   },
+   "7207109722898253285": {
+      "message": "Guardar seleccionadas"
+   },
+   "7218693060378095915": {
+      "message": "Nuevo"
+   },
+   "722264179594523168": {
+      "message": "Cancelar"
+   },
+   "7225445911355686176": {
+      "message": "Seleccionar la nota archivada"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7231231875581131930": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Este elemento no se puede volver a colocar en \"{TEAM_DRIVE_NAME}\", por lo que no podrás deshacer esta acción.}other{Al menos un elemento no se puede volver a colocar en \"{TEAM_DRIVE_NAME}\", por lo que no podrás deshacer esta acción.}}"
+   },
+   "7247530225058410142": {
+      "message": "$2​ $1​"
+   },
+   "7247965266239591227": {
+      "message": "Se ha producido un error al extraer \"$1​\"."
+   },
+   "7251490702980298031": {
+      "message": "Abrir selector de tamaño y de color del subrayador"
+   },
+   "7265183966796883739": {
+      "message": "Ocultar comentarios resueltos"
+   },
+   "7278398674737413598": {
+      "message": "No se ha podido convertir el documento."
+   },
+   "7278859550373246865": {
+      "message": "{count,plural, =1{Nota archivada}other{# notas archivadas}}"
+   },
+   "7290932540630116546": {
+      "message": "Recordatorio añadido. $1​"
+   },
+   "7295254213841803546": {
+      "message": "¿Quieres descartar los cambios? Tus cambios no se guardarán."
+   },
+   "7299749713933143099": {
+      "message": "Morado"
+   },
+   "7301081435623917576": {
+      "message": "Horas predeterminadas de los recordatorios"
+   },
+   "7306962184871750459": {
+      "message": "La propiedad se transferirá de \"$4​\" en $3​ a \"$2​\" en $1​."
+   },
+   "7330497278645626593": {
+      "message": "Probar"
+   },
+   "7342923890755029722": {
+      "message": "Cerrar"
+   },
+   "7344507440412470266": {
+      "message": "Se ha expandido la selección."
+   },
+   "734478884582426793": {
+      "message": "Archivo comprimido"
+   },
+   "7353547650196788656": {
+      "message": "Rojo"
+   },
+   "7364571366369083618": {
+      "message": "Vídeo"
+   },
+   "7376703418960184879": {
+      "message": "Copiar"
+   },
+   "7377239345926788722": {
+      "message": "Acciones"
+   },
+   "7379369644162401367": {
+      "message": "Quitarlos"
+   },
+   "7381817875028728077": {
+      "message": "No, gracias"
+   },
+   "7382688299146249119": {
+      "message": "Descargar elemento"
+   },
+   "7384785369409503695": {
+      "message": "Habilitar tema oscuro"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "7420117636241237177": {
+      "message": "Se han extraído los mensajes de $1​ en tu cuenta de correo en la etiqueta \"Importar: $2​\"."
+   },
+   "7420364754178516134": {
+      "message": "Herramientas de depuración"
+   },
+   "7426603384368095928": {
+      "message": "Vuelve a cargar la página para iniciar sesión de nuevo y seguir trabajando."
+   },
+   "7427333772418801813": {
+      "message": "Se ha desplegado el botón Y $1​ MÁS"
+   },
+   "7429084719905985261": {
+      "message": "Objective C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7438696235870090716": {
+      "message": "Mi unidad"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (modificada a las $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Guardando en Drive"
+   },
+   "744753705925710199": {
+      "message": "No se puede autorizar esta aplicación para todos los archivos que intentas abrir. Inténtalo de nuevo."
+   },
+   "7452116603589558390": {
+      "message": "Anular la selección de una nota fijada"
+   },
+   "7453297286571818554": {
+      "message": "Copiar en Documentos de Google"
+   },
+   "7453307802804717178": {
+      "message": "Azul claro"
+   },
+   "7458942806393710991": {
+      "message": "Anular la selección de la nota archivada"
+   },
+   "7464780237502381438": {
+      "message": "Conectar más aplicaciones"
+   },
+   "7468842863971844562": {
+      "message": "Nueva lista"
+   },
+   "7469895656894091562": {
+      "message": "Este correo electrónico no es válido"
+   },
+   "7480128655944127234": {
+      "message": "Cambiar nombre"
+   },
+   "7482924911694634213": {
+      "message": "{weekNumber,plural, =1{Se repite todos los meses el primer {day} del mes}=2{Se repite todos los meses el segundo {day} del mes}=3{Se repite todos los meses el tercer {day} del mes}=4{Se repite todos los meses el cuarto {day} del mes}other{Se repite todos los meses el último {day} del mes}}"
+   },
+   "7483088916037874359": {
+      "message": "El archivo es demasiado grande. "
+   },
+   "7488945223835574498": {
+      "message": "PostScript"
+   },
+   "7503234138288940590": {
+      "message": "Busca lo que quieras"
+   },
+   "7507827375601925075": {
+      "message": "Mover nota a la posición siguiente o anterior"
+   },
+   "7510155920769316048": {
+      "message": "Notas y listas"
+   },
+   "7516769578943800930": {
+      "message": "Marcado"
+   },
+   "7528204871156404767": {
+      "message": "Safari"
+   },
+   "7528441140724145783": {
+      "message": "Editar etiquetas"
+   },
+   "7529683448345488779": {
+      "message": "La contraseña introducida no es correcta; prueba con otra."
+   },
+   "7530677128711603655": {
+      "message": "Resultados de búsqueda de \"$1​\""
+   },
+   "7564771400033548584": {
+      "message": "{selectedCount,plural, =1{# seleccionado}other{# seleccionados}}"
+   },
+   "7565795669925550891": {
+      "message": "Compartida por"
+   },
+   "7579280421767578228": {
+      "message": "Recordatorio para algún día"
+   },
+   "7585826646011739428": {
+      "message": "Editar"
+   },
+   "7586291841734385643": {
+      "message": "Ventana externa"
+   },
+   "7587936635257676112": {
+      "message": "Se ha añadido a $1​"
+   },
+   "7598582624136632660": {
+      "message": "Abrir la barra de búsqueda / encontrar siguiente"
+   },
+   "7599358608613738069": {
+      "message": "Eliminar"
+   },
+   "7604275940271852148": {
+      "message": "Extraer en tu cuenta de correo"
+   },
+   "7604400308311739073": {
+      "message": "Fijar"
+   },
+   "7610628906656867728": {
+      "message": "Notas archivadas"
+   },
+   "7610654194202731772": {
+      "message": "Eliminar"
+   },
+   "7624042048123264803": {
+      "message": "Abrir nota"
+   },
+   "7630069597298444649": {
+      "message": "Pulsar / para seleccionar el cuadro de búsqueda"
+   },
+   "7630723924002267143": {
+      "message": "Las combinaciones de teclas están habilitadas."
+   },
+   "7631302417932873160": {
+      "message": "No se ha podido comprobar si este archivo tiene virus"
+   },
+   "7648759818896108920": {
+      "message": "y $1​ más"
+   },
+   "7649506133540465463": {
+      "message": "No se ha podido deshacer la acción."
+   },
+   "7653702763016575386": {
+      "message": "Azul"
+   },
+   "7656983816661099886": {
+      "message": "Cosas"
+   },
+   "7659047104232758352": {
+      "message": "ese|esa|eso|este|esta|esto"
+   },
+   "7669677145513127809": {
+      "message": "¿Mover de una unidad de equipo a otra?"
+   },
+   "7669846901402551021": {
+      "message": "Hoy"
+   },
+   "7690349821507417537": {
+      "message": "Se ha quitado el elemento $1​ de la lista"
+   },
+   "7690355160889785521": {
+      "message": "Verde"
+   },
+   "7709557808259730054": {
+      "message": "Aprobaciones"
+   },
+   "7709889936233398701": {
+      "message": "Quitar"
+   },
+   "7715892737835649602": {
+      "message": "También puedes añadir etiquetas escribiendo \"#\"."
+   },
+   "7724602581120994002": {
+      "message": "Naranja"
+   },
+   "7728066040934031356": {
+      "message": "Morado"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "7735981667219692675": {
+      "message": "{resultCount,plural, =1{# resultado de búsqueda}other{# resultados de búsqueda}}"
+   },
+   "774390292128857049": {
+      "message": "Buscar"
+   },
+   "7751981235297474273": {
+      "message": "Deshacer"
+   },
+   "7754093419850121316": {
+      "message": "⌘"
+   },
+   "7757440777278143092": {
+      "message": "Gris oscuro"
+   },
+   "7766150028615181766": {
+      "message": "Añadir otro acceso directo aquí"
+   },
+   "7766580018314203658": {
+      "message": "Este dibujo está a punto de alcanzar el tamaño máximo permitido. Si quieres, puedes añadir un dibujo nuevo a esta nota."
+   },
+   "7772544658778579390": {
+      "message": "Encontrar en documento"
+   },
+   "778181404304502404": {
+      "message": "Se ha reducido el elemento."
+   },
+   "7791050524692390574": {
+      "message": "Colores"
+   },
+   "7796648733955818629": {
+      "message": "No se puede subir este archivo. Aceptamos archivos $1​ de menos de $2​ MB y $3​ megapíxeles."
+   },
+   "7800318069267901681": {
+      "message": "Modificado"
+   },
+   "7803075387516434727": {
+      "message": "No hay resultados que coincidan."
+   },
+   "7814778057875152792": {
+      "message": "Se ha producido un error al mover el archivo adjunto a la carpeta seleccionada de Google Drive."
+   },
+   "7819314041543176992": {
+      "message": "Cerrar"
+   },
+   "7821512290975371360": {
+      "message": "Rosa fucsia"
+   },
+   "7828886646639771557": {
+      "message": "Añade una nota…"
+   },
+   "7830513726270865588": {
+      "message": "Calendario"
+   },
+   "7842164552344536314": {
+      "message": "Organizando..."
+   },
+   "7844842290699524598": {
+      "message": "Límite de etiquetas alcanzado. Elimina una etiqueta para añadir una nueva."
+   },
+   "7849249492061822610": {
+      "message": "Pulsar el signo de interrogación para mostrar la ventana emergente de ayuda"
+   },
+   "785840448809859989": {
+      "message": "Opciones de hora"
+   },
+   "7865240075542402013": {
+      "message": "Añadir estrella"
+   },
+   "7868324478160174739": {
+      "message": "Azul"
+   },
+   "7872546153972922699": {
+      "message": "Marca los elementos a medida que los termines"
+   },
+   "7873060817438017568": {
+      "message": "$2​ · $1​"
+   },
+   "7873698934773957560": {
+      "message": "Nada"
+   },
+   "787773550893657271": {
+      "message": "Se ha abierto el dibujo anterior"
+   },
+   "7888520165977111723": {
+      "message": "¿Mover a la unidad de equipo?"
+   },
+   "7895643887742936844": {
+      "message": "punto y coma"
+   },
+   "7906726367011430855": {
+      "message": "Conectar"
+   },
+   "7910887984113996757": {
+      "message": "Activar opción para compartir"
+   },
+   "7911416166208830577": {
+      "message": "Ayuda"
+   },
+   "7924606175376623897": {
+      "message": "Pulsar F para alternar una nota entre fijada o no fijada"
+   },
+   "7934833136974560675": {
+      "message": "Volver a intentarlo"
+   },
+   "7943657844420237650": {
+      "message": "OpenOffice Impress"
+   },
+   "7946114032014914338": {
+      "message": "{repeatSentence}. {endSentence}"
+   },
+   "7947001788143789176": {
+      "message": "Cargando…"
+   },
+   "7959130747647079558": {
+      "message": "{selectedCount,plural, =1{# nota seleccionada}other{# notas seleccionadas}}"
+   },
+   "7976461426527138085": {
+      "message": "Listas"
+   },
+   "7991475666499751798": {
+      "message": "Marcar el recordatorio como completado"
+   },
+   "7996360883730444101": {
+      "message": "Se ha producido un error al abrir el archivo. Inténtalo de nuevo."
+   },
+   "7998118521140187915": {
+      "message": "Se han ocultado los comentarios resueltos"
+   },
+   "8003252582874834655": {
+      "message": "Cuando se mueven elementos a una unidad de equipo, sus permisos de acceso y su propiedad cambian."
+   },
+   "8010075936095394680": {
+      "message": "La versión del archivo es demasiado antigua; debe tener el formato más reciente. "
+   },
+   "8011497727123874703": {
+      "message": "Botón de carpeta $1​"
+   },
+   "8013687642711017862": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Vas a sacar un elemento de carpetas compartidas, de modo que los usuarios dejarán de tener acceso a él.}other{Vas a sacar {NUM_ITEMS_2} elementos de carpetas compartidas, de modo que los usuarios dejarán de tener acceso a ellos.}}"
+   },
+   "8019402848412685977": {
+      "message": "Se ha cambiado el nombre de \"$2​\" a \"$1​\"."
+   },
+   "802668096552856965": {
+      "message": "{checkedItemCount,plural, =1{# elemento completado}other{# elementos completados}}"
+   },
+   "8043514121228710092": {
+      "message": "Añadir imagen"
+   },
+   "8046884224424523922": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Se ha movido {NUM_ITEMS_2} archivo de {XXX_1} a {XXX_2}.}other{Se han movido {NUM_ITEMS_2} archivos de {XXX_3} a {XXX_4}.}}"
+   },
+   "8063817953234049242": {
+      "message": "Herramienta de selección"
+   },
+   "807840433749698811": {
+      "message": "Cian"
+   },
+   "8080583426915938264": {
+      "message": "Aplicaciones de tu ordenador"
+   },
+   "8085493757603803516": {
+      "message": "Editar selección"
+   },
+   "8090743714060857028": {
+      "message": "Los lectores no pueden descargar"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 bytes}=1{1 byte}other{# bytes}}"
+   },
+   "8104421162933956065": {
+      "message": "Notas"
+   },
+   "8111632928339277375": {
+      "message": "{NUM_FOLDERS,plural, =1{Mover de una carpeta}=2{Mover de las dos carpetas}other{Mover de las # carpetas}}"
+   },
+   "8119839693658969418": {
+      "message": "No se puede compartir con los siguientes usuarios porque tu administrador ha inhabilitado la posibilidad de compartir elementos fuera de tu organización."
+   },
+   "8125425371755035523": {
+      "message": "Deshacer"
+   },
+   "8133866583554546341": {
+      "message": "$1​, $2​"
+   },
+   "8137338584146377170": {
+      "message": "No puedes mover el archivo porque su propietario no pertenece al mismo dominio que la unidad compartida."
+   },
+   "8139785559888164453": {
+      "message": "Más información"
+   },
+   "8144512434938656483": {
+      "message": "o"
+   },
+   "8149439558305434788": {
+      "message": "$1​, $2​"
+   },
+   "8159493406018222636": {
+      "message": "Enviar comentarios"
+   },
+   "8163727651556550203": {
+      "message": "Añadir otro acceso directo"
+   },
+   "8163781449224244510": {
+      "message": "Se ha contraído la selección."
+   },
+   "8174654098152723289": {
+      "message": "Editar descripción"
+   },
+   "818217888086545352": {
+      "message": "Amarillo"
+   },
+   "8189126656205301402": {
+      "message": "Copiar en Documentos de Google"
+   },
+   "8193677552005249631": {
+      "message": "Descargas de aplicaciones"
+   },
+   "8194941811853358224": {
+      "message": "Se ha producido un error al quitar la estrella de \"$1​\"."
+   },
+   "8199137154169358847": {
+      "message": "Más"
+   },
+   "819996403327805209": {
+      "message": "Más información"
+   },
+   "8207659457248280436": {
+      "message": "Aún no se pueden mover accesos directos a una unidad compartida."
+   },
+   "8208179689358649003": {
+      "message": "Pulsar E para archivar una nota"
+   },
+   "8224193807932432983": {
+      "message": "Acciones"
+   },
+   "8225614702924834215": {
+      "message": "Más opciones"
+   },
+   "8231449936104909428": {
+      "message": "Se ha producido un error al mover \"$1​\" a la carpeta de Drive seleccionada."
+   },
+   "8233656381635014955": {
+      "message": "\"Ok Google, ¿qué hay en mi lista de tareas?\""
+   },
+   "8233945959714786736": {
+      "message": "Anterior"
+   },
+   "8242655297101700529": {
+      "message": "Mi unidad"
+   },
+   "824468664656304495": {
+      "message": "No tienes conexión. Puede que algunas funciones no estén disponibles."
+   },
+   "8265689758492685194": {
+      "message": "Temas"
+   },
+   "8273434617910595878": {
+      "message": "abajo"
+   },
+   "8281141013543828574": {
+      "message": "Imagen RAW"
+   },
+   "8281169978199539270": {
+      "message": "No se puede mover de una carpeta de solo lectura"
+   },
+   "8284315184632755389": {
+      "message": "Destacados"
+   },
+   "8292708563843446267": {
+      "message": "Los elementos serán propiedad de \"$1​\"."
+   },
+   "8305505634689906340": {
+      "message": "Busca en \"$1​\""
+   },
+   "8322416564157128458": {
+      "message": "Compartir"
+   },
+   "8323603365638981303": {
+      "message": "Arriba, haz clic en el botón Nueva nota con dibujo"
+   },
+   "8333974577908804438": {
+      "message": "Aún no se puede mover este tipo de archivo a una unidad compartida."
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342620486324515462": {
+      "message": "Cerrar"
+   },
+   "8343105225506381659": {
+      "message": "Mostrando comentarios inactivos"
+   },
+   "8379952094517631162": {
+      "message": "No"
+   },
+   "8389434962426321219": {
+      "message": "Las notas con próximos recordatorios aparecerán aquí"
+   },
+   "8409190394690387796": {
+      "message": "Añadir un comentario"
+   },
+   "8412098268689886334": {
+      "message": "Combinar"
+   },
+   "8412733496413412439": {
+      "message": "Sin conexión"
+   },
+   "8422875188929347819": {
+      "message": "Compartida con"
+   },
+   "84334343973701810": {
+      "message": "Inicio"
+   },
+   "8452647597930138120": {
+      "message": "Resalta la celda en la que quieras añadir un comentario"
+   },
+   "8453627484113670693": {
+      "message": "Naranja claro"
+   },
+   "8467894483369467251": {
+      "message": "Flash"
+   },
+   "8471029293590878384": {
+      "message": "Pausar"
+   },
+   "8493378997610580289": {
+      "message": "Más combinaciones de teclas"
+   },
+   "8505989225387082493": {
+      "message": "Añadir etiqueta"
+   },
+   "8506292502710287776": {
+      "message": "¿Tienes que escribir notas largas? Añadiremos más espacio automáticamente a medida que te aproximas al final."
+   },
+   "8509270263487836281": {
+      "message": "Iniciar sesión"
+   },
+   "8517148045938431718": {
+      "message": "Solucionar errores"
+   },
+   "8529203008291528328": {
+      "message": "Vaciar papelera"
+   },
+   "8535303351837089357": {
+      "message": "Puedes deshacer y rehacer los cambios con {modifierKey} + Z y {modifierKey} + Y."
+   },
+   "8559513397356310933": {
+      "message": "Añadir elementos nuevos al final"
+   },
+   "8562196940800756925": {
+      "message": "Rotulador"
+   },
+   "857379832182429172": {
+      "message": "Activarlo"
+   },
+   "8575113875567233985": {
+      "message": "No puedes quitar elementos de \"$1​\"."
+   },
+   "8589423377647285975": {
+      "message": "Elemento de lista $2​ $3​ $1​."
+   },
+   "8595175575778060149": {
+      "message": "Más"
+   },
+   "8596279649507974639": {
+      "message": "Mover aquí"
+   },
+   "8602525917014156029": {
+      "message": "Lugares"
+   },
+   "8611058223830804795": {
+      "message": "Mover elementos marcados al final"
+   },
+   "8616342546716995946": {
+      "message": "Entendido"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8621178077822096827": {
+      "message": "Se ha insertado el elemento $1​ en la lista"
+   },
+   "8626694988569301667": {
+      "message": "El dibujo no está disponible"
+   },
+   "8637215430007224613": {
+      "message": "Se ha abierto el dibujo siguiente"
+   },
+   "8660016472468563221": {
+      "message": "dos puntos"
+   },
+   "8663507590720636709": {
+      "message": "$1​ y otros $2​"
+   },
+   "8663993454460982287": {
+      "message": "Casillas de verificación ocultas"
+   },
+   "8674222789100049233": {
+      "message": "Cerrar"
+   },
+   "8708723278154759600": {
+      "message": "Notas archivadas"
+   },
+   "8734569874711220205": {
+      "message": "Menú de navegación"
+   },
+   "8738345098829705526": {
+      "message": "Tamaño 12"
+   },
+   "8773943264600860531": {
+      "message": "Internet Explorer"
+   },
+   "8775097441636640256": {
+      "message": "$2​ - $1​"
+   },
+   "8781837301864053001": {
+      "message": "Texto con formato"
+   },
+   "8786673003584562680": {
+      "message": "Re Pág"
+   },
+   "8790687303221198259": {
+      "message": "Aplicación de Chrome"
+   },
+   "8792038552136453044": {
+      "message": "¡Vaya! Se ha producido un error"
+   },
+   "8793166064242077041": {
+      "message": "Se ha producido un problema con la visualización de esta imagen."
+   },
+   "8797656338249040679": {
+      "message": "$2​Instala la extensión de Google Keep para Chrome$1​ y guarda todo aquello que sea importante para ti en Keep con un solo clic."
+   },
+   "8822326207328431952": {
+      "message": "La subida de imágenes no está disponible"
+   },
+   "8825353897919495748": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{¿Seguro que quieres mover este archivo?}other{¿Seguro que quieres mover estos archivos?}}"
+   },
+   "8845176264121061589": {
+      "message": "Desmarcar todos los elementos"
+   },
+   "8852550049823214385": {
+      "message": "y, a continuación,"
+   },
+   "885480352148498682": {
+      "message": "Los comentarios inactivos podrían eliminarse si se editan fuera de Google Drive"
+   },
+   "8860658114732392347": {
+      "message": "Eliminar recordatorio"
+   },
+   "8865141968381070659": {
+      "message": "Añadir acceso directo aquí"
+   },
+   "8867634760949689122": {
+      "message": "No se ha podido convertir el archivo porque se ha agotado el tiempo de espera. Vuelve a intentarlo más tarde."
+   },
+   "8868758864963683383": {
+      "message": "Anular la selección de la nota"
+   },
+   "8869202143464930500": {
+      "message": "¿Quieres transferir la propiedad a $1​?"
+   },
+   "887001400549949730": {
+      "message": "Abrir en una ventana nueva"
+   },
+   "8889019648958415451": {
+      "message": "Archivo desconocido"
+   },
+   "8895209347521686105": {
+      "message": "Google Fotos"
+   },
+   "8903612093856047007": {
+      "message": "Colaboradores"
+   },
+   "8905995985388209337": {
+      "message": "Aceptar"
+   },
+   "8917554093651202032": {
+      "message": "Reproducir $1​"
+   },
+   "8919660666733306860": {
+      "message": "Imagen"
+   },
+   "8923591894816841670": {
+      "message": "Se ha movido la selección hacia abajo."
+   },
+   "8925842014466254066": {
+      "message": "Copiando a Documentos de Google"
+   },
+   "8930959387403789939": {
+      "message": "Recordatorio"
+   },
+   "8931267220766224111": {
+      "message": "¿Quieres activar los recordatorios de Google Keep? Es posible que tengas que permitir las notificaciones del navegador."
+   },
+   "8938626240031421092": {
+      "message": "Alternar casillas de verificación"
+   },
+   "8943760679396635042": {
+      "message": "Mostrando $1​."
+   },
+   "8962132866274125834": {
+      "message": "Rehacer"
+   },
+   "896590342186332268": {
+      "message": "Tamaño 16"
+   },
+   "8975305711699693093": {
+      "message": "Ocultar columna de comentarios"
+   },
+   "8978442832029227748": {
+      "message": "Google Jamboard"
+   },
+   "8979104019474011578": {
+      "message": "{every,plural, =1{Se repite todas las semanas}other{Se repite cada # semanas}}"
+   },
+   "8979615310931291676": {
+      "message": "Modificada: $1​"
+   },
+   "8988925599985431446": {
+      "message": "Dejar de fijar"
+   },
+   "8990769651805334695": {
+      "message": "Fecha"
+   },
+   "900086393693234779": {
+      "message": "Casa"
+   },
+   "9003585743562048321": {
+      "message": "No se han podido sincronizar los comentarios debido a un error de red."
+   },
+   "9012753183662045049": {
+      "message": "Introduce un nombre de etiqueta más corto"
+   },
+   "9012809035908808124": {
+      "message": "Pulsar $1​ + G para alternar entre la vista de lista y la de cuadrícula"
+   },
+   "9021945828354340363": {
+      "message": "{count,plural, =1{Esta nota ya no se compartirá contigo.}other{Estas notas ya no se compartirán contigo.}}"
+   },
+   "9024023699330078373": {
+      "message": "Al abrir este elemento se añadirá a tu cuenta de Drive"
+   },
+   "9051304537377804875": {
+      "message": "{HOURS,plural, =0{0 horas}=1{1 hora}other{{HOURS} horas}}"
+   },
+   "9058308423774656474": {
+      "message": "Procesador de texto Hangul"
+   },
+   "9063863448028905602": {
+      "message": "Quitar de los resultados"
+   },
+   "9066539791850693252": {
+      "message": "Drive"
+   },
+   "9072994494820207560": {
+      "message": "Elemento marcado"
+   },
+   "9088582015610828915": {
+      "message": "Menos"
+   },
+   "9094248058931620597": {
+      "message": "Panel de detalles contraído."
+   },
+   "9096768033530566606": {
+      "message": "Acceso directo añadido a $2​$3​$1​"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice Draw"
+   },
+   "911698676339750373": {
+      "message": "Grupo familiar"
+   },
+   "9121915169985572840": {
+      "message": "Cambiar color"
+   },
+   "9124422680181020503": {
+      "message": "Dibujo eliminado"
+   },
+   "9129734193759025482": {
+      "message": "Mañana"
+   },
+   "9131268871618792263": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{unused plural form}other{Los miembros de las unidades de equipo dejarán de tener acceso a estos elementos a menos que se compartan con ellos.}}"
+   },
+   "9140728449558729773": {
+      "message": "No se puede ampliar más el lienzo porque se ha alcanzado su altura máxima."
+   },
+   "9146862513672039744": {
+      "message": "Borrar cuenta"
+   },
+   "9149141099919589043": {
+      "message": "Valores separados por comas"
+   },
+   "9150202601400529256": {
+      "message": "No se ha podido añadir el acceso directo a $2​$3​$1​"
+   },
+   "9155213204821633067": {
+      "message": "Se ha dejado de seleccionar $1​."
+   },
+   "9180910903828232576": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Se ha añadido {NUM_ITEMS_2} carpeta a {XXX_1}.}other{Se han añadido {NUM_ITEMS_2} carpetas a {XXX_2}.}}"
+   },
+   "9197837492705576727": {
+      "message": "Ir al siguiente elemento"
+   },
+   "919969969251998566": {
+      "message": "Extrae este archivo en tu cuenta de correo."
+   },
+   "9202541782096241233": {
+      "message": "No tienes permiso para mover archivos de esta unidad compartida."
+   },
+   "9203454763088526300": {
+      "message": "No se reconoce el texto."
+   },
+   "9213031420087755232": {
+      "message": "Borrar página"
+   },
+   "938074023403688885": {
+      "message": "Quitar"
+   },
+   "951963820437151566": {
+      "message": "Google Sites"
+   },
+   "960732173870658714": {
+      "message": "Documento de Google Keep"
+   },
+   "969509857504028202": {
+      "message": "Cuando se sacan archivos de una unidad de equipo, sus permisos de acceso y su propiedad cambian."
+   },
+   "981637388660093923": {
+      "message": "{SECONDS,plural, =0{0 segundos}=1{1 segundo}other{{SECONDS} segundos}}"
+   },
+   "985197728509875956": {
+      "message": "Modelo químico"
+   },
+   "989685768146008877": {
+      "message": "Cuando se mueven elementos a una unidad compartida, sus permisos de acceso y su propiedad cambian."
+   },
+   "991852286447868510": {
+      "message": "Buscando $1​"
+   },
+   "99635082918315028": {
+      "message": "Se ha capturado el texto de la imagen"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Anota rápidamente lo que se te pase por la cabeza y compártelo con amigos y familiares."
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Google Keep: notas y listas"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Google Keep"
+   }
+}

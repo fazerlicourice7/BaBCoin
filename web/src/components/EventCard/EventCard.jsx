@@ -194,7 +194,7 @@ export default class EventCard extends Component {
     }
 
     endEvent() {
-        axios.post("localhost:4000/eventrespondees", {
+        axios.post("http://localhost:4000/getattendees", {
             origin: "http://localhost:3000",
             headers: {
                 'Access-Control-Allow-Origin': '*'
@@ -202,8 +202,19 @@ export default class EventCard extends Component {
             mode: 'no-cors',
             iCalID: this.props.iCalID
         }).then(res => {
-            res.prototype.forEach(this.payoutEachPerson);
-        });
+            console.log(res);
+            var atendeesEthAddresses = [];
+            for (var i = 0; i < res.data.users_attended.length; i++) {
+                atendeesEthAddresses.push(res.data.users_attended[i].ethAddress);
+            }
+            BabCoinContract.methods
+                .eventPayout(this.props.iCalID, atendeesEthAddresses)
+                .send({from: this.props.userEthAddress});
+        });//.then(
+        //     res => {
+        //     var newBalance = res;
+        //     this.props.updateBalance(newBalance);
+        // });
     }
 
     render() {

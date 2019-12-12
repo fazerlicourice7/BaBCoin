@@ -1,0 +1,3632 @@
+{
+   "1001407065815272462": {
+      "message": "Hinzufügen zu $2​Meine Ablage$1​ nicht möglich"
+   },
+   "1013939682284715002": {
+      "message": "Ordnen"
+   },
+   "1039394921418415681": {
+      "message": "Anmelden"
+   },
+   "1040405721361467195": {
+      "message": "Mit den Pfeiltasten wählen Sie die Textstelle aus, die Sie kommentieren möchten. Halten Sie die Umschalttaste gedrückt und verwenden Sie gleichzeitig die Pfeiltasten, um die Auswahl zu erweitern. Zum Erstellen eines Kommentars drücken Sie die Eingabetaste, zum Abbrechen die Esc-Taste."
+   },
+   "1055686627716339120": {
+      "message": "Archiv"
+   },
+   "1083918249169198626": {
+      "message": "Tastenkombinationen sind deaktiviert."
+   },
+   "1101371910696766077": {
+      "message": "Kopie erstellen"
+   },
+   "1122146167985532789": {
+      "message": "gestern"
+   },
+   "1127320433256851404": {
+      "message": "Videoplayer"
+   },
+   "1131044617724567645": {
+      "message": "Kommentare in PDF-Dateien werden in der jeweiligen Datei gespeichert und können mit anderen Apps angezeigt werden"
+   },
+   "1137446830169628669": {
+      "message": "Element eingerückt."
+   },
+   "1158660505977623040": {
+      "message": "Endgültig löschen"
+   },
+   "1162642135048988280": {
+      "message": "Dokument umbenennen"
+   },
+   "1163324543881570799": {
+      "message": "Google Docs"
+   },
+   "116696227691552491": {
+      "message": "Ort wählen"
+   },
+   "1176812982629195161": {
+      "message": "Google-Apps"
+   },
+   "1179891706526242218": {
+      "message": "Weiter"
+   },
+   "1185164838496022543": {
+      "message": "Klicken Sie hier, um die Seite zu aktualisieren."
+   },
+   "1213005208968286932": {
+      "message": "Als geklärt markiert"
+   },
+   "1226017195419883732": {
+      "message": "Geteilte Ablagen"
+   },
+   "124010372300613445": {
+      "message": "{numNotes,plural, =1{Eine wieder aktivierte Notiz wurde erstellt}other{# wieder aktivierte Notizen wurden erstellt}}"
+   },
+   "1248242541854939846": {
+      "message": "Widersprüchliche Änderungen korrigieren"
+   },
+   "124900027451629830": {
+      "message": "Wiedergeben"
+   },
+   "125608713654167241": {
+      "message": "Blaugrün"
+   },
+   "1256362146573583104": {
+      "message": "Extrahieren"
+   },
+   "1259492729704800881": {
+      "message": "Notiz archivieren"
+   },
+   "125962421212090538": {
+      "message": "Nächste Woche"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1271038294394884640": {
+      "message": "Abbrechen"
+   },
+   "12768758038718216": {
+      "message": "Archivierte Notiz anpinnen"
+   },
+   "1280430284217153733": {
+      "message": "Uhrzeit hinzufügen"
+   },
+   "1294762503951327157": {
+      "message": "Abgehakte Einträge werden automatisch an das Ende der Liste verschoben"
+   },
+   "1317394270020748066": {
+      "message": "Sie können von jetzt an mit Google Assistant Google-Notizen und -Listen erstellen, aktualisieren und verwalten."
+   },
+   "1317913074512528649": {
+      "message": "Mehr als nur ein Merkzettel."
+   },
+   "1330083198022464084": {
+      "message": "Neue Notiz erstellen"
+   },
+   "1333255388111908292": {
+      "message": "Lebensmittel"
+   },
+   "1335763707789999819": {
+      "message": "{NUM_ITEMS,plural, =1{Sie sind nicht berechtigt, dieses Element aus seinen aktuellen Ordnern zu verschieben. Fügen Sie das Element stattdessen {START_SPAN_1}{NAME}{END_SPAN} hinzu.}other{Sie sind nicht berechtigt, diese Elemente aus ihren aktuellen Ordnern zu verschieben. Fügen Sie die Elemente stattdessen {START_SPAN_2}{NAME}{END_SPAN} hinzu.}}"
+   },
+   "1338300799355131761": {
+      "message": "Unbenannte Notiz"
+   },
+   "1349697396109290623": {
+      "message": "\"$1​\" wird in höherer Auflösung angezeigt."
+   },
+   "1355047515597245353": {
+      "message": "Für dieses Element können keine weiteren Verknüpfungen erstellt werden. Wenn Sie es jedoch markieren, finden Sie es später schneller wieder."
+   },
+   "1359937199332190522": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} Datei wurde dem Ordner \"{XXX_1}\" hinzugefügt.}other{{NUM_ITEMS_2} Dateien wurden dem Ordner \"{XXX_2}\" hinzugefügt.}}"
+   },
+   "136335357683289450": {
+      "message": "Schließen"
+   },
+   "1365216822837281424": {
+      "message": "Chrome-Erweiterung"
+   },
+   "1368808491835583439": {
+      "message": "Dunkles Lila"
+   },
+   "1377158635423797368": {
+      "message": "Label aufrufen"
+   },
+   "1379850360723600538": {
+      "message": "Passwortgeschützte Dateien werden nicht unterstützt."
+   },
+   "1388712764439031120": {
+      "message": "Link öffnen"
+   },
+   "1397887822627488928": {
+      "message": "Person oder E-Mail-Adresse"
+   },
+   "1429848477922945853": {
+      "message": "Leere Notiz"
+   },
+   "1432850707344442376": {
+      "message": "Label \"$1​\" erstellen"
+   },
+   "1434081385486479995": {
+      "message": "Die Freigabefunktion ist derzeit nicht verfügbar."
+   },
+   "1439211265324766071": {
+      "message": "Notiz im Papierkorb"
+   },
+   "1441487391064925653": {
+      "message": "Hilfeartikel mit allen Tastaturkürzeln ansehen"
+   },
+   "1441712877952841568": {
+      "message": "Bearbeitet am $1​"
+   },
+   "1442417474192183694": {
+      "message": "Details zur Fehlerbehebung in Viewer anzeigen"
+   },
+   "1442722292947881614": {
+      "message": "Typen"
+   },
+   "1446829548948002072": {
+      "message": "Komma"
+   },
+   "1453330983536591773": {
+      "message": "Hellgrau"
+   },
+   "1463389029497634261": {
+      "message": "Lautstärke verringern"
+   },
+   "1466663154000252842": {
+      "message": "Einige Nutzer können dann möglicherweise nicht mehr darauf zugreifen"
+   },
+   "1467797923781828000": {
+      "message": "$1​ Elemente wurden dem Ordner \"$2​\" hinzugefügt."
+   },
+   "1475258635371833968": {
+      "message": "$2​, $1​"
+   },
+   "1478393252643397554": {
+      "message": "Orange"
+   },
+   "1482452362096735080": {
+      "message": "Findet {numOccurrences} Mal statt"
+   },
+   "1490217372377947899": {
+      "message": "Drive-Upload"
+   },
+   "1505876360160857231": {
+      "message": "$1​ TB"
+   },
+   "1507063529674142853": {
+      "message": "Am letzten Tag des Monats"
+   },
+   "1507445189431379166": {
+      "message": "Löschen"
+   },
+   "1512114410402431831": {
+      "message": "Aktualisieren"
+   },
+   "1512454807955173272": {
+      "message": "Notizen wird aktualisiert, sobald wieder eine Verbindung besteht."
+   },
+   "1513178578981188988": {
+      "message": "Edge"
+   },
+   "1532717559893630620": {
+      "message": "Label $1​ wurde in $2​ eingefügt."
+   },
+   "1536051766421561160": {
+      "message": "Gleichheitszeichen"
+   },
+   "153659275234722804": {
+      "message": "Schließen"
+   },
+   "1543499632005215694": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Die Datei, die nach \"{ADDED_PARENT_NAME}\" verschoben wird, hat die DLP-Erkennung ausgelöst. Möglicherweise enthält sie vertrauliche Informationen.}other{Einige der Dateien, die nach \"{ADDED_PARENT_NAME}\" verschoben werden, haben die DLP-Erkennung ausgelöst. Möglicherweise enthalten sie vertrauliche Informationen.}}"
+   },
+   "1568379678795589771": {
+      "message": "Quadrate"
+   },
+   "1586968957182554447": {
+      "message": "Deaktivieren"
+   },
+   "1600730176972144699": {
+      "message": "Drücken Sie die Umschalttaste + J, um zur vorherigen Position zu gelangen, und die Umschalttaste + K, um zur nächsten Position zu gelangen"
+   },
+   "1606998668553414638": {
+      "message": "Zugriff anfordern"
+   },
+   "1612117309990202511": {
+      "message": "Punkte"
+   },
+   "1645936035034659132": {
+      "message": "{itemsRemaining,plural, =1{# Listeneintrag verfügbar}other{# Listeneinträge verfügbar}}"
+   },
+   "1655692513689044870": {
+      "message": "Sie wurden abgemeldet."
+   },
+   "1656911987308166143": {
+      "message": "Löschen"
+   },
+   "1665821947855814052": {
+      "message": "Größe"
+   },
+   "1675711464233426777": {
+      "message": "Heute im Laufe des Tages"
+   },
+   "1675900304699098572": {
+      "message": "{count,plural, =1{Notiz losgelöst}other{# Notizen losgelöst}}"
+   },
+   "1680617124502957636": {
+      "message": "Momentan kann keine Verbindung hergestellt werden. Bitte versuchen Sie es später erneut."
+   },
+   "1680818623013843452": {
+      "message": "Lucidchart"
+   },
+   "1683762293389974494": {
+      "message": "Löschen"
+   },
+   "1694896269813520248": {
+      "message": "Zeichnung hinzufügen"
+   },
+   "1697160643589236962": {
+      "message": "$1​ PB"
+   },
+   "1700455651867499062": {
+      "message": "Google Drive-Verknüpfung"
+   },
+   "1703175513040690135": {
+      "message": "Jeder in $1​"
+   },
+   "1704004075228783011": {
+      "message": "{every,plural, =1{Wird monatlich am letzten Tag des Monats wiederholt}other{Wird alle # Monate am letzten Tag des Monats wiederholt}}"
+   },
+   "1711424025297585662": {
+      "message": "ein|eine|einen|einem|eines|einer|der|die|das|des|dem|den"
+   },
+   "171683163267149669": {
+      "message": "$1​ GB"
+   },
+   "1719906320230837590": {
+      "message": "Google Bildersuche"
+   },
+   "1730171019350750807": {
+      "message": "Schwarz"
+   },
+   "1737240194537729525": {
+      "message": "Wöchentlich"
+   },
+   "1739900012825270238": {
+      "message": "Zurück zum vorherigen Element"
+   },
+   "1740371341228065086": {
+      "message": "Neu laden"
+   },
+   "1745782414562966515": {
+      "message": "Label \"$1​\" mit dem Label \"$2​\" zusammenführen? Alle Notizen mit dem Label \"$1​\" werden mit dem Label \"$2​\" versehen und das Label \"$1​\" wird gelöscht."
+   },
+   "1746512984326924716": {
+      "message": "Diese Aktion kann nicht rückgängig gemacht werden."
+   },
+   "1770899865480106963": {
+      "message": "Android-Geräte"
+   },
+   "1781922622745161264": {
+      "message": "Hier werden hinzugefügte Notizen angezeigt"
+   },
+   "1783719421893050637": {
+      "message": "Abmessungen"
+   },
+   "1790494039990261456": {
+      "message": "Beide speichern"
+   },
+   "1791115075948268631": {
+      "message": "Hilfe zu Tastenkombinationen öffnen"
+   },
+   "179545118447015250": {
+      "message": "Rasteransicht"
+   },
+   "1803966010993357655": {
+      "message": "Andere"
+   },
+   "1808245543551507519": {
+      "message": "Audio"
+   },
+   "1810354345035313773": {
+      "message": "Farben- und Größenauswahl für das Filzstifttool öffnen"
+   },
+   "1829174126565818591": {
+      "message": "Firefox"
+   },
+   "1830157062072535681": {
+      "message": "$1​ wird angezeigt"
+   },
+   "1830980674971538385": {
+      "message": "Hochladen"
+   },
+   "1852745815330163711": {
+      "message": "Google Zeichnungen"
+   },
+   "1857224091554117760": {
+      "message": "Rot"
+   },
+   "1858255237143975969": {
+      "message": "$2​Datenschutzerklärung$1​"
+   },
+   "1870691479127746185": {
+      "message": "Nach-rechts"
+   },
+   "187077078156858455": {
+      "message": "Audionotiz"
+   },
+   "189303170370862360": {
+      "message": "$1​ von $2​ Einträgen"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901215424950227523": {
+      "message": "Label $1​ ist nicht vorhanden"
+   },
+   "1936219394601788126": {
+      "message": "Übergeordnetes Element"
+   },
+   "1938115711058331119": {
+      "message": "Spalte \"Kommentare\" anzeigen"
+   },
+   "195154114623528341": {
+      "message": "Ort hinzufügen"
+   },
+   "1956794332842050061": {
+      "message": "Nächste Seite"
+   },
+   "1963323419655107448": {
+      "message": "Markierte Elemente löschen"
+   },
+   "1965626377712226216": {
+      "message": "iWork Keynote"
+   },
+   "1967536906522187719": {
+      "message": "Beim Laden der Vorschau für dieses Dokument ist ein Problem aufgetreten."
+   },
+   "1969531182936822963": {
+      "message": "Aktion rückgängig gemacht"
+   },
+   "1972885107693687510": {
+      "message": "Infofeld \"Label aufrufen\" wird angezeigt"
+   },
+   "1973454937875679500": {
+      "message": "Labelnamen eingeben"
+   },
+   "1975630610063119352": {
+      "message": "{charsRemaining,plural, =1{Noch # Zeichen}other{Noch # Zeichen}}"
+   },
+   "1980209166254310911": {
+      "message": "Tag"
+   },
+   "1986228872461282439": {
+      "message": "Standard"
+   },
+   "1998476658842502120": {
+      "message": "Drücken Sie C, um eine neue Notiz zu erstellen"
+   },
+   "200488920523496447": {
+      "message": "Element wird vergrößert."
+   },
+   "2039757863628752523": {
+      "message": "Optionen für die Häufigkeit"
+   },
+   "205445381296663832": {
+      "message": "Fehler beim Upload."
+   },
+   "205876860571942679": {
+      "message": "Google My Maps"
+   },
+   "2059084517358086391": {
+      "message": "Suchleiste schließen"
+   },
+   "2061440050632248160": {
+      "message": "Archivieren"
+   },
+   "2068023589621557589": {
+      "message": "TrueType-Font"
+   },
+   "2072502213578290051": {
+      "message": "Sie benötigen eine Notiz nicht mehr? Dann können Sie sie über die entsprechende Schaltfläche archivieren."
+   },
+   "2073322475696388995": {
+      "message": "Vorspulen"
+   },
+   "2074454463201225704": {
+      "message": "Zoom zurücksetzen"
+   },
+   "2096559615401306102": {
+      "message": "Dateien können nicht aus $1​ verschoben werden"
+   },
+   "2107379241532042955": {
+      "message": "Speicherort"
+   },
+   "2109979457438465538": {
+      "message": "Menü zur Labelauswahl geöffnet"
+   },
+   "2113092209746357267": {
+      "message": "Google Chrome"
+   },
+   "2118635459760443566": {
+      "message": "Nächste"
+   },
+   "2119255452378336327": {
+      "message": "Eintrag in Aufzählungsliste als \"$1​\" wiederhergestellt"
+   },
+   "212796670323571824": {
+      "message": "Ok"
+   },
+   "2142420359113070963": {
+      "message": "Stacktrace (nur für interne Netzwerknutzer sichtbar):"
+   },
+   "214517458278879973": {
+      "message": "Als $1​ anmelden"
+   },
+   "2154372123324862271": {
+      "message": "Schrägstrich"
+   },
+   "2159130950882492111": {
+      "message": "Abbrechen"
+   },
+   "2166966123760559393": {
+      "message": "Neues Label erstellen"
+   },
+   "2181197458532159304": {
+      "message": "{numberOfNotes,plural, =1{Notiz in den Papierkorb verschoben}other{# Notizen in den Papierkorb verschoben}}"
+   },
+   "2184278444368405837": {
+      "message": "$1​ Elemente"
+   },
+   "2189621188983913867": {
+      "message": "Weitere Apps verknüpfen"
+   },
+   "2190049738646901760": {
+      "message": "{count,plural, =1{Notiz löschen?}other{Notizen löschen?}}"
+   },
+   "2195440644060728966": {
+      "message": "{NUM_ITEMS,plural, =1{Sie verschieben einen Ordner, der sich in 1 Ordner befindet.}other{Sie verschieben Ordner, die sich in 1 Ordner befinden.}}"
+   },
+   "220168959069469607": {
+      "message": "Weitere Aktionen"
+   },
+   "2203926649090909861": {
+      "message": "Listeneintrag in Index $1​ verschoben"
+   },
+   "2215890921415017560": {
+      "message": "Vollbildmodus"
+   },
+   "2216904725760458480": {
+      "message": "Täglich"
+   },
+   "221715292685577880": {
+      "message": "Ja"
+   },
+   "2226562046914098941": {
+      "message": "Diese Datei ist zu groß für eine Vorschau"
+   },
+   "2226937423434054727": {
+      "message": "Ausgewählt: $1​, $2​ bis $3​, $4​"
+   },
+   "223198388381606871": {
+      "message": "Lavendel"
+   },
+   "2254586145235168886": {
+      "message": "Genehmigungsbereich wurde minimiert."
+   },
+   "2264311811697505466": {
+      "message": "Aktualisieren"
+   },
+   "2265238034451062417": {
+      "message": "{count,plural, =1{+ # weiteres abgeschlossenes Element}other{+ # weitere abgeschlossene Elemente}}"
+   },
+   "2270469222412517777": {
+      "message": "Kein Text erkannt"
+   },
+   "2270633624888102832": {
+      "message": "Notiz loslösen"
+   },
+   "2280650195464600721": {
+      "message": "Navigation"
+   },
+   "2282423663539387332": {
+      "message": "Anstehend"
+   },
+   "2285069188138705005": {
+      "message": "Verbundene Apps"
+   },
+   "2286685488296851497": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Sie verschieben 1 Element aus dem freigegebenen Ordner \"{SHARED_FOLDER_NAME}\". Andere Nutzer haben dann keinen Zugriff mehr auf das Element.}other{Sie verschieben {NUM_ITEMS_2} Elemente aus dem freigegebenen Ordner \"{SHARED_FOLDER_NAME}\". Andere Nutzer haben dann keinen Zugriff mehr auf sie.}}"
+   },
+   "228741435562395266": {
+      "message": "Drucken noch nicht möglich"
+   },
+   "2289534534793293486": {
+      "message": "Wieder aktivieren"
+   },
+   "2289812403593835836": {
+      "message": "iWork Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Lautstärke erhöhen"
+   },
+   "2299671629154778581": {
+      "message": "Notizen losgelöst und archiviert"
+   },
+   "2308018963132768704": {
+      "message": "Größe 4"
+   },
+   "2310145944356900158": {
+      "message": "Erledigt"
+   },
+   "2311880726221661199": {
+      "message": "Bild mit höherer Auflösung wird geladen."
+   },
+   "2323249770683736002": {
+      "message": "Neues Label erstellen"
+   },
+   "2324955914430674498": {
+      "message": "Keine Suchergebnisse für \"$1​\""
+   },
+   "2346361265476305332": {
+      "message": "Der Eigentümer dieser Audiodatei lässt nicht zu, dass sie heruntergeladen wird."
+   },
+   "2357623745116912085": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Mitglieder von \"{TEAM_DRIVE_NAME}\" haben keinen Zugriff mehr, wenn das Element nicht für sie freigegeben wird.}other{Mitglieder von \"{TEAM_DRIVE_NAME}\" haben keinen Zugriff mehr, wenn diese Elemente nicht für sie freigegeben werden.}}"
+   },
+   "2359614137862708172": {
+      "message": "Umschalttaste"
+   },
+   "2364374826543847335": {
+      "message": "Quelle entfernen"
+   },
+   "236689092839978781": {
+      "message": "Einmalig"
+   },
+   "2370656573843123707": {
+      "message": "eckige Klammer rechts"
+   },
+   "2373760032138505521": {
+      "message": "Dieses Label ist bereits vorhanden"
+   },
+   "2386536768112358461": {
+      "message": "Bild-ab"
+   },
+   "2396804279177914769": {
+      "message": "Inhaberschaft auf die Teamablage übertragen?"
+   },
+   "2402010336938670264": {
+      "message": "Zeichnen Sie etwas mit dem Finger oder schreiben Sie mit einem Eingabestift eine Notiz"
+   },
+   "2405795704816921421": {
+      "message": "Datei \"$1​\""
+   },
+   "2408383448126741628": {
+      "message": "Dauer"
+   },
+   "2408933271548524782": {
+      "message": "Gesperrt"
+   },
+   "2423364695613735749": {
+      "message": "Drücken Sie L, um eine neue Liste zu erstellen"
+   },
+   "2423877407428530040": {
+      "message": "Datei enthält zu viele Diagramme."
+   },
+   "2433429041384246549": {
+      "message": "Stummschalten"
+   },
+   "2438741853303074449": {
+      "message": "Malen"
+   },
+   "2444198666025646119": {
+      "message": "Violett"
+   },
+   "2452145367257933677": {
+      "message": "Rückgängig machen"
+   },
+   "2452522051596946166": {
+      "message": "Hoppla! Beim Laden der Vorschau für \"$1​\" ist ein Problem aufgetreten. Erneut versuchen."
+   },
+   "2454642351139428112": {
+      "message": "Rückgängig"
+   },
+   "246828342952819465": {
+      "message": "Gedanken festhalten –$1​egal auf welchem Gerät"
+   },
+   "2469046390122693414": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}other{Sie verschieben {NUM_ITEMS_2} Elemente aus geteilten Ablagen und freigegebenen Ordnern. Andere Nutzer haben dann keinen Zugriff mehr darauf.}}"
+   },
+   "2478862372619762755": {
+      "message": "Markieren Sie den Bereich, den Sie kommentieren möchten"
+   },
+   "2483363439634684283": {
+      "message": "Größe 20"
+   },
+   "2494928104701250542": {
+      "message": "Pinnen Sie Notizen an und legen Sie Erinnerungen fest, damit Sie immer den Überblick über die wichtigen Dinge haben."
+   },
+   "2504232652631703202": {
+      "message": "Verbunden"
+   },
+   "2509141182388535183": {
+      "message": "Ansehen"
+   },
+   "251025074207413762": {
+      "message": "Beschreibung hinzufügen"
+   },
+   "2525633490863427854": {
+      "message": "Wiederholen"
+   },
+   "2527534830196374788": {
+      "message": "Strg"
+   },
+   "2532280782491328445": {
+      "message": "Rückwärts weitersuchen"
+   },
+   "2542788471536661524": {
+      "message": "Bilder hier ablegen"
+   },
+   "2562881166530755046": {
+      "message": "Zeichnungen"
+   },
+   "257317112834806705": {
+      "message": "Zwischen Listen-und Rasteransicht umschalten"
+   },
+   "2579261044590673579": {
+      "message": "Meine Ablage"
+   },
+   "2579679351920691492": {
+      "message": "Zurückspulen"
+   },
+   "2584557103820423944": {
+      "message": "Listeneintrag einrücken/Einzug entfernen"
+   },
+   "2592236094918360632": {
+      "message": "Die Datei kann nicht verschoben werden, weil der Dateieigentümer kein Mitglied der geteilten Ablage ist."
+   },
+   "2600731575260427177": {
+      "message": "Datei existiert nicht oder wurde gelöscht. Versuchen Sie, die Datei erneut hochzuladen."
+   },
+   "2601304136110057215": {
+      "message": "Neue Zeichnung"
+   },
+   "2604527707881848686": {
+      "message": "Der Einzug für das Element kann nicht weiter verkleinert werden."
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2623861453769098676": {
+      "message": "Beim Laden der Vorschau für dieses Dokument ist ein Problem aufgetreten."
+   },
+   "2626653026098396543": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Durch Verschieben wird dieses Element für alle Nutzer freigegeben, die den freigegebenen Ordner \"{SHARED_FOLDER_NAME}\" sehen können.}other{Durch Verschieben werden diese Elemente für alle Nutzer freigegeben, die den freigegebenen Ordner \"{SHARED_FOLDER_NAME}\" sehen können.}}"
+   },
+   "2632263751512428257": {
+      "message": "Jährlich"
+   },
+   "2632538140519286364": {
+      "message": "Notizen im Papierkorb werden nach sieben Tagen gelöscht."
+   },
+   "2645469029410848421": {
+      "message": "{noteCount,plural, =1{Label zu Notiz hinzufügen}other{Label zu Notizen hinzufügen}}"
+   },
+   "2661850177130037208": {
+      "message": "Element öffnen"
+   },
+   "2673781847036352269": {
+      "message": "Inaktive Kommentare ausblenden"
+   },
+   "2680303811435018716": {
+      "message": "Die maximale Anzahl von Einträgen wurde überschritten"
+   },
+   "2681830832355823748": {
+      "message": "In allen Tastenkombinationen suchen"
+   },
+   "268402507078609011": {
+      "message": "{imagesAdded,plural, =1{Bild hinzugefügt}other{# Bilder hinzugefügt}}"
+   },
+   "269301203471243703": {
+      "message": "Verknüpfung hinzufügen"
+   },
+   "2713989182797848963": {
+      "message": "Zeichnungen und handgeschriebene Notizen festhalten"
+   },
+   "2715199780155065699": {
+      "message": "Datei enthält zu viele Formen, Textfelder oder Zeichnungen."
+   },
+   "2716433087531258659": {
+      "message": "Bild-auf"
+   },
+   "2719125961689709460": {
+      "message": "Notiz"
+   },
+   "2725185337656029651": {
+      "message": "Bilder oder Audioclips hinzufügen"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2757876083706839152": {
+      "message": "Zeichnung wurde wegen der Größenbeschränkung dupliziert"
+   },
+   "2758125083752925237": {
+      "message": "(Eigentümer)"
+   },
+   "2760106082595028595": {
+      "message": "Notiz ist zu lang."
+   },
+   "2761695221066052931": {
+      "message": "Infofeld \"Link öffnen\" wird angezeigt"
+   },
+   "2762925619340374825": {
+      "message": "Nach URL"
+   },
+   "277430914014962533": {
+      "message": "Hoppla! Beim Laden der Vorschau für \"$1​\" ist ein Problem aufgetreten."
+   },
+   "2777453609143551768": {
+      "message": "Lautstärkeregler"
+   },
+   "2793841261389879255": {
+      "message": "Vorherige Seite"
+   },
+   "2794676336056877832": {
+      "message": "{every,plural, =1{Wird immer am gleichen Tag des Monats wiederholt}other{Wird alle # Monate am gleichen Tag des Monats wiederholt}}"
+   },
+   "2803553109654833664": {
+      "message": "Rosa"
+   },
+   "2814354342017225342": {
+      "message": "Rich-Link-Vorschauen anzeigen"
+   },
+   "2818020101821669029": {
+      "message": "Erstellt"
+   },
+   "2820045170951016567": {
+      "message": "Erinnerungen"
+   },
+   "2823533464825550362": {
+      "message": "Tastenkombinationen für Dokumente"
+   },
+   "2827039933590757722": {
+      "message": "Windows Shortcut"
+   },
+   "2828060233316503200": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} Element wurde aus dem Ordner \"{XXX_1}\" in den Ordner \"{XXX_2}\" verschoben.}other{{NUM_ITEMS_2} Elemente wurden aus dem Ordner \"{XXX_3}\" in den Ordner \"{XXX_4}\" verschoben.}}"
+   },
+   "2828258538208588139": {
+      "message": "{shortcutCount,plural, =1{Sie haben 1 Verknüpfung hinzugefügt}other{Sie haben # Verknüpfungen hinzugefügt}}"
+   },
+   "2829226075651806940": {
+      "message": "Heranzoomen"
+   },
+   "2842462703735289745": {
+      "message": "Jeder, der den freigegebenen Ordner \"$1​\" sehen kann, erhält Zugriff."
+   },
+   "2853036885874864031": {
+      "message": "Die Inhaberschaft wird an $1​ übertragen."
+   },
+   "2854717396594966319": {
+      "message": "OpenOffice Writer"
+   },
+   "2868845399811178993": {
+      "message": "Nur der Eigentümer von \"$1​\" kann Verknüpfungen löschen, die diesem Ordner hinzugefügt wurden."
+   },
+   "2873089307546162154": {
+      "message": "Ok"
+   },
+   "2877285560485318801": {
+      "message": "Pausieren"
+   },
+   "2879276552944958066": {
+      "message": "Zurück zum Ordner \"$1​\""
+   },
+   "2886313667612471214": {
+      "message": "Aktualisierung nötig. Dies kann einige Minuten dauern."
+   },
+   "2893055432094515558": {
+      "message": "Kästchen angezeigt"
+   },
+   "289798573180023043": {
+      "message": "Ok"
+   },
+   "2901360496423912565": {
+      "message": "Melden"
+   },
+   "2908917161758545146": {
+      "message": "{count,plural, =1{Notiz losgelöst und archiviert}other{# Notizen losgelöst und archiviert}}"
+   },
+   "2930974997943171554": {
+      "message": "Dunkles Design deaktiviert"
+   },
+   "2935193106137642160": {
+      "message": "Zoomen nicht möglich"
+   },
+   "295331174171409695": {
+      "message": "Beim Aktualisieren der Downloadberechtigung von \"$1​\" ist ein Problem aufgetreten."
+   },
+   "2960516445247616550": {
+      "message": "Drucken nicht möglich"
+   },
+   "296391753033307868": {
+      "message": "Label \"$1​\" wurde erstellt und der Notiz hinzugefügt."
+   },
+   "2971623719720688041": {
+      "message": "Aktion rückgängig gemacht"
+   },
+   "2973306402585941108": {
+      "message": "Morgens"
+   },
+   "2983318659047499045": {
+      "message": "Erinnerungen"
+   },
+   "298817883481775869": {
+      "message": "Wird geladen..."
+   },
+   "2990497076082409431": {
+      "message": "\"$1​\" wurde in den Ordner \"$2​\" verschoben."
+   },
+   "2993901764282547916": {
+      "message": "App Maker"
+   },
+   "3005058076425755361": {
+      "message": "Rücktaste"
+   },
+   "3018905429279095639": {
+      "message": "{NUM_ITEMS,plural, =1{Sie sind nicht berechtigt, diesen Ordner aus seinen aktuellen Ordnern zu verschieben. Fügen Sie den Ordner stattdessen dem Ordner {START_SPAN_1}{NAME}{END_SPAN} hinzu.}other{Sie sind nicht berechtigt, diese Ordner aus ihren aktuellen Ordnern zu verschieben. Fügen Sie die Ordner stattdessen dem Ordner {START_SPAN_2}{NAME}{END_SPAN} hinzu.}}"
+   },
+   "3038603165081234302": {
+      "message": "Elemente werden zu $2​Meine Ablage$1​ hinzugefügt…"
+   },
+   "3043961722025425136": {
+      "message": "Beschreibung"
+   },
+   "304438440663479110": {
+      "message": "Kompatible Tastenkombination für Tabellen"
+   },
+   "306516303501625305": {
+      "message": "Fehler bei der Authentifizierung"
+   },
+   "3074915509081765994": {
+      "message": "iPhone und iPad"
+   },
+   "3091440425606975088": {
+      "message": "Unbenannte Liste"
+   },
+   "3108098439469164127": {
+      "message": "Neue Zeichnung geöffnet"
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​ Uhr"
+   },
+   "3150651996344750990": {
+      "message": "{count,plural, =1{Notiz wieder aktiviert}other{# Notizen wieder aktiviert}}"
+   },
+   "3167198321908629554": {
+      "message": "Ihre Notizen werden gerade aktualisiert und neu geladen…"
+   },
+   "3176246635438298155": {
+      "message": "Entf"
+   },
+   "3187117482772485385": {
+      "message": "Miniaturansicht wird erstellt..."
+   },
+   "3189854932778515441": {
+      "message": "Notiz im Archiv"
+   },
+   "3190546672187601036": {
+      "message": "Nachts"
+   },
+   "3195812604657128345": {
+      "message": "Drive-Ordner als Extraktionsziel auswählen"
+   },
+   "32059145043728507": {
+      "message": "{numberOfNotes,plural, =1{Notiz wiederhergestellt}other{# Notizen wiederhergestellt}}"
+   },
+   "3207650089232728475": {
+      "message": "Labels ändern"
+   },
+   "3211163842850942567": {
+      "message": "Heranzoomen"
+   },
+   "3217354672216773127": {
+      "message": "Gesendet: $1​"
+   },
+   "3220641589840600333": {
+      "message": "Zur Ansicht \"$1​\" gewechselt"
+   },
+   "3241696131593027453": {
+      "message": "Notiz auswählen"
+   },
+   "3243075164136265612": {
+      "message": "Genehmigungsbereich wurde maximiert."
+   },
+   "3249966726137025950": {
+      "message": "Familiengruppe des Mitbearbeiters"
+   },
+   "3250489229749307913": {
+      "message": "EPUB-Datei (Electronic Publication)"
+   },
+   "3258100527833044153": {
+      "message": "Leere Zeichnung verworfen"
+   },
+   "3261131345401321392": {
+      "message": "Darf kommentieren"
+   },
+   "3266448715145955862": {
+      "message": "Notizen wieder aktiviert und angepinnt"
+   },
+   "3272496516667407797": {
+      "message": "Beim Laden der Details ist ein Problem aufgetreten."
+   },
+   "3278046126264096288": {
+      "message": "Woche"
+   },
+   "3281684668260174833": {
+      "message": "{numberOfNotes,plural, =1{Notiz losgelöst und in den Papierkorb verschoben}other{# Notizen losgelöst und in den Papierkorb verschoben}}"
+   },
+   "3285255128259782773": {
+      "message": "Lokaler Datenträger"
+   },
+   "3285552194638444776": {
+      "message": "Sie können Überarbeitungen für $1​-Dateien jetzt mit $2​ bearbeiten, freigeben und verwalten"
+   },
+   "3288498486633948368": {
+      "message": "\"$1​\" wurde zu Google Drive hinzugefügt."
+   },
+   "330603631583186798": {
+      "message": "Microsoft Word"
+   },
+   "3308935528045767909": {
+      "message": "Neue Notiz mit Zeichnung"
+   },
+   "3312545971976531405": {
+      "message": "Nachricht"
+   },
+   "3313557905033219672": {
+      "message": "{numNotes,plural, =1{1 wieder aktivierte Notiz wurde erstellt}other{# wieder aktivierte Notizen wurden erstellt}}"
+   },
+   "3325094738421414114": {
+      "message": "Drücken Sie X, um eine Notiz der Reihe der ausgewählten Notizen hinzuzufügen oder daraus zu entfernen"
+   },
+   "3345567742278474807": {
+      "message": "Diese Notiz wurde als unangemessen gemeldet und kann nicht geteilt werden."
+   },
+   "3348057264663626000": {
+      "message": "Auswahl nach oben verschoben."
+   },
+   "3362903141674317449": {
+      "message": "Mitbearbeiter"
+   },
+   "3371033609268806242": {
+      "message": "Label $1​ wurde gelöscht."
+   },
+   "3378875258397512442": {
+      "message": "Sie können in Notizen Erinnerungen für Orte und Zeiten festlegen, Sprachnotizen aufnehmen und sowohl online als auch offline arbeiten."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Öffnen"
+   },
+   "3385831848537487538": {
+      "message": "Reisen"
+   },
+   "3409483962000136213": {
+      "message": "Wiedergeben/anhalten"
+   },
+   "3418677553313974490": {
+      "message": "Papierkorb"
+   },
+   "3418767079436101103": {
+      "message": "Beim Laden der Seite ist ein Problem aufgetreten."
+   },
+   "3419821606494999471": {
+      "message": "Benachrichtigungen zu Kommentaren verwalten"
+   },
+   "3437227878928998987": {
+      "message": "Liste erstellen"
+   },
+   "3447704623213039325": {
+      "message": "Einkaufslisteneintrag"
+   },
+   "3448234415275521882": {
+      "message": "Allgemeine Informationen"
+   },
+   "3449090379302140902": {
+      "message": "Fotos"
+   },
+   "3451851833460018584": {
+      "message": "{NUM_COMMENTS,plural, =0{Keine Kommentare}=1{1 Kommentar}other{# Kommentare}}"
+   },
+   "3455405209271884570": {
+      "message": "Extrahieren"
+   },
+   "345718983715470367": {
+      "message": "Quell-URL"
+   },
+   "3462556632501534753": {
+      "message": "$2​Open Source-Lizenzen$1​"
+   },
+   "3468441711253011521": {
+      "message": "Google Tabellen"
+   },
+   "3473620774713000513": {
+      "message": "Geklärt"
+   },
+   "3478630283627055305": {
+      "message": "Drücken Sie Esc, um die Bearbeitung einer Notiz zu beenden"
+   },
+   "3485469306694683931": {
+      "message": "In Ihrem Drive-Konto extrahieren"
+   },
+   "3487924397596265480": {
+      "message": "Ausgewählt: $1​."
+   },
+   "3493932452507671194": {
+      "message": "Drücken Sie $1​ + schließende eckige Klammer zum Einrücken und $1​ + öffnende eckige Klammer zum Entfernen des Einzugs"
+   },
+   "3496410038494993160": {
+      "message": "Beliebte Tastenkombinationen"
+   },
+   "3518073392823563581": {
+      "message": "Tastenkombinationen"
+   },
+   "3527565741177531691": {
+      "message": "Verknüpfung wird in $2​$3​$1​ hinzugefügt…"
+   },
+   "3528739824697875943": {
+      "message": "Listeneintrag"
+   },
+   "3539889527558048258": {
+      "message": "Google Bildersuche"
+   },
+   "3544847661620838201": {
+      "message": "Probieren Sie es aus. Sie können die Notiz jederzeit über die Suche wiederfinden."
+   },
+   "3549581437554274388": {
+      "message": "Auswahl nach rechts verschoben."
+   },
+   "3551522853788442530": {
+      "message": "Zurück"
+   },
+   "3551608745198442336": {
+      "message": "Zeichnung $1​/$2​"
+   },
+   "3553997866738769437": {
+      "message": "Zeichnung bearbeiten"
+   },
+   "3555297636767750285": {
+      "message": "Grün"
+   },
+   "3561658662634401836": {
+      "message": "Titel"
+   },
+   "3569884090205828853": {
+      "message": "OpenOffice Calc"
+   },
+   "3571391964903695725": {
+      "message": "Wiederholen"
+   },
+   "3571704286086017611": {
+      "message": "Erinnerung gelöscht"
+   },
+   "3574963906259719128": {
+      "message": "Diese Audiodatei kann in Ihrem Browser nicht wiedergegeben werden."
+   },
+   "3580243353280636963": {
+      "message": "Datum und Uhrzeit auswählen"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3595562664731337243": {
+      "message": "Label umbenennen"
+   },
+   "3603931013946597836": {
+      "message": "{NUM_ITEMS,plural, =1{Sie verschieben eine Datei, die sich in {NUM_PARENTS} Ordnern befindet.}other{Sie verschieben Dateien, die sich in {NUM_PARENTS} Ordnern befinden.}}"
+   },
+   "3608521102844050208": {
+      "message": "Erinnerung:"
+   },
+   "3608606849109645545": {
+      "message": "Gib einen neuen Dokumentnamen ein:"
+   },
+   "3609912631958780352": {
+      "message": "Kalligrafietool"
+   },
+   "3611573349633408445": {
+      "message": "Herunterladen"
+   },
+   "3612936866865912552": {
+      "message": "Wird geladen..."
+   },
+   "3617727970098875990": {
+      "message": "In allen Tastenkombinationen suchen"
+   },
+   "362521762755836201": {
+      "message": "Erstellt um $1​"
+   },
+   "3628141779141388914": {
+      "message": "Ordner können noch nicht in geteilte Ablagen verschoben werden."
+   },
+   "3634885664399305142": {
+      "message": "Zeichnung ist nicht verfügbar"
+   },
+   "3642907339426904506": {
+      "message": "Keine Notizen im Papierkorb"
+   },
+   "3651893685901703652": {
+      "message": "…"
+   },
+   "3657386785336906042": {
+      "message": "umgekehrter Schrägstrich"
+   },
+   "3659554681396757189": {
+      "message": "Von mir geöffnet"
+   },
+   "366289214151975122": {
+      "message": "Jeder bei $1​, der über den Link verfügt"
+   },
+   "3663571259791438207": {
+      "message": "Missbrauch melden"
+   },
+   "3664842788764635265": {
+      "message": "Keine"
+   },
+   "3666123569747918021": {
+      "message": "Die Änderungen an diesem Dokument wurden nicht gespeichert. Möchten Sie die Seite verlassen und Ihre Änderungen verwerfen?"
+   },
+   "3678477908297567934": {
+      "message": "Unterstrich"
+   },
+   "3684032082082645570": {
+      "message": "{count,plural, =1{Wählen Sie eine Farbe aus, um sie auf die Notiz anzuwenden.}other{Wählen Sie eine Farbe aus, um sie auf die Notizen anzuwenden.}}"
+   },
+   "3690515530505404607": {
+      "message": "Beim Abspielen des Videos ist ein Problem aufgetreten."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Keine Elemente}=1{1 Element}other{# Elemente}}"
+   },
+   "3703024996011822310": {
+      "message": "Willkommen bei Google Notizen"
+   },
+   "3712215972250917265": {
+      "message": "Kommentare"
+   },
+   "3714239567487848851": {
+      "message": "Dunkles Design aktiviert"
+   },
+   "3721649886572275931": {
+      "message": "Größe 8"
+   },
+   "372633345629975481": {
+      "message": "Notizen angepinnt"
+   },
+   "372823375470132483": {
+      "message": "Auswahl der in den Papierkorb verschobenen Notiz aufheben"
+   },
+   "3734444903221631913": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}other{Sie verschieben {NUM_ITEMS_2} Elemente aus Teamablagen und freigegebenen Ordnern. Andere Nutzer haben dann keinen Zugriff mehr auf sie.}}"
+   },
+   "3751183760611784323": {
+      "message": "Größe des Elements wird an die Größe des Bildschirms angepasst."
+   },
+   "3768927257183755959": {
+      "message": "Speichern"
+   },
+   "3787959261309150430": {
+      "message": "Wenn Sie Linien zeichnen möchten, tippen Sie auf das Stiftsymbol"
+   },
+   "3793086499925031123": {
+      "message": "Suchleiste öffnen/rückwärts weitersuchen"
+   },
+   "3796511349428373407": {
+      "message": "Datumsoptionen"
+   },
+   "37992665410817181": {
+      "message": "Erneut geöffnet"
+   },
+   "3802992573289114390": {
+      "message": "Beschreibung für \"$1​\" aktualisiert."
+   },
+   "381100310424863459": {
+      "message": "Adobe Illustrator"
+   },
+   "3827179818223863356": {
+      "message": "Hellgrün"
+   },
+   "383396092993661575": {
+      "message": "In geteilte Ablage verschieben?"
+   },
+   "3845302429676793049": {
+      "message": "Beim Aktualisieren der Beschreibung von \"$1​\" ist ein Problem aufgetreten."
+   },
+   "3852386690131857488": {
+      "message": "Freigabe aktivieren"
+   },
+   "3856687081748327279": {
+      "message": "Wenn Sie Dateien aus einer geteilten Ablage verschieben, hat das Auswirkungen auf die Zugriffs- und Eigentumsrechte."
+   },
+   "3856960241878617076": {
+      "message": "Kommentare werden geladen, bitte warten"
+   },
+   "3858324058837632381": {
+      "message": "Beim Abspielen der Audiodatei ist ein Problem aufgetreten."
+   },
+   "3869166581651870488": {
+      "message": "Bearbeitung beenden"
+   },
+   "3874597373619381607": {
+      "message": "Geklärte Kommentare werden angezeigt"
+   },
+   "3877974536163446728": {
+      "message": "Ausgewählt: $1​, $2​"
+   },
+   "3880648579756747781": {
+      "message": "Möglicherweise verlieren Sie Berechtigungen, wenn die Zahl der Dateien in diesem Ordner den zulässigen Maximalwert für geteilte Ablagen überschreitet. $2​Weitere Informationen$1​"
+   },
+   "3888733084985311515": {
+      "message": "Familiengruppe verfügbar."
+   },
+   "3897281533382850749": {
+      "message": "Stummschaltung aufheben"
+   },
+   "3907816292084809686": {
+      "message": "Aktion wiederholt"
+   },
+   "3909380459614154542": {
+      "message": "Link aufrufen"
+   },
+   "3920849627538402857": {
+      "message": "Herunterladen"
+   },
+   "3952341864324097024": {
+      "message": "Suchergebnis löschen"
+   },
+   "3955575370175991097": {
+      "message": "Zur Ansicht des Labels \"$1​\" gewechselt"
+   },
+   "395680759377627007": {
+      "message": "\"$3​$2​$1​\" erstellen"
+   },
+   "397098723873502323": {
+      "message": "Fertig"
+   },
+   "3974822583047850066": {
+      "message": "Abbrechen"
+   },
+   "3977699855735576796": {
+      "message": "Beim Laden weiterer Seiten ist ein Problem aufgetreten."
+   },
+   "3981269900634596036": {
+      "message": "{numberOfNotes,plural, =1{Notiz löschen}other{Notizen löschen}}"
+   },
+   "3988418762222300024": {
+      "message": "Punkt"
+   },
+   "3989925953740167133": {
+      "message": "Google Notizen benötigt die Erlaubnis, Ihren Standort verwenden zu dürfen, um die Ortsvorschläge für Standorterinnerungen zu verbessern."
+   },
+   "4005725939358875643": {
+      "message": "Vorgang wurde rückgängig gemacht."
+   },
+   "4020393055976236243": {
+      "message": "Die Inhaberschaft wird von \"$3​\" in $2​ auf $1​ übertragen."
+   },
+   "4023299615382814997": {
+      "message": "Notizen im Papierkorb können nicht bearbeitet werden."
+   },
+   "4034637528003033305": {
+      "message": "Möglicherweise verlieren Sie Berechtigungen, wenn die Zahl der Dateien in diesem Ordner den zulässigen Maximalwert für Teamablagen überschreitet. $2​Weitere Informationen$1​"
+   },
+   "4036523543547629779": {
+      "message": "Bilder"
+   },
+   "4044915502415235332": {
+      "message": "Angepinnte Notiz auswählen"
+   },
+   "4052960606031736645": {
+      "message": "{NUM_ITEMS,plural, =1{Sie verschieben einen Ordner, der sich in {NUM_PARENTS} Ordnern befindet.}other{Sie verschieben Ordner, die sich in {NUM_PARENTS} Ordnern befinden.}}"
+   },
+   "4061102590585232601": {
+      "message": "$1​ entfernt"
+   },
+   "4064820890482961434": {
+      "message": "Kästchen einblenden"
+   },
+   "4072353527895477784": {
+      "message": "Personen"
+   },
+   "407982090576503781": {
+      "message": "In \"Meine Ablage\" verschieben?"
+   },
+   "4081524305222967804": {
+      "message": "Blaugrün"
+   },
+   "4085493778209859942": {
+      "message": "Trotzdem abspielen"
+   },
+   "4097921967754832323": {
+      "message": "Bindestrich"
+   },
+   "411137507354526852": {
+      "message": "Monat"
+   },
+   "4111452225725405610": {
+      "message": "Markierung für \"$1​\" entfernt"
+   },
+   "4117632433281998979": {
+      "message": "Monatlich"
+   },
+   "4122858386674768321": {
+      "message": "Aus $3​$2​$1​ verschieben"
+   },
+   "4145164831312518309": {
+      "message": "Drücken Sie @, um Feedback zu senden"
+   },
+   "4155905925766040098": {
+      "message": "Keine Vorschau verfügbar"
+   },
+   "4157091150222353401": {
+      "message": "Kommentare werden in DOCX-, PPTX- und XLSX-Dateien gespeichert und können mit Microsoft Office angezeigt werden"
+   },
+   "4167720915844687374": {
+      "message": "Wenn Sie eine Form löschen möchten, tippen Sie auf das Radierersymbol."
+   },
+   "4174786386751618325": {
+      "message": "Fotonotiz"
+   },
+   "4182427157920112948": {
+      "message": "Tilde"
+   },
+   "4186465168527990324": {
+      "message": "Die Datei \"$1​\" wurde in \"$2​\" extrahiert."
+   },
+   "4194905394104253796": {
+      "message": "Konfigurieren"
+   },
+   "4204345954541079744": {
+      "message": "Noch keine Notizen mit diesem Label vorhanden"
+   },
+   "4206529410529166231": {
+      "message": "{NUM_ITEMS,plural, =1{Sie verschieben ein Element, das sich in {NUM_PARENTS} Ordnern befindet.}other{Sie verschieben Elemente, die sich in {NUM_PARENTS} Ordnern befinden.}}"
+   },
+   "4209658291185545281": {
+      "message": "Aktion konnte nicht rückgängig gemacht werden."
+   },
+   "4211182812451835307": {
+      "message": "Darf bearbeiten"
+   },
+   "4214190403999219403": {
+      "message": "Zoomen"
+   },
+   "4216242742234357612": {
+      "message": "Alle Notizen auswählen"
+   },
+   "4216628828665009319": {
+      "message": "Avocadogrün"
+   },
+   "4227185265023581008": {
+      "message": "Google Kalender"
+   },
+   "4228870062013120023": {
+      "message": "Zur nächsten/vorherigen Notiz wechseln"
+   },
+   "4230101516585408149": {
+      "message": "Neue Notiz verfassen"
+   },
+   "4236714142889891754": {
+      "message": "In die andere geteilte Ablage verschieben?"
+   },
+   "4239183034054216803": {
+      "message": "Braun"
+   },
+   "4267845092591696061": {
+      "message": "Markierung für ausgewählte Elemente setzen/entfernen"
+   },
+   "426927371216979233": {
+      "message": "Horizontale Linien"
+   },
+   "4293996570221590891": {
+      "message": "Weiß"
+   },
+   "4296310694082659873": {
+      "message": "Radierertool"
+   },
+   "4299690446455033653": {
+      "message": "Microsoft Works"
+   },
+   "4310202846681054741": {
+      "message": "{numberOfPreviews,plural, =1{Linkvorschau wurde entfernt}other{# Linkvorschauen wurden entfernt}}"
+   },
+   "4318861667254318892": {
+      "message": "Google Video"
+   },
+   "4320831042030778": {
+      "message": "Abbrechen"
+   },
+   "4320942249997687388": {
+      "message": "Ende"
+   },
+   "4321382260116636620": {
+      "message": "Notiz auswählen"
+   },
+   "4332252081504252077": {
+      "message": "Hoppla!"
+   },
+   "433537592689162064": {
+      "message": "Weitere Informationen"
+   },
+   "4343825450663233452": {
+      "message": "Darf ansehen"
+   },
+   "4343836986248234462": {
+      "message": "Listeneintrag"
+   },
+   "4343848624651344174": {
+      "message": "Nachmittags"
+   },
+   "435214284915110062": {
+      "message": "Suchleiste öffnen"
+   },
+   "435444400175963053": {
+      "message": "$1​ Elemente wurden in den Ordner \"$2​\" verschoben."
+   },
+   "4356312843186491987": {
+      "message": "Verschieben"
+   },
+   "4357246389840951053": {
+      "message": "Einige Elemente mit angehängten Skripts können noch nicht in geteilte Ablagen verschoben werden."
+   },
+   "4391715930031906467": {
+      "message": "Weitersuchen"
+   },
+   "4397482594800054550": {
+      "message": "Beim Umbenennen von \"$1​\" ist ein Problem aufgetreten."
+   },
+   "4412626362660239325": {
+      "message": "In Google Drive organisieren"
+   },
+   "4422985761498356257": {
+      "message": "Öffnen mit"
+   },
+   "4429542915339609008": {
+      "message": "Mit dieser App können nicht mehrere Dateien gleichzeitig geöffnet werden."
+   },
+   "4439831283519683004": {
+      "message": "Grau"
+   },
+   "4448871104213529122": {
+      "message": "Details ausblenden"
+   },
+   "4457424709416639982": {
+      "message": "Zu \"Meine Ablage\" hinzufügen"
+   },
+   "4486429060311743289": {
+      "message": "Auswahl aufheben"
+   },
+   "4494250072784000771": {
+      "message": "Eingabestift erkannt. \"Durch Berühren schwenken\" ist aktiviert."
+   },
+   "45228242181482134": {
+      "message": "Wiedergeben"
+   },
+   "4533605085334699862": {
+      "message": "Zitate"
+   },
+   "4543077011795639870": {
+      "message": "Einzug für das Element verkleinert."
+   },
+   "4546909961510778468": {
+      "message": "Drive"
+   },
+   "4550209323331625907": {
+      "message": "$2​Weitere Informationen$1​"
+   },
+   "4557086341175267918": {
+      "message": "Teilen ist offline nicht möglich."
+   },
+   "4558568516353053251": {
+      "message": "Betrachter dieser Datei können Kommentare und Vorschläge sehen."
+   },
+   "4564682305303579317": {
+      "message": "Weiter"
+   },
+   "456512308416555173": {
+      "message": "Bücher"
+   },
+   "4566838580250578446": {
+      "message": "{every,plural, =1{Wird jährlich wiederholt}other{Wird alle # Jahre wiederholt}}"
+   },
+   "4583714435275461910": {
+      "message": "Übergeordneter Listeneintrag"
+   },
+   "4586373282767984140": {
+      "message": "Gelb"
+   },
+   "4595551195988564947": {
+      "message": "Google Assistant-Einkaufsliste ändert sich."
+   },
+   "4602655470033495470": {
+      "message": "Ideen, Listen, Zeichnungen, Fotos und Audio – all das können Sie in Google Notizen festhalten."
+   },
+   "4607656353105320648": {
+      "message": "{count,plural, =1{Notiz endgültig löschen?}other{Notizen endgültig löschen?}}"
+   },
+   "4607802784047113873": {
+      "message": "Mitbearbeiter hinzufügen"
+   },
+   "4608848277887462246": {
+      "message": "Weitere Tabellen"
+   },
+   "461126197624379601": {
+      "message": "Hier tippen, um mit anderen über diese Datei zu sprechen"
+   },
+   "4620034373159179678": {
+      "message": "Seite $1​ von $2​"
+   },
+   "4632830890362652221": {
+      "message": "{NUM_ITEMS,plural, =1{Sie verschieben ein Element, das sich in 1 Ordner befindet.}other{Sie verschieben Elemente, die sich in 1 Ordner befinden.}}"
+   },
+   "4642196066412650732": {
+      "message": "Die Freigabe für folgende Nutzer ist nicht möglich. Zum einen hat deren Administrator das Importieren von Inhalten deaktiviert, die von Personen außerhalb ihrer Organisation freigegeben wurden. Zum anderen hat Ihr Administrator die Freigabe für Personen außerhalb Ihrer Organisation deaktiviert."
+   },
+   "4643940860676429496": {
+      "message": "Speichern…"
+   },
+   "4671836579708244357": {
+      "message": "Kontakte"
+   },
+   "4675792829115971960": {
+      "message": "Diese Notiz wird gemeldet und aus Ihrem Konto entfernt."
+   },
+   "4685321580747790677": {
+      "message": "{every,plural, =1{Wird wöchentlich am {days} wiederholt}other{Wird alle # Wochen am {days} wiederholt}}"
+   },
+   "4691283408020124345": {
+      "message": "Listenansicht"
+   },
+   "4697169479015785830": {
+      "message": "Farben- und Größenauswahl für das Kalligrafietool öffnen"
+   },
+   "4697673185436885400": {
+      "message": "Die Tastenkombination $2​ aus $1​ wurde von Google Tabellen überschrieben"
+   },
+   "4698144269846224816": {
+      "message": "Größe 1"
+   },
+   "4699778906119153977": {
+      "message": "Suchen"
+   },
+   "4704493722060638379": {
+      "message": "Drücken Sie die Umschalttaste + N für die vorherige Position und die Umschalttaste + P für die folgende"
+   },
+   "4722167255291887189": {
+      "message": "Größe 2"
+   },
+   "4734349318830134239": {
+      "message": "Ende"
+   },
+   "4738612839683751348": {
+      "message": "Das Element kann nicht weiter eingerückt werden."
+   },
+   "4740100782728373253": {
+      "message": "In Google Drive speichern"
+   },
+   "4748046231232264180": {
+      "message": "Google Formulare"
+   },
+   "4751144871302640150": {
+      "message": "Für mich freigegeben"
+   },
+   "4751202914935960324": {
+      "message": "Diese E-Mail-Adresse ist bereits vorhanden."
+   },
+   "4752655540567953719": {
+      "message": "Position $1​"
+   },
+   "4762625944764691132": {
+      "message": "Hauptmenü"
+   },
+   "47670360985205683": {
+      "message": "\"$1​\" ($2​) überschreitet die maximale Dateigröße, die von Google gescannt werden kann. Diese Datei könnte Ihren Computer beschädigen. Spielen Sie die Datei nur ab, wenn Sie sich der Risiken bewusst sind."
+   },
+   "4767722428137216885": {
+      "message": "Abbrechen"
+   },
+   "477328789314249432": {
+      "message": "In Notizen suchen"
+   },
+   "4775368111547931093": {
+      "message": "Keine Beschreibung"
+   },
+   "4780778609011268862": {
+      "message": "Die Datei kann nicht verschoben werden, weil die geteilte Ablage bereits die maximale Anzahl an Dateien enthält."
+   },
+   "4805047680716507619": {
+      "message": " – verschieben nach:"
+   },
+   "4806763987633034948": {
+      "message": "PKCS7-Signatur"
+   },
+   "4807444103404336088": {
+      "message": "Beim Hinzufügen einer Markierung zu \"$1​\" ist ein Problem aufgetreten."
+   },
+   "4816888965396680834": {
+      "message": "Mit Google $1​ in Echtzeit $2​-Dateien bearbeiten und mit anderen zusammenarbeiten"
+   },
+   "4821130290026382049": {
+      "message": "Beliebte Tastenkombinationen"
+   },
+   "4833214200453019325": {
+      "message": "$1​ von $2​"
+   },
+   "4839460587397079680": {
+      "message": "Videos"
+   },
+   "4840513623749850224": {
+      "message": "Filme"
+   },
+   "4847795993918486929": {
+      "message": "Bildtext konnte nicht erfasst werden. Bitte versuchen Sie es später noch einmal."
+   },
+   "4853788427396558692": {
+      "message": "$1​ MB"
+   },
+   "4858389278403807208": {
+      "message": "Notiz im Papierkorb"
+   },
+   "4864051612562026766": {
+      "message": "{count,plural, =1{1 ausgewählt}other{# ausgewählt}}"
+   },
+   "4878012031550736317": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Nutzer, die kein Mitglied von \"{TEAM_DRIVE_NAME}\" sind, verlieren den Zugriff auf diese Datei.}other{Nutzer, die kein Mitglied von \"{TEAM_DRIVE_NAME}\" sind, verlieren den Zugriff auf diese Dateien.}}"
+   },
+   "490045476479394048": {
+      "message": "Markieren Sie den Text, den Sie kommentieren möchten"
+   },
+   "4906669330059413958": {
+      "message": "Passwort senden"
+   },
+   "4907349694646937491": {
+      "message": "Notiz in Index $1​ verschoben"
+   },
+   "4915450884407029247": {
+      "message": "Label \"$1​\" hinzugefügt"
+   },
+   "4918998818369420588": {
+      "message": "Missbrauch melden"
+   },
+   "4930422592340561418": {
+      "message": "Meine Ablage"
+   },
+   "4930506384627295710": {
+      "message": "Einstellungen"
+   },
+   "4937266179792749481": {
+      "message": "Zuletzt"
+   },
+   "4955094356920130803": {
+      "message": "Bernsteingelb"
+   },
+   "4957674814179289955": {
+      "message": "Zum nächsten/vorherigen Unterpunkt wechseln"
+   },
+   "4963533275503057654": {
+      "message": "Miniaturansicht wird erstellt..."
+   },
+   "4963784280521435720": {
+      "message": "Wird gespeichert..."
+   },
+   "4974059227183970715": {
+      "message": "Sie können auch Labels hinzufügen. Stellen Sie ihnen ein \"#\" voran."
+   },
+   "4974261966265341751": {
+      "message": "Dunkles Design deaktivieren"
+   },
+   "4982284738093713321": {
+      "message": "Organisator"
+   },
+   "4988132901627446385": {
+      "message": "Detailfenster maximiert"
+   },
+   "5000971639019912199": {
+      "message": "$2​Nutzungsbedingungen$1​"
+   },
+   "5006765610090288212": {
+      "message": "Farbe $1​ angewendet"
+   },
+   "5008901799534614532": {
+      "message": "Löschen"
+   },
+   "5009448218905630614": {
+      "message": "Entfernen"
+   },
+   "5011858093760184160": {
+      "message": "Markierung entfernen"
+   },
+   "5013331898336483156": {
+      "message": "In \"Meine Ablage\" in einer neuen Domain verschieben?"
+   },
+   "5023623739220371850": {
+      "message": "Authentifizierung fehlgeschlagen. Änderungen werden bei der Anmeldung synchronisiert."
+   },
+   "5041572047197549869": {
+      "message": "Immer am gleichen Tag des Monats"
+   },
+   "5045725997997672553": {
+      "message": "{weekNumber,plural, =1{Am ersten {day} des Monats}=2{Am zweiten {day} des Monats}=3{Am dritten {day} des Monats}=4{Am vierten {day} des Monats}other{Am letzten {day} des Monats}}"
+   },
+   "5046371569383796818": {
+      "message": "Speichern"
+   },
+   "5052461293250181960": {
+      "message": "Bild-ab"
+   },
+   "5060107422621709815": {
+      "message": "Fehler beim Aktualisieren"
+   },
+   "5075841894330153061": {
+      "message": "Tippen Sie zum Schließen der Zeichnung links oben auf \"Zurück\""
+   },
+   "5078184843381528205": {
+      "message": "Notiz anpinnen"
+   },
+   "5085332075590890665": {
+      "message": "Rückgängig machen"
+   },
+   "5086862627563516607": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Mitglieder von \"{TEAM_DRIVE_NAME}\" haben dann Zugriff auf dieses Element.}other{Mitglieder von \"{TEAM_DRIVE_NAME}\" haben dann Zugriff auf diese Elemente.}}"
+   },
+   "5089697363226053379": {
+      "message": "Verschieben nach"
+   },
+   "5094400861508407603": {
+      "message": "Eintrag aus Aufzählungsliste entfernt"
+   },
+   "5095987896933771566": {
+      "message": "Dokument drucken"
+   },
+   "509815948423424872": {
+      "message": "Navigation"
+   },
+   "5098941979861776792": {
+      "message": "Eingabetaste"
+   },
+   "5121976648047240846": {
+      "message": "Label entfernen"
+   },
+   "5130903421326358933": {
+      "message": "Beim Speichern des Anhangs in Google Drive ist ein Problem aufgetreten."
+   },
+   "5134649253619244584": {
+      "message": "Label löschen"
+   },
+   "5140285776541296873": {
+      "message": "Benutzerdefiniert"
+   },
+   "5140450179685369890": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} Ordner wurde in den Ordner \"{XXX_1}\" verschoben.}other{{NUM_ITEMS_2} Ordner wurden in den Ordner \"{XXX_2}\" verschoben.}}"
+   },
+   "5151247077945318396": {
+      "message": "Bei der Auswahl eines Ordners als Extraktionsziel ist ein Fehler aufgetreten."
+   },
+   "5159511879001144721": {
+      "message": "Kobaltblau"
+   },
+   "5167365673547406876": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Mitglieder von \"{TEAM_DRIVE_NAME}\" haben dann Zugriff.}other{Mitglieder von \"{TEAM_DRIVE_NAME}\" haben dann Zugriff.}}"
+   },
+   "5178674191443894176": {
+      "message": "Labels"
+   },
+   "5178939467831590680": {
+      "message": "Details zur Fehlerbehebung in Viewer ausblenden"
+   },
+   "5180454621500142444": {
+      "message": "Wiederherstellen"
+   },
+   "5180989337128758117": {
+      "message": "Eckige Klammer links"
+   },
+   "5182569285908080938": {
+      "message": "Optionen für das Enddatum"
+   },
+   "5184692850089055965": {
+      "message": "Bildtext erfassen"
+   },
+   "5184785218378634051": {
+      "message": "Größe des Elements ist nicht mehr geändert."
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Bereich für die Tabs \"Details\". Drücken Sie auf Ihrer Tastatur die Pfeiltasten nach links  bzw. nach rechts, um zwischen den Tabs zu wechseln."
+   },
+   "5202835861850747976": {
+      "message": "$2​Weitere Informationen$1​"
+   },
+   "5204391636475413312": {
+      "message": "Speichern"
+   },
+   "5238284741118437734": {
+      "message": "Rückgängig machen"
+   },
+   "5238307666527496111": {
+      "message": "Ok"
+   },
+   "5238371081785912565": {
+      "message": "Mit $1​ öffnen"
+   },
+   "5255388116256536182": {
+      "message": "Mit den Pfeiltasten wählen Sie Zellen aus, die Sie kommentieren möchten. Halten Sie die Umschalttaste gedrückt und verwenden Sie gleichzeitig die Pfeiltasten, um die Auswahl zu erweitern. Zum Erstellen eines Kommentars drücken Sie die Eingabetaste, zum Abbrechen die Esc-Taste."
+   },
+   "5259541708332520733": {
+      "message": "Quelle entfernt"
+   },
+   "5271615049826004958": {
+      "message": "Optionen für die Linkvorschau"
+   },
+   "527438013974545289": {
+      "message": "Jetzt neu: Das dunkle Design"
+   },
+   "5281121179861637423": {
+      "message": "Für den Zugriff auf $1​ ist ein Passwort erforderlich. Bitte geben Sie das Passwort ein."
+   },
+   "5288037028604092288": {
+      "message": "Microsoft XPS"
+   },
+   "5292097099562224381": {
+      "message": "Papierkorb leeren?  Alle Notizen im Papierkorb werden endgültig gelöscht."
+   },
+   "5299648222246616124": {
+      "message": "Gravis"
+   },
+   "5300527252159851865": {
+      "message": "Dateiinhalt entspricht nicht dem erwarteten Dateiformat."
+   },
+   "5310593920481358659": {
+      "message": "Designs"
+   },
+   "5311386381313171872": {
+      "message": "Google Drive"
+   },
+   "5320475549855398784": {
+      "message": "Sobald eine Internetverbindung vorhanden ist, haben Sie Zugriff auf diese Zeichnung."
+   },
+   "5321772883765574323": {
+      "message": "\"$1​\" wurde aus dem Ordner \"$2​\" in den Ordner \"$3​\" verschoben."
+   },
+   "5334959887390704534": {
+      "message": "Dieses Label wird gelöscht und aus allen Ihren Notizen in Google Notizen entfernt. Ihre Notizen werden nicht gelöscht."
+   },
+   "5336801339221383042": {
+      "message": "JavaScript"
+   },
+   "5336924963122494935": {
+      "message": "Dieses auswählen"
+   },
+   "534191528712675978": {
+      "message": "Pause"
+   },
+   "534228323125524312": {
+      "message": "Herauszoomen"
+   },
+   "5353129315502554762": {
+      "message": "Cascading Style Sheets"
+   },
+   "5362121973783326712": {
+      "message": "Kamera"
+   },
+   "5362962746518601227": {
+      "message": "{NUM_ITEMS,plural, =1{Sie verschieben eine Datei, die sich in 1 Ordner befindet.}other{Sie verschieben Dateien, die sich in 1 Ordner befinden.}}"
+   },
+   "5363853533596749934": {
+      "message": "Labelnamen eingeben"
+   },
+   "5366505386236199032": {
+      "message": "YouTube"
+   },
+   "5372160981898991853": {
+      "message": "Microsoft Publisher"
+   },
+   "5392844646168201484": {
+      "message": "Größe 3"
+   },
+   "5394695048211047984": {
+      "message": "Datum hinzufügen"
+   },
+   "5398036630337418486": {
+      "message": "Dokument öffnen"
+   },
+   "5403636185480096151": {
+      "message": "Fernsehen"
+   },
+   "540596856674438371": {
+      "message": "Teilen nicht möglich, Funktion zum Teilen deaktiviert"
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "5413225497191133249": {
+      "message": "Notizen anpinnen oder loslösen"
+   },
+   "5422660126805186552": {
+      "message": "Mit dem dunklen Modus wird das Lesen noch angenehmer. Sie können ihn in den Einstellungen aktivieren und deaktivieren."
+   },
+   "5423742603774911808": {
+      "message": "Liste ist zu lang."
+   },
+   "5435749276779042277": {
+      "message": "+ $1​ WEITERE"
+   },
+   "5447119197363232006": {
+      "message": "In Google Drive anzeigen"
+   },
+   "5455566801812656827": {
+      "message": "WENIGER"
+   },
+   "5465081454525683943": {
+      "message": "Diese Notiz wird nicht mehr mit Ihrem Konto geteilt. Bitten Sie den Eigentümer um eine Zugriffsberechtigung oder wechseln Sie zu einem Konto mit Zugriffsberechtigung."
+   },
+   "5467649767578147801": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Nutzer, die kein Mitglied von \"{TEAM_DRIVE_NAME}\" sind oder sich außerhalb von {DOMAIN_NAME} befinden, verlieren den Zugriff auf diese Datei.}other{Nutzer, die kein Mitglied von \"{TEAM_DRIVE_NAME}\" sind oder sich außerhalb von {DOMAIN_NAME} befinden, verlieren den Zugriff auf diese Dateien.}}"
+   },
+   "546766753072101168": {
+      "message": "Labels"
+   },
+   "5478662967017843220": {
+      "message": "Dunkelblau"
+   },
+   "5480497191725157666": {
+      "message": "Esc"
+   },
+   "5482604275203517054": {
+      "message": "Nach-links"
+   },
+   "5503885447744017882": {
+      "message": "Nach $1​ außerhalb von $2​ verschieben?"
+   },
+   "5506390497558702263": {
+      "message": "{count,plural, =1{Notiz wieder aktiviert und angepinnt}other{# Notizen wieder aktiviert und angepinnt}}"
+   },
+   "5520112019886360037": {
+      "message": "Schließen"
+   },
+   "5534694255293809224": {
+      "message": "Drücken Sie $1​ + Eingabetaste, um die Bearbeitung einer Notiz zu beenden"
+   },
+   "5539958940810433464": {
+      "message": "Notiz in den Papierkorb verschieben"
+   },
+   "5542817571710587822": {
+      "message": "Datei enthält zu viele Bilder."
+   },
+   "5545146751578623220": {
+      "message": "Feststelltaste"
+   },
+   "5555182241047709329": {
+      "message": "Ort auswählen"
+   },
+   "5562491070882550010": {
+      "message": "Nachdem freigegebene Notizen gelöscht wurden, sind sie nicht mehr für Personen sichtbar, für die sie freigegeben wurden."
+   },
+   "556742419793425318": {
+      "message": "Verwerfen"
+   },
+   "5570885401952336951": {
+      "message": "Clientprotokoll"
+   },
+   "5578032872220617725": {
+      "message": "Drücken Sie $1​ + A, um alle Notizen auszuwählen"
+   },
+   "5581834527128285229": {
+      "message": "Beim Hinzufügen von \"$1​\" zu \"Meine Ablage\" ist ein Problem aufgetreten."
+   },
+   "5592884381280360832": {
+      "message": "Ok"
+   },
+   "5598649706113950710": {
+      "message": "Editor"
+   },
+   "5601530442010506564": {
+      "message": "Ok"
+   },
+   "5603830044099155569": {
+      "message": "Drücken Sie J für die vorherige Notiz und K für die folgende"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "5648022012893174586": {
+      "message": "Wenn Sie dicke Linien zeichnen möchten, tippen Sie auf das Filzstiftsymbol"
+   },
+   "5652536812290902558": {
+      "message": "Audiodatei herunterladen"
+   },
+   "5678095606167600931": {
+      "message": "Eintrag in Aufzählungsliste eingefügt"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5687611645532246887": {
+      "message": "Alben"
+   },
+   "5714240424645614611": {
+      "message": "Android Package"
+   },
+   "5714760273477184428": {
+      "message": "Markieren Sie mithilfe der Pfeiltasten den Bereich, den Sie kommentieren möchten, und drücken Sie dann die Eingabetaste"
+   },
+   "5738003914096572768": {
+      "message": "Gesendet"
+   },
+   "5755541943799933389": {
+      "message": "Markierung zu \"$1​\" hinzugefügt"
+   },
+   "5772465571783741830": {
+      "message": "Beim Erstellen der Verknüpfung zu \"$1​\" ist ein Fehler aufgetreten"
+   },
+   "577619047319778196": {
+      "message": "Auswahl aufheben"
+   },
+   "5801257863595278616": {
+      "message": "Auswahl nach links verschoben."
+   },
+   "5808038805122520160": {
+      "message": "Diese Zeichnung hat die maximale Größe erreicht."
+   },
+   "5813834209240603556": {
+      "message": "Drücken Sie N für den vorherigen Listeneintrag und P für den folgenden"
+   },
+   "5820033033803019104": {
+      "message": "Ordnen"
+   },
+   "5826302153453971149": {
+      "message": "Hellrosa"
+   },
+   "5840202488368071194": {
+      "message": "Neue Notiz mit Bild"
+   },
+   "5840330517914556080": {
+      "message": "Herauszoomen"
+   },
+   "5854158607727111728": {
+      "message": "Tabulatortaste"
+   },
+   "5869813956121628651": {
+      "message": "Die Kommentarfunktion ist nicht verfügbar"
+   },
+   "5870134033985574990": {
+      "message": "Datei wird extrahiert..."
+   },
+   "5871692308013280837": {
+      "message": "Kategorien anzeigen"
+   },
+   "5871966496153339793": {
+      "message": "Miniaturansicht des Videos \"$1​\" wird angezeigt."
+   },
+   "5876498556450482026": {
+      "message": "Wenn Sie Stellen farblich hervorheben möchten, tippen Sie auf das Textmarkersymbol"
+   },
+   "5895666393386604578": {
+      "message": "Zum Einrücken von Listeneinträgen können Sie diese ziehen oder die Tastenkombination \"$1​\" verwenden."
+   },
+   "5906730626678011496": {
+      "message": "Verknüpfung zu Drive hinzufügen"
+   },
+   "5909490544352162901": {
+      "message": "Bitten Sie den Eigentümer um eine Zugriffsberechtigung für diese Notiz oder wechseln Sie zu einem Konto mit Zugriffsberechtigung. Sie sind als $1​ angemeldet."
+   },
+   "5911012384539794869": {
+      "message": "Extrahierungsauftrag konnte nicht gestartet werden."
+   },
+   "591481266986424156": {
+      "message": "Diese Tastenkombination ist derzeit in $1​ für folgende Funktion reserviert: $2​"
+   },
+   "5916010927050975496": {
+      "message": "$1​ KB"
+   },
+   "5917528552332886959": {
+      "message": "Geklärte Kommentare anzeigen"
+   },
+   "5947790263929501779": {
+      "message": "In Aufzählungsformat konvertiert"
+   },
+   "5949528478488617689": {
+      "message": "Berechtigung zum Herunterladen"
+   },
+   "5950887255133612666": {
+      "message": "Nicht gestartet"
+   },
+   "5954965790623966933": {
+      "message": "Purpurrot"
+   },
+   "5961691090101357621": {
+      "message": "Arbeitsbereich nach unten erweitert."
+   },
+   "5961981688037913870": {
+      "message": "$1​ hinzugefügt"
+   },
+   "5965683144165568126": {
+      "message": "Listeneintrag neu anordnen"
+   },
+   "5969696744752069015": {
+      "message": "Keine Vorschau verfügbar"
+   },
+   "597927944425927829": {
+      "message": "Die Inhaberschaft wird von \"$1​\" auf Sie übertragen."
+   },
+   "5984398071085567332": {
+      "message": "Google Fusion Tables"
+   },
+   "5987609488177213747": {
+      "message": "Label erstellen"
+   },
+   "5989809255170931770": {
+      "message": "{time,plural, =1{Notizen wird in # Sekunde aktualisiert.}other{Notizen wird in # Sekunden aktualisiert.}}"
+   },
+   "5994697604396931641": {
+      "message": "Alle entfernen"
+   },
+   "5999179030782577147": {
+      "message": "Drücken Sie #, um eine Notiz in den Papierkorb zu verschieben"
+   },
+   "6009962986062136164": {
+      "message": "$1​ wird geladen..."
+   },
+   "6011637630664474614": {
+      "message": "Leertaste"
+   },
+   "6011708967018957768": {
+      "message": "Eigentümerschaft auf die geteilte Ablage übertragen?"
+   },
+   "6027516495119898580": {
+      "message": "Standorterinnerungen sind nicht verfügbar"
+   },
+   "6030537159236285525": {
+      "message": "Listeneintrag an die nächste/vorherige Position verschieben"
+   },
+   "60305871484579258": {
+      "message": "Alt"
+   },
+   "6033916931543811803": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} Ordner wurde aus dem Ordner \"{XXX_1}\" in den Ordner \"{XXX_2}\" verschoben.}other{{NUM_ITEMS_2} Ordner wurden aus dem Ordner \"{XXX_3}\" in den Ordner \"{XXX_4}\" verschoben.}}"
+   },
+   "6043578784980337112": {
+      "message": "$1​ Dateien wurden in den Ordner \"$2​\" verschoben."
+   },
+   "6049952042443321325": {
+      "message": "Tabelle der Tastenkombinationen"
+   },
+   "6062216008944363143": {
+      "message": "{weekNumber,plural, =1{Wird alle {every} Monate am ersten {day} des Monats wiederholt}=2{Wird alle {every} Monate am zweiten {day} des Monats wiederholt}=3{Wird alle {every} Monate am dritten {day} des Monats wiederholt}=4{Wird alle {every} Monate am vierten {day} des Monats wiederholt}other{Wird alle {every} Monate am letzten {day} des Monats wiederholt}}"
+   },
+   "6069780031254134657": {
+      "message": "Als erledigt markieren"
+   },
+   "6087078248621415351": {
+      "message": "Um $1​ geändert"
+   },
+   "6100883940579706314": {
+      "message": "Linkvorschau"
+   },
+   "6103793971765619589": {
+      "message": "Die Freigabe für folgende Nutzer ist nicht möglich, da deren Administrator das Importieren von Inhalten deaktiviert hat, die von Personen außerhalb ihrer Organisation freigegeben wurden."
+   },
+   "6105571474005679446": {
+      "message": "Beim Laden der Vorschau ist ein Problem aufgetreten."
+   },
+   "6113237889871930608": {
+      "message": "Leere Notiz"
+   },
+   "6118623991445349480": {
+      "message": "Seite $1​"
+   },
+   "6122643025527543706": {
+      "message": "Strg"
+   },
+   "6127325177382263770": {
+      "message": "URLs"
+   },
+   "6128550071219729739": {
+      "message": "Bild gelöscht"
+   },
+   "6131822680770571276": {
+      "message": "Microsoft PowerPoint"
+   },
+   "6149175749937815029": {
+      "message": "Alle Miniaturansichten in Filmstreifen ansehen"
+   },
+   "6159229289552931928": {
+      "message": "In freigegebenen Ordner verschieben?"
+   },
+   "616807262818311711": {
+      "message": "Typ"
+   },
+   "6176354714840789272": {
+      "message": "Sie können mit der $2​Chrome-Erweiterung \"Google Notizen\"$1​ auch Links für später speichern."
+   },
+   "6186753450686672643": {
+      "message": "{every,plural, =1{Wird täglich wiederholt}other{Wird alle # Tage wiederholt}}"
+   },
+   "6189397065139465013": {
+      "message": "Jede/-n/-s"
+   },
+   "6201176165479907499": {
+      "message": "{count,plural, =1{Notiz angepinnt}other{# Notizen angepinnt}}"
+   },
+   "6203260615455347677": {
+      "message": "iWork Numbers"
+   },
+   "6209117354086898503": {
+      "message": "Zurück"
+   },
+   "6211895332551673425": {
+      "message": "Zu $2​Meine Ablage$1​ hinzugefügt"
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6223530531885788421": {
+      "message": "Verknüpfung wird in Google Drive hinzugefügt…"
+   },
+   "6224687211096863620": {
+      "message": "Jeder"
+   },
+   "6225875898439047571": {
+      "message": "Ablehnen"
+   },
+   "6231442995102088007": {
+      "message": "Das ist neu bei Google Notizen"
+   },
+   "6252259197986158120": {
+      "message": "Gestern"
+   },
+   "6263940822259442857": {
+      "message": "Kästchen ausblenden"
+   },
+   "6286379137937560558": {
+      "message": "Artikel"
+   },
+   "6286806453721792102": {
+      "message": "In Google Drive organisieren"
+   },
+   "6305748545202493254": {
+      "message": "Detailbereich einblenden/ausblenden"
+   },
+   "6306268376900894985": {
+      "message": "Findet bis {endDate} statt"
+   },
+   "6324768448533022780": {
+      "message": "$1​ $2​"
+   },
+   "6347484050944915390": {
+      "message": "Anfrage gesendet. Sie erhalten eine E-Mail, sobald sie genehmigt wurde."
+   },
+   "6352952829934775705": {
+      "message": "MEHR"
+   },
+   "6366376928558090914": {
+      "message": "Ernährung"
+   },
+   "6371576811194810854": {
+      "message": "Nach"
+   },
+   "6375244206466599493": {
+      "message": "Jahr"
+   },
+   "6375395544374251820": {
+      "message": "Beim Laden weiterer Seiten ist ein Problem aufgetreten. Erneut versuchen…"
+   },
+   "6377664889539934": {
+      "message": "Durch Berühren zeichnen"
+   },
+   "6381941041429900831": {
+      "message": "Mitbearbeiter hinzufügen"
+   },
+   "6386587519843563719": {
+      "message": "Binärdatei"
+   },
+   "639451288140270562": {
+      "message": "In Docs kopiert"
+   },
+   "6394816510866826521": {
+      "message": "Dogfood"
+   },
+   "6402092370576716734": {
+      "message": "Papierkorb leeren"
+   },
+   "6413404795391222793": {
+      "message": "Neue Liste erstellen"
+   },
+   "6416495701611778255": {
+      "message": "Vorgeschlagene Drittanbieter-Apps"
+   },
+   "6417706204201069253": {
+      "message": "Gelöschte Notizen sind nicht mehr für Personen sichtbar, für die sie freigegeben wurden."
+   },
+   "6424277546995954045": {
+      "message": "Die Tastenkombination-Überschreibung ist für den aktuellen Browser nicht verfügbar.\nUm diese Funktion zu aktivieren, wechseln Sie zu Google Chrome, Firefox, IE/Edge oder Safari."
+   },
+   "6426979759685079955": {
+      "message": "Inaktive Kommentare einblenden"
+   },
+   "6428000916830484004": {
+      "message": "Braun"
+   },
+   "6432019580434957057": {
+      "message": "Audio"
+   },
+   "6443103650988201046": {
+      "message": "Colaboratory"
+   },
+   "6443615802319581315": {
+      "message": "{NUM_ITEMS,plural, =1{Sie sind nicht berechtigt, diese Datei aus ihren aktuellen Ordnern zu verschieben. Fügen Sie die Datei stattdessen dem Ordner {START_SPAN_1}{NAME}{END_SPAN} hinzu.}other{Sie sind nicht berechtigt, diese Dateien aus ihren aktuellen Ordnern zu verschieben. Fügen Sie die Dateien stattdessen dem Ordner {START_SPAN_2}{NAME}{END_SPAN} hinzu.}}"
+   },
+   "6450508807204492448": {
+      "message": "$1​-Symbol"
+   },
+   "6457802200418354862": {
+      "message": "Nutzer können die Datei herunterladen."
+   },
+   "6459405233858728718": {
+      "message": "Google Präsentationen"
+   },
+   "6473102097014191455": {
+      "message": "Zeichnungsnotiz"
+   },
+   "6477306554098527424": {
+      "message": "Google Assistant"
+   },
+   "6480376252068839019": {
+      "message": "Rasteroptionen öffnen"
+   },
+   "6487295087519678926": {
+      "message": "Drive-Upload"
+   },
+   "6490084340347327400": {
+      "message": "Drücken Sie \"$1​ + Umschalttaste + 8\", um zwischen einer Notiz und einer Liste umzuschalten"
+   },
+   "6497197865876438261": {
+      "message": "Musik"
+   },
+   "6507257480072167483": {
+      "message": "Labelname wurde zu $1​ geändert."
+   },
+   "6510131849363684615": {
+      "message": "Morgen"
+   },
+   "6513721414466645971": {
+      "message": "Entfernt"
+   },
+   "6524849072392100692": {
+      "message": "Google Drive-Ordner"
+   },
+   "653160061888539741": {
+      "message": "Fortschrittsregler"
+   },
+   "6571686604846453345": {
+      "message": "Beim Hinzufügen dieser Datei zu Google Drive ist ein Problem aufgetreten."
+   },
+   "6578339688410021742": {
+      "message": "Alle Mitglieder der Teamablage \"$1​\" haben dann Zugriff auf die Elemente."
+   },
+   "6579707685908557993": {
+      "message": "Abends"
+   },
+   "6588176324871799870": {
+      "message": "Google Apps Script"
+   },
+   "6595703969647338657": {
+      "message": "{count,plural, =1{Notiz erstellt}other{# Notizen erstellt}}"
+   },
+   "6618562607681757575": {
+      "message": "In Ordnern belassen und dem Ordner $3​$2​$1​ hinzufügen"
+   },
+   "6622304228074863427": {
+      "message": "App"
+   },
+   "6627510416186113122": {
+      "message": "Helles Blaugrün"
+   },
+   "6664835828596108553": {
+      "message": "Wahltaste"
+   },
+   "6667440728495437281": {
+      "message": "Beim Laden der Vorschau für dieses Dokument ist ein Problem aufgetreten. Neuer Versuch…"
+   },
+   "6674095299257911962": {
+      "message": "Dieses Element enthält eingeschränkte Inhalte und kann daher nicht außerhalb von $1​ geteilt werden"
+   },
+   "670419277288558500": {
+      "message": "Video/Audio"
+   },
+   "6707173584987026005": {
+      "message": "Heute"
+   },
+   "6710728478489145370": {
+      "message": "Schließen"
+   },
+   "6713235295664405475": {
+      "message": "auf|zu|nach|an|zur|zum"
+   },
+   "6715985122107380503": {
+      "message": "Aufnahmen"
+   },
+   "6726462693927865256": {
+      "message": "Details"
+   },
+   "6726879257388338969": {
+      "message": "Drucken"
+   },
+   "6732800471045353930": {
+      "message": "Diese Notiz wurde bereits mit der maximalen Anzahl von Personen geteilt."
+   },
+   "673551770550324419": {
+      "message": "Optimale Breite"
+   },
+   "6747528043814108113": {
+      "message": "Zur $1​ gewechselt"
+   },
+   "6749829802551750923": {
+      "message": "Nach-oben"
+   },
+   "6750600017746655174": {
+      "message": "Wahltaste"
+   },
+   "6750827506231593056": {
+      "message": "Konto wechseln"
+   },
+   "6755327423364814290": {
+      "message": "Mit der App schneller Notizen erstellen"
+   },
+   "6761622351199419182": {
+      "message": "Notiz im Archiv"
+   },
+   "6773222938695237983": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Dieses Element freigeben?}other{Diese Elemente freigeben?}}"
+   },
+   "6778577079172085976": {
+      "message": "Angepinnt"
+   },
+   "678660085936036852": {
+      "message": "Bilder werden verarbeitet…"
+   },
+   "6787580031482277539": {
+      "message": "Nie"
+   },
+   "6798055902819777633": {
+      "message": "Durch Berühren schwenken"
+   },
+   "6801348618370627980": {
+      "message": "Label $1​ wurde erstellt."
+   },
+   "6815042072535422726": {
+      "message": "Audio gelöscht"
+   },
+   "6822520214440117457": {
+      "message": "Arbeit"
+   },
+   "6831650827360444197": {
+      "message": "Notiz wurde zurückgenommen."
+   },
+   "6833062695195555756": {
+      "message": "Optionsmenü des Radierertools öffnen"
+   },
+   "6833760103261954639": {
+      "message": "Beim Laden der Seite ist ein Problem aufgetreten. Erneut versuchen…"
+   },
+   "68477685313713097": {
+      "message": "{MINUTES,plural, =0{0 Minuten}=1{1 Minute}other{{MINUTES} Minuten}}"
+   },
+   "6864144421392687943": {
+      "message": "Computer"
+   },
+   "687402923448150707": {
+      "message": "Nicht markiert"
+   },
+   "689017442055275529": {
+      "message": "Familiengruppe von $1​"
+   },
+   "6891563484025164308": {
+      "message": "Zurück"
+   },
+   "6898823203505321799": {
+      "message": "Details"
+   },
+   "6904351530369058983": {
+      "message": "Eigentümer"
+   },
+   "6905505747689522124": {
+      "message": "Suche im Life-Archiv"
+   },
+   "6907559338225657032": {
+      "message": "Verschieben"
+   },
+   "691041991673354191": {
+      "message": "Mich selbst entfernen"
+   },
+   "6918505531548047245": {
+      "message": "Textmarkertool"
+   },
+   "6921237745237410511": {
+      "message": "Kommentar hinzufügen"
+   },
+   "6922953828399110511": {
+      "message": "Viewer schließen"
+   },
+   "6925056317406251324": {
+      "message": "Bildersuche"
+   },
+   "693770783324368110": {
+      "message": "Notizen losgelöst und in den Papierkorb verschoben"
+   },
+   "6956515948204056309": {
+      "message": "Inaktive Kommentare ausgeblendet"
+   },
+   "6966912428667098497": {
+      "message": "Hier werden archivierte Notizen angezeigt"
+   },
+   "6979766453743005049": {
+      "message": "Per Drag-and-drop können Sie Elemente in der Liste neu anordnen und einrücken"
+   },
+   "6980199665979997122": {
+      "message": "Wiederherstellen"
+   },
+   "6982321568096234183": {
+      "message": "Audiodatei herunterladen ($1​)"
+   },
+   "6982682101118067511": {
+      "message": "Wird organisiert…"
+   },
+   "7005745151564974365": {
+      "message": "Tastenkombinationen"
+   },
+   "7005977332887563273": {
+      "message": "Verknüpfung hinzufügen"
+   },
+   "701276785305022936": {
+      "message": "Dokument ist beschädigt. Vergewissern Sie sich, dass die Datei das aktuelle Format besitzt."
+   },
+   "7017485862232001373": {
+      "message": "\"$1​\" wurde dem Ordner \"$2​\" hinzugefügt."
+   },
+   "7019002927048576918": {
+      "message": "$1​ – Suchfilter"
+   },
+   "7030308038380934896": {
+      "message": "Nicht in Docs kopiert"
+   },
+   "7050021021988648361": {
+      "message": "URL kopieren"
+   },
+   "7050898523853841537": {
+      "message": "Optionen für die Häufigkeit"
+   },
+   "705714112650622350": {
+      "message": "Beim Hinzufügen des Elements zu Google Drive ist ein Problem aufgetreten."
+   },
+   "7059437903473652416": {
+      "message": "YouTube-Video \"$1​\" wiedergeben"
+   },
+   "7066744251212631722": {
+      "message": "Limette"
+   },
+   "7084991134824194740": {
+      "message": "Erinnern"
+   },
+   "7086801490719148597": {
+      "message": "Auswahl für dieses aufheben"
+   },
+   "7094548885298700726": {
+      "message": "Dunkelbraun"
+   },
+   "7102649289752747375": {
+      "message": "Feedback geben"
+   },
+   "7121259585839664942": {
+      "message": "Abbrechen"
+   },
+   "7126326627883991568": {
+      "message": "Aktuelle Zeichnung löschen"
+   },
+   "7126535013613878060": {
+      "message": "Wichtige Notizen oben anpinnen."
+   },
+   "7135182401951359795": {
+      "message": "Die Inhaberschaft wird auf Sie übertragen."
+   },
+   "7141983486405549971": {
+      "message": "Einfg"
+   },
+   "7145753028985071097": {
+      "message": "Notiz wird neu angeordnet"
+   },
+   "7146242673022399081": {
+      "message": "Text"
+   },
+   "7148992630785407972": {
+      "message": "Die Datei ist passwortgeschützt und kann nicht in der Vorschau angesehen werden."
+   },
+   "7149013203800794567": {
+      "message": "{count,plural, =1{Aktuelle Farbe: {color}. Wählen Sie eine andere Farbe aus, um sie auf die Notiz anzuwenden.}other{Aktuelle Farbe: {color}. Wählen Sie eine andere Farbe aus, um sie auf die Notizen anzuwenden.}}"
+   },
+   "7153847618034547771": {
+      "message": "Aktivieren"
+   },
+   "7161134329606048317": {
+      "message": "Schließen"
+   },
+   "7164532930742017984": {
+      "message": "Jeder Nutzer mit dem Link"
+   },
+   "7166989725427500881": {
+      "message": "In den Papierkorb verschobene Notiz"
+   },
+   "7174409400206281023": {
+      "message": "Widersprüchliche Änderungen gefunden"
+   },
+   "7181961085183734135": {
+      "message": "Drucken ist für diese Datei deaktiviert"
+   },
+   "7182285309564868243": {
+      "message": "Fehler beim Verschieben der Dateien oder Ordner"
+   },
+   "7187441427660427801": {
+      "message": "Zeichnung öffnen"
+   },
+   "7190398092435016951": {
+      "message": "{count,plural, =1{Die gelöschte Notiz ist nicht mehr für Personen sichtbar, für die Sie sie freigegeben haben.}other{Gelöschte Notizen sind nicht mehr für Personen sichtbar, für die Sie sie freigegeben haben.}}"
+   },
+   "7201188472754345797": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Nutzer, die sich außerhalb von {DESTINATION_DOMAIN} befinden, verlieren den Zugriff auf diese Datei.}other{Nutzer, die sich außerhalb von {DESTINATION_DOMAIN} befinden, verlieren den Zugriff auf diese Dateien.}}"
+   },
+   "7207109722898253285": {
+      "message": "Ausgewählte speichern"
+   },
+   "7218693060378095915": {
+      "message": "Neue"
+   },
+   "722264179594523168": {
+      "message": "Abbrechen"
+   },
+   "7225445911355686176": {
+      "message": "Archivierte Notiz auswählen"
+   },
+   "722702934847795304": {
+      "message": "Microsoft Project"
+   },
+   "7231231875581131930": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Dieses Element kann nicht wieder in die Teamablage \"{TEAM_DRIVE_NAME}\" verschoben werden. Sie können diese Aktion daher nicht rückgängig machen.}other{Mindestens ein Element kann nicht wieder in die Teamablage \"{TEAM_DRIVE_NAME}\" verschoben werden. Sie können diese Aktion daher nicht rückgängig machen.}}"
+   },
+   "7247530225058410142": {
+      "message": "$2​, $1​"
+   },
+   "7247965266239591227": {
+      "message": "Beim Extrahieren der Datei \"$1​\" ist ein Fehler aufgetreten."
+   },
+   "7251490702980298031": {
+      "message": "Farben- und Größenauswahl für das Textmarkertool öffnen"
+   },
+   "7265183966796883739": {
+      "message": "Geklärte Kommentare ausblenden"
+   },
+   "7278398674737413598": {
+      "message": "Dokument kann nicht umgewandelt werden."
+   },
+   "7278859550373246865": {
+      "message": "{count,plural, =1{Notiz archiviert}other{# Notizen archiviert}}"
+   },
+   "7290932540630116546": {
+      "message": "Erinnerung eingerichtet. $1​."
+   },
+   "7295254213841803546": {
+      "message": "Änderungen verwerfen? Ihre Änderungen werden nicht gespeichert."
+   },
+   "7299749713933143099": {
+      "message": "Lila"
+   },
+   "7301081435623917576": {
+      "message": "Standardeinstellungen für Erinnerungen"
+   },
+   "7306962184871750459": {
+      "message": "Die Inhaberschaft wird von \"$4​\" in $3​ auf \"$2​\" in $1​ übertragen."
+   },
+   "7330497278645626593": {
+      "message": "Ausprobieren"
+   },
+   "7342923890755029722": {
+      "message": "Schließen"
+   },
+   "7344507440412470266": {
+      "message": "Auswahl erweitert."
+   },
+   "734478884582426793": {
+      "message": "ZIP-Datei"
+   },
+   "7353547650196788656": {
+      "message": "Rot"
+   },
+   "7364571366369083618": {
+      "message": "Video"
+   },
+   "7376703418960184879": {
+      "message": "Kopieren"
+   },
+   "7377239345926788722": {
+      "message": "Aktionen"
+   },
+   "7379369644162401367": {
+      "message": "Alle entfernen"
+   },
+   "7381817875028728077": {
+      "message": "Nein danke"
+   },
+   "7382688299146249119": {
+      "message": "Element herunterladen"
+   },
+   "7384785369409503695": {
+      "message": "Dunkles Design aktivieren"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "7420117636241237177": {
+      "message": "Die Nachrichten aus der Datei \"$1​\" wurden in Ihr E-Mail-Konto extrahiert. Sie finden sie unter dem Label \"Importieren: $2​\" wieder."
+   },
+   "7420364754178516134": {
+      "message": "Tools zur Fehlerbehebung"
+   },
+   "7426603384368095928": {
+      "message": "Aktualisieren Sie die Seite, um sich wieder anzumelden und weiterzuarbeiten."
+   },
+   "7427333772418801813": {
+      "message": "Schaltfläche \"+ $1​ WEITERE\" maximiert"
+   },
+   "7429084719905985261": {
+      "message": "Objective C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7438696235870090716": {
+      "message": "Meine Ablage"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (bearbeitet: $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Wird in Google Drive gespeichert"
+   },
+   "744753705925710199": {
+      "message": "Diese App konnte leider nicht für alle Dateien autorisiert werden, die Sie öffnen möchten. Versuchen Sie es noch einmal."
+   },
+   "7452116603589558390": {
+      "message": "Auswahl der angepinnten Notiz aufheben"
+   },
+   "7453297286571818554": {
+      "message": "In Docs kopieren"
+   },
+   "7453307802804717178": {
+      "message": "Hellblau"
+   },
+   "7458942806393710991": {
+      "message": "Auswahl der archivierten Notiz aufheben"
+   },
+   "7464780237502381438": {
+      "message": "Weitere Apps verknüpfen"
+   },
+   "7468842863971844562": {
+      "message": "Neue Liste"
+   },
+   "7469895656894091562": {
+      "message": "Diese E-Mail-Adresse ist ungültig."
+   },
+   "7480128655944127234": {
+      "message": "Umbenennen"
+   },
+   "7482924911694634213": {
+      "message": "{weekNumber,plural, =1{Wird monatlich am ersten {day} des Monats wiederholt}=2{Wird monatlich am zweiten {day} des Monats wiederholt}=3{Wird monatlich am dritten {day} des Monats wiederholt}=4{Wird monatlich am vierten {day} des Monats wiederholt}other{Wird monatlich am letzten {day} des Monats wiederholt}}"
+   },
+   "7483088916037874359": {
+      "message": "Datei ist zu groß. "
+   },
+   "7488945223835574498": {
+      "message": "PostScript"
+   },
+   "7503234138288940590": {
+      "message": "Suchen"
+   },
+   "7507827375601925075": {
+      "message": "Notiz an die nächste/vorherige Position verschieben"
+   },
+   "7510155920769316048": {
+      "message": "Notizen und Listen"
+   },
+   "7516769578943800930": {
+      "message": "Markiert"
+   },
+   "7528204871156404767": {
+      "message": "Safari"
+   },
+   "7528441140724145783": {
+      "message": "Labels bearbeiten"
+   },
+   "7529683448345488779": {
+      "message": "Das eingegebene Passwort ist ungültig. Bitte geben Sie ein anderes Passwort ein."
+   },
+   "7530677128711603655": {
+      "message": "Suchergebnisse für \"$1​\""
+   },
+   "7564771400033548584": {
+      "message": "{selectedCount,plural, =1{# ausgewählt}other{# ausgewählt}}"
+   },
+   "7565795669925550891": {
+      "message": "Geteilt von"
+   },
+   "7579280421767578228": {
+      "message": "Erinnerung für irgendwann"
+   },
+   "7585826646011739428": {
+      "message": "Bearbeiten"
+   },
+   "7586291841734385643": {
+      "message": "In neuem Tab öffnen"
+   },
+   "7587936635257676112": {
+      "message": "$1​ hinzugefügt"
+   },
+   "7598582624136632660": {
+      "message": "Suchleiste öffnen/weitersuchen"
+   },
+   "7599358608613738069": {
+      "message": "Löschen"
+   },
+   "7604275940271852148": {
+      "message": "In Ihrem Gmail-Konto extrahieren"
+   },
+   "7604400308311739073": {
+      "message": "Anpinnen"
+   },
+   "7610628906656867728": {
+      "message": "Archiv"
+   },
+   "7610654194202731772": {
+      "message": "Löschen"
+   },
+   "7624042048123264803": {
+      "message": "Notiz öffnen"
+   },
+   "7630069597298444649": {
+      "message": "Drücken Sie /, um den Fokus auf das Suchfeld zu setzen"
+   },
+   "7630723924002267143": {
+      "message": "Tastenkombinationen sind aktiviert."
+   },
+   "7631302417932873160": {
+      "message": "Virenscan nicht möglich"
+   },
+   "7648759818896108920": {
+      "message": "+$1​"
+   },
+   "7649506133540465463": {
+      "message": "Aktion konnte nicht rückgängig gemacht werden."
+   },
+   "7653702763016575386": {
+      "message": "Blau"
+   },
+   "7656983816661099886": {
+      "message": "Dinge"
+   },
+   "7659047104232758352": {
+      "message": "jener|jene|jenes|jenem|jenen|dieser|diese|dieses|diesem|diesen"
+   },
+   "7669677145513127809": {
+      "message": "Zwischen Teamablagen verschieben?"
+   },
+   "7669846901402551021": {
+      "message": "Heute"
+   },
+   "7690349821507417537": {
+      "message": "Listeneintrag entfernt: $1​"
+   },
+   "7690355160889785521": {
+      "message": "Grün"
+   },
+   "7709557808259730054": {
+      "message": "Genehmigungen"
+   },
+   "7709889936233398701": {
+      "message": "Entfernen"
+   },
+   "7715892737835649602": {
+      "message": "Sie können Labels durch Eingabe von \"#\" hinzufügen."
+   },
+   "7724602581120994002": {
+      "message": "Orangefarben"
+   },
+   "7728066040934031356": {
+      "message": "Lila"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "7735981667219692675": {
+      "message": "{resultCount,plural, =1{# Suchergebnis}other{# Suchergebnisse}}"
+   },
+   "774390292128857049": {
+      "message": "Suchen"
+   },
+   "7751981235297474273": {
+      "message": "Rückgängig machen"
+   },
+   "7754093419850121316": {
+      "message": "⌘"
+   },
+   "7757440777278143092": {
+      "message": "Dunkelgrau"
+   },
+   "7766150028615181766": {
+      "message": "Hier weitere Verknüpfung hinzufügen"
+   },
+   "7766580018314203658": {
+      "message": "Diese Zeichnung hat fast die maximal mögliche Größe. Sie können der Notiz aber eine neue Zeichnung hinzufügen."
+   },
+   "7772544658778579390": {
+      "message": "Im Dokument suchen"
+   },
+   "778181404304502404": {
+      "message": "Element wird verkleinert."
+   },
+   "7791050524692390574": {
+      "message": "Farben"
+   },
+   "7796648733955818629": {
+      "message": "Diese Datei kann nicht hochgeladen werden. Wir akzeptieren $1​-Dateien mit weniger als $2​ MB und $3​ Megapixel."
+   },
+   "7800318069267901681": {
+      "message": "Geändert"
+   },
+   "7803075387516434727": {
+      "message": "Keine passenden Ergebnisse."
+   },
+   "7814778057875152792": {
+      "message": "Beim Verschieben des Anhangs in den ausgewählten Ordner in Google Drive ist ein Problem aufgetreten."
+   },
+   "7819314041543176992": {
+      "message": "Schließen"
+   },
+   "7821512290975371360": {
+      "message": "Dunkelrosa"
+   },
+   "7828886646639771557": {
+      "message": "Notiz schreiben…"
+   },
+   "7830513726270865588": {
+      "message": "Kalender"
+   },
+   "7842164552344536314": {
+      "message": "Organisation läuft..."
+   },
+   "7844842290699524598": {
+      "message": "Maximale Anzahl an Labels erreicht. Löschen Sie ein vorhandenes Label, um ein neues hinzufügen zu können."
+   },
+   "7849249492061822610": {
+      "message": "Drücken Sie die Taste mit dem Fragezeichen, um das Hilfe-Pop-up einzublenden"
+   },
+   "785840448809859989": {
+      "message": "Uhrzeitoptionen"
+   },
+   "7865240075542402013": {
+      "message": "Markieren"
+   },
+   "7868324478160174739": {
+      "message": "Blau"
+   },
+   "7872546153972922699": {
+      "message": "Haken Sie erledigte Punkte ab"
+   },
+   "7873060817438017568": {
+      "message": "$2​ · $1​"
+   },
+   "7873698934773957560": {
+      "message": "Ohne"
+   },
+   "787773550893657271": {
+      "message": "Vorherige Zeichnung geöffnet"
+   },
+   "7888520165977111723": {
+      "message": "In Teamablage verschieben?"
+   },
+   "7895643887742936844": {
+      "message": "Semikolon"
+   },
+   "7906726367011430855": {
+      "message": "Verknüpfen"
+   },
+   "7910887984113996757": {
+      "message": "Teilen aktivieren"
+   },
+   "7911416166208830577": {
+      "message": "Hilfe"
+   },
+   "7924606175376623897": {
+      "message": "Drücken Sie F, um eine Notiz anzupinnen oder loszulösen"
+   },
+   "7934833136974560675": {
+      "message": "Wiederholen"
+   },
+   "7943657844420237650": {
+      "message": "OpenOffice Impress"
+   },
+   "7946114032014914338": {
+      "message": "{repeatSentence}. {endSentence}"
+   },
+   "7947001788143789176": {
+      "message": "Wird geladen…"
+   },
+   "7959130747647079558": {
+      "message": "{selectedCount,plural, =1{# Notiz ausgewählt}other{# Notizen ausgewählt}}"
+   },
+   "7976461426527138085": {
+      "message": "Listen"
+   },
+   "7991475666499751798": {
+      "message": "Erinnerung als erledigt markieren"
+   },
+   "7996360883730444101": {
+      "message": "Beim Öffnen dieser Datei ist ein Fehler aufgetreten. Versuchen Sie es noch einmal."
+   },
+   "7998118521140187915": {
+      "message": "Geklärte Kommentare sind ausgeblendet"
+   },
+   "8003252582874834655": {
+      "message": "Das Verschieben von Dateien in eine Teamablage hat Auswirkungen auf den Zugriff und die Inhaberschaft."
+   },
+   "8010075936095394680": {
+      "message": "Die Dateiversion ist zu alt. Vergewissern Sie sich, dass die Datei das aktuelle Format besitzt. "
+   },
+   "8011497727123874703": {
+      "message": "Schaltfläche für den Ordner \"$1​\""
+   },
+   "8013687642711017862": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Sie verschieben 1 Element aus freigegebenen Ordnern. Andere Nutzer haben dann keinen Zugriff mehr auf das Element.}other{Sie verschieben {NUM_ITEMS_2} Elemente aus freigegebenen Ordnern. Andere Nutzer haben dann keinen Zugriff mehr auf sie.}}"
+   },
+   "8019402848412685977": {
+      "message": "\"$2​\" wurde in \"$1​\" umbenannt."
+   },
+   "802668096552856965": {
+      "message": "{checkedItemCount,plural, =1{+ # Abgeschlossener Eintrag}other{+ # Abgeschlossene Einträge}}"
+   },
+   "8043514121228710092": {
+      "message": "Bild hinzufügen"
+   },
+   "8046884224424523922": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} Datei wurde aus dem Ordner \"{XXX_1}\" in den Ordner \"{XXX_2}\" verschoben.}other{{NUM_ITEMS_2} Dateien wurden aus dem Ordner \"{XXX_3}\" in den Ordner \"{XXX_4}\" verschoben.}}"
+   },
+   "8063817953234049242": {
+      "message": "Auswahltool"
+   },
+   "807840433749698811": {
+      "message": "Cyan"
+   },
+   "8080583426915938264": {
+      "message": "Apps auf Ihrem Computer"
+   },
+   "8085493757603803516": {
+      "message": "Auswahl bearbeiten"
+   },
+   "8090743714060857028": {
+      "message": "Nutzer können die Datei nicht herunterladen."
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 Byte}=1{1 Byte}other{# Byte}}"
+   },
+   "8104421162933956065": {
+      "message": "Notizen"
+   },
+   "8111632928339277375": {
+      "message": "{NUM_FOLDERS,plural, =1{Aus einem Ordner verschieben}=2{Aus beiden Ordnern verschieben}other{Aus allen # Ordnern verschieben}}"
+   },
+   "8119839693658969418": {
+      "message": "Die Freigabe für folgende Nutzer ist nicht möglich, da der Administrator die Freigabe für Personen außerhalb Ihrer Organisation deaktiviert hat."
+   },
+   "8125425371755035523": {
+      "message": "Rückgängig machen"
+   },
+   "8133866583554546341": {
+      "message": "$1​, $2​"
+   },
+   "8137338584146377170": {
+      "message": "Die Datei kann nicht verschoben werden, weil der Dateieigentümer kein Mitglied der Domain ist, in der sich die geteilte Ablage befindet."
+   },
+   "8139785559888164453": {
+      "message": "Mehr Infos"
+   },
+   "8144512434938656483": {
+      "message": "oder"
+   },
+   "8149439558305434788": {
+      "message": "$1​, $2​"
+   },
+   "8159493406018222636": {
+      "message": "Feedback geben"
+   },
+   "8163727651556550203": {
+      "message": "Weitere Verknüpfung hinzufügen"
+   },
+   "8163781449224244510": {
+      "message": "Auswahl verkleinert."
+   },
+   "8174654098152723289": {
+      "message": "Beschreibung bearbeiten"
+   },
+   "818217888086545352": {
+      "message": "Gelb"
+   },
+   "8189126656205301402": {
+      "message": "In Google Docs kopieren"
+   },
+   "8193677552005249631": {
+      "message": "App-Downloads"
+   },
+   "8194941811853358224": {
+      "message": "Beim Entfernen der Markierung für \"$1​\" ist ein Problem aufgetreten."
+   },
+   "8199137154169358847": {
+      "message": "Mehr"
+   },
+   "819996403327805209": {
+      "message": "Weitere Informationen"
+   },
+   "8207659457248280436": {
+      "message": "Verknüpfungen können noch nicht in geteilte Ablagen verschoben werden."
+   },
+   "8208179689358649003": {
+      "message": "Drücken Sie E, um eine Notiz zu archivieren"
+   },
+   "8224193807932432983": {
+      "message": "Aktionen"
+   },
+   "8225614702924834215": {
+      "message": "Weitere Optionen"
+   },
+   "8231449936104909428": {
+      "message": "Beim Verschieben von \"$1​\" in den ausgewählten Ordner in Google Drive ist ein Fehler aufgetreten."
+   },
+   "8233656381635014955": {
+      "message": "\"Ok Google, was steht auf meiner To-do-Liste?\""
+   },
+   "8233945959714786736": {
+      "message": "Vorherige"
+   },
+   "8242655297101700529": {
+      "message": "Meine Ablage"
+   },
+   "824468664656304495": {
+      "message": "Sie sind offline. Einige Funktionen sind möglicherweise nicht verfügbar."
+   },
+   "8265689758492685194": {
+      "message": "Designs"
+   },
+   "8273434617910595878": {
+      "message": "Nach-unten"
+   },
+   "8281141013543828574": {
+      "message": "RAW-Bilddatei"
+   },
+   "8281169978199539270": {
+      "message": "Verschieben aus einem Ordner mit Lesezugriff nicht möglich"
+   },
+   "8284315184632755389": {
+      "message": "Markiert"
+   },
+   "8292708563843446267": {
+      "message": "Die Elemente gehören dann der Teamablage \"$1​\"."
+   },
+   "8305505634689906340": {
+      "message": "Innerhalb von \"$1​\" suchen"
+   },
+   "8322416564157128458": {
+      "message": "Teilen"
+   },
+   "8323603365638981303": {
+      "message": "Tippen Sie oben auf die Schaltfläche \"Neue Zeichnungsnotiz\""
+   },
+   "8333974577908804438": {
+      "message": "Dieser Dateityp kann noch nicht in eine geteilte Ablage verschoben werden."
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342620486324515462": {
+      "message": "Schließen"
+   },
+   "8343105225506381659": {
+      "message": "Inaktive Kommentare werden angezeigt"
+   },
+   "8379952094517631162": {
+      "message": "Nein"
+   },
+   "8389434962426321219": {
+      "message": "Hier werden Notizen mit anstehenden Erinnerungen angezeigt"
+   },
+   "8409190394690387796": {
+      "message": "Kommentar hinzufügen"
+   },
+   "8412098268689886334": {
+      "message": "Zusammenführen"
+   },
+   "8412733496413412439": {
+      "message": "Offline"
+   },
+   "8422875188929347819": {
+      "message": "Freigabe"
+   },
+   "84334343973701810": {
+      "message": "Pos1"
+   },
+   "8452647597930138120": {
+      "message": "Markieren Sie die Zelle, die Sie kommentieren möchten"
+   },
+   "8453627484113670693": {
+      "message": "Helles Orange"
+   },
+   "8467894483369467251": {
+      "message": "Flash"
+   },
+   "8471029293590878384": {
+      "message": "Anhalten"
+   },
+   "8493378997610580289": {
+      "message": "Weitere Tastenkombinationen"
+   },
+   "8505989225387082493": {
+      "message": "Label hinzufügen"
+   },
+   "8506292502710287776": {
+      "message": "Sie machen lange Notizen? Wir fügen automatisch mehr Platz hinzu, wenn Sie unten angekommen sind."
+   },
+   "8509270263487836281": {
+      "message": "Anmelden"
+   },
+   "8517148045938431718": {
+      "message": "Fehler beheben"
+   },
+   "8529203008291528328": {
+      "message": "Papierkorb leeren"
+   },
+   "8535303351837089357": {
+      "message": "Mithilfe der Tastenkombinationen {modifierKey} + Z und {modifierKey} + Y können Sie Änderungen rückgängig machen bzw. wiederholen."
+   },
+   "8559513397356310933": {
+      "message": "Neue Einträge am Ende hinzufügen"
+   },
+   "8562196940800756925": {
+      "message": "Filzstifttool"
+   },
+   "857379832182429172": {
+      "message": "Aktivieren"
+   },
+   "8575113875567233985": {
+      "message": "Sie können keine Elemente aus \"$1​\" entfernen."
+   },
+   "8589423377647285975": {
+      "message": "$2​ Listeneintrag \"$3​\" $1​."
+   },
+   "8595175575778060149": {
+      "message": "Mehr"
+   },
+   "8596279649507974639": {
+      "message": "Hierhin verschieben"
+   },
+   "8602525917014156029": {
+      "message": "Orte"
+   },
+   "8611058223830804795": {
+      "message": "Abgehakte Elemente ans Listenende verschieben"
+   },
+   "8616342546716995946": {
+      "message": "Ok"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8621178077822096827": {
+      "message": "Listeneintrag eingefügt: $1​"
+   },
+   "8626694988569301667": {
+      "message": "Zeichnung ist nicht verfügbar"
+   },
+   "8637215430007224613": {
+      "message": "Nächste Zeichnung geöffnet"
+   },
+   "8660016472468563221": {
+      "message": "Doppelpunkt"
+   },
+   "8663507590720636709": {
+      "message": "$1​ + $2​ weitere"
+   },
+   "8663993454460982287": {
+      "message": "Kästchen ausgeblendet"
+   },
+   "8674222789100049233": {
+      "message": "Schließen"
+   },
+   "8708723278154759600": {
+      "message": "Notizen archiviert"
+   },
+   "8734569874711220205": {
+      "message": "Navigationsmenü"
+   },
+   "8738345098829705526": {
+      "message": "Größe 12"
+   },
+   "8773943264600860531": {
+      "message": "Internet Explorer"
+   },
+   "8775097441636640256": {
+      "message": "$2​ – $1​"
+   },
+   "8781837301864053001": {
+      "message": "Rich Text"
+   },
+   "8786673003584562680": {
+      "message": "Bild-auf"
+   },
+   "8790687303221198259": {
+      "message": "Chrome-App"
+   },
+   "8792038552136453044": {
+      "message": "Hoppla! Ein Fehler ist aufgetreten."
+   },
+   "8793166064242077041": {
+      "message": "Beim Anzeigen des Bildes ist ein Problem aufgetreten."
+   },
+   "8797656338249040679": {
+      "message": "Sie möchten wichtige Inhalte mit nur einem Mausklick in Google Notizen speichern können? $2​Dann installieren Sie jetzt die Chrome-Erweiterung \"Google Notizen\".$1​"
+   },
+   "8822326207328431952": {
+      "message": "Das Hochladen von Bildern ist nicht verfügbar."
+   },
+   "8825353897919495748": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Möchten Sie diese Datei wirklich verschieben?}other{Möchten Sie diese Dateien wirklich verschieben?}}"
+   },
+   "8845176264121061589": {
+      "message": "Alle Häkchen entfernen"
+   },
+   "8852550049823214385": {
+      "message": "dann"
+   },
+   "885480352148498682": {
+      "message": "Inaktive Kommentare werden möglicherweise entfernt, wenn sie außerhalb von Google Drive bearbeitet werden"
+   },
+   "8860658114732392347": {
+      "message": "Erinnerung löschen"
+   },
+   "8865141968381070659": {
+      "message": "Verknüpfung hier hinzufügen"
+   },
+   "8867634760949689122": {
+      "message": "Datei konnte nicht umgewandelt werden: Zeitüberschreitung bei der Umwandlung. Versuchen Sie es später noch einmal."
+   },
+   "8868758864963683383": {
+      "message": "Auswahl der Notiz aufheben"
+   },
+   "8869202143464930500": {
+      "message": "Inhaberschaft auf \"$1​\" übertragen?"
+   },
+   "887001400549949730": {
+      "message": "In neuem Fenster öffnen"
+   },
+   "8889019648958415451": {
+      "message": "Unbekanntes Dateiformat"
+   },
+   "8895209347521686105": {
+      "message": "Google Fotos"
+   },
+   "8903612093856047007": {
+      "message": "Mitbearbeiter"
+   },
+   "8905995985388209337": {
+      "message": "Akzeptieren"
+   },
+   "8917554093651202032": {
+      "message": "\"$1​\" wiedergeben"
+   },
+   "8919660666733306860": {
+      "message": "Bild"
+   },
+   "8923591894816841670": {
+      "message": "Auswahl nach unten verschoben."
+   },
+   "8925842014466254066": {
+      "message": "Wird in Docs kopiert"
+   },
+   "8930959387403789939": {
+      "message": "Erinnerung"
+   },
+   "8931267220766224111": {
+      "message": "Erinnerungen für Google Notizen aktivieren? Dafür müssen Sie möglicherweise Browserbenachrichtigungen zulassen."
+   },
+   "8938626240031421092": {
+      "message": "Kästchen ein-/ausblenden"
+   },
+   "8943760679396635042": {
+      "message": "$1​ wird angezeigt"
+   },
+   "8962132866274125834": {
+      "message": "Wiederholen"
+   },
+   "896590342186332268": {
+      "message": "Größe 16"
+   },
+   "8975305711699693093": {
+      "message": "Spalte \"Kommentare\" ausblenden"
+   },
+   "8978442832029227748": {
+      "message": "Google Jamboard"
+   },
+   "8979104019474011578": {
+      "message": "{every,plural, =1{Wird wöchentlich wiederholt}other{Wird alle # Wochen wiederholt}}"
+   },
+   "8979615310931291676": {
+      "message": "Bearbeitet: $1​"
+   },
+   "8988925599985431446": {
+      "message": "Loslösen"
+   },
+   "8990769651805334695": {
+      "message": "Am"
+   },
+   "900086393693234779": {
+      "message": "Zuhause"
+   },
+   "9003585743562048321": {
+      "message": "Kommentare konnten aufgrund eines Netzwerkfehlers nicht synchronisiert werden."
+   },
+   "9012753183662045049": {
+      "message": "Gib einen kürzeren Labelnamen ein"
+   },
+   "9012809035908808124": {
+      "message": "Drücken Sie $1​ + G, um zwischen Listen- und Rasteransicht umzuschalten"
+   },
+   "9021945828354340363": {
+      "message": "{count,plural, =1{Diese Notiz wird nicht mehr mit Ihnen geteilt.}other{Diese Notizen werden nicht mehr mit Ihnen geteilt.}}"
+   },
+   "9024023699330078373": {
+      "message": "Wenn Sie dieses Dokument öffnen, wird es automatisch zu Ihrer Ablage in Google Drive hinzugefügt."
+   },
+   "9051304537377804875": {
+      "message": "{HOURS,plural, =0{0 Stunden}=1{1 Stunde}other{{HOURS} Stunden}}"
+   },
+   "9058308423774656474": {
+      "message": "Hangul Word Processor"
+   },
+   "9063863448028905602": {
+      "message": "Aus Ergebnissen entfernen"
+   },
+   "9066539791850693252": {
+      "message": "Google Drive"
+   },
+   "9072994494820207560": {
+      "message": "Ausgewählter Eintrag"
+   },
+   "9088582015610828915": {
+      "message": "Weniger"
+   },
+   "9094248058931620597": {
+      "message": "Detailfenster minimiert"
+   },
+   "9096768033530566606": {
+      "message": "Verknüpfung in $2​$3​$1​ hinzugefügt"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice Draw"
+   },
+   "911698676339750373": {
+      "message": "Familiengruppe"
+   },
+   "9121915169985572840": {
+      "message": "Farbe ändern"
+   },
+   "9124422680181020503": {
+      "message": "Zeichnung gelöscht"
+   },
+   "9129734193759025482": {
+      "message": "Morgen"
+   },
+   "9131268871618792263": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{unused plural form}other{Mitglieder von Teamablagen haben keinen Zugriff mehr, wenn diese Elemente nicht für sie freigegeben werden.}}"
+   },
+   "9140728449558729773": {
+      "message": "Arbeitsbereich kann nicht mehr erweitert werden, da die maximale Höhe erreicht wurde."
+   },
+   "9146862513672039744": {
+      "message": "Konto löschen"
+   },
+   "9149141099919589043": {
+      "message": "CSV (kommagetrennte Werte)"
+   },
+   "9150202601400529256": {
+      "message": "Verknüpfung konnte nicht in $2​$3​$1​ hinzugefügt werden"
+   },
+   "9155213204821633067": {
+      "message": "Auswahl aufgehoben: $1​."
+   },
+   "9180910903828232576": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} Ordner wurde dem Ordner \"{XXX_1}\" hinzugefügt.}other{{NUM_ITEMS_2} Ordner wurden dem Ordner \"{XXX_2}\" hinzugefügt.}}"
+   },
+   "9197837492705576727": {
+      "message": "Zum nächsten Element"
+   },
+   "919969969251998566": {
+      "message": "Extrahieren Sie dieses Archiv in Ihr E-Mail-Konto."
+   },
+   "9202541782096241233": {
+      "message": "Sie sind nicht berechtigt, die Dateien in dieser geteilten Ablage zu verschieben."
+   },
+   "9203454763088526300": {
+      "message": "Kein Text erkannt."
+   },
+   "9213031420087755232": {
+      "message": "Seite löschen"
+   },
+   "938074023403688885": {
+      "message": "Entfernen"
+   },
+   "951963820437151566": {
+      "message": "Google Sites"
+   },
+   "960732173870658714": {
+      "message": "Google Notizen-Dokument"
+   },
+   "969509857504028202": {
+      "message": "Das Verschieben von Dateien aus einer Teamablage hat Auswirkungen auf den Zugriff und die Inhaberschaft."
+   },
+   "981637388660093923": {
+      "message": "{SECONDS,plural, =0{0 Sekunden}=1{1 Sekunde}other{{SECONDS} Sekunden}}"
+   },
+   "985197728509875956": {
+      "message": "Chemisches Modell"
+   },
+   "989685768146008877": {
+      "message": "Wenn Sie Elemente in eine geteilte Ablage verschieben, hat das Auswirkungen auf die Zugriffs- und Eigentumsrechte."
+   },
+   "991852286447868510": {
+      "message": "Suche nach \"$1​\""
+   },
+   "99635082918315028": {
+      "message": "Bildtext erfasst"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Halten Sie schnell Ihre Gedanken fest und teilen Sie diese mit Freunden."
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Google Notizen – Notizen & Listen"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Google Keep"
+   }
+}

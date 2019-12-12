@@ -1,0 +1,40 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "js/lib/jquery.min.js", "js/shared.min.js", "js/background.min.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "img/icon19.png",
+         "38": "img/icon38.png"
+      },
+      "default_popup": "html/browser_popup.html",
+      "default_title": "Find email addresses"
+   },
+   "content_scripts": [ {
+      "js": [ "js/lib/jquery.min.js", "js/shared.min.js", "js/hunter_content_script.min.js" ],
+      "matches": [ "*://*.hunter.io/*" ]
+   }, {
+      "css": [ "css/websites-sources.css" ],
+      "js": [ "js/lib/jquery.min.js", "js/lib/purify.min.js", "js/lib/mark.min.js", "js/shared.min.js", "js/websites_content_script.min.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "description": "Find email addresses from anywhere on the web, with just one click.",
+   "externally_connectable": {
+      "matches": [ "*://*.hunter.io/*" ]
+   },
+   "homepage_url": "https://hunter.io",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "48": "img/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArUcK6Im3LeDTh5wdDcu60BvofKgQNc18mFS8ytaBxxYVz5Xwysp87n9MGHc3ALOeP2lymbtaK/cmMe5PBJ/yE6EjwFQxE3hGEAIw/Me/CdtzBl23qC/0xfhLvRkU85bzTTLC04QZb7dA4mBYVVkr40v5SJyvoCOI8ApVuJYywoHjn2o3pmRNUBDNz7w09es6BvxDncybivNa7KXMIXJEY0PF3obBmbYH92wdan4co6s31DuiZlsHCVwvp4pW3R/oKa0CgjrK+gWaNNTJ9w00vRmyW+gAcYNEB4W9sKqUsw/CDVLeuVUL3w1Y1sU/wL6V94Ut5P7xLAvKCMMv5ziM7QIDAQAB",
+   "manifest_version": 2,
+   "name": "Hunter: Find email addresses in seconds",
+   "permissions": [ "tabs", "storage", "activeTab", "contextMenus", "http://*/*", "https://*/*" ],
+   "short_name": "Hunter",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.17.11",
+   "web_accessible_resources": [ "img/*", "fonts/*", "html/source_popup.html" ]
+}

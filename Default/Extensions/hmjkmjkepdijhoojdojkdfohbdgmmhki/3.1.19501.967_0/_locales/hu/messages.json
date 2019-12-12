@@ -1,0 +1,3632 @@
+{
+   "1001407065815272462": {
+      "message": "Nem lehet menteni a $2​Saját Drive-on$1​"
+   },
+   "1013939682284715002": {
+      "message": "Rendszerezés"
+   },
+   "1039394921418415681": {
+      "message": "Bejelentkezés"
+   },
+   "1040405721361467195": {
+      "message": "A nyílbillentyűkkel kiválaszthatja azokat a szavakat, amelyekhez megjegyzést szeretne fűzni. Ha a Shift billentyűt lenyomva tartva nyom le egy nyílbillentyűt, bővítheti a kijelölést. A megjegyzés létrehozásához nyomja le az Enter, a megszakításhoz az Esc billentyűt."
+   },
+   "1055686627716339120": {
+      "message": "Archívum"
+   },
+   "1083918249169198626": {
+      "message": "A billentyűkódok le vannak tiltva."
+   },
+   "1101371910696766077": {
+      "message": "Másolat készítése"
+   },
+   "1122146167985532789": {
+      "message": "tegnap"
+   },
+   "1127320433256851404": {
+      "message": "Videolejátszó"
+   },
+   "1131044617724567645": {
+      "message": "A PDF-ekhez fűzött megjegyzéseket a rendszer a fájlban menti, és a megjegyzések más alkalmazásokban is láthatók."
+   },
+   "1137446830169628669": {
+      "message": "Elem húzva."
+   },
+   "1158660505977623040": {
+      "message": "Végleges törlés"
+   },
+   "1162642135048988280": {
+      "message": "Dokumentum átnevezése"
+   },
+   "1163324543881570799": {
+      "message": "Google Dokumentumok"
+   },
+   "116696227691552491": {
+      "message": "Hely kiválasztása"
+   },
+   "1176812982629195161": {
+      "message": "Google-alkalmazások"
+   },
+   "1179891706526242218": {
+      "message": "Következő"
+   },
+   "1185164838496022543": {
+      "message": "Az oldal újratöltéséhez kattintson ide."
+   },
+   "1213005208968286932": {
+      "message": "Megjelölve lezártként"
+   },
+   "1226017195419883732": {
+      "message": "Megosztott meghajtók"
+   },
+   "124010372300613445": {
+      "message": "{numNotes,plural, =1{Nem archivált jegyzet létrehozva}other{# nem archivált jegyzet létrehozva}}"
+   },
+   "1248242541854939846": {
+      "message": "Egymással ütköző változtatások kijavítása"
+   },
+   "124900027451629830": {
+      "message": "Lejátszás"
+   },
+   "125608713654167241": {
+      "message": "Pávakék"
+   },
+   "1256362146573583104": {
+      "message": "Kibontás"
+   },
+   "1259492729704800881": {
+      "message": "Jegyzet archiválása"
+   },
+   "125962421212090538": {
+      "message": "Jövő héten"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1271038294394884640": {
+      "message": "Mégse"
+   },
+   "12768758038718216": {
+      "message": "Archivált jegyzet rögzítése"
+   },
+   "1280430284217153733": {
+      "message": "Időpont hozzáadása"
+   },
+   "1294762503951327157": {
+      "message": "A kipipált elemek automatikusan a lista aljára kerülnek, hogy ne legyenek útban."
+   },
+   "1317394270020748066": {
+      "message": "Mostantól a Google Segédet csatlakoztatva is létrehozhat Keep-jegyzeteket és -listákat, valamint frissítheti és kezelheti is őket."
+   },
+   "1317913074512528649": {
+      "message": "Írja le, ami épp eszébe jut."
+   },
+   "1330083198022464084": {
+      "message": "Új jegyzet létrehozása"
+   },
+   "1333255388111908292": {
+      "message": "Élelmiszer"
+   },
+   "1335763707789999819": {
+      "message": "{NUM_ITEMS,plural, =1{Nem jogosult az elem áthelyezésére a jelenlegi mappáiból. Áthelyezés helyett adja hozzá az elemet a(z) {START_SPAN_1}{NAME}{END_SPAN} mappához.}other{Nem jogosult az elemek áthelyezésére a jelenlegi mappájukból. Áthelyezés helyett adja hozzá az elemeket a(z) {START_SPAN_2}{NAME}{END_SPAN} mappához.}}"
+   },
+   "1338300799355131761": {
+      "message": "Cím nélküli jegyzet"
+   },
+   "1349697396109290623": {
+      "message": "A(z) $1​ megjelenítése nagyobb felbontásban"
+   },
+   "1355047515597245353": {
+      "message": "Nem hozható létre több parancsikon ehhez az elemhez. Ha később egyszerűen meg szeretné találni ezt az elemet, vegye fel a csillagozottak közé."
+   },
+   "1359937199332190522": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{A rendszer áthelyezett {NUM_ITEMS_2} fájlt a következőbe: {XXX_1}.}other{A rendszer áthelyezett {NUM_ITEMS_2} fájlt a következőbe: {XXX_2}.}}"
+   },
+   "136335357683289450": {
+      "message": "Bezárás"
+   },
+   "1365216822837281424": {
+      "message": "Chrome-bővítmény"
+   },
+   "1368808491835583439": {
+      "message": "Mélylila"
+   },
+   "1377158635423797368": {
+      "message": "Ugrás a címkére"
+   },
+   "1379850360723600538": {
+      "message": "Az alkalmazás nem támogatja a jelszóval védett fájlokat."
+   },
+   "1388712764439031120": {
+      "message": "Link megnyitása"
+   },
+   "1397887822627488928": {
+      "message": "Név vagy e-mail-cím a megosztáshoz"
+   },
+   "1429848477922945853": {
+      "message": "Üres jegyzet"
+   },
+   "1432850707344442376": {
+      "message": "Címke ($1​) létrehozása"
+   },
+   "1434081385486479995": {
+      "message": "A megosztás jelenleg nem érhető el"
+   },
+   "1439211265324766071": {
+      "message": "A jegyzet a kukában van"
+   },
+   "1441487391064925653": {
+      "message": "Az összes billentyűkód megjelenítése a Súgóban"
+   },
+   "1441712877952841568": {
+      "message": "Utolsó módosítás dátuma: $1​"
+   },
+   "1442417474192183694": {
+      "message": "Megtekintő hibaelhárítási részleteinek megjelenítése"
+   },
+   "1442722292947881614": {
+      "message": "Típusok"
+   },
+   "1446829548948002072": {
+      "message": "vessző"
+   },
+   "1453330983536591773": {
+      "message": "Világosszürke"
+   },
+   "1463389029497634261": {
+      "message": "Hangerő csökkentése"
+   },
+   "1466663154000252842": {
+      "message": "Egyes személyek elveszíthetik a hozzáférésüket"
+   },
+   "1467797923781828000": {
+      "message": "$1​ elem lett hozzáadva a(z) $2​ mappához."
+   },
+   "1475258635371833968": {
+      "message": "$2​, $1​"
+   },
+   "1478393252643397554": {
+      "message": "Narancssárga"
+   },
+   "1482452362096735080": {
+      "message": "{numOccurrences} alkalommal ismétlődik"
+   },
+   "1490217372377947899": {
+      "message": "Drive-feltöltés"
+   },
+   "1505876360160857231": {
+      "message": "$1​ TB"
+   },
+   "1507063529674142853": {
+      "message": "A hónap utolsó napján"
+   },
+   "1507445189431379166": {
+      "message": "Törlés"
+   },
+   "1512114410402431831": {
+      "message": "Frissítés"
+   },
+   "1512454807955173272": {
+      "message": "A Keep az internethez való csatlakozást követően fog frissülni"
+   },
+   "1513178578981188988": {
+      "message": "Edge"
+   },
+   "1532717559893630620": {
+      "message": "$1​ címke egyesítve a következőben: $2​."
+   },
+   "1536051766421561160": {
+      "message": "egyenlőségjel"
+   },
+   "153659275234722804": {
+      "message": "Elvetés"
+   },
+   "1543499632005215694": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{A(z) „{ADDED_PARENT_NAME}” helyre áthelyezett fájl DLP-érzékelést váltott ki. A fájl bizalmas információkat tartalmazhat.}other{A(z) „{ADDED_PARENT_NAME}” helyre áthelyezett egyes fájlok DLP-érzékelést váltottak ki. A fájlok bizalmas információkat tartalmazhatnak.}}"
+   },
+   "1568379678795589771": {
+      "message": "Négyzet"
+   },
+   "1586968957182554447": {
+      "message": "Tiltás"
+   },
+   "1600730176972144699": {
+      "message": "Áthelyezés az előző pozícióba: Shift+J, áthelyezés a következő pozícióba: Shift+K"
+   },
+   "1606998668553414638": {
+      "message": "Hozzáférés kérése"
+   },
+   "1612117309990202511": {
+      "message": "Pöttyök"
+   },
+   "1645936035034659132": {
+      "message": "{itemsRemaining,plural, =1{# listaelem van még}other{# listaelem van még}}"
+   },
+   "1655692513689044870": {
+      "message": "Ön kijelentkezett."
+   },
+   "1656911987308166143": {
+      "message": "Törlés"
+   },
+   "1665821947855814052": {
+      "message": "Méret"
+   },
+   "1675711464233426777": {
+      "message": "A mai nap folyamán"
+   },
+   "1675900304699098572": {
+      "message": "{count,plural, =1{Jegyzet rögzítése megszüntetve}other{# jegyzet rögzítése megszüntetve}}"
+   },
+   "1680617124502957636": {
+      "message": "A kapcsolódás jelenleg sikertelen. Próbálja újra később."
+   },
+   "1680818623013843452": {
+      "message": "Lucidchart"
+   },
+   "1683762293389974494": {
+      "message": "Törlés"
+   },
+   "1694896269813520248": {
+      "message": "Rajz hozzáadása"
+   },
+   "1697160643589236962": {
+      "message": "$1​ PB"
+   },
+   "1700455651867499062": {
+      "message": "Google Drive Shortcut"
+   },
+   "1703175513040690135": {
+      "message": "Bárki a(z) $1​ domainben"
+   },
+   "1704004075228783011": {
+      "message": "{every,plural, =1{Havonta ismétlődik, minden hónap utolsó napján.}other{# havonta ismétlődik, minden hónap utolsó napján.}}"
+   },
+   "1711424025297585662": {
+      "message": "a|az|egy"
+   },
+   "171683163267149669": {
+      "message": "$1​ GB"
+   },
+   "1719906320230837590": {
+      "message": "Google Képkereső"
+   },
+   "1730171019350750807": {
+      "message": "Fekete"
+   },
+   "1737240194537729525": {
+      "message": "Hetente"
+   },
+   "1739900012825270238": {
+      "message": "Ugrás az előző elemre"
+   },
+   "1740371341228065086": {
+      "message": "Újratöltés"
+   },
+   "1745782414562966515": {
+      "message": "Egyesíti a(z) „$1​” és a(z) „$2​” címkéket? A(z) „$1​” címkével rendelkező jegyzetek a következő címkével lesznek ellátva: $2​. A(z) „$1​” címkét pedig töröljük."
+   },
+   "1746512984326924716": {
+      "message": "A művelet nem vonható vissza."
+   },
+   "1770899865480106963": {
+      "message": "Android-eszközök"
+   },
+   "1781922622745161264": {
+      "message": "Itt jelennek meg a hozzáadott jegyzetek"
+   },
+   "1783719421893050637": {
+      "message": "Méretek"
+   },
+   "1790494039990261456": {
+      "message": "Mindkettő megtartása"
+   },
+   "1791115075948268631": {
+      "message": "A billentyűkódokat ismertető súgó megnyitása"
+   },
+   "179545118447015250": {
+      "message": "Rácsnézet"
+   },
+   "1803966010993357655": {
+      "message": "Továbbiak"
+   },
+   "1808245543551507519": {
+      "message": "Hang"
+   },
+   "1810354345035313773": {
+      "message": "A Jelölő eszköz szín- és méretválasztójának megnyitása"
+   },
+   "1829174126565818591": {
+      "message": "Firefox"
+   },
+   "1830157062072535681": {
+      "message": "A(z) $1​ megjelenítése"
+   },
+   "1830980674971538385": {
+      "message": "Feltöltés"
+   },
+   "1852745815330163711": {
+      "message": "Google Rajzok"
+   },
+   "1857224091554117760": {
+      "message": "Piros"
+   },
+   "1858255237143975969": {
+      "message": "$2​Adatvédelem$1​"
+   },
+   "1870691479127746185": {
+      "message": "jobbra"
+   },
+   "187077078156858455": {
+      "message": "Hangjegyzet"
+   },
+   "189303170370862360": {
+      "message": "$1​/$2​ elem"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901215424950227523": {
+      "message": "A(z) $1​ címke nem létezik."
+   },
+   "1936219394601788126": {
+      "message": "fölérendelt"
+   },
+   "1938115711058331119": {
+      "message": "Megjegyzésoszlop megjelenítése"
+   },
+   "195154114623528341": {
+      "message": "Hely hozzáadása"
+   },
+   "1956794332842050061": {
+      "message": "Következő oldal"
+   },
+   "1963323419655107448": {
+      "message": "Kijelölt elemek törlése"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1967536906522187719": {
+      "message": "Hiba történt a táblázat előnézetének megtekintésekor."
+   },
+   "1969531182936822963": {
+      "message": "Visszavonta a műveletet"
+   },
+   "1972885107693687510": {
+      "message": "Az Ugrás a címkére buborék látható"
+   },
+   "1973454937875679500": {
+      "message": "Címkenév megadása"
+   },
+   "1975630610063119352": {
+      "message": "{charsRemaining,plural, =1{# karakter maradt}other{# karakter maradt}}"
+   },
+   "1980209166254310911": {
+      "message": "Nap"
+   },
+   "1986228872461282439": {
+      "message": "Alapértelmezett"
+   },
+   "1998476658842502120": {
+      "message": "Új jegyzet írása: C"
+   },
+   "200488920523496447": {
+      "message": "Az elem kiemelve."
+   },
+   "2039757863628752523": {
+      "message": "Gyakoriságra vonatkozó beállítások"
+   },
+   "205445381296663832": {
+      "message": "Sikertelen feltöltés."
+   },
+   "205876860571942679": {
+      "message": "Google Saját térképek"
+   },
+   "2059084517358086391": {
+      "message": "Keresősáv bezárása"
+   },
+   "2061440050632248160": {
+      "message": "Archiválás"
+   },
+   "2068023589621557589": {
+      "message": "TrueType betűtípus"
+   },
+   "2072502213578290051": {
+      "message": "Már nincs szüksége egy jegyzetre? Koppintson az Archiválás gombra."
+   },
+   "2073322475696388995": {
+      "message": "Ugrás előre"
+   },
+   "2074454463201225704": {
+      "message": "Nagyítás visszaállítása"
+   },
+   "2096559615401306102": {
+      "message": "Nem helyezhet át fájlokat a(z) $1​ domainen kívül"
+   },
+   "2107379241532042955": {
+      "message": "Hely"
+   },
+   "2109979457438465538": {
+      "message": "Címkeválasztó menü megnyitva"
+   },
+   "2113092209746357267": {
+      "message": "Chrome"
+   },
+   "2118635459760443566": {
+      "message": "Következő"
+   },
+   "2119255452378336327": {
+      "message": "Listajel visszaállítva a következőre: $1​"
+   },
+   "212796670323571824": {
+      "message": "OK"
+   },
+   "2142420359113070963": {
+      "message": "Veremkivonat (csak a belső hálózaton lévő felhasználók láthatják):"
+   },
+   "214517458278879973": {
+      "message": "Bejelentkezés mint $1​"
+   },
+   "2154372123324862271": {
+      "message": "törtvonal"
+   },
+   "2159130950882492111": {
+      "message": "Mégse"
+   },
+   "2166966123760559393": {
+      "message": "Új címke létrehozása"
+   },
+   "2181197458532159304": {
+      "message": "{numberOfNotes,plural, =1{Jegyzet a kukába helyezve}other{# jegyzet a kukába helyezve}}"
+   },
+   "2184278444368405837": {
+      "message": "$1​ elem"
+   },
+   "2189621188983913867": {
+      "message": "További alkalmazások társítása"
+   },
+   "2190049738646901760": {
+      "message": "{count,plural, =1{Törli a jegyzetet?}other{Törli a jegyzeteket?}}"
+   },
+   "2195440644060728966": {
+      "message": "{NUM_ITEMS,plural, =1{Egyetlen mappában megtalálható mappát helyez át}other{Egyetlen mappában megtalálható mappákat helyez át}}"
+   },
+   "220168959069469607": {
+      "message": "További műveletek"
+   },
+   "2203926649090909861": {
+      "message": "Listaelem áthelyezve a következő helyre: $1​"
+   },
+   "2215890921415017560": {
+      "message": "Teljes képernyős mód"
+   },
+   "2216904725760458480": {
+      "message": "Naponta"
+   },
+   "221715292685577880": {
+      "message": "Igen"
+   },
+   "2226562046914098941": {
+      "message": "Ez a fájl túl nagy az előnézet megjelenítéséhez"
+   },
+   "2226937423434054727": {
+      "message": "Kijelölve: $1​, $2​ – $3​, $4​"
+   },
+   "223198388381606871": {
+      "message": "Levendula"
+   },
+   "2254586145235168886": {
+      "message": "Jóváhagyások panel összecsukva."
+   },
+   "2264311811697505466": {
+      "message": "Frissítés"
+   },
+   "2265238034451062417": {
+      "message": "{count,plural, =1{+ # befejezett elem}other{+ # befejezett elem}}"
+   },
+   "2270469222412517777": {
+      "message": "Nincs felismerhető szöveg"
+   },
+   "2270633624888102832": {
+      "message": "Jegyzet rögzítésének feloldása"
+   },
+   "2280650195464600721": {
+      "message": "Navigálás"
+   },
+   "2282423663539387332": {
+      "message": "Közelgő"
+   },
+   "2285069188138705005": {
+      "message": "Társított alkalmazások"
+   },
+   "2286685488296851497": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Áthelyez egy elemet a(z) „{SHARED_FOLDER_NAME}” megosztott mappából, így a felhasználók elveszítik a hozzáférésüket.}other{Áthelyez {NUM_ITEMS_2} elemet a(z) „{SHARED_FOLDER_NAME}” megosztott mappából, így a felhasználók elveszítik a hozzáférésüket.}}"
+   },
+   "228741435562395266": {
+      "message": "A nyomtatás még nem érhető el"
+   },
+   "2289534534793293486": {
+      "message": "Archiválás megszüntetése"
+   },
+   "2289812403593835836": {
+      "message": "Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Hangerő növelése"
+   },
+   "2299671629154778581": {
+      "message": "Visszavonta a jegyzet rögzítését, és archiválta a jegyzetet"
+   },
+   "2308018963132768704": {
+      "message": "Méret: 4"
+   },
+   "2310145944356900158": {
+      "message": "Bejelölve"
+   },
+   "2311880726221661199": {
+      "message": "Nagyobb felbontások betöltése"
+   },
+   "2323249770683736002": {
+      "message": "Új címke létrehozása"
+   },
+   "2324955914430674498": {
+      "message": "Nincs találat erre: „$1​”"
+   },
+   "2346361265476305332": {
+      "message": "A tulajdonos letiltotta a hangfájl lejátszását."
+   },
+   "2357623745116912085": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{A(z) „{TEAM_DRIVE_NAME}” csapatmeghajtó tagjai csak akkor férhetnek hozzá az elemhez, ha meg van osztva velük.}other{A(z) „{TEAM_DRIVE_NAME}” csapatmeghajtó tagjai csak akkor férhetnek hozzá az elemekhez, ha meg vannak osztva velük.}}"
+   },
+   "2359614137862708172": {
+      "message": "Shift"
+   },
+   "2364374826543847335": {
+      "message": "Forrás eltávolítása"
+   },
+   "236689092839978781": {
+      "message": "Nem ismétlődik"
+   },
+   "2370656573843123707": {
+      "message": "szögletes berekesztő zárójel"
+   },
+   "2373760032138505521": {
+      "message": "Már van ilyen címke"
+   },
+   "2386536768112358461": {
+      "message": "Page Down"
+   },
+   "2396804279177914769": {
+      "message": "Átadja a tulajdonjogot a csapatmeghajtónak?"
+   },
+   "2402010336938670264": {
+      "message": "Rajzoljon az ujjával, vagy ha van érintőceruzája, hozzon létre egy kézzel írt jegyzetet."
+   },
+   "2405795704816921421": {
+      "message": "$1​ fájl"
+   },
+   "2408383448126741628": {
+      "message": "Időtartam"
+   },
+   "2408933271548524782": {
+      "message": "Zárolva"
+   },
+   "2423364695613735749": {
+      "message": "Új lista létrehozása: L"
+   },
+   "2423877407428530040": {
+      "message": "A fájl túl sok diagramot tartalmaz."
+   },
+   "2433429041384246549": {
+      "message": "Némítás"
+   },
+   "2438741853303074449": {
+      "message": "előfordulás"
+   },
+   "2444198666025646119": {
+      "message": "Ibolyakék"
+   },
+   "2452145367257933677": {
+      "message": "Visszavonás"
+   },
+   "2452522051596946166": {
+      "message": "Hoppá! Hiba történt a(z) $1​ előnézetének megjelenítésekor. Újrapróbálkozás."
+   },
+   "2454642351139428112": {
+      "message": "Visszavonás"
+   },
+   "246828342952819465": {
+      "message": "Bármilyen eszközről $1​ rögzítheti gondolatait"
+   },
+   "2469046390122693414": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}other{Áthelyez {NUM_ITEMS_2} elemet a megosztott meghajtókról és a megosztott mappákból, így a felhasználók elveszítik a hozzáférésüket.}}"
+   },
+   "2478862372619762755": {
+      "message": "Jelöljön ki egy területet a megjegyzéshez"
+   },
+   "2483363439634684283": {
+      "message": "Méret: 20"
+   },
+   "2494928104701250542": {
+      "message": "Rögzítse a jegyzeteket, és állítson be emlékeztetőket a fontos dolgokról."
+   },
+   "2504232652631703202": {
+      "message": "Társítva"
+   },
+   "2509141182388535183": {
+      "message": "Megtekintés"
+   },
+   "251025074207413762": {
+      "message": "Leírás hozzáadása"
+   },
+   "2525633490863427854": {
+      "message": "Újra"
+   },
+   "2527534830196374788": {
+      "message": "Ctrl"
+   },
+   "2532280782491328445": {
+      "message": "Előző keresése"
+   },
+   "2542788471536661524": {
+      "message": "Ide húzza a képeket"
+   },
+   "2562881166530755046": {
+      "message": "Rajzok"
+   },
+   "257317112834806705": {
+      "message": "Váltás a lista- és rácsnézet között"
+   },
+   "2579261044590673579": {
+      "message": "Saját Drive"
+   },
+   "2579679351920691492": {
+      "message": "Ugrás visszafelé"
+   },
+   "2584557103820423944": {
+      "message": "Listaelem behúzásának növelése/csökkentése"
+   },
+   "2592236094918360632": {
+      "message": "Nem lehet áthelyezni a fájlt, mert a fájltulajdonos nem tagja a megosztott meghajtónak."
+   },
+   "2600731575260427177": {
+      "message": "A fájl nem létezik. Lehetséges, hogy törölték. Kérjük, próbálja meg újra feltölteni a fájlt."
+   },
+   "2601304136110057215": {
+      "message": "Új rajz"
+   },
+   "2604527707881848686": {
+      "message": "Az elem behúzása nem csökkenthető jobban."
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2623861453769098676": {
+      "message": "Hiba történt a dokumentum előnézetének megtekintésekor."
+   },
+   "2626653026098396543": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Az elem áthelyezésével megosztja az elemet mindenkivel, aki látja a(z) „{SHARED_FOLDER_NAME}” megosztott mappát.}other{Az elemek áthelyezésével megosztja őket mindenkivel, aki látja a(z) „{SHARED_FOLDER_NAME}” megosztott mappát.}}"
+   },
+   "2632263751512428257": {
+      "message": "Évente"
+   },
+   "2632538140519286364": {
+      "message": "A kukában lévő jegyzetek hét nap elteltével törlődnek."
+   },
+   "2645469029410848421": {
+      "message": "{noteCount,plural, =1{Jegyzetcímke}other{Jegyzetcímkék}}"
+   },
+   "2661850177130037208": {
+      "message": "Elem megnyitása"
+   },
+   "2673781847036352269": {
+      "message": "Inaktív megjegyzések elrejtése"
+   },
+   "2680303811435018716": {
+      "message": "További elemek hozzáadása nem lehetséges"
+   },
+   "2681830832355823748": {
+      "message": "Keresés az összes gyorsparancs között"
+   },
+   "268402507078609011": {
+      "message": "{imagesAdded,plural, =1{Kép hozzáadva}other{# kép hozzáadva}}"
+   },
+   "269301203471243703": {
+      "message": "Parancsikon hozzáadása"
+   },
+   "2713989182797848963": {
+      "message": "Rajzok és kézzel írt jegyzetek létrehozása"
+   },
+   "2715199780155065699": {
+      "message": "A fájl túl sok alakzatot, szövegmezőt vagy rajzot tartalmaz."
+   },
+   "2716433087531258659": {
+      "message": "lapozás felfelé"
+   },
+   "2719125961689709460": {
+      "message": "Jegyzet"
+   },
+   "2725185337656029651": {
+      "message": "Képek és hangok hozzáadása"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2757876083706839152": {
+      "message": "A rajz a méretkorlát miatt duplikálva lett."
+   },
+   "2758125083752925237": {
+      "message": "(Tulajdonos)"
+   },
+   "2760106082595028595": {
+      "message": "A jegyzet túl nagy."
+   },
+   "2761695221066052931": {
+      "message": "A Link megnyitása buborék látható"
+   },
+   "2762925619340374825": {
+      "message": "URL-cím alapján"
+   },
+   "277430914014962533": {
+      "message": "Hoppá! Hiba történt a(z) $1​ előnézetének megjelenítésekor."
+   },
+   "2777453609143551768": {
+      "message": "Hangerő-szabályozás"
+   },
+   "2793841261389879255": {
+      "message": "Előző oldal"
+   },
+   "2794676336056877832": {
+      "message": "{every,plural, =1{Havonta ismétlődik, minden hónap ugyanazon napján.}other{# havonta ismétlődik, minden hónap ugyanazon napján.}}"
+   },
+   "2803553109654833664": {
+      "message": "Rózsaszín"
+   },
+   "2814354342017225342": {
+      "message": "Részletes linkelőnézetek megjelenítése"
+   },
+   "2818020101821669029": {
+      "message": "Létrehozva"
+   },
+   "2820045170951016567": {
+      "message": "Emlékeztetők"
+   },
+   "2823533464825550362": {
+      "message": "Dokumentumvezérlők"
+   },
+   "2827039933590757722": {
+      "message": "Windows-parancsikon"
+   },
+   "2828060233316503200": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{A rendszer áthelyezett {NUM_ITEMS_2} elemet a(z) {XXX_1} mappából a következőbe: {XXX_2}.}other{A rendszer áthelyezett {NUM_ITEMS_2} elemet a(z) {XXX_3} mappából a következőbe: {XXX_4}.}}"
+   },
+   "2828258538208588139": {
+      "message": "{shortcutCount,plural, =1{Hozzáadott 1 parancsikont}other{Hozzáadott # parancsikont}}"
+   },
+   "2829226075651806940": {
+      "message": "Nagyítás"
+   },
+   "2842462703735289745": {
+      "message": "A(z) „$1​” megosztott mappához hozzáférő felhasználók hozzáférhetnek majd az elem(ek)hez."
+   },
+   "2853036885874864031": {
+      "message": "A tulajdonjog átkerül a következő domainbe: $1​."
+   },
+   "2854717396594966319": {
+      "message": "OpenOffice Writer"
+   },
+   "2868845399811178993": {
+      "message": "Csak a megosztott mappa („$1​”) tulajdonosa törölheti a mappához adott parancsikonokat."
+   },
+   "2873089307546162154": {
+      "message": "OK"
+   },
+   "2877285560485318801": {
+      "message": "Szüneteltetés"
+   },
+   "2879276552944958066": {
+      "message": "Vissza a(z) $1​ mappába."
+   },
+   "2886313667612471214": {
+      "message": "Frissítés szükséges. Ez eltarthat pár percig."
+   },
+   "2893055432094515558": {
+      "message": "Jelölőnégyzetek láthatók"
+   },
+   "289798573180023043": {
+      "message": "OK"
+   },
+   "2901360496423912565": {
+      "message": "Jelentés"
+   },
+   "2908917161758545146": {
+      "message": "{count,plural, =1{Jegyzet feloldva és archiválva}other{# jegyzet feloldva és archiválva}}"
+   },
+   "2930974997943171554": {
+      "message": "Sötét téma kikapcsolva"
+   },
+   "2935193106137642160": {
+      "message": "Nem érhető el a nagyítás"
+   },
+   "295331174171409695": {
+      "message": "Probléma lépett fel a(z) $1​ letöltési engedélyének frissítésekor."
+   },
+   "2960516445247616550": {
+      "message": "A nyomtatás nem érhető el"
+   },
+   "296391753033307868": {
+      "message": "$1​ címke létrehozva és hozzáadva a jegyzethez."
+   },
+   "2971623719720688041": {
+      "message": "Művelet visszavonva"
+   },
+   "2973306402585941108": {
+      "message": "Reggel"
+   },
+   "2983318659047499045": {
+      "message": "Emlékeztetők"
+   },
+   "298817883481775869": {
+      "message": "Betöltés…"
+   },
+   "2990497076082409431": {
+      "message": "A(z) „$1​” áthelyezve a(z) $2​ mappába."
+   },
+   "2993901764282547916": {
+      "message": "App Maker"
+   },
+   "3005058076425755361": {
+      "message": "Backspace"
+   },
+   "3018905429279095639": {
+      "message": "{NUM_ITEMS,plural, =1{Nem jogosult a mappa áthelyezésére a jelenlegi mappáiból. Helyette adja hozzá a mappát a(z) {START_SPAN_1}{NAME}{END_SPAN} mappához.}other{Nem jogosult a mappák áthelyezésére a jelenlegi mappájukból. Helyette adja hozzá a mappákat a(z) {START_SPAN_2}{NAME}{END_SPAN} mappához.}}"
+   },
+   "3038603165081234302": {
+      "message": "Hozzáadás a $2​Saját meghajtóhoz$1​…"
+   },
+   "3043961722025425136": {
+      "message": "Leírás"
+   },
+   "304438440663479110": {
+      "message": "Kompatibilis táblázat-billentyűparancs"
+   },
+   "306516303501625305": {
+      "message": "Nem sikerült hitelesíteni."
+   },
+   "3074915509081765994": {
+      "message": "iPhone és iPad"
+   },
+   "3091440425606975088": {
+      "message": "Névtelen lista"
+   },
+   "3108098439469164127": {
+      "message": "Új rajz megnyitva"
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​"
+   },
+   "3150651996344750990": {
+      "message": "{count,plural, =1{Jegyzet archiválása megszüntetve.}other{# jegyzet archiválása megszüntetve.}}"
+   },
+   "3167198321908629554": {
+      "message": "Frissítés és a jegyzetek újratöltése…"
+   },
+   "3176246635438298155": {
+      "message": "Delete"
+   },
+   "3187117482772485385": {
+      "message": "Indexkép létrehozása..."
+   },
+   "3189854932778515441": {
+      "message": "A jegyzet archiválva van"
+   },
+   "3190546672187601036": {
+      "message": "Éjszaka"
+   },
+   "3195812604657128345": {
+      "message": "A kibontáshoz válasszon egy Drive-mappát"
+   },
+   "32059145043728507": {
+      "message": "{numberOfNotes,plural, =1{Jegyzet visszaállítva}other{# jegyzet visszaállítva}}"
+   },
+   "3207650089232728475": {
+      "message": "Címkék módosítása"
+   },
+   "3211163842850942567": {
+      "message": "Nagyítás"
+   },
+   "3217354672216773127": {
+      "message": "Aktiválva: $1​"
+   },
+   "3220641589840600333": {
+      "message": "Átváltva a(z) $1​ nézetre"
+   },
+   "3241696131593027453": {
+      "message": "Jegyzet kiválasztása"
+   },
+   "3243075164136265612": {
+      "message": "Jóváhagyások panel kibontva."
+   },
+   "3249966726137025950": {
+      "message": "Együttműködő családi csoportja"
+   },
+   "3250489229749307913": {
+      "message": "Elektronikus kiadvány"
+   },
+   "3258100527833044153": {
+      "message": "Üres rajz elvetve"
+   },
+   "3261131345401321392": {
+      "message": "Írhat megjegyzést"
+   },
+   "3266448715145955862": {
+      "message": "Visszavonta a jegyzetek archiválását, és rögzítette a jegyzeteket"
+   },
+   "3272496516667407797": {
+      "message": "Hiba történt a részletek betöltésekor."
+   },
+   "3278046126264096288": {
+      "message": "Hét"
+   },
+   "3281684668260174833": {
+      "message": "{numberOfNotes,plural, =1{Feloldotta a jegyzet rögzítését és a kukába helyezte}other{Feloldotta # jegyzet rögzítését és a kukába helyezte őket}}"
+   },
+   "3285255128259782773": {
+      "message": "Helyi lemez"
+   },
+   "3285552194638444776": {
+      "message": "Mostantól szerkesztheti, megoszthatja és kezelheti a(z) $1​-fájlok változatait a $2​ szolgáltatásban"
+   },
+   "3288498486633948368": {
+      "message": "„$1​” hozzáadva a Google Drive-hoz."
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3308935528045767909": {
+      "message": "Új jegyzet rajzzal"
+   },
+   "3312545971976531405": {
+      "message": "Üzenet"
+   },
+   "3313557905033219672": {
+      "message": "{numNotes,plural, =1{Nem archivált jegyzet létrehozva}other{# nem archivált jegyzet létrehozva}}"
+   },
+   "3325094738421414114": {
+      "message": "Hozzáadás a kijelölt jegyzetekhez vagy eltávolítás közülük: X"
+   },
+   "3345567742278474807": {
+      "message": "Ez a jegyzet kifogásolhatóként lett megjelölve, ezért nem lehet megosztani."
+   },
+   "3348057264663626000": {
+      "message": "Kijelölés felfelé léptetve."
+   },
+   "3362903141674317449": {
+      "message": "Együttműködő"
+   },
+   "3371033609268806242": {
+      "message": "$1​ címke törölve."
+   },
+   "3378875258397512442": {
+      "message": "A jegyzetekhez hely- és időalapú emlékeztetőket állíthat be, hangjegyzeteket készíthet, illetve online és offline is dolgozhat."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Megnyitás"
+   },
+   "3385831848537487538": {
+      "message": "Utazás"
+   },
+   "3409483962000136213": {
+      "message": "Lejátszás/szünet"
+   },
+   "3418677553313974490": {
+      "message": "Kuka"
+   },
+   "3418767079436101103": {
+      "message": "Hiba történt az oldal betöltésekor."
+   },
+   "3419821606494999471": {
+      "message": "Megjegyzésekről szóló értesítések kezelése"
+   },
+   "3437227878928998987": {
+      "message": "Lista létrehozása"
+   },
+   "3447704623213039325": {
+      "message": "Bevásárlólista eleme"
+   },
+   "3448234415275521882": {
+      "message": "Általános információk"
+   },
+   "3449090379302140902": {
+      "message": "Fotók"
+   },
+   "3451851833460018584": {
+      "message": "{NUM_COMMENTS,plural, =0{Nincsenek megjegyzések}=1{Egy megjegyzés}other{# megjegyzés}}"
+   },
+   "3455405209271884570": {
+      "message": "Kibontás"
+   },
+   "345718983715470367": {
+      "message": "Forrás"
+   },
+   "3462556632501534753": {
+      "message": "$2​Nyílt forráskódú licencek$1​"
+   },
+   "3468441711253011521": {
+      "message": "Google Táblázatok"
+   },
+   "3473620774713000513": {
+      "message": "Lezárva"
+   },
+   "3478630283627055305": {
+      "message": "Jegyzet szerkesztésének leállítása: Esc"
+   },
+   "3485469306694683931": {
+      "message": "Kibontás a Drive-fiókba"
+   },
+   "3487924397596265480": {
+      "message": "Kijelölve: $1​."
+   },
+   "3493932452507671194": {
+      "message": "Behúzás: $1​ + záró szögletes zárójel, behúzás csökkentése: $1​ + nyitó szögletes zárójel"
+   },
+   "3496410038494993160": {
+      "message": "Népszerű billentyűparancsok"
+   },
+   "3518073392823563581": {
+      "message": "Billentyűkódok"
+   },
+   "3527565741177531691": {
+      "message": "A következőre mutató parancsikon hozzáadása: $2​$3​$1​…"
+   },
+   "3528739824697875943": {
+      "message": "listaelem"
+   },
+   "3539889527558048258": {
+      "message": "Google Képkereső"
+   },
+   "3544847661620838201": {
+      "message": "Próbálja ki! Kereséssel bármikor megtalálhatja."
+   },
+   "3549581437554274388": {
+      "message": "Kijelölés jobbra léptetve."
+   },
+   "3551522853788442530": {
+      "message": "Vissza"
+   },
+   "3551608745198442336": {
+      "message": "Rajz: $2​/$1​."
+   },
+   "3553997866738769437": {
+      "message": "Rajz szerkesztése"
+   },
+   "3555297636767750285": {
+      "message": "Zöld"
+   },
+   "3561658662634401836": {
+      "message": "Cím"
+   },
+   "3569884090205828853": {
+      "message": "OpenOffice Calc"
+   },
+   "3571391964903695725": {
+      "message": "Ismétlődés"
+   },
+   "3571704286086017611": {
+      "message": "Emlékeztető törölve"
+   },
+   "3574963906259719128": {
+      "message": "A böngésző nem tudja lejátszani ezt a hangfájlt."
+   },
+   "3580243353280636963": {
+      "message": "Dátum és időpont kiválasztása"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3595562664731337243": {
+      "message": "Címke átnevezése"
+   },
+   "3603931013946597836": {
+      "message": "{NUM_ITEMS,plural, =1{Egy {NUM_PARENTS} mappában megtalálható fájlt helyez át}other{Olyan fájlokat helyez át, amelyek {NUM_PARENTS} mappában találhatók meg}}"
+   },
+   "3608521102844050208": {
+      "message": "Emlékeztető:"
+   },
+   "3608606849109645545": {
+      "message": "Adja meg a dokumentum új nevét:"
+   },
+   "3609912631958780352": {
+      "message": "Kalligráfia eszköz"
+   },
+   "3611573349633408445": {
+      "message": "Letöltés"
+   },
+   "3612936866865912552": {
+      "message": "Betöltés…"
+   },
+   "3617727970098875990": {
+      "message": "Keresés az összes billentyűparancs között"
+   },
+   "362521762755836201": {
+      "message": "Létrehozás dátuma: $1​"
+   },
+   "3628141779141388914": {
+      "message": "Mappák egyelőre nem helyezhetők át megosztott meghajtókra."
+   },
+   "3634885664399305142": {
+      "message": "A rajzfunkció nem érhető el."
+   },
+   "3642907339426904506": {
+      "message": "Nincs jegyzet a kukában"
+   },
+   "3651893685901703652": {
+      "message": "…"
+   },
+   "3657386785336906042": {
+      "message": "fordított törtvonal"
+   },
+   "3659554681396757189": {
+      "message": "Általam megnyitott elemek"
+   },
+   "366289214151975122": {
+      "message": "A link birtokában bárki a(z) $1​ domainben"
+   },
+   "3663571259791438207": {
+      "message": "Visszaélés bejelentése"
+   },
+   "3664842788764635265": {
+      "message": "Egyik sem"
+   },
+   "3666123569747918021": {
+      "message": "Ez a dokumentum nem mentett módosításokat tartalmaz. Elhagyja az oldalt, és elveti a módosításokat?"
+   },
+   "3678477908297567934": {
+      "message": "aláhúzás"
+   },
+   "3684032082082645570": {
+      "message": "{count,plural, =1{Válassza ki a jegyzet színét.}other{Válassza ki a jegyzetek színét.}}"
+   },
+   "3690515530505404607": {
+      "message": "Hiba történt a videó lejátszásakor."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Nincsenek elemek}=1{1 elem}other{# elem}}"
+   },
+   "3703024996011822310": {
+      "message": "Üdvözli a Google Keep!"
+   },
+   "3712215972250917265": {
+      "message": "Megjegyzések"
+   },
+   "3714239567487848851": {
+      "message": "Sötét téma bekapcsolva"
+   },
+   "3721649886572275931": {
+      "message": "Méret: 8"
+   },
+   "372633345629975481": {
+      "message": "Jegyzetek rögzítve"
+   },
+   "372823375470132483": {
+      "message": "Kukába helyezett jegyzet kijelölésének törlése"
+   },
+   "3734444903221631913": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}other{Áthelyez {NUM_ITEMS_2} elemet a csapatmeghajtókról és a megosztott mappákból, így a felhasználók elveszítik a hozzáférésüket.}}"
+   },
+   "3751183760611784323": {
+      "message": "Az elem kiemelve, hogy kitöltse a képernyő szélességét."
+   },
+   "3768927257183755959": {
+      "message": "Mentés"
+   },
+   "3787959261309150430": {
+      "message": "Ha vonalat szeretne rajzolni, kattintson a Toll ikonra."
+   },
+   "3793086499925031123": {
+      "message": "Keresősáv megnyitása/előző keresése"
+   },
+   "3796511349428373407": {
+      "message": "Dátumbeállítások"
+   },
+   "37992665410817181": {
+      "message": "Újra megnyitva"
+   },
+   "3802992573289114390": {
+      "message": "A(z) $1​ leírása sikeresen frissítve."
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3827179818223863356": {
+      "message": "Világoszöld"
+   },
+   "383396092993661575": {
+      "message": "Engedélyezi az áthelyezést a megosztott meghajtóra?"
+   },
+   "3845302429676793049": {
+      "message": "Probléma lépett fel a(z) $1​ leírásának frissítése közben."
+   },
+   "3852386690131857488": {
+      "message": "Megosztás engedélyezése"
+   },
+   "3856687081748327279": {
+      "message": "Ha áthelyezi egy megosztott meghajtó elemeit, azzal módosítja a hozzáférésre és a tulajdonosra vonatkozó beállításokat."
+   },
+   "3856960241878617076": {
+      "message": "A megjegyzések betöltése folyamatban van. Kérjük, várjon."
+   },
+   "3858324058837632381": {
+      "message": "Hiba történt a hangfájl lejátszásakor."
+   },
+   "3869166581651870488": {
+      "message": "A szerkesztés befejezése"
+   },
+   "3874597373619381607": {
+      "message": "A megoldott megjegyzések megjelenítése"
+   },
+   "3877974536163446728": {
+      "message": "Kijelölve: $1​, $2​"
+   },
+   "3880648579756747781": {
+      "message": "Ha a mappában lévő elemek száma meghaladja a megosztott meghajtókra vonatkozó maximális elemszámot, elveszhetnek az engedélyek. $2​További információ.$1​"
+   },
+   "3888733084985311515": {
+      "message": "Elérhető családi csoport."
+   },
+   "3897281533382850749": {
+      "message": "Némítás feloldása"
+   },
+   "3907816292084809686": {
+      "message": "Művelet megismételve"
+   },
+   "3909380459614154542": {
+      "message": "Ugrás a linkre"
+   },
+   "3920849627538402857": {
+      "message": "Letöltés"
+   },
+   "3952341864324097024": {
+      "message": "Keresés törlése"
+   },
+   "3955575370175991097": {
+      "message": "Átváltva a(z) $1​ címkenézetre"
+   },
+   "395680759377627007": {
+      "message": "A(z) „$3​$2​$1​” létrehozása"
+   },
+   "397098723873502323": {
+      "message": "Kész"
+   },
+   "3974822583047850066": {
+      "message": "Mégse"
+   },
+   "3977699855735576796": {
+      "message": "Hiba történt a további oldalak betöltésekor."
+   },
+   "3981269900634596036": {
+      "message": "{numberOfNotes,plural, =1{Jegyzet törlése}other{Jegyzetek törlése}}"
+   },
+   "3988418762222300024": {
+      "message": "pont"
+   },
+   "3989925953740167133": {
+      "message": "A Google Keep szeretné használni a helyadatokat a helyalapú emlékeztetők pontosabb javaslatai érdekében."
+   },
+   "4005725939358875643": {
+      "message": "Visszavonta a műveletet."
+   },
+   "4020393055976236243": {
+      "message": "A rendszer átadja a tulajdonjogot. Korábbi tulajdonos: $3​ ($2​), új tulajdonos: $1​."
+   },
+   "4023299615382814997": {
+      "message": "Kukában lévő elemet nem lehet szerkeszteni"
+   },
+   "4034637528003033305": {
+      "message": "Ha a mappában lévő elemek száma meghaladja a csapatmeghajtókra vonatkozó maximális elemszámot, elveszhetnek az engedélyek. $2​További információ.$1​"
+   },
+   "4036523543547629779": {
+      "message": "Képek"
+   },
+   "4044915502415235332": {
+      "message": "Rögzített jegyzet kiválasztása"
+   },
+   "4052960606031736645": {
+      "message": "{NUM_ITEMS,plural, =1{Egy {NUM_PARENTS} mappában megtalálható mappát helyez át}other{Olyan mappákat helyez át, amelyek {NUM_PARENTS} mappában találhatók meg}}"
+   },
+   "4061102590585232601": {
+      "message": "$1​ eltávolítva"
+   },
+   "4064820890482961434": {
+      "message": "Jelölőnégyzetek megjelenítése"
+   },
+   "4072353527895477784": {
+      "message": "Személyek"
+   },
+   "407982090576503781": {
+      "message": "Engedélyezi az áthelyezést a Saját meghajtóra?"
+   },
+   "4081524305222967804": {
+      "message": "Pávakék"
+   },
+   "4085493778209859942": {
+      "message": "Lejátszás mindenképp"
+   },
+   "4097921967754832323": {
+      "message": "kötőjel"
+   },
+   "411137507354526852": {
+      "message": "Hónap"
+   },
+   "4111452225725405610": {
+      "message": "Eltávolította a(z) „$1​” csillagozását."
+   },
+   "4117632433281998979": {
+      "message": "Havonta"
+   },
+   "4122858386674768321": {
+      "message": "Áthelyezés a(z) $3​$2​$1​ mappából"
+   },
+   "4145164831312518309": {
+      "message": "Visszajelzés küldése: @"
+   },
+   "4155905925766040098": {
+      "message": "Nincs elérhető előnézet"
+   },
+   "4157091150222353401": {
+      "message": "A megjegyzéseket a rendszer DOCX-, PPTX- és XLSX-fájlokban menti, és láthatók a Microsoft Office-alkalmazásokban."
+   },
+   "4167720915844687374": {
+      "message": "Egy alakzat törléséhez kattintson a Radír gombra."
+   },
+   "4174786386751618325": {
+      "message": "Fotójegyzet"
+   },
+   "4182427157920112948": {
+      "message": "hullámvonal"
+   },
+   "4186465168527990324": {
+      "message": "A(z) „$1​” sikeresen kitömörítve ide: $2​"
+   },
+   "4194905394104253796": {
+      "message": "Konfigurálás"
+   },
+   "4204345954541079744": {
+      "message": "Még nincs ilyen címkével rendelkező jegyzet"
+   },
+   "4206529410529166231": {
+      "message": "{NUM_ITEMS,plural, =1{Egy {NUM_PARENTS} mappában megtalálható elemet helyez át.}other{Olyan elemeket helyez át, amelyek {NUM_PARENTS} mappában találhatók meg.}}"
+   },
+   "4209658291185545281": {
+      "message": "A művelet visszavonása sikertelen"
+   },
+   "4211182812451835307": {
+      "message": "Szerkesztheti"
+   },
+   "4214190403999219403": {
+      "message": "Nagyítás/kicsinyítés"
+   },
+   "4216242742234357612": {
+      "message": "Az összes jegyzet kiválasztása"
+   },
+   "4216628828665009319": {
+      "message": "Avokádózöld"
+   },
+   "4227185265023581008": {
+      "message": "Google Naptár"
+   },
+   "4228870062013120023": {
+      "message": "Ugrás a következő/előző jegyzetre"
+   },
+   "4230101516585408149": {
+      "message": "Új jegyzet írása"
+   },
+   "4236714142889891754": {
+      "message": "Engedélyezi az áthelyezést a megosztott meghajtók között?"
+   },
+   "4239183034054216803": {
+      "message": "Barna"
+   },
+   "4267845092591696061": {
+      "message": "Kijelölt elemek csillagozása vagy csillagozásának törlése"
+   },
+   "426927371216979233": {
+      "message": "Vonalak"
+   },
+   "4293996570221590891": {
+      "message": "Fehér"
+   },
+   "4296310694082659873": {
+      "message": "Radír eszköz"
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4310202846681054741": {
+      "message": "{numberOfPreviews,plural, =1{Linkelőnézet eltávolítva}other{# linkelőnézet eltávolítva}}"
+   },
+   "4318861667254318892": {
+      "message": "Google Videók"
+   },
+   "4320831042030778": {
+      "message": "Mégse"
+   },
+   "4320942249997687388": {
+      "message": "End"
+   },
+   "4321382260116636620": {
+      "message": "Jegyzet kijelölése"
+   },
+   "4332252081504252077": {
+      "message": "Hoppá!"
+   },
+   "433537592689162064": {
+      "message": "További információ"
+   },
+   "4343825450663233452": {
+      "message": "Megtekintheti"
+   },
+   "4343836986248234462": {
+      "message": "Listaelem"
+   },
+   "4343848624651344174": {
+      "message": "Délután"
+   },
+   "435214284915110062": {
+      "message": "Keresősáv megnyitása"
+   },
+   "435444400175963053": {
+      "message": "$1​ elem áthelyezve a(z) $2​ mappába."
+   },
+   "4356312843186491987": {
+      "message": "Áthelyezés"
+   },
+   "4357246389840951053": {
+      "message": "Egyes szkriptet tartalmazó elemek még nem helyezhetők át megosztott meghajtókra."
+   },
+   "4391715930031906467": {
+      "message": "Következő keresése"
+   },
+   "4397482594800054550": {
+      "message": "Probléma lépett fel a(z) $1​ átnevezése közben."
+   },
+   "4412626362660239325": {
+      "message": "Rendszerezés a Drive-on"
+   },
+   "4422985761498356257": {
+      "message": "Megnyitás a következővel"
+   },
+   "4429542915339609008": {
+      "message": "Sajnos több fájl megnyitása nem támogatott ezzel az alkalmazással."
+   },
+   "4439831283519683004": {
+      "message": "Szürke"
+   },
+   "4448871104213529122": {
+      "message": "Részletek elrejtése"
+   },
+   "4457424709416639982": {
+      "message": "Hozzáadás a saját Drive-hoz"
+   },
+   "4486429060311743289": {
+      "message": "Kijelölés törlése"
+   },
+   "4494250072784000771": {
+      "message": "Érintőceruza észlelve. Érintéssel pásztázhat."
+   },
+   "45228242181482134": {
+      "message": "Lejátszás"
+   },
+   "4533605085334699862": {
+      "message": "Idézetek"
+   },
+   "4543077011795639870": {
+      "message": "Elem behúzása csökkentve."
+   },
+   "4546909961510778468": {
+      "message": "Drive"
+   },
+   "4550209323331625907": {
+      "message": "$2​További információ$1​"
+   },
+   "4557086341175267918": {
+      "message": "Offline állapotban nem lehet megosztani"
+   },
+   "4558568516353053251": {
+      "message": "A fájl olvasói láthatják a megjegyzéseket és javaslatokat."
+   },
+   "4564682305303579317": {
+      "message": "Folytatás"
+   },
+   "456512308416555173": {
+      "message": "Könyvek"
+   },
+   "4566838580250578446": {
+      "message": "{every,plural, =1{Évente ismétlődik}other{# évente ismétlődik}}"
+   },
+   "4583714435275461910": {
+      "message": "fölérendelt listaelem"
+   },
+   "4586373282767984140": {
+      "message": "Sárga"
+   },
+   "4595551195988564947": {
+      "message": "A Google Segéd-bevásárlólista módosul."
+   },
+   "4602655470033495470": {
+      "message": "Adjon hozzá jegyzeteket, listákat, fotókat és hangfelvételeket a Keepben."
+   },
+   "4607656353105320648": {
+      "message": "{count,plural, =1{Végleg törli a jegyzetet?}other{Végleg törli a jegyzeteket?}}"
+   },
+   "4607802784047113873": {
+      "message": "Együttműködő felvétele"
+   },
+   "4608848277887462246": {
+      "message": "További táblázatok"
+   },
+   "461126197624379601": {
+      "message": "Koppintson ide, ha a fájlt másokkal is meg szeretné vitatni."
+   },
+   "4620034373159179678": {
+      "message": "$2​/$1​. oldal"
+   },
+   "4632830890362652221": {
+      "message": "{NUM_ITEMS,plural, =1{Egyetlen mappában megtalálható elemet helyez át}other{Egyetlen mappában megtalálható elemeket helyez át}}"
+   },
+   "4642196066412650732": {
+      "message": "A tartalom nem osztható meg a következő felhasználókkal, mert az adminisztrátoruk kikapcsolta a szervezeten belüli megosztást, vagy az Ön adminisztrátora kikapcsolta a szervezeten kívüli megosztást."
+   },
+   "4643940860676429496": {
+      "message": "Mentés…"
+   },
+   "4671836579708244357": {
+      "message": "Névjegyek"
+   },
+   "4675792829115971960": {
+      "message": "Megjelöljük a jegyzetet, és eltávolítjuk az Ön fiókjából."
+   },
+   "4685321580747790677": {
+      "message": "{every,plural, =1{Hetente, {days}i napon ismétlődik}other{# hetente, {days}i napon ismétlődik}}"
+   },
+   "4691283408020124345": {
+      "message": "Listanézet"
+   },
+   "4697169479015785830": {
+      "message": "A Kalligráfia eszköz szín- és méretválasztójának megnyitása"
+   },
+   "4697673185436885400": {
+      "message": "A(z) $1​ böngésző $2​ billentyűparancsát felülbírálta a Táblázatok."
+   },
+   "4698144269846224816": {
+      "message": "Méret: 1"
+   },
+   "4699778906119153977": {
+      "message": "Keresés"
+   },
+   "4704493722060638379": {
+      "message": "Előző: Shift+N, következő: Shift+P"
+   },
+   "4722167255291887189": {
+      "message": "Méret: 2"
+   },
+   "4734349318830134239": {
+      "message": "Befejezés"
+   },
+   "4738612839683751348": {
+      "message": "Az elem nem húzható be jobban."
+   },
+   "4740100782728373253": {
+      "message": "Mentés a Drive-ra"
+   },
+   "4748046231232264180": {
+      "message": "Google Űrlapok"
+   },
+   "4751144871302640150": {
+      "message": "Velem megosztva"
+   },
+   "4751202914935960324": {
+      "message": "Ez az e-mail-cím már létezik"
+   },
+   "4752655540567953719": {
+      "message": "Pozíció: $1​"
+   },
+   "4762625944764691132": {
+      "message": "Főmenü"
+   },
+   "47670360985205683": {
+      "message": "A(z) $1​ ($2​) meghaladja azt a maximális méretet, amelyet a Google át tud vizsgálni. A fájl károkat okozhat számítógépén. Csak akkor játssza le ezt a fájlt, ha tudatában van a kockázatoknak."
+   },
+   "4767722428137216885": {
+      "message": "Mégse"
+   },
+   "477328789314249432": {
+      "message": "Jegyzetek keresése"
+   },
+   "4775368111547931093": {
+      "message": "Nincs leírás"
+   },
+   "4780778609011268862": {
+      "message": "Nem lehet áthelyezni a fájlt, mert a megosztott meghajtó elérte a fájlok maximális számát."
+   },
+   "4805047680716507619": {
+      "message": " – Áthelyezés ide:"
+   },
+   "4806763987633034948": {
+      "message": "PKCS7-aláírásfájl"
+   },
+   "4807444103404336088": {
+      "message": "Probléma lépett fel a(z) $1​ megcsillagozása közben."
+   },
+   "4816888965396680834": {
+      "message": "Szerkesszen és működjön együtt valós időben $2​-fájlokon a $1​ szolgáltatásban"
+   },
+   "4821130290026382049": {
+      "message": "Népszerű billentyűparancsok"
+   },
+   "4833214200453019325": {
+      "message": "$1​/$2​"
+   },
+   "4839460587397079680": {
+      "message": "Videók"
+   },
+   "4840513623749850224": {
+      "message": "Filmek"
+   },
+   "4847795993918486929": {
+      "message": "A kép szövegének beolvasása sikertelen. Próbálja újra később."
+   },
+   "4853788427396558692": {
+      "message": "$1​ MB"
+   },
+   "4858389278403807208": {
+      "message": "A jegyzet a kukában van"
+   },
+   "4864051612562026766": {
+      "message": "{count,plural, =1{1 kijelölve}other{# kijelölve}}"
+   },
+   "4878012031550736317": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Azok a felhasználók, akik nem tagjai a(z) „{TEAM_DRIVE_NAME}” csapatmeghajtónak, nem fognak tudni hozzáférni a fájlhoz.}other{Azok a felhasználók, akik nem tagjai a(z) „{TEAM_DRIVE_NAME}” csapatmeghajtónak, nem fognak tudni hozzáférni a fájlokhoz.}}"
+   },
+   "490045476479394048": {
+      "message": "Jelöljön ki egy szöveget a megjegyzéshez"
+   },
+   "4906669330059413958": {
+      "message": "Jelszó elküldése"
+   },
+   "4907349694646937491": {
+      "message": "Jegyzet áthelyezve a következő helyre: $1​"
+   },
+   "4915450884407029247": {
+      "message": "$1​ címke hozzáadva."
+   },
+   "4918998818369420588": {
+      "message": "Visszaélés bejelentése"
+   },
+   "4930422592340561418": {
+      "message": "Saját Drive"
+   },
+   "4930506384627295710": {
+      "message": "Beállítások"
+   },
+   "4937266179792749481": {
+      "message": "Legutóbbiak"
+   },
+   "4955094356920130803": {
+      "message": "Borostyán"
+   },
+   "4957674814179289955": {
+      "message": "Ugrás a következő vagy előző listaelemre"
+   },
+   "4963533275503057654": {
+      "message": "Indexkép létrehozása..."
+   },
+   "4963784280521435720": {
+      "message": "Mentés…"
+   },
+   "4974059227183970715": {
+      "message": "Címkéket a „#” karakter beírásával is hozzáadhat."
+   },
+   "4974261966265341751": {
+      "message": "Sötét téma letiltása"
+   },
+   "4982284738093713321": {
+      "message": "Szervező"
+   },
+   "4988132901627446385": {
+      "message": "A részleteket tartalmazó panel kibontva."
+   },
+   "5000971639019912199": {
+      "message": "$2​Feltételek$1​"
+   },
+   "5006765610090288212": {
+      "message": "A(z) $1​ szín alkalmazva"
+   },
+   "5008901799534614532": {
+      "message": "Törlés"
+   },
+   "5009448218905630614": {
+      "message": "Eltávolítás"
+   },
+   "5011858093760184160": {
+      "message": "Csillag eltávolítása"
+   },
+   "5013331898336483156": {
+      "message": "Áthelyezi az elemeket egy új domain Saját meghajtójára?"
+   },
+   "5023623739220371850": {
+      "message": "Nem sikerült hitelesíteni. A módosítások a bejelentkezést követően fognak szinkronizálódni."
+   },
+   "5041572047197549869": {
+      "message": "Havonta ugyanakkor"
+   },
+   "5045725997997672553": {
+      "message": "{weekNumber,plural, =1{A hónap első {day}i napján}=2{A hónap második {day}i napján}=3{A hónap harmadik {day}i napján}=4{A hónap negyedik {day}i napján}other{A hónap utolsó {day}i napján}}"
+   },
+   "5046371569383796818": {
+      "message": "Megtartás"
+   },
+   "5052461293250181960": {
+      "message": "lapozás lefelé"
+   },
+   "5060107422621709815": {
+      "message": "Sikertelen frissítés"
+   },
+   "5075841894330153061": {
+      "message": "A rajz bezárásához koppintson a bal felső sarokban a Vissza gombra."
+   },
+   "5078184843381528205": {
+      "message": "Jegyzet rögzítése"
+   },
+   "5085332075590890665": {
+      "message": "Visszavonás"
+   },
+   "5086862627563516607": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{A(z) „{TEAM_DRIVE_NAME}” csapatmeghajtó tagjai hozzáférést kapnak ehhez az elemhez.}other{A(z) „{TEAM_DRIVE_NAME}” csapatmeghajtó tagjai hozzáférést kapnak ezekhez az elemekhez.}}"
+   },
+   "5089697363226053379": {
+      "message": "Áthelyezés"
+   },
+   "5094400861508407603": {
+      "message": "Listajel eltávolítva"
+   },
+   "5095987896933771566": {
+      "message": "A dokumentum nyomtatása"
+   },
+   "509815948423424872": {
+      "message": "Navigálás"
+   },
+   "5098941979861776792": {
+      "message": "Enter"
+   },
+   "5121976648047240846": {
+      "message": "Címke eltávolítása"
+   },
+   "5130903421326358933": {
+      "message": "Hiba történt a melléklet Google Drive-on való mentésekor."
+   },
+   "5134649253619244584": {
+      "message": "Címke törlése"
+   },
+   "5140285776541296873": {
+      "message": "Egyéni"
+   },
+   "5140450179685369890": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{A rendszer áthelyezett {NUM_ITEMS_2} mappát a következőbe: {XXX_1}.}other{A rendszer áthelyezett {NUM_ITEMS_2} mappát a következőbe: {XXX_2}.}}"
+   },
+   "5151247077945318396": {
+      "message": "Hiba történt a kibontási mappa kiválasztásakor."
+   },
+   "5159511879001144721": {
+      "message": "Kobaltkék"
+   },
+   "5167365673547406876": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{A(z) {TEAM_DRIVE_NAME} csapatmeghajtó tagjai a jövőben hozzáférhetnek az elem(ek)hez.}other{A(z) {TEAM_DRIVE_NAME} csapatmeghajtó tagjai a jövőben hozzáférhetnek az elem(ek)hez.}}"
+   },
+   "5178674191443894176": {
+      "message": "Címkék"
+   },
+   "5178939467831590680": {
+      "message": "Megtekintő hibaelhárítási részleteinek elrejtése"
+   },
+   "5180454621500142444": {
+      "message": "Visszaállítás"
+   },
+   "5180989337128758117": {
+      "message": "szögletes nyitó zárójel"
+   },
+   "5182569285908080938": {
+      "message": "Záró dátum beállításai"
+   },
+   "5184692850089055965": {
+      "message": "Kép szövegének beolvasása"
+   },
+   "5184785218378634051": {
+      "message": "Az elem már nincs kiemelve."
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Ez a Részletek panel lapsávja. A lapok közötti váltáshoz nyomja meg a bal vagy jobb nyílgombot."
+   },
+   "5202835861850747976": {
+      "message": "$2​További információ$1​"
+   },
+   "5204391636475413312": {
+      "message": "Mentés"
+   },
+   "5238284741118437734": {
+      "message": "Visszavonás"
+   },
+   "5238307666527496111": {
+      "message": "OK"
+   },
+   "5238371081785912565": {
+      "message": "Megnyitás a következővel: $1​"
+   },
+   "5255388116256536182": {
+      "message": "A nyílbillentyűkkel kiválaszthatja azokat a cellákat, amelyekhez megjegyzést szeretne fűzni. Ha a Shift billentyűt lenyomva tartva nyom le egy nyílbillentyűt, bővítheti a kijelölést. A megjegyzés létrehozásához nyomja le az Enter, a megszakításhoz az Esc billentyűt."
+   },
+   "5259541708332520733": {
+      "message": "Forrás eltávolítva"
+   },
+   "5271615049826004958": {
+      "message": "Linkelőnézeti beállítások"
+   },
+   "527438013974545289": {
+      "message": "A sötét téma megérkezett"
+   },
+   "5281121179861637423": {
+      "message": "Az elem ($1​) csak jelszóval érhető el. Kérjük, adja meg a jelszót."
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5292097099562224381": {
+      "message": "Kiüríti a kukát?  A kukában található összes jegyzet véglegesen törlődni fog."
+   },
+   "5299648222246616124": {
+      "message": "egyszeres nyitó idézőjel"
+   },
+   "5300527252159851865": {
+      "message": "A fájl tartalma nem egyezik a várt fájlformátummal."
+   },
+   "5310593920481358659": {
+      "message": "Témák"
+   },
+   "5311386381313171872": {
+      "message": "Google Drive"
+   },
+   "5320475549855398784": {
+      "message": "A rajz akkor lesz elérhető, ha csatlakozik az internethez."
+   },
+   "5321772883765574323": {
+      "message": "A(z) „$1​” át lett helyezve a(z) $2​ mappából ide: ($3​)."
+   },
+   "5334959887390704534": {
+      "message": "Töröljük ezt a címkét, és eltávolítjuk a Keep szolgáltatásbeli összes jegyzetről. A jegyzeteket nem töröljük."
+   },
+   "5336801339221383042": {
+      "message": "JavaScript"
+   },
+   "5336924963122494935": {
+      "message": "Kijelölés"
+   },
+   "534191528712675978": {
+      "message": "Pause"
+   },
+   "534228323125524312": {
+      "message": "Kicsinyítés"
+   },
+   "5353129315502554762": {
+      "message": "CSS"
+   },
+   "5362121973783326712": {
+      "message": "Kamera"
+   },
+   "5362962746518601227": {
+      "message": "{NUM_ITEMS,plural, =1{Egyetlen mappában megtalálható fájlt helyez át}other{Egyetlen mappában megtalálható fájlokat helyez át}}"
+   },
+   "5363853533596749934": {
+      "message": "Címkenév megadása"
+   },
+   "5366505386236199032": {
+      "message": "YouTube"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5392844646168201484": {
+      "message": "Méret: 3"
+   },
+   "5394695048211047984": {
+      "message": "Dátum hozzáadása"
+   },
+   "5398036630337418486": {
+      "message": "Dokumentum megnyitása"
+   },
+   "5403636185480096151": {
+      "message": "Tévé"
+   },
+   "540596856674438371": {
+      "message": "Nem lehet megosztani, mert kikapcsolták a megosztást."
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "5413225497191133249": {
+      "message": "Jegyzetek rögzítése vagy a rögzítésük feloldása"
+   },
+   "5422660126805186552": {
+      "message": "Még kényelmesebb olvasás. A funkciót a beállításoknál kapcsolhatja be vagy ki."
+   },
+   "5423742603774911808": {
+      "message": "A lista túl nagy."
+   },
+   "5435749276779042277": {
+      "message": "+ $1​ TOVÁBBI ELEM"
+   },
+   "5447119197363232006": {
+      "message": "Megjelenítés a Drive-on"
+   },
+   "5455566801812656827": {
+      "message": "KEVESEBB"
+   },
+   "5465081454525683943": {
+      "message": "Ez a jegyzet már nincs megosztva az Ön fiókjával. Kérjen engedélyt a tulajdonostól, vagy váltson engedéllyel rendelkező fiókra."
+   },
+   "5467649767578147801": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Azok a felhasználók, akik nem tagjai a(z) „{TEAM_DRIVE_NAME}” csapatmeghajtónak, vagy nem tartoznak a(z) {DOMAIN_NAME} domainhez, nem fognak tudni hozzáférni a fájlhoz.}other{Azok a felhasználók, akik nem tagjai a(z) „{TEAM_DRIVE_NAME}” csapatmeghajtónak, vagy nem tartoznak a(z) {DOMAIN_NAME} domainhez, nem fognak tudni hozzáférni a fájlˇokhoz.}}"
+   },
+   "546766753072101168": {
+      "message": "Címkék"
+   },
+   "5478662967017843220": {
+      "message": "Sötétkék"
+   },
+   "5480497191725157666": {
+      "message": "Esc"
+   },
+   "5482604275203517054": {
+      "message": "balra"
+   },
+   "5503885447744017882": {
+      "message": "Áthelyezi az elemeket a következőbe: $1​, a(z) $2​ domainen kívülre?"
+   },
+   "5506390497558702263": {
+      "message": "{count,plural, =1{Jegyzet archiválása visszavonva és rögzítve}other{# jegyzet archiválása visszavonva és rögzítve}}"
+   },
+   "5520112019886360037": {
+      "message": "Bezárás"
+   },
+   "5534694255293809224": {
+      "message": "Jegyzet szerkesztésének leállítása: $1​+Enter"
+   },
+   "5539958940810433464": {
+      "message": "Jegyzet kukába helyezése"
+   },
+   "5542817571710587822": {
+      "message": "A fájl túl sok képet tartalmaz."
+   },
+   "5545146751578623220": {
+      "message": "Caps Lock"
+   },
+   "5555182241047709329": {
+      "message": "Válasszon helyet"
+   },
+   "5562491070882550010": {
+      "message": "A megosztott jegyzetek a törlésüket követően nem lesznek láthatók azok számára, akikkel korábban megosztotta őket."
+   },
+   "556742419793425318": {
+      "message": "Elvetés"
+   },
+   "5570885401952336951": {
+      "message": "Kliensnapló"
+   },
+   "5578032872220617725": {
+      "message": "Az összes jegyzet kijelölése: $1​+A"
+   },
+   "5581834527128285229": {
+      "message": "Probléma lépett fel a(z) $1​ hozzáadásakor a Saját Drive-fiókhoz."
+   },
+   "5592884381280360832": {
+      "message": "Értem"
+   },
+   "5598649706113950710": {
+      "message": "Szerkesztő"
+   },
+   "5601530442010506564": {
+      "message": "Értem"
+   },
+   "5603830044099155569": {
+      "message": "Előző jegyzet: J, következő jegyzet: K"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "5648022012893174586": {
+      "message": "Ha vastag vonalat szeretne húzni, kattintson a Jelölő ikonra."
+   },
+   "5652536812290902558": {
+      "message": "Hangfájl letöltése"
+   },
+   "5678095606167600931": {
+      "message": "Listajel beszúrva"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5687611645532246887": {
+      "message": "Albumok"
+   },
+   "5714240424645614611": {
+      "message": "Android-csomag"
+   },
+   "5714760273477184428": {
+      "message": "A nyilakkal jelölje ki azt a területet, amelyhez megjegyzést szeretne fűzni, aztán nyomja le az Entert."
+   },
+   "5738003914096572768": {
+      "message": "Aktiválva"
+   },
+   "5755541943799933389": {
+      "message": "Megcsillagozta a(z) „$1​” elemet."
+   },
+   "5772465571783741830": {
+      "message": "Hiba történt a következőre mutató parancsikon létrehozásakor: „$1​”"
+   },
+   "577619047319778196": {
+      "message": "Kijelölés törlése"
+   },
+   "5801257863595278616": {
+      "message": "Kijelölés balra léptetve."
+   },
+   "5808038805122520160": {
+      "message": "A rajz elérte a méretkorlátot."
+   },
+   "5813834209240603556": {
+      "message": "Előző: N, következő: P"
+   },
+   "5820033033803019104": {
+      "message": "Rendszerezés"
+   },
+   "5826302153453971149": {
+      "message": "Halvány rózsaszín"
+   },
+   "5840202488368071194": {
+      "message": "Új jegyzet képpel"
+   },
+   "5840330517914556080": {
+      "message": "Kicsinyítés"
+   },
+   "5854158607727111728": {
+      "message": "Tab"
+   },
+   "5869813956121628651": {
+      "message": "Megjegyzésírás nem lehetséges"
+   },
+   "5870134033985574990": {
+      "message": "Kitömörítés…"
+   },
+   "5871692308013280837": {
+      "message": "Kategóriák megtekintése"
+   },
+   "5871966496153339793": {
+      "message": "A videó ($1​) indexképének megjelenítése"
+   },
+   "5876498556450482026": {
+      "message": "Ha egy adott színnel szeretne kiemelni valamit, kattintson a Kiemelő ikonra."
+   },
+   "5895666393386604578": {
+      "message": "A behúzáshoz húzza át a listán lévő elemeket, vagy használja a következő billentyűparancsot: $1​."
+   },
+   "5906730626678011496": {
+      "message": "A Drive-ra mutató parancsikon hozzáadása"
+   },
+   "5909490544352162901": {
+      "message": "Kérjen hozzáférést a jegyzet tulajdonosától, vagy váltson át egy engedéllyel rendelkező fiókra. Jelenleg a(z) $1​ e-mail címmel van bejelentkezve."
+   },
+   "5911012384539794869": {
+      "message": "Nem sikerült elindítani a kibontási munkamenetet."
+   },
+   "591481266986424156": {
+      "message": "Ezt a billentyűparancsot jelenleg a(z) $1​ böngésző használja a következőre: $2​."
+   },
+   "5916010927050975496": {
+      "message": "$1​ kB"
+   },
+   "5917528552332886959": {
+      "message": "Lezárt megjegyzések megjelenítése"
+   },
+   "5947790263929501779": {
+      "message": "Átalakítva listajellé"
+   },
+   "5949528478488617689": {
+      "message": "Letöltési engedély"
+   },
+   "5950887255133612666": {
+      "message": "Nem indult el."
+   },
+   "5954965790623966933": {
+      "message": "Karmazsinvörös"
+   },
+   "5961691090101357621": {
+      "message": "A vászon kibővítve lefelé."
+   },
+   "5961981688037913870": {
+      "message": "$1​ hozzáadva"
+   },
+   "5965683144165568126": {
+      "message": "Listaelemek átrendezése"
+   },
+   "5969696744752069015": {
+      "message": "Az előnézet nem érhető el."
+   },
+   "597927944425927829": {
+      "message": "A rendszer átadja a tulajdonjogot a(z) $1​ csapatmeghajtóból Önnek."
+   },
+   "5984398071085567332": {
+      "message": "Google Fusion Tables"
+   },
+   "5987609488177213747": {
+      "message": "Címke létrehozása"
+   },
+   "5989809255170931770": {
+      "message": "{time,plural, =1{A Keep # másodpercen belül frissül}other{A Keep # másodpercen belül frissül}}"
+   },
+   "5994697604396931641": {
+      "message": "Az összes eltávolítása"
+   },
+   "5999179030782577147": {
+      "message": "Jegyzet kukába helyezése: #"
+   },
+   "6009962986062136164": {
+      "message": "A(z) $1​ betöltése."
+   },
+   "6011637630664474614": {
+      "message": "Szóköz"
+   },
+   "6011708967018957768": {
+      "message": "Átadja a megosztott meghajtó tulajdonjogát?"
+   },
+   "6027516495119898580": {
+      "message": "A helyalapú emlékeztetők nem használhatók"
+   },
+   "6030537159236285525": {
+      "message": "Listaleem áthelyezése a következő/előző helyre"
+   },
+   "60305871484579258": {
+      "message": "Alt"
+   },
+   "6033916931543811803": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{A rendszer áthelyezett {NUM_ITEMS_2} mappát a(z) {XXX_1} mappából a következőbe: {XXX_2}.}other{A rendszer áthelyezett {NUM_ITEMS_2} mappát a(z) {XXX_3} mappából a következőbe: {XXX_4}.}}"
+   },
+   "6043578784980337112": {
+      "message": "$1​ fájl áthelyezve a(z) $2​ mappába."
+   },
+   "6049952042443321325": {
+      "message": "Billentyűparancsok táblázata"
+   },
+   "6062216008944363143": {
+      "message": "{weekNumber,plural, =1{{every} havonta ismétlődik, a hónap első {day}i napján.}=2{{every} havonta ismétlődik, a hónap második {day}i napján.}=3{{every} havonta ismétlődik, a hónap harmadik {day}i napján.}=4{{every} havonta ismétlődik, a hónap negyedik {day}i napján.}other{{every} havonta ismétlődik, a hónap utolsó {day}i napján.}}"
+   },
+   "6069780031254134657": {
+      "message": "Megjelölés készként"
+   },
+   "6087078248621415351": {
+      "message": "Módosítva ekkor: $1​"
+   },
+   "6100883940579706314": {
+      "message": "Link előnézete"
+   },
+   "6103793971765619589": {
+      "message": "A tartalom nem osztható meg a következő felhasználókkal, mert az adminisztrátoruk kikapcsolta a szervezetben történő megosztást."
+   },
+   "6105571474005679446": {
+      "message": "Hiba történt az előnézet betöltésekor."
+   },
+   "6113237889871930608": {
+      "message": "Üres jegyzet"
+   },
+   "6118623991445349480": {
+      "message": "$1​. oldal"
+   },
+   "6122643025527543706": {
+      "message": "Ctrl"
+   },
+   "6127325177382263770": {
+      "message": "URL-címek"
+   },
+   "6128550071219729739": {
+      "message": "Kép törölve"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6149175749937815029": {
+      "message": "Összes elem megtekintése"
+   },
+   "6159229289552931928": {
+      "message": "Megosztott mappába helyezi át?"
+   },
+   "616807262818311711": {
+      "message": "Típus"
+   },
+   "6176354714840789272": {
+      "message": "A linkeket későbbi használatra is mentheti a&nbsp;$2​Google Keep Chrome-bővítmény$1​ használatával."
+   },
+   "6186753450686672643": {
+      "message": "{every,plural, =1{Naponta ismétlődik.}other{# naponta ismétlődik}}"
+   },
+   "6189397065139465013": {
+      "message": "Minden"
+   },
+   "6201176165479907499": {
+      "message": "{count,plural, =1{A jegyzet rögzítve}other{# jegyzet rögzítve}}"
+   },
+   "6203260615455347677": {
+      "message": "Numbers"
+   },
+   "6209117354086898503": {
+      "message": "Vissza"
+   },
+   "6211895332551673425": {
+      "message": "Hozzáadva a $2​Saját Drive-hoz$1​"
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6223530531885788421": {
+      "message": "A Drive-ra mutató parancsikon hozzáadása..."
+   },
+   "6224687211096863620": {
+      "message": "Bárki"
+   },
+   "6225875898439047571": {
+      "message": "Elutasítás"
+   },
+   "6231442995102088007": {
+      "message": "A Google Keep újdonságai"
+   },
+   "6252259197986158120": {
+      "message": "Tegnap"
+   },
+   "6263940822259442857": {
+      "message": "Jelölőnégyzetek elrejtése"
+   },
+   "6286379137937560558": {
+      "message": "Cikk"
+   },
+   "6286806453721792102": {
+      "message": "Rendszerezés a Drive-on"
+   },
+   "6305748545202493254": {
+      "message": "Részletek panel megjelenítése/elrejtése"
+   },
+   "6306268376900894985": {
+      "message": "Eddig ismétlődik: {endDate}"
+   },
+   "6324768448533022780": {
+      "message": "$2​. $1​"
+   },
+   "6347484050944915390": {
+      "message": "Kérelem elküldve. A jóváhagyást követően e-mailben fogjuk értesíteni Önt."
+   },
+   "6352952829934775705": {
+      "message": "TÖBB"
+   },
+   "6366376928558090914": {
+      "message": "Étel"
+   },
+   "6371576811194810854": {
+      "message": "Ennyi után:"
+   },
+   "6375244206466599493": {
+      "message": "Év"
+   },
+   "6375395544374251820": {
+      "message": "Hiba történt a további oldalak betöltésekor. Újrapróbálkozás…"
+   },
+   "6377664889539934": {
+      "message": "Rajzolás érintéssel"
+   },
+   "6381941041429900831": {
+      "message": "Együttműködő felvétele"
+   },
+   "6386587519843563719": {
+      "message": "Bináris fájl"
+   },
+   "639451288140270562": {
+      "message": "Másolva a Dokumentumokba"
+   },
+   "6394816510866826521": {
+      "message": "Dogfoody"
+   },
+   "6402092370576716734": {
+      "message": "Kuka ürítése"
+   },
+   "6413404795391222793": {
+      "message": "Új lista létrehozása"
+   },
+   "6416495701611778255": {
+      "message": "Javasolt külső alkalmazások"
+   },
+   "6417706204201069253": {
+      "message": "A törölt jegyzeteket nem láthatják azok, akikkel meg voltak osztva."
+   },
+   "6424277546995954045": {
+      "message": "A billentyűzet felülbírálása nem használható a jelenlegi böngészővel.\nA funkció bekapcsolásához váltson a Chrome, a Firefox, az IE/Edge vagy a Safari böngészőre."
+   },
+   "6426979759685079955": {
+      "message": "Inaktív megjegyzések megjelenítése"
+   },
+   "6428000916830484004": {
+      "message": "Barna"
+   },
+   "6432019580434957057": {
+      "message": "Hang"
+   },
+   "6443103650988201046": {
+      "message": "Colaboratory"
+   },
+   "6443615802319581315": {
+      "message": "{NUM_ITEMS,plural, =1{Nem jogosult a fájl áthelyezésére a jelenlegi mappáiból. Helyette adja hozzá a fájlt a(z) {START_SPAN_1}{NAME}{END_SPAN} mappához.}other{Nem jogosult a fájlok áthelyezésére a jelenlegi mappájukból. Helyette adja hozzá a fájlokat a(z) {START_SPAN_2}{NAME}{END_SPAN} mappához.}}"
+   },
+   "6450508807204492448": {
+      "message": "$1​ ikon"
+   },
+   "6457802200418354862": {
+      "message": "A látogatók letölthetnek"
+   },
+   "6459405233858728718": {
+      "message": "Google Diák"
+   },
+   "6473102097014191455": {
+      "message": "Rajzjegyzet"
+   },
+   "6477306554098527424": {
+      "message": "Google Segéd"
+   },
+   "6480376252068839019": {
+      "message": "Rácsbeállítások megnyitása"
+   },
+   "6487295087519678926": {
+      "message": "Drive-feltöltés"
+   },
+   "6490084340347327400": {
+      "message": "Váltás jegyzet és lista között: $1​+Shift+8"
+   },
+   "6497197865876438261": {
+      "message": "Zene"
+   },
+   "6507257480072167483": {
+      "message": "Címke neve módosítva: $1​."
+   },
+   "6510131849363684615": {
+      "message": "Holnap"
+   },
+   "6513721414466645971": {
+      "message": "Eltávolítva"
+   },
+   "6524849072392100692": {
+      "message": "Google Drive-mappa"
+   },
+   "653160061888539741": {
+      "message": "Lejátszásvezérlés"
+   },
+   "6571686604846453345": {
+      "message": "Hiba történt az elem Drive-hoz történő hozzáadásakor."
+   },
+   "6578339688410021742": {
+      "message": "A(z) „$1​” összes tagja hozzá fog férni az elemekhez."
+   },
+   "6579707685908557993": {
+      "message": "Este"
+   },
+   "6588176324871799870": {
+      "message": "Google Apps Script"
+   },
+   "6595703969647338657": {
+      "message": "{count,plural, =1{Jegyzet létrehozva}other{# jegyzet létrehozva.}}"
+   },
+   "6618562607681757575": {
+      "message": "Ne legyen áthelyezés, csak adja hozzá a(z) $3​$2​$1​ mappához"
+   },
+   "6622304228074863427": {
+      "message": "Alkalmazás"
+   },
+   "6627510416186113122": {
+      "message": "Világos pávakék"
+   },
+   "6664835828596108553": {
+      "message": "Beállítás"
+   },
+   "6667440728495437281": {
+      "message": "Hiba történt a dokumentum előnézetének megjelenítésekor. Újrapróbálkozás..."
+   },
+   "6674095299257911962": {
+      "message": "Az elemben korlátozott tartalom található, ezért nem osztható meg a(z) $1​ domainen kívül."
+   },
+   "670419277288558500": {
+      "message": "Videó és hang"
+   },
+   "6707173584987026005": {
+      "message": "Ma"
+   },
+   "6710728478489145370": {
+      "message": "Bezárás"
+   },
+   "6713235295664405475": {
+      "message": "|"
+   },
+   "6715985122107380503": {
+      "message": "Felvételek"
+   },
+   "6726462693927865256": {
+      "message": "Részletek"
+   },
+   "6726879257388338969": {
+      "message": "Nyomtatás"
+   },
+   "6732800471045353930": {
+      "message": "Ezt a jegyzetet már megosztotta a maximálisan engedélyezett számú személlyel."
+   },
+   "673551770550324419": {
+      "message": "Igazítás az oldalszélességhez"
+   },
+   "6747528043814108113": {
+      "message": "Átváltva a következőre: $1​"
+   },
+   "6749829802551750923": {
+      "message": "felfelé"
+   },
+   "6750600017746655174": {
+      "message": "Option"
+   },
+   "6750827506231593056": {
+      "message": "Fiókváltás"
+   },
+   "6755327423364814290": {
+      "message": "Gyors jegyzetelés az alkalmazással"
+   },
+   "6761622351199419182": {
+      "message": "A jegyzet archiválva van"
+   },
+   "6773222938695237983": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Megosztja ezt az elemet?}other{Megosztja ezeket az elemeket?}}"
+   },
+   "6778577079172085976": {
+      "message": "Rögzítve"
+   },
+   "678660085936036852": {
+      "message": "Képek feldolgozása…"
+   },
+   "6787580031482277539": {
+      "message": "Soha"
+   },
+   "6798055902819777633": {
+      "message": "Pásztázás érintéssel"
+   },
+   "6801348618370627980": {
+      "message": "$1​ címke létrehozva."
+   },
+   "6815042072535422726": {
+      "message": "Hangfelvétel törölve"
+   },
+   "6822520214440117457": {
+      "message": "Munkahely"
+   },
+   "6831650827360444197": {
+      "message": "Jegyzet megosztása visszavonva."
+   },
+   "6833062695195555756": {
+      "message": "A Radír eszköz szín- és méretválasztójának megnyitása"
+   },
+   "6833760103261954639": {
+      "message": "Hiba történt az oldal betöltésekor. Újrapróbálkozás…"
+   },
+   "68477685313713097": {
+      "message": "{MINUTES,plural, =0{0 perc}=1{1 perc}other{{MINUTES} perc}}"
+   },
+   "6864144421392687943": {
+      "message": "Számítógépek"
+   },
+   "687402923448150707": {
+      "message": "Nincs bejelölve"
+   },
+   "689017442055275529": {
+      "message": "$1​ családi csoportja"
+   },
+   "6891563484025164308": {
+      "message": "Előző"
+   },
+   "6898823203505321799": {
+      "message": "Részletek"
+   },
+   "6904351530369058983": {
+      "message": "Tulajdonos"
+   },
+   "6905505747689522124": {
+      "message": "Keresés a Life-archívumban"
+   },
+   "6907559338225657032": {
+      "message": "Áthelyezés"
+   },
+   "691041991673354191": {
+      "message": "Saját magam eltávolítása"
+   },
+   "6918505531548047245": {
+      "message": "Kiemelő eszköz"
+   },
+   "6921237745237410511": {
+      "message": "Megjegyzés hozzáadása"
+   },
+   "6922953828399110511": {
+      "message": "Olvasó bezárása"
+   },
+   "6925056317406251324": {
+      "message": "Képkereső"
+   },
+   "693770783324368110": {
+      "message": "Feloldotta a jegyzetek rögzítését és a kukába helyezte őket"
+   },
+   "6956515948204056309": {
+      "message": "Inaktív megjegyzések elrejtve"
+   },
+   "6966912428667098497": {
+      "message": "Az archivált jegyzetek itt jelennek meg"
+   },
+   "6979766453743005049": {
+      "message": "Az átrendezéshez elemeket húzhat a listára, és növelheti a behúzásukat."
+   },
+   "6980199665979997122": {
+      "message": "Visszaállítás"
+   },
+   "6982321568096234183": {
+      "message": "Hangfájl letöltése ($1​)"
+   },
+   "6982682101118067511": {
+      "message": "Rendezés…"
+   },
+   "7005745151564974365": {
+      "message": "Billentyűparancsok"
+   },
+   "7005977332887563273": {
+      "message": "Parancsikon hozzáadása"
+   },
+   "701276785305022936": {
+      "message": "Sérült dokumentum. Győződjön meg róla, hogy a fájl a legújabb formátumú."
+   },
+   "7017485862232001373": {
+      "message": "A(z) „$1​” hozzáadva ide: $2​."
+   },
+   "7019002927048576918": {
+      "message": "$1​ – keresési szűrők"
+   },
+   "7030308038380934896": {
+      "message": "Sikertelen másolás"
+   },
+   "7050021021988648361": {
+      "message": "URL másolása"
+   },
+   "7050898523853841537": {
+      "message": "Gyakoriságra vonatkozó beállítások"
+   },
+   "705714112650622350": {
+      "message": "Hiba történt az elem mentésekor a Drive-on."
+   },
+   "7059437903473652416": {
+      "message": "YouTube-videó ($1​) lejátszása"
+   },
+   "7066744251212631722": {
+      "message": "Zöldcitrom"
+   },
+   "7084991134824194740": {
+      "message": "Emlékeztetőt kérek"
+   },
+   "7086801490719148597": {
+      "message": "Kijelölés visszavonása"
+   },
+   "7094548885298700726": {
+      "message": "Sötétbarna"
+   },
+   "7102649289752747375": {
+      "message": "Visszajelzés"
+   },
+   "7121259585839664942": {
+      "message": "Mégse"
+   },
+   "7126326627883991568": {
+      "message": "A jelenlegi rajz törlése"
+   },
+   "7126535013613878060": {
+      "message": "Rögzítse felülre a fontos jegyzeteket."
+   },
+   "7135182401951359795": {
+      "message": "A tulajdonjog átkerül Önhöz."
+   },
+   "7141983486405549971": {
+      "message": "Insert"
+   },
+   "7145753028985071097": {
+      "message": "Jegyzet átrendezése"
+   },
+   "7146242673022399081": {
+      "message": "Szöveg"
+   },
+   "7148992630785407972": {
+      "message": "Ezt a fájlt jelszó védi, és nem jeleníthető meg az előnézete."
+   },
+   "7149013203800794567": {
+      "message": "{count,plural, =1{A szín {color}. Ha másik színt szeretne alkalmazni a jegyzetre, válassza ki.}other{A szín {color}. Ha másik színt szeretne alkalmazni a jegyzetekre, válassza ki.}}"
+   },
+   "7153847618034547771": {
+      "message": "Engedélyezés"
+   },
+   "7161134329606048317": {
+      "message": "Bezárás"
+   },
+   "7164532930742017984": {
+      "message": "A link birtokában bárki"
+   },
+   "7166989725427500881": {
+      "message": "Kukába helyezett jegyzet kijelölése"
+   },
+   "7174409400206281023": {
+      "message": "A rendszer egymással ellentétes változtatásokat talált"
+   },
+   "7181961085183734135": {
+      "message": "A fájl nyomtatása le van tiltva"
+   },
+   "7182285309564868243": {
+      "message": "Hiba lépett fel a fájlok vagy mappák áthelyezése során"
+   },
+   "7187441427660427801": {
+      "message": "Rajz megnyitása"
+   },
+   "7190398092435016951": {
+      "message": "{count,plural, =1{A törölt jegyzetet nem láthatják azok, akikkel megosztotta.}other{A törölt jegyzeteket nem láthatják azok, akikkel megosztotta őket.}}"
+   },
+   "7201188472754345797": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Azok a felhasználók, akik nem tagjai a(z) {DESTINATION_DOMAIN} csapatmeghajtónak, nem fognak tudni hozzáférni a fájlhoz.}other{Azok a felhasználók, akik nem tagjai a(z) {DESTINATION_DOMAIN} csapatmeghajtónak, nem fognak tudni hozzáférni a fájlokhoz.}}"
+   },
+   "7207109722898253285": {
+      "message": "A kijelölt verzió megtartása"
+   },
+   "7218693060378095915": {
+      "message": "Új"
+   },
+   "722264179594523168": {
+      "message": "Mégse"
+   },
+   "7225445911355686176": {
+      "message": "Archivált jegyzet kijelölése"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7231231875581131930": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Ez az elem nem helyezhető vissza a(z) „{TEAM_DRIVE_NAME}” meghajtóra, így nem lesz lehetőség a művelet visszavonására.}other{Legalább egy elem nem helyezhető vissza a(z) „{TEAM_DRIVE_NAME}” meghajtóra, így nem lesz lehetőség a művelet visszavonására.}}"
+   },
+   "7247530225058410142": {
+      "message": "$2​ $1​"
+   },
+   "7247965266239591227": {
+      "message": "Hiba történt a(z) „$1​” kitömörítésekor."
+   },
+   "7251490702980298031": {
+      "message": "A Kiemelő eszköz szín- és méretválasztójának megnyitása"
+   },
+   "7265183966796883739": {
+      "message": "Lezárt megjegyzések elrejtése"
+   },
+   "7278398674737413598": {
+      "message": "A dokumentum nem konvertálható."
+   },
+   "7278859550373246865": {
+      "message": "{count,plural, =1{Jegyzet archiválva}other{# jegyzet archiválva}}"
+   },
+   "7290932540630116546": {
+      "message": "Emlékeztető beállítva. $1​"
+   },
+   "7295254213841803546": {
+      "message": "Elveti a módosításokat? A módosítások nem lesznek mentve."
+   },
+   "7299749713933143099": {
+      "message": "Lila"
+   },
+   "7301081435623917576": {
+      "message": "Alapértelmezett emlékeztetőbeállítások"
+   },
+   "7306962184871750459": {
+      "message": "A rendszer átadja a tulajdonjogot. Korábbi tulajdonos: $4​ ($3​), új tulajdonos: $2​ ($1​^)."
+   },
+   "7330497278645626593": {
+      "message": "Kipróbálás"
+   },
+   "7342923890755029722": {
+      "message": "Bezárás"
+   },
+   "7344507440412470266": {
+      "message": "Kijelölés kibővítve."
+   },
+   "734478884582426793": {
+      "message": "Tömörített archívum"
+   },
+   "7353547650196788656": {
+      "message": "Vörös"
+   },
+   "7364571366369083618": {
+      "message": "Videó"
+   },
+   "7376703418960184879": {
+      "message": "Másolás"
+   },
+   "7377239345926788722": {
+      "message": "Műveletek"
+   },
+   "7379369644162401367": {
+      "message": "Eltávolítás"
+   },
+   "7381817875028728077": {
+      "message": "Nem"
+   },
+   "7382688299146249119": {
+      "message": "Elem letöltése"
+   },
+   "7384785369409503695": {
+      "message": "Sötét téma engedélyezése"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "7420117636241237177": {
+      "message": "A(z) $1​ fájlban lévő üzenetek a levelezőfiókba lettek kitömörítve az „Import: $2​” címke alatt."
+   },
+   "7420364754178516134": {
+      "message": "Hibakereső eszközök"
+   },
+   "7426603384368095928": {
+      "message": "A bejelentkezéshez és munkája folytatásához töltse be újra az oldalt."
+   },
+   "7427333772418801813": {
+      "message": "+ $1​ TOVÁBBI gomb kibontva"
+   },
+   "7429084719905985261": {
+      "message": "Objective-C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7438696235870090716": {
+      "message": "Saját meghajtó"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (szerkesztve ekkor: $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Mentés a Drive-ra…"
+   },
+   "744753705925710199": {
+      "message": "Sajnos nem sikerült hitelesíteni ezt az alkalmazást a megnyitni kívánt összes fájl esetén. Próbálkozzon újra."
+   },
+   "7452116603589558390": {
+      "message": "Rögzített jegyzet kiválasztásának törlése"
+   },
+   "7453297286571818554": {
+      "message": "Másolás a Google Dokumentumokba"
+   },
+   "7453307802804717178": {
+      "message": "Világoskék"
+   },
+   "7458942806393710991": {
+      "message": "Archivált jegyzet kijelölésének törlése"
+   },
+   "7464780237502381438": {
+      "message": "További alkalmazások társítása"
+   },
+   "7468842863971844562": {
+      "message": "Új lista"
+   },
+   "7469895656894091562": {
+      "message": "Ez az e-mail-cím nem érvényes"
+   },
+   "7480128655944127234": {
+      "message": "Átnevezés"
+   },
+   "7482924911694634213": {
+      "message": "{weekNumber,plural, =1{Havonta ismétlődik, minden hónap első {day}i napján.}=2{Havonta ismétlődik, minden hónap második {day}i napján.}=3{Havonta ismétlődik, minden hónap harmadik {day}i napján.}=4{Havonta ismétlődik, minden hónap negyedik {day}i napján.}other{Havonta ismétlődik, minden hónap utolsó {day}i napján.}}"
+   },
+   "7483088916037874359": {
+      "message": "A fájl túl nagy. "
+   },
+   "7488945223835574498": {
+      "message": "PostScript"
+   },
+   "7503234138288940590": {
+      "message": "Keresés"
+   },
+   "7507827375601925075": {
+      "message": "Jegyzet áthelyezése a következő/előző helyre"
+   },
+   "7510155920769316048": {
+      "message": "Jegyzetek és listák"
+   },
+   "7516769578943800930": {
+      "message": "Bejelölve"
+   },
+   "7528204871156404767": {
+      "message": "Safari"
+   },
+   "7528441140724145783": {
+      "message": "Címkék szerkesztése"
+   },
+   "7529683448345488779": {
+      "message": "A megadott jelszó hibás volt. Adjon meg egy másik jelszót."
+   },
+   "7530677128711603655": {
+      "message": "Találatok – „$1​”"
+   },
+   "7564771400033548584": {
+      "message": "{selectedCount,plural, =1{# elem kijelölve}other{# elem kijelölve}}"
+   },
+   "7565795669925550891": {
+      "message": "Megosztotta:"
+   },
+   "7579280421767578228": {
+      "message": "Emlékeztető valamikor a jövőben"
+   },
+   "7585826646011739428": {
+      "message": "Szerkesztés"
+   },
+   "7586291841734385643": {
+      "message": "Új lapra"
+   },
+   "7587936635257676112": {
+      "message": "$1​ hozzáadva"
+   },
+   "7598582624136632660": {
+      "message": "Keresősáv megnyitása/következő keresése"
+   },
+   "7599358608613738069": {
+      "message": "Törlés"
+   },
+   "7604275940271852148": {
+      "message": "Kibontás a levelezési fiókba"
+   },
+   "7604400308311739073": {
+      "message": "Rögzítés"
+   },
+   "7610628906656867728": {
+      "message": "Archívum"
+   },
+   "7610654194202731772": {
+      "message": "Törlés"
+   },
+   "7624042048123264803": {
+      "message": "Jegyzet megnyitása"
+   },
+   "7630069597298444649": {
+      "message": "A keresőmező kijelölése: /"
+   },
+   "7630723924002267143": {
+      "message": "A billentyűkódok engedélyezve vannak."
+   },
+   "7631302417932873160": {
+      "message": "Nem lehet ellenőrizni, hogy van-e vírus a fájlban"
+   },
+   "7648759818896108920": {
+      "message": "még $1​"
+   },
+   "7649506133540465463": {
+      "message": "A művelet visszavonása sikertelen."
+   },
+   "7653702763016575386": {
+      "message": "Kék"
+   },
+   "7656983816661099886": {
+      "message": "Dolgok"
+   },
+   "7659047104232758352": {
+      "message": "az|ez"
+   },
+   "7669677145513127809": {
+      "message": "Engedélyezi az áthelyezést a csapatmeghajtók között?"
+   },
+   "7669846901402551021": {
+      "message": "Ma"
+   },
+   "7690349821507417537": {
+      "message": "Listaelem eltávolítva: $1​"
+   },
+   "7690355160889785521": {
+      "message": "Zöld"
+   },
+   "7709557808259730054": {
+      "message": "Jóváhagyások"
+   },
+   "7709889936233398701": {
+      "message": "Eltávolítás"
+   },
+   "7715892737835649602": {
+      "message": "Címkéket a „#” karakterrel is hozzáadhat."
+   },
+   "7724602581120994002": {
+      "message": "Narancssárga"
+   },
+   "7728066040934031356": {
+      "message": "Lila"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "7735981667219692675": {
+      "message": "{resultCount,plural, =1{# keresési találat}other{# keresési találat}}"
+   },
+   "774390292128857049": {
+      "message": "Keresés"
+   },
+   "7751981235297474273": {
+      "message": "Visszavonás"
+   },
+   "7754093419850121316": {
+      "message": "⌘"
+   },
+   "7757440777278143092": {
+      "message": "Sötétszürke"
+   },
+   "7766150028615181766": {
+      "message": "Új parancsikon elhelyezése itt"
+   },
+   "7766580018314203658": {
+      "message": "A rajz közel áll a méretkorláthoz. Érdemes lehet új rajzot adni a jegyzethez."
+   },
+   "7772544658778579390": {
+      "message": "Keresés a dokumentumban"
+   },
+   "778181404304502404": {
+      "message": "Az elem kiemelése megszüntetve."
+   },
+   "7791050524692390574": {
+      "message": "Színek"
+   },
+   "7796648733955818629": {
+      "message": "Ezt a fájlt nem lehet feltölteni. Csak $1​ típusú fájlok fogadhatók el, amennyiben méretük nem éri el a(z) $2​ MB-ot és a(z) $3​ megapixelt."
+   },
+   "7800318069267901681": {
+      "message": "Módosítva"
+   },
+   "7803075387516434727": {
+      "message": "Nincs egyezés."
+   },
+   "7814778057875152792": {
+      "message": "Hiba történt a melléklet áthelyezésekor a Google Drive-on kiválasztott mappába."
+   },
+   "7819314041543176992": {
+      "message": "Bezárás"
+   },
+   "7821512290975371360": {
+      "message": "Élénk rózsaszín"
+   },
+   "7828886646639771557": {
+      "message": "Jegyzet…"
+   },
+   "7830513726270865588": {
+      "message": "Naptár"
+   },
+   "7842164552344536314": {
+      "message": "Rendezés…"
+   },
+   "7844842290699524598": {
+      "message": "Elérte a címkékre vonatkozó korlátot. Új címke hozzáadásához töröljön egy meglévőt."
+   },
+   "7849249492061822610": {
+      "message": "A súgó előugró ablakának megjelenítése: ?"
+   },
+   "785840448809859989": {
+      "message": "Időpont-beállítások"
+   },
+   "7865240075542402013": {
+      "message": "Csillagozás"
+   },
+   "7868324478160174739": {
+      "message": "Kék"
+   },
+   "7872546153972922699": {
+      "message": "Kipipálhatja az egyes elemeket, amikor elvégezte őket."
+   },
+   "7873060817438017568": {
+      "message": "$2​, $1​"
+   },
+   "7873698934773957560": {
+      "message": "Nincs"
+   },
+   "787773550893657271": {
+      "message": "Előző rajz megnyitva"
+   },
+   "7888520165977111723": {
+      "message": "Engedélyezi az áthelyezést a csapatmeghajtóra?"
+   },
+   "7895643887742936844": {
+      "message": "pontosvessző"
+   },
+   "7906726367011430855": {
+      "message": "Társítás"
+   },
+   "7910887984113996757": {
+      "message": "Megosztás bekapcsolása"
+   },
+   "7911416166208830577": {
+      "message": "Súgó"
+   },
+   "7924606175376623897": {
+      "message": "Jegyzet rögzítése/rögzítésének feloldása: F"
+   },
+   "7934833136974560675": {
+      "message": "Újra"
+   },
+   "7943657844420237650": {
+      "message": "OpenOffice Impress"
+   },
+   "7946114032014914338": {
+      "message": "{repeatSentence}. {endSentence}"
+   },
+   "7947001788143789176": {
+      "message": "Betöltés…"
+   },
+   "7959130747647079558": {
+      "message": "{selectedCount,plural, =1{# jegyzet kijelölve}other{# jegyzet kijelölve}}"
+   },
+   "7976461426527138085": {
+      "message": "Listák"
+   },
+   "7991475666499751798": {
+      "message": "Emlékeztető megjelölve befejezettként"
+   },
+   "7996360883730444101": {
+      "message": "Hiba történt a fájl megnyitásakor. Próbálja újra."
+   },
+   "7998118521140187915": {
+      "message": "Megoldott megjegyzések elrejtve"
+   },
+   "8003252582874834655": {
+      "message": "Az elemek csapatmeghajtóra való áthelyezése módosítja az elemekhez való hozzáférést, valamint az elemek tulajdonjogát."
+   },
+   "8010075936095394680": {
+      "message": "A fájlverzió túl régi. Győződjön meg róla, hogy a fájl a legújabb formátumú. "
+   },
+   "8011497727123874703": {
+      "message": "$1​ mappa gombja"
+   },
+   "8013687642711017862": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Áthelyez egy elemet a megosztott mappákból, így a felhasználók elveszítik a hozzáférésüket.}other{Áthelyez {NUM_ITEMS_2} elemet a megosztott mappákból, így a felhasználók elveszítik a hozzáférésüket.}}"
+   },
+   "8019402848412685977": {
+      "message": "„$2​” átnevezve, új név: „$1​”."
+   },
+   "802668096552856965": {
+      "message": "{checkedItemCount,plural, =1{# befejezett elem}other{# befejezett elem}}"
+   },
+   "8043514121228710092": {
+      "message": "Kép hozzáadása"
+   },
+   "8046884224424523922": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{A rendszer áthelyezett {NUM_ITEMS_2} fájlt a(z) {XXX_1} mappából a következőbe: {XXX_2}.}other{A rendszer áthelyezett {NUM_ITEMS_2} fájlt a(z) {XXX_3} mappából a következőbe: {XXX_4}.}}"
+   },
+   "8063817953234049242": {
+      "message": "Kijelölés eszköz"
+   },
+   "807840433749698811": {
+      "message": "Cián"
+   },
+   "8080583426915938264": {
+      "message": "A számítógépre telepített alkalmazások"
+   },
+   "8085493757603803516": {
+      "message": "A kiválasztottak szerkesztése"
+   },
+   "8090743714060857028": {
+      "message": "A látogatók nem tölthetnek le"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 bájt}=1{1 bájt}other{# bájt}}"
+   },
+   "8104421162933956065": {
+      "message": "Jegyzetek"
+   },
+   "8111632928339277375": {
+      "message": "{NUM_FOLDERS,plural, =1{Áthelyezés az egyik mappából}=2{Áthelyezés mindkét mappából}other{Áthelyezés # mappából}}"
+   },
+   "8119839693658969418": {
+      "message": "A tartalom nem osztható meg a következő felhasználókkal, mert az adminisztrátora kikapcsolta a szervezeten kívüli megosztást."
+   },
+   "8125425371755035523": {
+      "message": "Visszavonás"
+   },
+   "8133866583554546341": {
+      "message": "$1​, $2​"
+   },
+   "8137338584146377170": {
+      "message": "Nem lehet áthelyezni a fájlt, mert a fájltulajdonos nem tagja ugyanannak a domainnek, amelynek a megosztott meghajtó."
+   },
+   "8139785559888164453": {
+      "message": "További információ."
+   },
+   "8144512434938656483": {
+      "message": "vagy"
+   },
+   "8149439558305434788": {
+      "message": "$1​, $2​"
+   },
+   "8159493406018222636": {
+      "message": "Visszajelzés küldése"
+   },
+   "8163727651556550203": {
+      "message": "További parancsikon elhelyezése"
+   },
+   "8163781449224244510": {
+      "message": "Kijelölés visszavonva."
+   },
+   "8174654098152723289": {
+      "message": "Leírás szerkesztése"
+   },
+   "818217888086545352": {
+      "message": "Sárga"
+   },
+   "8189126656205301402": {
+      "message": "Másolás a Dokumentumokba"
+   },
+   "8193677552005249631": {
+      "message": "Alkalmazásletöltések"
+   },
+   "8194941811853358224": {
+      "message": "Probléma lépett fel a(z) $1​ csillagozásának visszavonása közben."
+   },
+   "8199137154169358847": {
+      "message": "Több"
+   },
+   "819996403327805209": {
+      "message": "További információ"
+   },
+   "8207659457248280436": {
+      "message": "Még nem helyezhetők parancsikonok a megosztott meghajtókra."
+   },
+   "8208179689358649003": {
+      "message": "Jegyzet archiválása: E"
+   },
+   "8224193807932432983": {
+      "message": "Műveletek"
+   },
+   "8225614702924834215": {
+      "message": "További opciók"
+   },
+   "8231449936104909428": {
+      "message": "Hiba történt, amikor a rendszer a(z) „$1​” elemet megpróbálta áthelyezni a kiválasztott mappába a Drive-on."
+   },
+   "8233656381635014955": {
+      "message": "„Hey Google, what's on my to-do list?\" (Ok Google, mi van a teendőlistámon?)"
+   },
+   "8233945959714786736": {
+      "message": "Előző"
+   },
+   "8242655297101700529": {
+      "message": "Saját Drive"
+   },
+   "824468664656304495": {
+      "message": "Nincs internetkapcsolat. Előfordulhat, hogy bizonyos funkciók nem használhatók."
+   },
+   "8265689758492685194": {
+      "message": "Témák"
+   },
+   "8273434617910595878": {
+      "message": "lefelé"
+   },
+   "8281141013543828574": {
+      "message": "RAW-kép"
+   },
+   "8281169978199539270": {
+      "message": "Nem helyezhetők át elemek írásvédett mappákból."
+   },
+   "8284315184632755389": {
+      "message": "Csillagozva"
+   },
+   "8292708563843446267": {
+      "message": "Az elemek tulajdonosa a(z) „$1​” lesz."
+   },
+   "8305505634689906340": {
+      "message": "Keresés a következőn belül: „$1​”"
+   },
+   "8322416564157128458": {
+      "message": "Megosztás"
+   },
+   "8323603365638981303": {
+      "message": "Felül kattints az Új rajzjegyzet gombra."
+   },
+   "8333974577908804438": {
+      "message": "Az ilyen típusú fájlok még nem helyezhetők át megosztott meghajtókra."
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342620486324515462": {
+      "message": "Elvetés"
+   },
+   "8343105225506381659": {
+      "message": "Inaktív megjegyzések megjelenítése"
+   },
+   "8379952094517631162": {
+      "message": "Nem"
+   },
+   "8389434962426321219": {
+      "message": "Itt jelennek meg a közelgő emlékeztetőket tartalmazó jegyzetek"
+   },
+   "8409190394690387796": {
+      "message": "Megjegyzés hozzáadása"
+   },
+   "8412098268689886334": {
+      "message": "Egyesítés"
+   },
+   "8412733496413412439": {
+      "message": "Nincs internetkapcsolat"
+   },
+   "8422875188929347819": {
+      "message": "Megosztás"
+   },
+   "84334343973701810": {
+      "message": "Home"
+   },
+   "8452647597930138120": {
+      "message": "Jelöljön ki egy cellát a megjegyzéshez"
+   },
+   "8453627484113670693": {
+      "message": "Világos narancssárga"
+   },
+   "8467894483369467251": {
+      "message": "Vaku"
+   },
+   "8471029293590878384": {
+      "message": "Szüneteltetés"
+   },
+   "8493378997610580289": {
+      "message": "További billentyűparancsok"
+   },
+   "8505989225387082493": {
+      "message": "Címke hozzáadása"
+   },
+   "8506292502710287776": {
+      "message": "Hosszú jegyzeteket készít? Automatikusan kibővítjük az oldalt, ahogy alulra ér."
+   },
+   "8509270263487836281": {
+      "message": "Bejelentkezés"
+   },
+   "8517148045938431718": {
+      "message": "Javítsa ki a hibákat"
+   },
+   "8529203008291528328": {
+      "message": "Kuka ürítése"
+   },
+   "8535303351837089357": {
+      "message": "A következő billentyűparancsokkal vonhatja vissza és végezheti el újra a műveleteket: {modifierKey}+Z és {modifierKey}+Y."
+   },
+   "8559513397356310933": {
+      "message": "Új elemek hozzáadása a lista végéhez"
+   },
+   "8562196940800756925": {
+      "message": "Jelölő eszköz"
+   },
+   "857379832182429172": {
+      "message": "Bekapcsolás"
+   },
+   "8575113875567233985": {
+      "message": "Nem távolíthat el elemeket a(z) $1​ csapatmeghajtóról."
+   },
+   "8589423377647285975": {
+      "message": "$1​ $2​ listaelem $3​."
+   },
+   "8595175575778060149": {
+      "message": "Továbbiak"
+   },
+   "8596279649507974639": {
+      "message": "Áthelyezés ide:"
+   },
+   "8602525917014156029": {
+      "message": "Helyek"
+   },
+   "8611058223830804795": {
+      "message": "A kijelölt elemek áthelyezése alulra"
+   },
+   "8616342546716995946": {
+      "message": "Értem"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8621178077822096827": {
+      "message": "Listaelem beszúrva, $1​"
+   },
+   "8626694988569301667": {
+      "message": "A rajzfunkció nem érhető el."
+   },
+   "8637215430007224613": {
+      "message": "Következő rajz megnyitva"
+   },
+   "8660016472468563221": {
+      "message": "kettőspont"
+   },
+   "8663507590720636709": {
+      "message": "$1​ + $2​ egyéb"
+   },
+   "8663993454460982287": {
+      "message": "Jelölőnégyzetek elrejtve"
+   },
+   "8674222789100049233": {
+      "message": "Bezárás"
+   },
+   "8708723278154759600": {
+      "message": "Jegyzetek archiválva"
+   },
+   "8734569874711220205": {
+      "message": "Navigációs menü"
+   },
+   "8738345098829705526": {
+      "message": "Méret: 12"
+   },
+   "8773943264600860531": {
+      "message": "Internet Explorer"
+   },
+   "8775097441636640256": {
+      "message": "$2​ – $1​"
+   },
+   "8781837301864053001": {
+      "message": "Rich Text"
+   },
+   "8786673003584562680": {
+      "message": "Page Up"
+   },
+   "8790687303221198259": {
+      "message": "Chrome alkalmazás"
+   },
+   "8792038552136453044": {
+      "message": "Hoppá! Valami hiba történt."
+   },
+   "8793166064242077041": {
+      "message": "Hiba történt a kép megjelenítésekor."
+   },
+   "8797656338249040679": {
+      "message": "$2​Telepítse a Google Keep Chrome-bővítményt$1​, és egyetlen kattintással mentheti a fontos dolgokat."
+   },
+   "8822326207328431952": {
+      "message": "A képfeltöltés jelenleg nem érhető el"
+   },
+   "8825353897919495748": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Biztosan át szeretné helyezni a fájlt?}other{Biztosan át szeretné helyezni a fájlokat?}}"
+   },
+   "8845176264121061589": {
+      "message": "Minden elem bejelölésének megszüntetése"
+   },
+   "8852550049823214385": {
+      "message": ", majd"
+   },
+   "885480352148498682": {
+      "message": "Ha a Google Drive-on keresztül szerkeszti a fájlt, lehet, hogy a rendszer eltávolítja az inaktív megjegyzéseket."
+   },
+   "8860658114732392347": {
+      "message": "Emlékeztető törlése"
+   },
+   "8865141968381070659": {
+      "message": "Itt adhat hozzá parancsikont"
+   },
+   "8867634760949689122": {
+      "message": "A fájl nem konvertálható: lejárt a konverzió időkorlátja. Próbálkozzon újra később."
+   },
+   "8868758864963683383": {
+      "message": "Jegyzet kijelölésének törlése"
+   },
+   "8869202143464930500": {
+      "message": "Átadja a tulajdonjogot a következőnek: $1​?"
+   },
+   "887001400549949730": {
+      "message": "Megnyitás új ablakban"
+   },
+   "8889019648958415451": {
+      "message": "Ismeretlen fájl"
+   },
+   "8895209347521686105": {
+      "message": "Google Fotók"
+   },
+   "8903612093856047007": {
+      "message": "Együttműködők"
+   },
+   "8905995985388209337": {
+      "message": "Elfogadom"
+   },
+   "8917554093651202032": {
+      "message": "$1​ lejátszása"
+   },
+   "8919660666733306860": {
+      "message": "Kép"
+   },
+   "8923591894816841670": {
+      "message": "Kijelölés lefelé léptetve."
+   },
+   "8925842014466254066": {
+      "message": "Másolás a Dokumentumokba"
+   },
+   "8930959387403789939": {
+      "message": "Emlékeztető"
+   },
+   "8931267220766224111": {
+      "message": "Bekapcsolja a Google Keep-emlékeztetőket? Lehet, hogy engedélyeznie kell a böngésző értesítéseit."
+   },
+   "8938626240031421092": {
+      "message": "Jelölőnégyzetek állapotának váltása"
+   },
+   "8943760679396635042": {
+      "message": "A(z) $1​ megjelenítése."
+   },
+   "8962132866274125834": {
+      "message": "Ismét"
+   },
+   "896590342186332268": {
+      "message": "Méret: 16"
+   },
+   "8975305711699693093": {
+      "message": "Megjegyzésoszlop elrejtése"
+   },
+   "8978442832029227748": {
+      "message": "Google Jamboard"
+   },
+   "8979104019474011578": {
+      "message": "{every,plural, =1{Hetente ismétlődik.}other{# hetente ismétlődik}}"
+   },
+   "8979615310931291676": {
+      "message": "Szerkesztve: $1​"
+   },
+   "8988925599985431446": {
+      "message": "Feloldás"
+   },
+   "8990769651805334695": {
+      "message": "Ekkor:"
+   },
+   "900086393693234779": {
+      "message": "Otthon"
+   },
+   "9003585743562048321": {
+      "message": "Hálózati hiba miatt nem sikerült szinkronizálni a megjegyzéseket."
+   },
+   "9012753183662045049": {
+      "message": "Rövidebb címkenevet adjon meg"
+   },
+   "9012809035908808124": {
+      "message": "Váltás lista- és rácsnézet között: $1​+G"
+   },
+   "9021945828354340363": {
+      "message": "{count,plural, =1{Ez a jegyzet többé nem lesz megosztva Önnel.}other{Ezek a jegyzetek többé nem lesznek megosztva Önnel.}}"
+   },
+   "9024023699330078373": {
+      "message": "Ha megnyitja ezt az elemet, a rendszer hozzáadja azt a Drive-hoz"
+   },
+   "9051304537377804875": {
+      "message": "{HOURS,plural, =0{0 óra}=1{1 óra}other{{HOURS} óra}}"
+   },
+   "9058308423774656474": {
+      "message": "Hangul Word Processor"
+   },
+   "9063863448028905602": {
+      "message": "Eltávolítás a találatok közül"
+   },
+   "9066539791850693252": {
+      "message": "Drive"
+   },
+   "9072994494820207560": {
+      "message": "1 kipipált elem"
+   },
+   "9088582015610828915": {
+      "message": "Kevesebb"
+   },
+   "9094248058931620597": {
+      "message": "A részleteket tartalmazó panel összezárva."
+   },
+   "9096768033530566606": {
+      "message": "A következőre mutató parancsikon hozzáadva: $2​$3​$1​"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice-rajz"
+   },
+   "911698676339750373": {
+      "message": "Családi csoport"
+   },
+   "9121915169985572840": {
+      "message": "Szín módosítása"
+   },
+   "9124422680181020503": {
+      "message": "Rajz törölve"
+   },
+   "9129734193759025482": {
+      "message": "Holnap"
+   },
+   "9131268871618792263": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{unused plural form}other{A csapatmeghajtók tagjai csak akkor férhetnek hozzá az elemekhez, ha meg vannak osztva velük.}}"
+   },
+   "9140728449558729773": {
+      "message": "Nem lehet tovább bővíteni. Elérte a maximális vászonmagasságot."
+   },
+   "9146862513672039744": {
+      "message": "Fiókadatok törlése"
+   },
+   "9149141099919589043": {
+      "message": "Vesszővel elválasztott értékek"
+   },
+   "9150202601400529256": {
+      "message": "Nem sikerült hozzáadni a következőre mutató parancsikont: $2​$3​$1​"
+   },
+   "9155213204821633067": {
+      "message": "Kijelölés megszüntetve: $1​."
+   },
+   "9180910903828232576": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{A rendszer áthelyezett {NUM_ITEMS_2} mappát a következőbe: {XXX_1}.}other{A rendszer áthelyezett {NUM_ITEMS_2} mappát a következőbe: {XXX_2}.}}"
+   },
+   "9197837492705576727": {
+      "message": "Ugrás a következő elemre"
+   },
+   "919969969251998566": {
+      "message": "Archívum kibontása a levelezési fiókba."
+   },
+   "9202541782096241233": {
+      "message": "Nem jogosult fájlokat áthelyezni erre a megosztott meghajtóra."
+   },
+   "9203454763088526300": {
+      "message": "Nem található szöveg."
+   },
+   "9213031420087755232": {
+      "message": "Oldal törlése"
+   },
+   "938074023403688885": {
+      "message": "Eltávolítás"
+   },
+   "951963820437151566": {
+      "message": "Google Webhelyek"
+   },
+   "960732173870658714": {
+      "message": "Google Keep-dokumentum"
+   },
+   "969509857504028202": {
+      "message": "Ha áthelyezi egy csapatmeghajtó elemeit, azzal módosítja a hozzáférésre és a tulajdonosra vonatkozó beállításokat."
+   },
+   "981637388660093923": {
+      "message": "{SECONDS,plural, =0{0 másodpec}=1{1 másodperc}other{{SECONDS} másodperc}}"
+   },
+   "985197728509875956": {
+      "message": "Kémiai modell"
+   },
+   "989685768146008877": {
+      "message": "Az elemek megosztott meghajtóra való áthelyezése módosítja az elemekhez való hozzáférést, valamint az elemek tulajdonjogát."
+   },
+   "991852286447868510": {
+      "message": "„$1​\" keresése"
+   },
+   "99635082918315028": {
+      "message": "Kép szövege beolvasva"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Gyorsan rögzítheti gondolatait, és megoszthatja azokat ismerőseivel és családtagjaival."
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Google Keep – jegyzetek és listák"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Google Keep"
+   }
+}

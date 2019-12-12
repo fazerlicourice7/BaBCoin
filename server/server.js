@@ -222,7 +222,7 @@ var usersAttended = [];
 var relLength = 0;
 server.post("/getattendees", function (req, res) {
     var iCalID = req.body.iCalID;
-
+    console.log(iCalID);
     Event.findOne({"iCalID": iCalID}, (err, event) => {
         if (event == null) {
             res.sendStatus(400);
@@ -243,6 +243,7 @@ server.post("/getattendees", function (req, res) {
 
         }
         __helper_respond(res);
+
 
     });
 });

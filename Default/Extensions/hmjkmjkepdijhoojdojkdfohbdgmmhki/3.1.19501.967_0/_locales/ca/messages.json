@@ -1,0 +1,3632 @@
+{
+   "1001407065815272462": {
+      "message": "No s'ha pogut afegir a $2​La meva unitat$1​."
+   },
+   "1013939682284715002": {
+      "message": "Organitza"
+   },
+   "1039394921418415681": {
+      "message": "Inicia la sessió"
+   },
+   "1040405721361467195": {
+      "message": "Utilitza les tecles de fletxa per seleccionar les paraules que vols comentar. Mantén premuda la tecla Maj mentre prems les tecles de fletxa per ampliar la selecció. Prem Retorn per crear un comentari o Esc per cancel·lar l'acció."
+   },
+   "1055686627716339120": {
+      "message": "Arxiva"
+   },
+   "1083918249169198626": {
+      "message": "Les tecles de drecera estan desactivades."
+   },
+   "1101371910696766077": {
+      "message": "Fes una còpia"
+   },
+   "1122146167985532789": {
+      "message": "ahir"
+   },
+   "1127320433256851404": {
+      "message": "Reproductor de vídeo"
+   },
+   "1131044617724567645": {
+      "message": "Els comentaris dels PDF es desen al fitxer i es poden visualitzar en altres aplicacions"
+   },
+   "1137446830169628669": {
+      "message": "S'ha aplicat sagnat a l'element."
+   },
+   "1158660505977623040": {
+      "message": "Suprimeix definitivament"
+   },
+   "1162642135048988280": {
+      "message": "Canvi de nom del document"
+   },
+   "1163324543881570799": {
+      "message": "Documents de Google"
+   },
+   "116696227691552491": {
+      "message": "Tria un lloc"
+   },
+   "1176812982629195161": {
+      "message": "Aplicacions de Google"
+   },
+   "1179891706526242218": {
+      "message": "Següent"
+   },
+   "1185164838496022543": {
+      "message": "Fes clic aquí per tornar a carregar la pàgina."
+   },
+   "1213005208968286932": {
+      "message": "Marcat com a resolt"
+   },
+   "1226017195419883732": {
+      "message": "Unitats compartides"
+   },
+   "124010372300613445": {
+      "message": "{numNotes,plural, =1{S'ha creat una nota no arxivada}other{S'han creat # notes no arxivades}}"
+   },
+   "1248242541854939846": {
+      "message": "Corregeix els canvis en conflicte"
+   },
+   "124900027451629830": {
+      "message": "Reprodueix"
+   },
+   "125608713654167241": {
+      "message": "Verd blavós"
+   },
+   "1256362146573583104": {
+      "message": "Extreu"
+   },
+   "1259492729704800881": {
+      "message": "Arxiva la nota"
+   },
+   "125962421212090538": {
+      "message": "La setmana que ve"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1271038294394884640": {
+      "message": "Cancel·la"
+   },
+   "12768758038718216": {
+      "message": "Fixa la nota arxivada"
+   },
+   "1280430284217153733": {
+      "message": "Afegeix una hora"
+   },
+   "1294762503951327157": {
+      "message": "Els elements marcats es mouen automàticament a la part inferior de la llista perquè no et destorbin"
+   },
+   "1317394270020748066": {
+      "message": "Ara pots connectar l'Assistent de Google per crear notes i llistes de Keep, actualitzar-les i gestionar-les."
+   },
+   "1317913074512528649": {
+      "message": "Captura el que et passa pel cap."
+   },
+   "1330083198022464084": {
+      "message": "Crea una nota"
+   },
+   "1333255388111908292": {
+      "message": "Botigues d'alimentació"
+   },
+   "1335763707789999819": {
+      "message": "{NUM_ITEMS,plural, =1{No teniu permís per treure aquest element de les carpetes actuals. Afegiu-lo a {START_SPAN_1}{NAME}{END_SPAN}.}other{No teniu permís per treure aquests elements de les carpetes actuals. Afegiu-los a {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "1338300799355131761": {
+      "message": "Nota sense títol"
+   },
+   "1349697396109290623": {
+      "message": "S'està mostrant la resolució més alta per a $1​."
+   },
+   "1355047515597245353": {
+      "message": "No es poden crear més dreceres per a aquest element. Per trobar-lo més endavant, afegeix-lo a Destacats."
+   },
+   "1359937199332190522": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{S'ha afegit {NUM_ITEMS_2} fitxer a {XXX_1}.}other{S'han afegit {NUM_ITEMS_2} fitxers a {XXX_2}.}}"
+   },
+   "136335357683289450": {
+      "message": "Tanca"
+   },
+   "1365216822837281424": {
+      "message": "Extensió de Chrome"
+   },
+   "1368808491835583439": {
+      "message": "Porpra intens"
+   },
+   "1377158635423797368": {
+      "message": "Ves a l'etiqueta"
+   },
+   "1379850360723600538": {
+      "message": "No s'admeten els fitxers protegits amb contrasenya."
+   },
+   "1388712764439031120": {
+      "message": "Obre l'enllaç"
+   },
+   "1397887822627488928": {
+      "message": "Adreça electrònica o persona amb qui s'ha de compartir"
+   },
+   "1429848477922945853": {
+      "message": "Nota buida"
+   },
+   "1432850707344442376": {
+      "message": "Crea l'etiqueta $1​"
+   },
+   "1434081385486479995": {
+      "message": "En aquest moment no es pot compartir contingut"
+   },
+   "1439211265324766071": {
+      "message": "Nota a la paperera"
+   },
+   "1441487391064925653": {
+      "message": "Mostra totes les dreceres del Centre d'ajuda"
+   },
+   "1441712877952841568": {
+      "message": "Editat: $1​"
+   },
+   "1442417474192183694": {
+      "message": "Mostra els detalls de la depuració del visualitzador"
+   },
+   "1442722292947881614": {
+      "message": "Tipus"
+   },
+   "1446829548948002072": {
+      "message": "coma"
+   },
+   "1453330983536591773": {
+      "message": "Gris clar"
+   },
+   "1463389029497634261": {
+      "message": "Abaixa el volum"
+   },
+   "1466663154000252842": {
+      "message": "És possible que algunes persones hi perdin l'accés"
+   },
+   "1467797923781828000": {
+      "message": "S'han afegit $1​ elements a la carpeta $2​."
+   },
+   "1475258635371833968": {
+      "message": "$2​, $1​"
+   },
+   "1478393252643397554": {
+      "message": "Taronja"
+   },
+   "1482452362096735080": {
+      "message": "Es repeteix {numOccurrences} vegades"
+   },
+   "1490217372377947899": {
+      "message": "Pujada de Drive"
+   },
+   "1505876360160857231": {
+      "message": "$1​ TB"
+   },
+   "1507063529674142853": {
+      "message": "L'últim dia del mes"
+   },
+   "1507445189431379166": {
+      "message": "Suprimeix"
+   },
+   "1512114410402431831": {
+      "message": "Actualitza"
+   },
+   "1512454807955173272": {
+      "message": "Keep s'actualitzarà quan estiguis en línia"
+   },
+   "1513178578981188988": {
+      "message": "Edge"
+   },
+   "1532717559893630620": {
+      "message": "L'etiqueta $1​ s'ha combinat a $2​."
+   },
+   "1536051766421561160": {
+      "message": "signe d'igual a"
+   },
+   "153659275234722804": {
+      "message": "Ignora"
+   },
+   "1543499632005215694": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{El fitxer que s'està movent a {ADDED_PARENT_NAME} ha activat les deteccions de DLP. És possible que contingui informació sensible.}other{Alguns dels fitxers que s'estan movent a {ADDED_PARENT_NAME} han activat les deteccions de DLP. És possible que continguin informació sensible.}}"
+   },
+   "1568379678795589771": {
+      "message": "Quadrats"
+   },
+   "1586968957182554447": {
+      "message": "Desactiva"
+   },
+   "1600730176972144699": {
+      "message": "Prem Maj+J per anar a la posició anterior i Maj+K per anar a la següent"
+   },
+   "1606998668553414638": {
+      "message": "Sol·licita accés"
+   },
+   "1612117309990202511": {
+      "message": "Punts"
+   },
+   "1645936035034659132": {
+      "message": "{itemsRemaining,plural, =1{Queda # element de llista}other{Queden # elements de llista}}"
+   },
+   "1655692513689044870": {
+      "message": "S'ha tancat la teva sessió."
+   },
+   "1656911987308166143": {
+      "message": "Suprimeix"
+   },
+   "1665821947855814052": {
+      "message": "Mida"
+   },
+   "1675711464233426777": {
+      "message": "Avui més tard"
+   },
+   "1675900304699098572": {
+      "message": "{count,plural, =1{S'ha deixat de fixar 1 nota}other{S'han deixat de fixar # notes}}"
+   },
+   "1680617124502957636": {
+      "message": "No es pot connectar en aquest moment. Torna-ho a provar més tard."
+   },
+   "1680818623013843452": {
+      "message": "Lucidchart"
+   },
+   "1683762293389974494": {
+      "message": "Suprimeix"
+   },
+   "1694896269813520248": {
+      "message": "Afegeix un dibuix"
+   },
+   "1697160643589236962": {
+      "message": "$1​ PB"
+   },
+   "1700455651867499062": {
+      "message": "Drecera de Google Drive"
+   },
+   "1703175513040690135": {
+      "message": "Qualsevol usuari del domini $1​"
+   },
+   "1704004075228783011": {
+      "message": "{every,plural, =1{Es repeteix el darrer dia de cada mes}other{Es repeteix el darrer dia cada # mesos}}"
+   },
+   "1711424025297585662": {
+      "message": "un|una|uns|unes|el|la|els|les|l'"
+   },
+   "171683163267149669": {
+      "message": "$1​ GB"
+   },
+   "1719906320230837590": {
+      "message": "Cerca d'imatges de Google"
+   },
+   "1730171019350750807": {
+      "message": "Negre"
+   },
+   "1737240194537729525": {
+      "message": "Cada setmana"
+   },
+   "1739900012825270238": {
+      "message": "Ves a l'element anterior"
+   },
+   "1740371341228065086": {
+      "message": "Torna a carregar"
+   },
+   "1745782414562966515": {
+      "message": "Vols combinar les etiquetes \"$1​\" i \"$2​\"? Totes les notes amb l'etiqueta \"$1​\" s'etiquetaran amb \"$2​\", i se suprimirà l'etiqueta \"$1​\"."
+   },
+   "1746512984326924716": {
+      "message": "Aquesta acció no es pot desfer."
+   },
+   "1770899865480106963": {
+      "message": "Dispositius Android"
+   },
+   "1781922622745161264": {
+      "message": "Les notes que afegeixis es mostraran aquí"
+   },
+   "1783719421893050637": {
+      "message": "Dimensions"
+   },
+   "1790494039990261456": {
+      "message": "Desa-les totes dues"
+   },
+   "1791115075948268631": {
+      "message": "Permet obrir l'ajuda de tecles de drecera."
+   },
+   "179545118447015250": {
+      "message": "Visualització de quadrícula"
+   },
+   "1803966010993357655": {
+      "message": "Altres"
+   },
+   "1808245543551507519": {
+      "message": "Àudio"
+   },
+   "1810354345035313773": {
+      "message": "Obre el selector de color i mida del marcador"
+   },
+   "1829174126565818591": {
+      "message": "Firefox"
+   },
+   "1830157062072535681": {
+      "message": "Es mostra $1​."
+   },
+   "1830980674971538385": {
+      "message": "Penja"
+   },
+   "1852745815330163711": {
+      "message": "Dibuixos de Google"
+   },
+   "1857224091554117760": {
+      "message": "Vermell"
+   },
+   "1858255237143975969": {
+      "message": "$2​Privadesa$1​"
+   },
+   "1870691479127746185": {
+      "message": "dreta"
+   },
+   "187077078156858455": {
+      "message": "Nota d'àudio"
+   },
+   "189303170370862360": {
+      "message": "$1​ de $2​ elements"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901215424950227523": {
+      "message": "L'etiqueta $1​ no existeix"
+   },
+   "1936219394601788126": {
+      "message": "principal"
+   },
+   "1938115711058331119": {
+      "message": "Mostra la columna de comentaris"
+   },
+   "195154114623528341": {
+      "message": "Afegeix una ubicació"
+   },
+   "1956794332842050061": {
+      "message": "Pàgina següent"
+   },
+   "1963323419655107448": {
+      "message": "Suprimeix els elements marcats"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1967536906522187719": {
+      "message": "S'ha produït un error en previsualitzar aquest full."
+   },
+   "1969531182936822963": {
+      "message": "L'acció s'ha desfet"
+   },
+   "1972885107693687510": {
+      "message": "Es mostra el quadre d'ajuda Ves a l'etiqueta"
+   },
+   "1973454937875679500": {
+      "message": "Introdueix el nom de l'etiqueta"
+   },
+   "1975630610063119352": {
+      "message": "{charsRemaining,plural, =1{Queda # caràcter}other{Queden # caràcters}}"
+   },
+   "1980209166254310911": {
+      "message": "Dia"
+   },
+   "1986228872461282439": {
+      "message": "Predeterminat"
+   },
+   "1998476658842502120": {
+      "message": "Prem C per redactar una nota nova"
+   },
+   "200488920523496447": {
+      "message": "S'ha apropat l'element."
+   },
+   "2039757863628752523": {
+      "message": "Opcions de freqüència"
+   },
+   "205445381296663832": {
+      "message": "Ha fallat la pujada."
+   },
+   "205876860571942679": {
+      "message": "Google My Maps"
+   },
+   "2059084517358086391": {
+      "message": "Tanca la barra de cerca"
+   },
+   "2061440050632248160": {
+      "message": "Arxiva"
+   },
+   "2068023589621557589": {
+      "message": "Tipus de lletra TrueType"
+   },
+   "2072502213578290051": {
+      "message": "Ja no necessites una nota? Fes servir el botó per arxivar-la"
+   },
+   "2073322475696388995": {
+      "message": "Avança"
+   },
+   "2074454463201225704": {
+      "message": "Restableix el zoom"
+   },
+   "2096559615401306102": {
+      "message": "No pots treure fitxers del domini $1​"
+   },
+   "2107379241532042955": {
+      "message": "Ubicació"
+   },
+   "2109979457438465538": {
+      "message": "S'ha obert el menú del selector d'etiquetes"
+   },
+   "2113092209746357267": {
+      "message": "Chrome"
+   },
+   "2118635459760443566": {
+      "message": "Següent"
+   },
+   "2119255452378336327": {
+      "message": "S'ha tornat a convertir el pic en $1​"
+   },
+   "212796670323571824": {
+      "message": "D'acord"
+   },
+   "2142420359113070963": {
+      "message": "Traça de la pila (visible només per als usuaris de la xarxa interna):"
+   },
+   "214517458278879973": {
+      "message": "Inicia la sessió com a $1​"
+   },
+   "2154372123324862271": {
+      "message": "barra inclinada"
+   },
+   "2159130950882492111": {
+      "message": "Cancel·la"
+   },
+   "2166966123760559393": {
+      "message": "Crea una etiqueta"
+   },
+   "2181197458532159304": {
+      "message": "{numberOfNotes,plural, =1{La nota s'ha enviat a la paperera}other{S'han enviat # notes a la paperera}}"
+   },
+   "2184278444368405837": {
+      "message": "$1​ elements"
+   },
+   "2189621188983913867": {
+      "message": "Connecta més aplicacions"
+   },
+   "2190049738646901760": {
+      "message": "{count,plural, =1{Vols suprimir la nota?}other{Vols suprimir les notes?}}"
+   },
+   "2195440644060728966": {
+      "message": "{NUM_ITEMS,plural, =1{Estàs a punt de moure una carpeta inclosa en una carpeta}other{Estàs a punt de moure diverses carpetes incloses en una carpeta}}"
+   },
+   "220168959069469607": {
+      "message": "Més accions"
+   },
+   "2203926649090909861": {
+      "message": "L'element de la llista s'ha mogut a l'índex $1​"
+   },
+   "2215890921415017560": {
+      "message": "Mode de pantalla completa"
+   },
+   "2216904725760458480": {
+      "message": "Diàriament"
+   },
+   "221715292685577880": {
+      "message": "Sí"
+   },
+   "2226562046914098941": {
+      "message": "Aquest fitxer és massa gran per previsualitzar-lo"
+   },
+   "2226937423434054727": {
+      "message": "S'ha seleccionat de la cel·la $1​ (\"$2​\") a la $3​ (\"$4​\")"
+   },
+   "223198388381606871": {
+      "message": "Lavanda"
+   },
+   "2254586145235168886": {
+      "message": "El tauler Aprovacions s'ha replegat."
+   },
+   "2264311811697505466": {
+      "message": "Actualitza"
+   },
+   "2265238034451062417": {
+      "message": "{count,plural, =1{+ # element completat}other{+ # elements completats}}"
+   },
+   "2270469222412517777": {
+      "message": "No es pot reconèixer el text"
+   },
+   "2270633624888102832": {
+      "message": "Deixa de fixar la nota"
+   },
+   "2280650195464600721": {
+      "message": "Navegació"
+   },
+   "2282423663539387332": {
+      "message": "Pròxims"
+   },
+   "2285069188138705005": {
+      "message": "Aplicacions connectades"
+   },
+   "2286685488296851497": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Estàs a punt de moure 1 element de la carpeta compartida {SHARED_FOLDER_NAME}. Els usuaris hi perdran l'accés.}other{Estàs a punt de moure {NUM_ITEMS_2} elements de la carpeta compartida {SHARED_FOLDER_NAME}. Els usuaris hi perdran l'accés.}}"
+   },
+   "228741435562395266": {
+      "message": "La impressió encara no està disponible"
+   },
+   "2289534534793293486": {
+      "message": "Treu de l'arxiu"
+   },
+   "2289812403593835836": {
+      "message": "Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Apuja el volum"
+   },
+   "2299671629154778581": {
+      "message": "Les notes s'han deixat de fixar i s'han arxivat"
+   },
+   "2308018963132768704": {
+      "message": "Mida 4"
+   },
+   "2310145944356900158": {
+      "message": "Seleccionats"
+   },
+   "2311880726221661199": {
+      "message": "S'estan carregant resolucions més elevades"
+   },
+   "2323249770683736002": {
+      "message": "Crea una etiqueta"
+   },
+   "2324955914430674498": {
+      "message": "No s'han trobat resultats de la cerca per a $1​"
+   },
+   "2346361265476305332": {
+      "message": "El propietari no permet baixar aquest fitxer d'àudio."
+   },
+   "2357623745116912085": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Si no comparteixes aquest element amb els membres de la unitat \"{TEAM_DRIVE_NAME}\", hi perdran l'accés.}other{Si no comparteixes aquests elements amb els membres de la unitat \"{TEAM_DRIVE_NAME}\", hi perdran l'accés.}}"
+   },
+   "2359614137862708172": {
+      "message": "Maj"
+   },
+   "2364374826543847335": {
+      "message": "Suprimeix la font"
+   },
+   "236689092839978781": {
+      "message": "No es repeteix"
+   },
+   "2370656573843123707": {
+      "message": "claudàtor de tancament"
+   },
+   "2373760032138505521": {
+      "message": "L'etiqueta ja existeix"
+   },
+   "2386536768112358461": {
+      "message": "Av pàg"
+   },
+   "2396804279177914769": {
+      "message": "Vols transferir la propietat a la unitat d'equip?"
+   },
+   "2402010336938670264": {
+      "message": "Comença a dibuixar amb el dit o, si tens un llapis òptic, escriu una nota a mà"
+   },
+   "2405795704816921421": {
+      "message": "Fitxer $1​"
+   },
+   "2408383448126741628": {
+      "message": "Durada"
+   },
+   "2408933271548524782": {
+      "message": "Bloquejat"
+   },
+   "2423364695613735749": {
+      "message": "Prem L per redactar una llista nova"
+   },
+   "2423877407428530040": {
+      "message": "El fitxer inclou massa gràfics."
+   },
+   "2433429041384246549": {
+      "message": "Silencia"
+   },
+   "2438741853303074449": {
+      "message": "repeticions"
+   },
+   "2444198666025646119": {
+      "message": "Violeta"
+   },
+   "2452145367257933677": {
+      "message": "Desfés"
+   },
+   "2452522051596946166": {
+      "message": "S'ha produït un problema en previsualitzar $1​. S'està tornant a provar."
+   },
+   "2454642351139428112": {
+      "message": "Desfés"
+   },
+   "246828342952819465": {
+      "message": "Captura les teves idees$1​des de qualsevol dispositiu"
+   },
+   "2469046390122693414": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}other{Estàs a punt de moure {NUM_ITEMS_2} elements de les unitats i carpetes compartides. Els usuaris hi perdran l'accés.}}"
+   },
+   "2478862372619762755": {
+      "message": "Destaqueu la part que vulgueu comentar"
+   },
+   "2483363439634684283": {
+      "message": "Mida 20"
+   },
+   "2494928104701250542": {
+      "message": "Fixa notes i configura recordatoris per estar al dia de les coses importants."
+   },
+   "2504232652631703202": {
+      "message": "Connectada"
+   },
+   "2509141182388535183": {
+      "message": "Mostra"
+   },
+   "251025074207413762": {
+      "message": "Afegeix una descripció"
+   },
+   "2525633490863427854": {
+      "message": "Refés"
+   },
+   "2527534830196374788": {
+      "message": "Ctrl"
+   },
+   "2532280782491328445": {
+      "message": "Cerca l'anterior"
+   },
+   "2542788471536661524": {
+      "message": "Deixa anar les imatges aquí."
+   },
+   "2562881166530755046": {
+      "message": "Dibuixos"
+   },
+   "257317112834806705": {
+      "message": "Permet alternar entre la visualització de llista i la de quadrícula."
+   },
+   "2579261044590673579": {
+      "message": "La meva unitat"
+   },
+   "2579679351920691492": {
+      "message": "Ves enrere"
+   },
+   "2584557103820423944": {
+      "message": "Aplica o anul·la el sagnat de l'element de llista"
+   },
+   "2592236094918360632": {
+      "message": "El fitxer no es pot moure perquè el propietari no és membre de la unitat compartida."
+   },
+   "2600731575260427177": {
+      "message": "El fitxer no existeix. Pot ser que s'hagi suprimit. Prova de penjar-lo de nou."
+   },
+   "2601304136110057215": {
+      "message": "Dibuix nou"
+   },
+   "2604527707881848686": {
+      "message": "No es pot anul·lar més el sagnat de l'element."
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2623861453769098676": {
+      "message": "S'ha produït un problema amb la previsualització d'aquest document."
+   },
+   "2626653026098396543": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{En moure aquest element, es compartirà amb tothom qui pugui veure la carpeta compartida {SHARED_FOLDER_NAME}.}other{En moure aquests elements, es compartiran amb tothom qui pugui veure la carpeta compartida {SHARED_FOLDER_NAME}.}}"
+   },
+   "2632263751512428257": {
+      "message": "Anualment"
+   },
+   "2632538140519286364": {
+      "message": "Les notes de la paperera se suprimeixen al cap de set dies."
+   },
+   "2645469029410848421": {
+      "message": "{noteCount,plural, =1{Etiqueta la nota}other{Etiqueta les notes}}"
+   },
+   "2661850177130037208": {
+      "message": "Obre l'element"
+   },
+   "2673781847036352269": {
+      "message": "Amaga els comentaris inactius"
+   },
+   "2680303811435018716": {
+      "message": "No es poden afegir més elements"
+   },
+   "2681830832355823748": {
+      "message": "Cerca totes les dreceres"
+   },
+   "268402507078609011": {
+      "message": "{imagesAdded,plural, =1{S'ha afegit una imatge}other{S'han afegit # imatges}}"
+   },
+   "269301203471243703": {
+      "message": "Afegeix una drecera"
+   },
+   "2713989182797848963": {
+      "message": "Crea dibuixos i notes escrites a mà"
+   },
+   "2715199780155065699": {
+      "message": "El fitxer inclou massa formes, quadres de text o dibuixos."
+   },
+   "2716433087531258659": {
+      "message": "re pàg"
+   },
+   "2719125961689709460": {
+      "message": "Nota"
+   },
+   "2725185337656029651": {
+      "message": "Afegeix imatges o àudio"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2757876083706839152": {
+      "message": "El dibuix s'ha duplicat a causa del límit de mida"
+   },
+   "2758125083752925237": {
+      "message": "(Propietari)"
+   },
+   "2760106082595028595": {
+      "message": "La nota és massa gran."
+   },
+   "2761695221066052931": {
+      "message": "Es mostra el quadre d'ajuda Obre l'enllaç"
+   },
+   "2762925619340374825": {
+      "message": "Per URL"
+   },
+   "277430914014962533": {
+      "message": "S'ha produït un problema en previsualitzar $1​."
+   },
+   "2777453609143551768": {
+      "message": "Control del volum"
+   },
+   "2793841261389879255": {
+      "message": "Pàgina anterior"
+   },
+   "2794676336056877832": {
+      "message": "{every,plural, =1{Es repeteix el mateix dia de cada mes}other{Es repeteix el mateix dia cada # mesos}}"
+   },
+   "2803553109654833664": {
+      "message": "Rosa"
+   },
+   "2814354342017225342": {
+      "message": "Mostra previsualitzacions avançades d'enllaços"
+   },
+   "2818020101821669029": {
+      "message": "Creació"
+   },
+   "2820045170951016567": {
+      "message": "Recordatoris"
+   },
+   "2823533464825550362": {
+      "message": "Controls del document"
+   },
+   "2827039933590757722": {
+      "message": "Tecles de drecera de Windows"
+   },
+   "2828060233316503200": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{S'ha mogut {NUM_ITEMS_2} element de la carpeta {XXX_1} a {XXX_2}.}other{S'han mogut {NUM_ITEMS_2} elements de la carpeta {XXX_3} a {XXX_4}.}}"
+   },
+   "2828258538208588139": {
+      "message": "{shortcutCount,plural, =1{Has afegit 1 drecera}other{Has afegit # dreceres}}"
+   },
+   "2829226075651806940": {
+      "message": "Amplia"
+   },
+   "2842462703735289745": {
+      "message": "Tothom que pugui veure la carpeta compartida $1​ hi obtindrà accés."
+   },
+   "2853036885874864031": {
+      "message": "La propietat es transferirà a $1​."
+   },
+   "2854717396594966319": {
+      "message": "OpenOffice Writer"
+   },
+   "2868845399811178993": {
+      "message": "Només el propietari de la carpeta $1​ pot suprimir les dreceres que s'hi afegeixin."
+   },
+   "2873089307546162154": {
+      "message": "D'acord"
+   },
+   "2877285560485318801": {
+      "message": "Posa en pausa"
+   },
+   "2879276552944958066": {
+      "message": "Torna a la carpeta $1​"
+   },
+   "2886313667612471214": {
+      "message": "Cal actualitzar el contingut. El procés pot tardar uns quants minuts."
+   },
+   "2893055432094515558": {
+      "message": "Es mostren les caselles de selecció"
+   },
+   "289798573180023043": {
+      "message": "D'acord"
+   },
+   "2901360496423912565": {
+      "message": "Informa"
+   },
+   "2908917161758545146": {
+      "message": "{count,plural, =1{La nota s'ha deixat de fixar i s'ha arxivat}other{S'han deixat de fixar i s'han arxivat # notes}}"
+   },
+   "2930974997943171554": {
+      "message": "El tema fosc s'ha desactivat"
+   },
+   "2935193106137642160": {
+      "message": "Zoom no disponible"
+   },
+   "295331174171409695": {
+      "message": "S'ha produït un problema en modificar el permís de baixada de: $1​."
+   },
+   "2960516445247616550": {
+      "message": "Impressió no disponible"
+   },
+   "296391753033307868": {
+      "message": "L'etiqueta $1​ s'ha creat i s'ha afegit a la nota."
+   },
+   "2971623719720688041": {
+      "message": "S'ha desfet l'acció"
+   },
+   "2973306402585941108": {
+      "message": "Matí"
+   },
+   "2983318659047499045": {
+      "message": "Recordatoris"
+   },
+   "298817883481775869": {
+      "message": "S'està carregant..."
+   },
+   "2990497076082409431": {
+      "message": "\"$1​\" s'ha mogut a $2​."
+   },
+   "2993901764282547916": {
+      "message": "App Maker"
+   },
+   "3005058076425755361": {
+      "message": "Retrocés"
+   },
+   "3018905429279095639": {
+      "message": "{NUM_ITEMS,plural, =1{No teniu permís per treure aquesta carpeta de les carpetes actuals. Afegiu-la a {START_SPAN_1}{NAME}{END_SPAN}.}other{No teniu permís per treure aquestes carpetes de les carpetes actuals. Afegiu-les a {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "3038603165081234302": {
+      "message": "Els elements s'estan afegint a $2​La meva unitat$1​…"
+   },
+   "3043961722025425136": {
+      "message": "Descripció"
+   },
+   "304438440663479110": {
+      "message": "Drecera compatible de full de càlcul"
+   },
+   "306516303501625305": {
+      "message": "No s'ha pogut fer l'autenticació."
+   },
+   "3074915509081765994": {
+      "message": "iPhone i iPad"
+   },
+   "3091440425606975088": {
+      "message": "Llista sense títol"
+   },
+   "3108098439469164127": {
+      "message": "S'ha obert un dibuix nou"
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​"
+   },
+   "3150651996344750990": {
+      "message": "{count,plural, =1{La nota ja no està arxivada.}other{Hi ha # notes que ja no estan arxivades.}}"
+   },
+   "3167198321908629554": {
+      "message": "S'estan actualitzant i tornant a carregar les notes…"
+   },
+   "3176246635438298155": {
+      "message": "Supr"
+   },
+   "3187117482772485385": {
+      "message": "S'està creant una miniatura..."
+   },
+   "3189854932778515441": {
+      "message": "Nota a l'Arxiu"
+   },
+   "3190546672187601036": {
+      "message": "Nit"
+   },
+   "3195812604657128345": {
+      "message": "Selecciona una carpeta de Drive on vulguis extreure el contingut"
+   },
+   "32059145043728507": {
+      "message": "{numberOfNotes,plural, =1{S'ha restaurat la nota}other{S'han restaurat # notes}}"
+   },
+   "3207650089232728475": {
+      "message": "Canvia les etiquetes"
+   },
+   "3211163842850942567": {
+      "message": "Amplia"
+   },
+   "3217354672216773127": {
+      "message": "Enviat el dia $1​"
+   },
+   "3220641589840600333": {
+      "message": "S'ha canviat a la vista $1​"
+   },
+   "3241696131593027453": {
+      "message": "Selecciona la nota"
+   },
+   "3243075164136265612": {
+      "message": "El tauler Aprovacions s'ha desplegat."
+   },
+   "3249966726137025950": {
+      "message": "Grup familiar del col·laborador"
+   },
+   "3250489229749307913": {
+      "message": "Publicació electrònica"
+   },
+   "3258100527833044153": {
+      "message": "El dibuix en blanc s'ha descartat"
+   },
+   "3261131345401321392": {
+      "message": "Pot comentar"
+   },
+   "3266448715145955862": {
+      "message": "Les notes s'han tret de l'arxiu i s'han fixat"
+   },
+   "3272496516667407797": {
+      "message": "S'ha produït un problema en carregar els detalls."
+   },
+   "3278046126264096288": {
+      "message": "Setmana"
+   },
+   "3281684668260174833": {
+      "message": "{numberOfNotes,plural, =1{La nota s'ha deixat de fixar i s'ha enviat a la paperera}other{S'han deixat de fixar i s'han enviat a la paperera # notes}}"
+   },
+   "3285255128259782773": {
+      "message": "Disc local"
+   },
+   "3285552194638444776": {
+      "message": "Ara pots utilitzar $2​ per editar, compartir i gestionar les revisions de fitxers $1​"
+   },
+   "3288498486633948368": {
+      "message": "$1​ s'ha afegit a Google Drive."
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3308935528045767909": {
+      "message": "Nota nova amb un dibuix"
+   },
+   "3312545971976531405": {
+      "message": "Missatge"
+   },
+   "3313557905033219672": {
+      "message": "{numNotes,plural, =1{S'ha creat una nota no arxivada}other{S'han creat # notes no arxivades}}"
+   },
+   "3325094738421414114": {
+      "message": "Prem X per afegir o suprimir una nota del conjunt de notes seleccionades"
+   },
+   "3345567742278474807": {
+      "message": "Aquesta nota s'ha marcat com a inadequada i no es pot compartir."
+   },
+   "3348057264663626000": {
+      "message": "S'ha mogut la selecció cap amunt."
+   },
+   "3362903141674317449": {
+      "message": "Col·laborador"
+   },
+   "3371033609268806242": {
+      "message": "L'etiqueta $1​ s'ha suprimit."
+   },
+   "3378875258397512442": {
+      "message": "Configura recordatoris sobre llocs i hores a les notes, pren notes de veu i treballa en línia o sense connexió."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Obre"
+   },
+   "3385831848537487538": {
+      "message": "Viatges"
+   },
+   "3409483962000136213": {
+      "message": "Reprodueix/Pausa"
+   },
+   "3418677553313974490": {
+      "message": "Paperera"
+   },
+   "3418767079436101103": {
+      "message": "S'ha produït un problema en carregar aquesta pàgina."
+   },
+   "3419821606494999471": {
+      "message": "Gestiona les notificacions de comentaris"
+   },
+   "3437227878928998987": {
+      "message": "Crea una llista"
+   },
+   "3447704623213039325": {
+      "message": "Element d'una llista de la compra"
+   },
+   "3448234415275521882": {
+      "message": "Informació general"
+   },
+   "3449090379302140902": {
+      "message": "Fotos"
+   },
+   "3451851833460018584": {
+      "message": "{NUM_COMMENTS,plural, =0{No hi ha comentaris}=1{Un comentari}other{# comentaris}}"
+   },
+   "3455405209271884570": {
+      "message": "Extreu"
+   },
+   "345718983715470367": {
+      "message": "Font"
+   },
+   "3462556632501534753": {
+      "message": "$2​Llicències de programari lliure$1​"
+   },
+   "3468441711253011521": {
+      "message": "Fulls de càlcul de Google"
+   },
+   "3473620774713000513": {
+      "message": "Resolt"
+   },
+   "3478630283627055305": {
+      "message": "Prem Esc per deixar d'editar una nota"
+   },
+   "3485469306694683931": {
+      "message": "Extreu al compte de Drive"
+   },
+   "3487924397596265480": {
+      "message": "S'ha seleccionat \"$1​\"."
+   },
+   "3493932452507671194": {
+      "message": "Prem $1​+] per aplicar sagnat i $1​+[ per anul·lar-lo"
+   },
+   "3496410038494993160": {
+      "message": "Tecles de drecera populars"
+   },
+   "3518073392823563581": {
+      "message": "Tecles de drecera"
+   },
+   "3527565741177531691": {
+      "message": "S'està afegint la drecera a $2​$3​$1​…"
+   },
+   "3528739824697875943": {
+      "message": "element de llista"
+   },
+   "3539889527558048258": {
+      "message": "Cerca d'imatges de Google"
+   },
+   "3544847661620838201": {
+      "message": "Prova-ho! Sempre pots cercar-la més tard."
+   },
+   "3549581437554274388": {
+      "message": "S'ha mogut la selecció cap a la dreta."
+   },
+   "3551522853788442530": {
+      "message": "Torna"
+   },
+   "3551608745198442336": {
+      "message": "Dibuix $1​/$2​"
+   },
+   "3553997866738769437": {
+      "message": "Edita el dibuix"
+   },
+   "3555297636767750285": {
+      "message": "Verd"
+   },
+   "3561658662634401836": {
+      "message": "Títol"
+   },
+   "3569884090205828853": {
+      "message": "OpenOffice Calc"
+   },
+   "3571391964903695725": {
+      "message": "Repeteix"
+   },
+   "3571704286086017611": {
+      "message": "El recordatori s'ha suprimit"
+   },
+   "3574963906259719128": {
+      "message": "El navegador no pot reproduir aquest fitxer d'àudio."
+   },
+   "3580243353280636963": {
+      "message": "Tria data i hora"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3595562664731337243": {
+      "message": "Canvia el nom de l'etiqueta"
+   },
+   "3603931013946597836": {
+      "message": "{NUM_ITEMS,plural, =1{Estàs a punt de moure un fitxer inclòs en {NUM_PARENTS} carpetes}other{Estàs a punt de moure diversos fitxers inclosos en {NUM_PARENTS} carpetes}}"
+   },
+   "3608521102844050208": {
+      "message": "Recordatori:"
+   },
+   "3608606849109645545": {
+      "message": "Introdueix un nom nou per al document:"
+   },
+   "3609912631958780352": {
+      "message": "Eina de cal·ligrafia"
+   },
+   "3611573349633408445": {
+      "message": "Baixa"
+   },
+   "3612936866865912552": {
+      "message": "S'està carregant..."
+   },
+   "3617727970098875990": {
+      "message": "Cerca totes les dreceres"
+   },
+   "362521762755836201": {
+      "message": "Moment de creació: $1​"
+   },
+   "3628141779141388914": {
+      "message": "Les carpetes encara no es poden moure a les unitats compartides."
+   },
+   "3634885664399305142": {
+      "message": "El dibuix no està disponible"
+   },
+   "3642907339426904506": {
+      "message": "No hi ha cap nota a la paperera"
+   },
+   "3651893685901703652": {
+      "message": "..."
+   },
+   "3657386785336906042": {
+      "message": "barra inversa"
+   },
+   "3659554681396757189": {
+      "message": "Obert per mi"
+   },
+   "366289214151975122": {
+      "message": "Tothom del domini $1​ que tingui l'enllaç"
+   },
+   "3663571259791438207": {
+      "message": "Informa d'un ús abusiu"
+   },
+   "3664842788764635265": {
+      "message": "Cap"
+   },
+   "3666123569747918021": {
+      "message": "Aquest document conté canvis no desats. Vols sortir d'aquesta pàgina i descartar els canvis?"
+   },
+   "3678477908297567934": {
+      "message": "ratlla baixa"
+   },
+   "3684032082082645570": {
+      "message": "{count,plural, =1{Selecciona un color per aplicar-lo a la nota.}other{Selecciona un color per aplicar-lo a les notes.}}"
+   },
+   "3690515530505404607": {
+      "message": "S'ha produït un problema amb la reproducció d'aquest vídeo."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Sense elements}=1{1 element}other{# elements}}"
+   },
+   "3703024996011822310": {
+      "message": "Et donem la benvinguda a Google Keep"
+   },
+   "3712215972250917265": {
+      "message": "Comentaris"
+   },
+   "3714239567487848851": {
+      "message": "El tema fosc s'ha activat"
+   },
+   "3721649886572275931": {
+      "message": "Mida 8"
+   },
+   "372633345629975481": {
+      "message": "Les notes s'han fixat"
+   },
+   "372823375470132483": {
+      "message": "Desselecciona una nota de la paperera"
+   },
+   "3734444903221631913": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}other{Estàs a punt de moure {NUM_ITEMS_2} elements de les unitats d'equip i de les carpetes compartides. Els usuaris hi perdran l'accés.}}"
+   },
+   "3751183760611784323": {
+      "message": "S'ha aplicat el zoom per ajustar l'element a l'amplada de la pantalla."
+   },
+   "3768927257183755959": {
+      "message": "Desa"
+   },
+   "3787959261309150430": {
+      "message": "Per dibuixar línies, fes clic a la icona del bolígraf"
+   },
+   "3793086499925031123": {
+      "message": "Obre la barra de cerca o ves a l'element anterior"
+   },
+   "3796511349428373407": {
+      "message": "Opcions de data"
+   },
+   "37992665410817181": {
+      "message": "Reobert"
+   },
+   "3802992573289114390": {
+      "message": "La descripció del fitxer $1​ s'ha actualitzat correctament."
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3827179818223863356": {
+      "message": "Verd clar"
+   },
+   "383396092993661575": {
+      "message": "Els vols moure a una unitat compartida?"
+   },
+   "3845302429676793049": {
+      "message": "S'ha produït un problema en modificar la descripció de: $1​."
+   },
+   "3852386690131857488": {
+      "message": "Activa l'opció per compartir"
+   },
+   "3856687081748327279": {
+      "message": "En treure fitxers d'una unitat compartida, els permisos d'accés i la propietat canvien."
+   },
+   "3856960241878617076": {
+      "message": "Espera mentre es carreguen els comentaris"
+   },
+   "3858324058837632381": {
+      "message": "S'ha produït un problema amb la reproducció d'aquest fitxer d'àudio."
+   },
+   "3869166581651870488": {
+      "message": "Permet finalitzar l'edició."
+   },
+   "3874597373619381607": {
+      "message": "Es mostren els comentaris resolts"
+   },
+   "3877974536163446728": {
+      "message": "S'ha seleccionat $1​ (\"$2​\")"
+   },
+   "3880648579756747781": {
+      "message": "Si el nombre d'elements d'aquesta carpeta supera el màxim permès a les unitats compartides, és possible que es perdin permisos. $2​Més informació$1​"
+   },
+   "3888733084985311515": {
+      "message": "Hi ha un grup familiar disponible."
+   },
+   "3897281533382850749": {
+      "message": "Deixa de silenciar"
+   },
+   "3907816292084809686": {
+      "message": "S'ha refet l'acció"
+   },
+   "3909380459614154542": {
+      "message": "Ves a l'enllaç"
+   },
+   "3920849627538402857": {
+      "message": "Baixa"
+   },
+   "3952341864324097024": {
+      "message": "Esborra la cerca"
+   },
+   "3955575370175991097": {
+      "message": "S'ha canviat a la vista d'etiqueta $1​"
+   },
+   "395680759377627007": {
+      "message": "Crea \"$3​$2​$1​\""
+   },
+   "397098723873502323": {
+      "message": "Fet"
+   },
+   "3974822583047850066": {
+      "message": "Cancel·la"
+   },
+   "3977699855735576796": {
+      "message": "S'ha produït un problema en carregar més pàgines."
+   },
+   "3981269900634596036": {
+      "message": "{numberOfNotes,plural, =1{Suprimeix la nota}other{Suprimeix les notes}}"
+   },
+   "3988418762222300024": {
+      "message": "punt"
+   },
+   "3989925953740167133": {
+      "message": "Google Keep vol fer servir la teva ubicació per millorar els suggeriments de llocs per als recordatoris d'ubicació."
+   },
+   "4005725939358875643": {
+      "message": "L'acció s'ha desfet"
+   },
+   "4020393055976236243": {
+      "message": "La propietat es transferirà de la unitat d'equip \"$3​\" ($2​) a $1​."
+   },
+   "4023299615382814997": {
+      "message": "No es pot editar a la paperera"
+   },
+   "4034637528003033305": {
+      "message": "Si el nombre d'elements d'aquesta carpeta supera el màxim permès a les unitats d'equip, és possible que es perdin permisos. $2​Més informació$1​"
+   },
+   "4036523543547629779": {
+      "message": "Imatges"
+   },
+   "4044915502415235332": {
+      "message": "Selecciona una nota fixada"
+   },
+   "4052960606031736645": {
+      "message": "{NUM_ITEMS,plural, =1{Estàs a punt de moure una carpeta inclosa en {NUM_PARENTS} carpetes}other{Estàs a punt de moure diverses carpetes incloses en {NUM_PARENTS} carpetes}}"
+   },
+   "4061102590585232601": {
+      "message": "S'ha suprimit $1​"
+   },
+   "4064820890482961434": {
+      "message": "Mostra les caselles de selecció"
+   },
+   "4072353527895477784": {
+      "message": "Persones"
+   },
+   "407982090576503781": {
+      "message": "Vols moure els elements a La meva unitat?"
+   },
+   "4081524305222967804": {
+      "message": "Verd blavós"
+   },
+   "4085493778209859942": {
+      "message": "Reprodueix igualment"
+   },
+   "4097921967754832323": {
+      "message": "guionet"
+   },
+   "411137507354526852": {
+      "message": "Mes"
+   },
+   "4111452225725405610": {
+      "message": "S'ha deixat de destacar $1​."
+   },
+   "4117632433281998979": {
+      "message": "Mensualment"
+   },
+   "4122858386674768321": {
+      "message": "Mou de la carpeta $3​$2​$1​"
+   },
+   "4145164831312518309": {
+      "message": "Prem @ per enviar suggeriments"
+   },
+   "4155905925766040098": {
+      "message": "No hi ha cap previsualització disponible"
+   },
+   "4157091150222353401": {
+      "message": "Els comentaris es desen en fitxers DOCX, PPTX i XLSX, i es poden visualitzar en Microsoft Office"
+   },
+   "4167720915844687374": {
+      "message": "Per esborrar una forma, fes clic a la icona de la goma d'esborrar."
+   },
+   "4174786386751618325": {
+      "message": "Nota de foto"
+   },
+   "4182427157920112948": {
+      "message": "titlla"
+   },
+   "4186465168527990324": {
+      "message": "\"$1​\" s'ha extret correctament a la carpeta $2​"
+   },
+   "4194905394104253796": {
+      "message": "Configura"
+   },
+   "4204345954541079744": {
+      "message": "Encara no hi ha notes amb aquesta etiqueta"
+   },
+   "4206529410529166231": {
+      "message": "{NUM_ITEMS,plural, =1{Estàs a punt de moure un element inclòs en {NUM_PARENTS} carpetes}other{Estàs a punt de moure diversos elements inclosos en {NUM_PARENTS} carpetes}}"
+   },
+   "4209658291185545281": {
+      "message": "L'acció no s'ha pogut desfer"
+   },
+   "4211182812451835307": {
+      "message": "Pot editar el document."
+   },
+   "4214190403999219403": {
+      "message": "Zoom"
+   },
+   "4216242742234357612": {
+      "message": "Selecciona totes les notes"
+   },
+   "4216628828665009319": {
+      "message": "Verd alvocat"
+   },
+   "4227185265023581008": {
+      "message": "Google Calendar"
+   },
+   "4228870062013120023": {
+      "message": "Ves a la nota anterior/següent"
+   },
+   "4230101516585408149": {
+      "message": "Permet redactar una nota nova."
+   },
+   "4236714142889891754": {
+      "message": "Els vols moure d'una unitat compartida a una altra?"
+   },
+   "4239183034054216803": {
+      "message": "Marró"
+   },
+   "4267845092591696061": {
+      "message": "Destaca o deixa de destacar els elements seleccionats"
+   },
+   "426927371216979233": {
+      "message": "Ratlles"
+   },
+   "4293996570221590891": {
+      "message": "Blanc"
+   },
+   "4296310694082659873": {
+      "message": "Goma d'esborrar"
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4310202846681054741": {
+      "message": "{numberOfPreviews,plural, =1{S'ha suprimit la previsualització d'enllaços}other{S'han suprimit # previsualitzacions d'enllaços}}"
+   },
+   "4318861667254318892": {
+      "message": "Google Vídeos"
+   },
+   "4320831042030778": {
+      "message": "Cancel·la"
+   },
+   "4320942249997687388": {
+      "message": "Fi"
+   },
+   "4321382260116636620": {
+      "message": "Selecciona una nota"
+   },
+   "4332252081504252077": {
+      "message": "Vaja."
+   },
+   "433537592689162064": {
+      "message": "Més informació"
+   },
+   "4343825450663233452": {
+      "message": "Pot visualitzar el document."
+   },
+   "4343836986248234462": {
+      "message": "Element de llista"
+   },
+   "4343848624651344174": {
+      "message": "Tarda"
+   },
+   "435214284915110062": {
+      "message": "Obre la barra de cerca"
+   },
+   "435444400175963053": {
+      "message": "S'han mogut $1​ elements a $2​."
+   },
+   "4356312843186491987": {
+      "message": "Mou"
+   },
+   "4357246389840951053": {
+      "message": "Alguns elements amb scripts adjunts encara no es poden moure a les unitats compartides."
+   },
+   "4391715930031906467": {
+      "message": "Cerca el següent"
+   },
+   "4397482594800054550": {
+      "message": "S'ha produït un problema en canviar el nom de: $1​."
+   },
+   "4412626362660239325": {
+      "message": "Organitza a Drive"
+   },
+   "4422985761498356257": {
+      "message": "Obre amb"
+   },
+   "4429542915339609008": {
+      "message": "No es poden obrir diversos fitxers amb aquesta aplicació."
+   },
+   "4439831283519683004": {
+      "message": "Gris"
+   },
+   "4448871104213529122": {
+      "message": "Amaga els detalls"
+   },
+   "4457424709416639982": {
+      "message": "Afegeix a La meva unitat"
+   },
+   "4486429060311743289": {
+      "message": "Esborra la selecció"
+   },
+   "4494250072784000771": {
+      "message": "S'ha detectat un llapis òptic. Pots desplaçar-te per la pantalla amb gestos."
+   },
+   "45228242181482134": {
+      "message": "Reprodueix"
+   },
+   "4533605085334699862": {
+      "message": "Citacions"
+   },
+   "4543077011795639870": {
+      "message": "S'ha anul·lat sagnat de l'element."
+   },
+   "4546909961510778468": {
+      "message": "Drive"
+   },
+   "4550209323331625907": {
+      "message": "$2​Més informació$1​"
+   },
+   "4557086341175267918": {
+      "message": "No es pot compartir contingut sense connexió"
+   },
+   "4558568516353053251": {
+      "message": "Els lectors d'aquest fitxer poden veure comentaris i suggeriments."
+   },
+   "4564682305303579317": {
+      "message": "Continua"
+   },
+   "456512308416555173": {
+      "message": "Llibres"
+   },
+   "4566838580250578446": {
+      "message": "{every,plural, =1{Es repeteix cada any}other{Es repeteix cada # anys}}"
+   },
+   "4583714435275461910": {
+      "message": "element de llista principal"
+   },
+   "4586373282767984140": {
+      "message": "Groc"
+   },
+   "4595551195988564947": {
+      "message": "Es produiran canvis a la Llista de la compra de l'Assistent de Google."
+   },
+   "4602655470033495470": {
+      "message": "Afegeix notes, llistes, fotos i àudio a Keep."
+   },
+   "4607656353105320648": {
+      "message": "{count,plural, =1{Vols suprimir la nota definitivament?}other{Vols suprimir les notes definitivament?}}"
+   },
+   "4607802784047113873": {
+      "message": "Afegeix un col·laborador"
+   },
+   "4608848277887462246": {
+      "message": "Més fulls"
+   },
+   "461126197624379601": {
+      "message": "Toca aquí per comentar aquest fitxer amb altres usuaris"
+   },
+   "4620034373159179678": {
+      "message": "Pàgina $1​ de $2​"
+   },
+   "4632830890362652221": {
+      "message": "{NUM_ITEMS,plural, =1{Estàs a punt de moure un element inclòs en una carpeta}other{Estàs a punt de moure diversos elements inclosos en una carpeta}}"
+   },
+   "4642196066412650732": {
+      "message": "No es pot compartir contingut amb els usuaris que s'indiquen a continuació perquè el seu administrador ha desactivat l'opció de compartir dins de la seva organització i el teu administrador ha desactivat l'opció de compartir fora de la teva organització."
+   },
+   "4643940860676429496": {
+      "message": "S'està desant..."
+   },
+   "4671836579708244357": {
+      "message": "Contactes"
+   },
+   "4675792829115971960": {
+      "message": "Marcarem aquesta nota i la suprimirem del teu compte."
+   },
+   "4685321580747790677": {
+      "message": "{every,plural, =1{Es repeteix cada setmana els {days}}other{Es repeteix cada # setmanes els {days}}}"
+   },
+   "4691283408020124345": {
+      "message": "Visualització de llista"
+   },
+   "4697169479015785830": {
+      "message": "Obre el selector de color i mida de l'eina de cal·ligrafia"
+   },
+   "4697673185436885400": {
+      "message": "Fulls de càlcul ha substituït les tecles de drecera $2​ del navegador $1​"
+   },
+   "4698144269846224816": {
+      "message": "Mida 1"
+   },
+   "4699778906119153977": {
+      "message": "Cerca"
+   },
+   "4704493722060638379": {
+      "message": "Prem Maj+N per anar a la posició anterior i Maj+P per anar a la següent"
+   },
+   "4722167255291887189": {
+      "message": "Mida 2"
+   },
+   "4734349318830134239": {
+      "message": "Finalitza"
+   },
+   "4738612839683751348": {
+      "message": "No es pot aplicar més sagnat a l'element."
+   },
+   "4740100782728373253": {
+      "message": "Desa a Drive"
+   },
+   "4748046231232264180": {
+      "message": "Formularis de Google"
+   },
+   "4751144871302640150": {
+      "message": "Compartit amb mi"
+   },
+   "4751202914935960324": {
+      "message": "Aquesta adreça electrònica ja existeix."
+   },
+   "4752655540567953719": {
+      "message": "Posició $1​"
+   },
+   "4762625944764691132": {
+      "message": "Menú principal"
+   },
+   "47670360985205683": {
+      "message": "\"$1​\" ($2​) supera el màxim que Google pot analitzar. Aquest fitxer pot malmetre l'ordinador i, per tant, et recomanem que només el reprodueixis si comprens els riscos que comporta."
+   },
+   "4767722428137216885": {
+      "message": "Cancel·la"
+   },
+   "477328789314249432": {
+      "message": "Permet cercar notes."
+   },
+   "4775368111547931093": {
+      "message": "Cap descripció"
+   },
+   "4780778609011268862": {
+      "message": "El fitxer no es pot moure perquè la unitat compartida ja conté el nombre màxim de fitxers permesos."
+   },
+   "4805047680716507619": {
+      "message": " - Mou a:"
+   },
+   "4806763987633034948": {
+      "message": "PKCS7 Signature"
+   },
+   "4807444103404336088": {
+      "message": "S'ha produït un problema en afegir una estrella a $1​."
+   },
+   "4816888965396680834": {
+      "message": "Edita fitxers $2​ i col·labora-hi en temps real a $1​ de Google"
+   },
+   "4821130290026382049": {
+      "message": "Tecles de drecera populars"
+   },
+   "4833214200453019325": {
+      "message": "$1​ de $2​"
+   },
+   "4839460587397079680": {
+      "message": "Vídeos"
+   },
+   "4840513623749850224": {
+      "message": "Pel·lícules"
+   },
+   "4847795993918486929": {
+      "message": "No es pot obtenir el text de la imatge. Torna-ho a provar més tard."
+   },
+   "4853788427396558692": {
+      "message": "$1​ MB"
+   },
+   "4858389278403807208": {
+      "message": "Nota a la Paperera"
+   },
+   "4864051612562026766": {
+      "message": "{count,plural, =1{1 element seleccionat}other{# elements seleccionats}}"
+   },
+   "4878012031550736317": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Si els usuaris no són membres de la unitat d'equip \"{TEAM_DRIVE_NAME}\", perdran l'accés a aquest fitxer.}other{Si els usuaris no són membres de la unitat d'equip \"{TEAM_DRIVE_NAME}\", perdran l'accés a aquests fitxers.}}"
+   },
+   "490045476479394048": {
+      "message": "Destaqueu el text que vulgueu comentar"
+   },
+   "4906669330059413958": {
+      "message": "Envia la contrasenya"
+   },
+   "4907349694646937491": {
+      "message": "La nota s'ha mogut a l'índex $1​"
+   },
+   "4915450884407029247": {
+      "message": "L'etiqueta $1​ s'ha afegit."
+   },
+   "4918998818369420588": {
+      "message": "Informa d'un ús abusiu"
+   },
+   "4930422592340561418": {
+      "message": "La meva unitat"
+   },
+   "4930506384627295710": {
+      "message": "Configuració"
+   },
+   "4937266179792749481": {
+      "message": "Recents"
+   },
+   "4955094356920130803": {
+      "message": "Ambre"
+   },
+   "4957674814179289955": {
+      "message": "Permet anar a l'element de la llista següent o a l'anterior."
+   },
+   "4963533275503057654": {
+      "message": "S'està creant una miniatura..."
+   },
+   "4963784280521435720": {
+      "message": "S'està desant..."
+   },
+   "4974059227183970715": {
+      "message": "Per afegir etiquetes, també podeu escriure \"#\"."
+   },
+   "4974261966265341751": {
+      "message": "Desactiva el tema fosc"
+   },
+   "4982284738093713321": {
+      "message": "Organitzador"
+   },
+   "4988132901627446385": {
+      "message": "El tauler de detalls s'ha desplegat."
+   },
+   "5000971639019912199": {
+      "message": "$2​Condicions$1​"
+   },
+   "5006765610090288212": {
+      "message": "S'ha aplicat el color $1​"
+   },
+   "5008901799534614532": {
+      "message": "Suprimeix"
+   },
+   "5009448218905630614": {
+      "message": "Suprimeix"
+   },
+   "5011858093760184160": {
+      "message": "Deixa de destacar"
+   },
+   "5013331898336483156": {
+      "message": "Vols moure els elements a La meva unitat en un domini nou?"
+   },
+   "5023623739220371850": {
+      "message": "No s'ha pogut fer l'autenticació. Els canvis se sincronitzaran quan iniciïs la sessió."
+   },
+   "5041572047197549869": {
+      "message": "El mateix dia de cada mes"
+   },
+   "5045725997997672553": {
+      "message": "{weekNumber,plural, =1{El primer {day} del mes}=2{El segon {day} del mes}=3{El tercer {day} del mes}=4{El quart {day} del mes}other{El darrer {day} del mes}}"
+   },
+   "5046371569383796818": {
+      "message": "Conserva"
+   },
+   "5052461293250181960": {
+      "message": "av pàg"
+   },
+   "5060107422621709815": {
+      "message": "No s'ha pogut actualitzar la pantalla"
+   },
+   "5075841894330153061": {
+      "message": "Per tancar el dibuix, ves a la part superior esquerra i toca Enrere"
+   },
+   "5078184843381528205": {
+      "message": "Fixa la nota"
+   },
+   "5085332075590890665": {
+      "message": "Desfés"
+   },
+   "5086862627563516607": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Els membres de la unitat d'equip \"{TEAM_DRIVE_NAME}\" obtindran accés a aquest element.}other{Els membres de la unitat d'equip \"{TEAM_DRIVE_NAME}\" obtindran accés a aquests elements.}}"
+   },
+   "5089697363226053379": {
+      "message": "Mou a"
+   },
+   "5094400861508407603": {
+      "message": "S'ha suprimit un pic"
+   },
+   "5095987896933771566": {
+      "message": "Imprimeix el document"
+   },
+   "509815948423424872": {
+      "message": "Navegació"
+   },
+   "5098941979861776792": {
+      "message": "Retorn"
+   },
+   "5121976648047240846": {
+      "message": "Suprimeix l'etiqueta"
+   },
+   "5130903421326358933": {
+      "message": "S'ha produït un error en desar el fitxer adjunt a Google Drive."
+   },
+   "5134649253619244584": {
+      "message": "Suprimeix l'etiqueta"
+   },
+   "5140285776541296873": {
+      "message": "Personalitzat"
+   },
+   "5140450179685369890": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{S'ha mogut {NUM_ITEMS_2} carpeta a {XXX_1}.}other{S'han mogut {NUM_ITEMS_2} carpetes a {XXX_2}.}}"
+   },
+   "5151247077945318396": {
+      "message": "S'ha produït un error en seleccionar una carpeta a la qual extreure."
+   },
+   "5159511879001144721": {
+      "message": "Blau de cobalt"
+   },
+   "5167365673547406876": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Els membres de la unitat d'equip \"{TEAM_DRIVE_NAME}\" hi obtindran accés.}other{Els membres de la unitat d'equip \"{TEAM_DRIVE_NAME}\" hi obtindran accés.}}"
+   },
+   "5178674191443894176": {
+      "message": "Etiquetes"
+   },
+   "5178939467831590680": {
+      "message": "Amaga els detalls de la depuració del visualitzador"
+   },
+   "5180454621500142444": {
+      "message": "Restaura"
+   },
+   "5180989337128758117": {
+      "message": "claudàtor d'obertura"
+   },
+   "5182569285908080938": {
+      "message": "Opcions de data de finalització"
+   },
+   "5184692850089055965": {
+      "message": "Obtén el text de la imatge"
+   },
+   "5184785218378634051": {
+      "message": "S'ha deixat d'aplicar el zoom a l'element."
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Barra de pestanyes del tauler d'informació. Prem les tecles de fletxa esquerra i dreta per canviar d'una pestanya a una altra."
+   },
+   "5202835861850747976": {
+      "message": "$2​Més informació$1​"
+   },
+   "5204391636475413312": {
+      "message": "Desa"
+   },
+   "5238284741118437734": {
+      "message": "Desfés"
+   },
+   "5238307666527496111": {
+      "message": "D'acord"
+   },
+   "5238371081785912565": {
+      "message": "Obre amb $1​"
+   },
+   "5255388116256536182": {
+      "message": "Utilitza les tecles de fletxa per seleccionar les cel·les que vols comentar. Mantén premuda la tecla Maj mentre prems les tecles de fletxa per ampliar la selecció. Prem Retorn per crear un comentari o Esc per cancel·lar l'acció."
+   },
+   "5259541708332520733": {
+      "message": "La font s'ha suprimit"
+   },
+   "5271615049826004958": {
+      "message": "Opcions per a la previsualització de l'enllaç"
+   },
+   "527438013974545289": {
+      "message": "El tema fosc ja és aquí"
+   },
+   "5281121179861637423": {
+      "message": "Cal una contrasenya per accedir a $1​. Introdueix-la."
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5292097099562224381": {
+      "message": "Vols buidar la paperera? Totes les notes que hi hagi se suprimiran permanentment."
+   },
+   "5299648222246616124": {
+      "message": "accent greu"
+   },
+   "5300527252159851865": {
+      "message": "El contingut del fitxer no es correspon amb el format de fitxer esperat."
+   },
+   "5310593920481358659": {
+      "message": "Temes"
+   },
+   "5311386381313171872": {
+      "message": "Google Drive"
+   },
+   "5320475549855398784": {
+      "message": "Aquest dibuix estarà disponible quan et connectis a Internet."
+   },
+   "5321772883765574323": {
+      "message": "$1​ s'ha mogut de $2​ a $3​."
+   },
+   "5334959887390704534": {
+      "message": "Suprimirem aquesta etiqueta i desapareixerà de totes les teves notes de Keep. Les notes no se suprimiran."
+   },
+   "5336801339221383042": {
+      "message": "JavaScript"
+   },
+   "5336924963122494935": {
+      "message": "Selecciona"
+   },
+   "534191528712675978": {
+      "message": "Posa en pausa"
+   },
+   "534228323125524312": {
+      "message": "Redueix"
+   },
+   "5353129315502554762": {
+      "message": "Full d'estil"
+   },
+   "5362121973783326712": {
+      "message": "Càmera"
+   },
+   "5362962746518601227": {
+      "message": "{NUM_ITEMS,plural, =1{Estàs a punt de moure un fitxer inclòs en una carpeta}other{Estàs a punt de moure diversos fitxers inclosos en una carpeta}}"
+   },
+   "5363853533596749934": {
+      "message": "Introdueix el nom de l'etiqueta"
+   },
+   "5366505386236199032": {
+      "message": "YouTube"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5392844646168201484": {
+      "message": "Mida 3"
+   },
+   "5394695048211047984": {
+      "message": "Afegeix una data"
+   },
+   "5398036630337418486": {
+      "message": "Obre el document"
+   },
+   "5403636185480096151": {
+      "message": "Televisió"
+   },
+   "540596856674438371": {
+      "message": "No es pot compartir contingut perquè l'opció està desactivada."
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "5413225497191133249": {
+      "message": "Fixa o deixa de fixar notes"
+   },
+   "5422660126805186552": {
+      "message": "Gaudeix d'una experiència de lectura més còmoda. Activa-la o desactiva-la a Configuració."
+   },
+   "5423742603774911808": {
+      "message": "La llista és massa gran."
+   },
+   "5435749276779042277": {
+      "message": "+$1​ MÉS"
+   },
+   "5447119197363232006": {
+      "message": "Mostra a Drive"
+   },
+   "5455566801812656827": {
+      "message": "MENYS"
+   },
+   "5465081454525683943": {
+      "message": "Aquesta nota ja no es comparteix amb el teu compte. Demana al propietari que et doni accés a aquesta nota o bé utilitza un compte que tingui permís per accedir-hi."
+   },
+   "5467649767578147801": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Si els usuaris no són membres de la unitat d'equip \"{TEAM_DRIVE_NAME}\" o si no formen part del domini {DOMAIN_NAME}, perdran l'accés a aquest fitxer.}other{Si els usuaris no són membres de la unitat d'equip \"{TEAM_DRIVE_NAME}\" o si no formen part del domini {DOMAIN_NAME}, perdran l'accés a aquests fitxers.}}"
+   },
+   "546766753072101168": {
+      "message": "Etiquetes"
+   },
+   "5478662967017843220": {
+      "message": "Blau fosc"
+   },
+   "5480497191725157666": {
+      "message": "Esc"
+   },
+   "5482604275203517054": {
+      "message": "esquerra"
+   },
+   "5503885447744017882": {
+      "message": "Vols moure els elements a \"$1​\", fora del domini $2​?"
+   },
+   "5506390497558702263": {
+      "message": "{count,plural, =1{La nota s'ha tret de l'arxiu i s'ha fixat}other{S'han tret de l'arxiu i s'han fixat # notes}}"
+   },
+   "5520112019886360037": {
+      "message": "Tanca"
+   },
+   "5534694255293809224": {
+      "message": "Prem $1​+Retorn per deixar d'editar una nota"
+   },
+   "5539958940810433464": {
+      "message": "Envia la nota a la paperera"
+   },
+   "5542817571710587822": {
+      "message": "El fitxer inclou massa imatges."
+   },
+   "5545146751578623220": {
+      "message": "Bloq maj"
+   },
+   "5555182241047709329": {
+      "message": "Selecciona una ubicació"
+   },
+   "5562491070882550010": {
+      "message": "Quan s'hagin suprimit les notes, els usuaris amb qui les hagis compartit ja no podran veure-les."
+   },
+   "556742419793425318": {
+      "message": "Descarta"
+   },
+   "5570885401952336951": {
+      "message": "Registre del client"
+   },
+   "5578032872220617725": {
+      "message": "Prem $1​+A per seleccionar totes les notes"
+   },
+   "5581834527128285229": {
+      "message": "S'ha produït un problema en afegir $1​ a La meva unitat."
+   },
+   "5592884381280360832": {
+      "message": "Entesos"
+   },
+   "5598649706113950710": {
+      "message": "Editor"
+   },
+   "5601530442010506564": {
+      "message": "Entesos"
+   },
+   "5603830044099155569": {
+      "message": "Prem J per anar a la nota anterior i K per anar a la següent"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "5648022012893174586": {
+      "message": "Per dibuixar línies gruixudes, fes clic a la icona del retolador"
+   },
+   "5652536812290902558": {
+      "message": "Baixa l'àudio"
+   },
+   "5678095606167600931": {
+      "message": "S'ha inserit un pic"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5687611645532246887": {
+      "message": "Àlbums"
+   },
+   "5714240424645614611": {
+      "message": "Paquet d'Android"
+   },
+   "5714760273477184428": {
+      "message": "Utilitza les fletxes per destacar la part que vulguis comentar i, a continuació, prem Retorn"
+   },
+   "5738003914096572768": {
+      "message": "Activats"
+   },
+   "5755541943799933389": {
+      "message": "S'ha destacat $1​."
+   },
+   "5772465571783741830": {
+      "message": "S'ha produït un problema en crear una drecera a $1​"
+   },
+   "577619047319778196": {
+      "message": "Esborra la selecció"
+   },
+   "5801257863595278616": {
+      "message": "S'ha mogut la selecció cap a l'esquerra."
+   },
+   "5808038805122520160": {
+      "message": "La mida d'aquest dibuix ha arribat al límit permès."
+   },
+   "5813834209240603556": {
+      "message": "Prem N per anar a l'element anterior i P per anar al següent"
+   },
+   "5820033033803019104": {
+      "message": "Organitza"
+   },
+   "5826302153453971149": {
+      "message": "Rosa clar"
+   },
+   "5840202488368071194": {
+      "message": "Nota nova amb una imatge"
+   },
+   "5840330517914556080": {
+      "message": "Redueix"
+   },
+   "5854158607727111728": {
+      "message": "Tabulador"
+   },
+   "5869813956121628651": {
+      "message": "Opció per comentar no disponible"
+   },
+   "5870134033985574990": {
+      "message": "S'està extraient..."
+   },
+   "5871692308013280837": {
+      "message": "Mostra les categories"
+   },
+   "5871966496153339793": {
+      "message": "S'està mostrant la miniatura del vídeo $1​."
+   },
+   "5876498556450482026": {
+      "message": "Per marcar algun element amb color, fes clic a la icona del retolador fluorescent"
+   },
+   "5895666393386604578": {
+      "message": "Per aplicar sagnat als elements de la llista, arrossega'ls o fes servir la drecera $1​."
+   },
+   "5906730626678011496": {
+      "message": "Afegeix una drecera a Drive"
+   },
+   "5909490544352162901": {
+      "message": "Demana al propietari accés a aquesta nota o bé utilitza un compte que tingui permís per accedir-hi. Has iniciat la sessió com a $1​."
+   },
+   "5911012384539794869": {
+      "message": "No s'ha pogut iniciar la tasca d'extracció."
+   },
+   "591481266986424156": {
+      "message": "El navegador $1​ utilitza actualment aquesta tecla de drecera per a $2​"
+   },
+   "5916010927050975496": {
+      "message": "$1​ KB"
+   },
+   "5917528552332886959": {
+      "message": "Mostra els comentaris resolts"
+   },
+   "5947790263929501779": {
+      "message": "S'ha convertit en pic"
+   },
+   "5949528478488617689": {
+      "message": "Permís de baixada"
+   },
+   "5950887255133612666": {
+      "message": "No ha començat."
+   },
+   "5954965790623966933": {
+      "message": "Carmesí"
+   },
+   "5961691090101357621": {
+      "message": "El llenç s'ha ampliat cap avall."
+   },
+   "5961981688037913870": {
+      "message": "S'ha afegit $1​"
+   },
+   "5965683144165568126": {
+      "message": "Canvia l'ordre de l'element de llista"
+   },
+   "5969696744752069015": {
+      "message": "No hi ha cap previsualització disponible."
+   },
+   "597927944425927829": {
+      "message": "La propietat es transferirà de la unitat d'equip \"$1​\" a tu."
+   },
+   "5984398071085567332": {
+      "message": "Taules dinàmiques de Google"
+   },
+   "5987609488177213747": {
+      "message": "Crea l’etiqueta"
+   },
+   "5989809255170931770": {
+      "message": "{time,plural, =1{Keep s'actualitzarà d'aquí a # segon}other{Keep s'actualitzarà d'aquí a # segons}}"
+   },
+   "5994697604396931641": {
+      "message": "Suprimeix-ho tot"
+   },
+   "5999179030782577147": {
+      "message": "Prem # per enviar una nota a la paperera"
+   },
+   "6009962986062136164": {
+      "message": "S'està carregant $1​."
+   },
+   "6011637630664474614": {
+      "message": "Espai"
+   },
+   "6011708967018957768": {
+      "message": "Vols transferir la propietat a la unitat compartida?"
+   },
+   "6027516495119898580": {
+      "message": "Els recordatoris d'ubicació no estan disponibles"
+   },
+   "6030537159236285525": {
+      "message": "Mou l'element de la llista a la posició següent/anterior"
+   },
+   "60305871484579258": {
+      "message": "Alt"
+   },
+   "6033916931543811803": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{S'ha mogut {NUM_ITEMS_2} carpeta de la carpeta {XXX_1} a {XXX_2}.}other{S'han mogut {NUM_ITEMS_2} carpetes de la carpeta {XXX_3} a {XXX_4}.}}"
+   },
+   "6043578784980337112": {
+      "message": "S'han mogut $1​ fitxers a $2​."
+   },
+   "6049952042443321325": {
+      "message": "Taula de tecles de drecera"
+   },
+   "6062216008944363143": {
+      "message": "{weekNumber,plural, =1{Es repeteix el primer {day} cada {every} mesos}=2{Es repeteix el segon {day} cada {every} mesos}=3{Es repeteix el tercer {day} cada {every} mesos}=4{Es repeteix el quart {day} cada {every} mesos}other{Es repeteix el darrer {day} cada {every} mesos}}"
+   },
+   "6069780031254134657": {
+      "message": "Marca com a fet"
+   },
+   "6087078248621415351": {
+      "message": "Modificada: $1​"
+   },
+   "6100883940579706314": {
+      "message": "Previsualització d'enllaços"
+   },
+   "6103793971765619589": {
+      "message": "No es pot compartir el contingut amb els usuaris següents perquè el seu administrador ha desactivat l'opció de compartir amb la seva organització."
+   },
+   "6105571474005679446": {
+      "message": "S'ha produït un problema amb la previsualització."
+   },
+   "6113237889871930608": {
+      "message": "Nota buida"
+   },
+   "6118623991445349480": {
+      "message": "Pàgina $1​"
+   },
+   "6122643025527543706": {
+      "message": "Ctrl"
+   },
+   "6127325177382263770": {
+      "message": "URL"
+   },
+   "6128550071219729739": {
+      "message": "Imatge suprimida"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6149175749937815029": {
+      "message": "Mostra tots els elements"
+   },
+   "6159229289552931928": {
+      "message": "Ho vols moure a la carpeta compartida?"
+   },
+   "616807262818311711": {
+      "message": "Tipus"
+   },
+   "6176354714840789272": {
+      "message": "També pots desar enllaços per a més tard amb l'$2​extensió de Chrome per a Google Keep$1​."
+   },
+   "6186753450686672643": {
+      "message": "{every,plural, =1{Es repeteix cada dia}other{Es repeteix cada # dies}}"
+   },
+   "6189397065139465013": {
+      "message": "Cada"
+   },
+   "6201176165479907499": {
+      "message": "{count,plural, =1{S'ha fixat 1 nota}other{S'han fixat # notes}}"
+   },
+   "6203260615455347677": {
+      "message": "Números"
+   },
+   "6209117354086898503": {
+      "message": "Enrere"
+   },
+   "6211895332551673425": {
+      "message": "S'han afegit a $2​La meva unitat$1​."
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6223530531885788421": {
+      "message": "S'està afegint la drecera a Drive..."
+   },
+   "6224687211096863620": {
+      "message": "Tothom"
+   },
+   "6225875898439047571": {
+      "message": "Denega"
+   },
+   "6231442995102088007": {
+      "message": "Novetats de Google Keep"
+   },
+   "6252259197986158120": {
+      "message": "Ahir"
+   },
+   "6263940822259442857": {
+      "message": "Amaga les caselles de selecció"
+   },
+   "6286379137937560558": {
+      "message": "Article"
+   },
+   "6286806453721792102": {
+      "message": "Organitza a Drive"
+   },
+   "6305748545202493254": {
+      "message": "Mostra o amaga la subfinestra de detalls"
+   },
+   "6306268376900894985": {
+      "message": "Es repeteix fins al dia {endDate}"
+   },
+   "6324768448533022780": {
+      "message": "$1​ $2​"
+   },
+   "6347484050944915390": {
+      "message": "S'ha enviat la sol·licitud. Rebràs un correu electrònic quan s'hagi aprovat."
+   },
+   "6352952829934775705": {
+      "message": "MÉS"
+   },
+   "6366376928558090914": {
+      "message": "Menjar"
+   },
+   "6371576811194810854": {
+      "message": "Després de"
+   },
+   "6375244206466599493": {
+      "message": "Any"
+   },
+   "6375395544374251820": {
+      "message": "S'ha produït un problema en carregar més pàgines. S'està tornant a provar..."
+   },
+   "6377664889539934": {
+      "message": "Dibuixa amb un toc"
+   },
+   "6381941041429900831": {
+      "message": "Afegeix un col·laborador"
+   },
+   "6386587519843563719": {
+      "message": "Fitxer binari"
+   },
+   "639451288140270562": {
+      "message": "S'ha copiat a Documents de Google"
+   },
+   "6394816510866826521": {
+      "message": "Prova interna"
+   },
+   "6402092370576716734": {
+      "message": "Buida la paperera"
+   },
+   "6413404795391222793": {
+      "message": "Crea una llista nova"
+   },
+   "6416495701611778255": {
+      "message": "Aplicacions de tercers suggerides"
+   },
+   "6417706204201069253": {
+      "message": "Si suprimeixes les notes, els usuaris amb qui les hagis compartit ja no podran veure-les."
+   },
+   "6424277546995954045": {
+      "message": "La substitució de tecles de drecera no està disponible al navegador que utilitzes.\nPer activar aquesta funció, fes servir Chrome, Firefox, Internet Explorer, Edge o Safari."
+   },
+   "6426979759685079955": {
+      "message": "Mostra els comentaris inactius"
+   },
+   "6428000916830484004": {
+      "message": "Marró"
+   },
+   "6432019580434957057": {
+      "message": "Àudio"
+   },
+   "6443103650988201046": {
+      "message": "Colaboratory"
+   },
+   "6443615802319581315": {
+      "message": "{NUM_ITEMS,plural, =1{No teniu permís per treure aquest fitxer de les carpetes actuals. Afegiu-lo a {START_SPAN_1}{NAME}{END_SPAN}.}other{No teniu permís per treure aquests fitxers de les carpetes actuals. Afegiu-los a {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "6450508807204492448": {
+      "message": "Icona per a $1​"
+   },
+   "6457802200418354862": {
+      "message": "Els usuaris poden baixar el fitxer"
+   },
+   "6459405233858728718": {
+      "message": "Presentacions de Google"
+   },
+   "6473102097014191455": {
+      "message": "Nota de dibuix"
+   },
+   "6477306554098527424": {
+      "message": "Assistent de Google"
+   },
+   "6480376252068839019": {
+      "message": "Obre les opcions de quadrícula"
+   },
+   "6487295087519678926": {
+      "message": "Pujada de Drive"
+   },
+   "6490084340347327400": {
+      "message": "Prem $1​, la tecla de majúscules i 8 per alternar entre una nota i una llista"
+   },
+   "6497197865876438261": {
+      "message": "Música"
+   },
+   "6507257480072167483": {
+      "message": "El nom de l'etiqueta s'ha canviat a $1​."
+   },
+   "6510131849363684615": {
+      "message": "Demà"
+   },
+   "6513721414466645971": {
+      "message": "S'ha suprimit"
+   },
+   "6524849072392100692": {
+      "message": "Carpeta de Google Drive"
+   },
+   "653160061888539741": {
+      "message": "Control del progrés"
+   },
+   "6571686604846453345": {
+      "message": "S'ha produït un error en afegir aquest element a Drive."
+   },
+   "6578339688410021742": {
+      "message": "Tots els membres de la unitat d'equip \"$1​\" tindran accés als elements."
+   },
+   "6579707685908557993": {
+      "message": "Vespre"
+   },
+   "6588176324871799870": {
+      "message": "Google Apps Script"
+   },
+   "6595703969647338657": {
+      "message": "{count,plural, =1{S'ha creat una nota}other{S'han creat # notes}}"
+   },
+   "6618562607681757575": {
+      "message": "No els treguis de cap carpeta, només afegeix-los a $3​$2​$1​"
+   },
+   "6622304228074863427": {
+      "message": "Aplicació"
+   },
+   "6627510416186113122": {
+      "message": "Turquesa clar"
+   },
+   "6664835828596108553": {
+      "message": "Opció"
+   },
+   "6667440728495437281": {
+      "message": "Hi ha hagut un problema en previsualitzar aquest document. S'està tornant a provar..."
+   },
+   "6674095299257911962": {
+      "message": "Aquest element inclou contingut restringit i, per tant, no es pot compartir fora del domini $1​"
+   },
+   "670419277288558500": {
+      "message": "Vídeo/àudio"
+   },
+   "6707173584987026005": {
+      "message": "Avui"
+   },
+   "6710728478489145370": {
+      "message": "Tanca"
+   },
+   "6713235295664405475": {
+      "message": "en|a"
+   },
+   "6715985122107380503": {
+      "message": "Enregistraments"
+   },
+   "6726462693927865256": {
+      "message": "Detalls"
+   },
+   "6726879257388338969": {
+      "message": "Imprimeix"
+   },
+   "6732800471045353930": {
+      "message": "Aquesta nota s'ha compartit amb el nombre màxim de persones."
+   },
+   "673551770550324419": {
+      "message": "Ajusta a l'amplada"
+   },
+   "6747528043814108113": {
+      "message": "Ara fas servir $1​"
+   },
+   "6749829802551750923": {
+      "message": "amunt"
+   },
+   "6750600017746655174": {
+      "message": "Opció"
+   },
+   "6750827506231593056": {
+      "message": "Canvia de compte"
+   },
+   "6755327423364814290": {
+      "message": "Pren notes més ràpidament amb l'aplicació"
+   },
+   "6761622351199419182": {
+      "message": "Nota a l'arxiu"
+   },
+   "6773222938695237983": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Vols compartir aquest element?}other{Vols compartir aquests elements?}}"
+   },
+   "6778577079172085976": {
+      "message": "Notes fixades"
+   },
+   "678660085936036852": {
+      "message": "S'estan processant les imatges…"
+   },
+   "6787580031482277539": {
+      "message": "Mai"
+   },
+   "6798055902819777633": {
+      "message": "Desplaça't per la pantalla amb un toc"
+   },
+   "6801348618370627980": {
+      "message": "L'etiqueta $1​ s'ha creat."
+   },
+   "6815042072535422726": {
+      "message": "Àudio suprimit"
+   },
+   "6822520214440117457": {
+      "message": "Feina"
+   },
+   "6831650827360444197": {
+      "message": "La nota s'ha deixat de compartir."
+   },
+   "6833062695195555756": {
+      "message": "Obre el menú d'opcions de la goma d'esborrar"
+   },
+   "6833760103261954639": {
+      "message": "S'ha produït un problema en carregar aquesta pàgina. S'està tornant a provar..."
+   },
+   "68477685313713097": {
+      "message": "{MINUTES,plural, =0{0 minuts}=1{1 minut}other{{MINUTES} minuts}}"
+   },
+   "6864144421392687943": {
+      "message": "Ordinadors"
+   },
+   "687402923448150707": {
+      "message": "S'ha desmarcat"
+   },
+   "689017442055275529": {
+      "message": "Grup familiar de: $1​"
+   },
+   "6891563484025164308": {
+      "message": "Anterior"
+   },
+   "6898823203505321799": {
+      "message": "Detalls"
+   },
+   "6904351530369058983": {
+      "message": "Propietari"
+   },
+   "6905505747689522124": {
+      "message": "Cerca a l'arxiu de LIFE"
+   },
+   "6907559338225657032": {
+      "message": "Mou"
+   },
+   "691041991673354191": {
+      "message": "Suprimeix-me"
+   },
+   "6918505531548047245": {
+      "message": "Eina de ressaltat"
+   },
+   "6921237745237410511": {
+      "message": "Afegeix un comentari"
+   },
+   "6922953828399110511": {
+      "message": "Tanca el visor"
+   },
+   "6925056317406251324": {
+      "message": "Cerca d'imatges"
+   },
+   "693770783324368110": {
+      "message": "Les notes s'han deixat de fixar i s'han enviat a la paperera"
+   },
+   "6956515948204056309": {
+      "message": "S'han amagat els comentaris inactius"
+   },
+   "6966912428667098497": {
+      "message": "Les notes arxivades es mostraran aquí"
+   },
+   "6979766453743005049": {
+      "message": "Arrossega i deixa anar elements a la llista per canviar-ne l'ordre o el sagnat"
+   },
+   "6980199665979997122": {
+      "message": "Restaura"
+   },
+   "6982321568096234183": {
+      "message": "Baixa l'àudio ($1​)"
+   },
+   "6982682101118067511": {
+      "message": "S'està organitzant…"
+   },
+   "7005745151564974365": {
+      "message": "Tecles de drecera"
+   },
+   "7005977332887563273": {
+      "message": "Afegeix una drecera"
+   },
+   "701276785305022936": {
+      "message": "El document s'ha malmès. Heu d'utilitzar el format més recent."
+   },
+   "7017485862232001373": {
+      "message": "$1​ s'ha afegit a $2​."
+   },
+   "7019002927048576918": {
+      "message": "Filtres de cerca de tipus $1​"
+   },
+   "7030308038380934896": {
+      "message": "No s'ha pogut copiar a Documents de Google"
+   },
+   "7050021021988648361": {
+      "message": "Copia l'URL"
+   },
+   "7050898523853841537": {
+      "message": "Opcions de freqüència"
+   },
+   "705714112650622350": {
+      "message": "S'ha produït un problema en afegir l'element a Google Drive."
+   },
+   "7059437903473652416": {
+      "message": "Reprodueix el vídeo de YouTube $1​"
+   },
+   "7066744251212631722": {
+      "message": "Verd llima"
+   },
+   "7084991134824194740": {
+      "message": "Recordatori"
+   },
+   "7086801490719148597": {
+      "message": "Desselecciona l'element"
+   },
+   "7094548885298700726": {
+      "message": "Marró fosc"
+   },
+   "7102649289752747375": {
+      "message": "Envia suggeriments"
+   },
+   "7121259585839664942": {
+      "message": "Cancel·la"
+   },
+   "7126326627883991568": {
+      "message": "Suprimeix el dibuix actual"
+   },
+   "7126535013613878060": {
+      "message": "Fixa les teves notes importants a la part superior."
+   },
+   "7135182401951359795": {
+      "message": "Se te'n transferirà la propietat."
+   },
+   "7141983486405549971": {
+      "message": "Inser"
+   },
+   "7145753028985071097": {
+      "message": "S'està canviant l'ordre de la nota"
+   },
+   "7146242673022399081": {
+      "message": "Text"
+   },
+   "7148992630785407972": {
+      "message": "Aquest fitxer no es pot previsualitzar perquè està protegit amb contrasenya."
+   },
+   "7149013203800794567": {
+      "message": "{count,plural, =1{El color actual és: {color}. Selecciona'n un altre per aplicar-lo a la nota.}other{El color actual és: {color}. Selecciona'n un altre per aplicar-lo a les notes.}}"
+   },
+   "7153847618034547771": {
+      "message": "Activa"
+   },
+   "7161134329606048317": {
+      "message": "Tanca"
+   },
+   "7164532930742017984": {
+      "message": "Tothom que tingui l'enllaç"
+   },
+   "7166989725427500881": {
+      "message": "Selecciona una nota de la paperera"
+   },
+   "7174409400206281023": {
+      "message": "S'han trobat canvis en conflicte"
+   },
+   "7181961085183734135": {
+      "message": "Aquest fitxer té desactivada l'opció d'imprimir"
+   },
+   "7182285309564868243": {
+      "message": "S'ha produït un error en moure alguns fitxers o carpetes"
+   },
+   "7187441427660427801": {
+      "message": "Obre el dibuix"
+   },
+   "7190398092435016951": {
+      "message": "{count,plural, =1{Si suprimeixes la nota, els usuaris amb qui l'hagis compartit ja no podran veure-la.}other{Si suprimeixes les notes, els usuaris amb qui les hagis compartit ja no podran veure-les.}}"
+   },
+   "7201188472754345797": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Si els usuaris no formen part del domini {DESTINATION_DOMAIN}, perdran l'accés a aquest fitxer.}other{Si els usuaris no formen part del domini {DESTINATION_DOMAIN}, perdran l'accés a aquests fitxers.}}"
+   },
+   "7207109722898253285": {
+      "message": "Desa les seleccionades"
+   },
+   "7218693060378095915": {
+      "message": "Nou"
+   },
+   "722264179594523168": {
+      "message": "Cancel·la"
+   },
+   "7225445911355686176": {
+      "message": "Selecciona una nota arxivada"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7231231875581131930": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Aquest element no es pot tornar a moure a la unitat d'equip \"{TEAM_DRIVE_NAME}\", de manera que no podràs desfer aquesta acció.}other{Hi ha almenys un element que no es pot tornar a moure a la unitat d'equip \"{TEAM_DRIVE_NAME}\", de manera que no podràs desfer aquesta acció.}}"
+   },
+   "7247530225058410142": {
+      "message": "$2​ $1​"
+   },
+   "7247965266239591227": {
+      "message": "S'ha produït un problema en extreure \"$1​\"."
+   },
+   "7251490702980298031": {
+      "message": "Obre el selector de color i mida de l'eina de ressaltat"
+   },
+   "7265183966796883739": {
+      "message": "Amaga els comentaris resolts"
+   },
+   "7278398674737413598": {
+      "message": "No es pot convertir el document."
+   },
+   "7278859550373246865": {
+      "message": "{count,plural, =1{S'ha arxivat la nota}other{S'han arxivat # notes}}"
+   },
+   "7290932540630116546": {
+      "message": "El recordatori s'ha configurat. $1​"
+   },
+   "7295254213841803546": {
+      "message": "Vols descartar els canvis? No es desaran."
+   },
+   "7299749713933143099": {
+      "message": "Porpra"
+   },
+   "7301081435623917576": {
+      "message": "Opcions predeterminades dels recordatoris"
+   },
+   "7306962184871750459": {
+      "message": "La propietat es transferirà de la unitat d'equip \"$4​\" ($3​) a \"$2​\" ($1​)."
+   },
+   "7330497278645626593": {
+      "message": "Prova-ho"
+   },
+   "7342923890755029722": {
+      "message": "Tanca"
+   },
+   "7344507440412470266": {
+      "message": "S'ha ampliat la selecció."
+   },
+   "734478884582426793": {
+      "message": "Arxiu comprimit"
+   },
+   "7353547650196788656": {
+      "message": "Vermell"
+   },
+   "7364571366369083618": {
+      "message": "Vídeo"
+   },
+   "7376703418960184879": {
+      "message": "Copia"
+   },
+   "7377239345926788722": {
+      "message": "Accions"
+   },
+   "7379369644162401367": {
+      "message": "Suprimeix-los"
+   },
+   "7381817875028728077": {
+      "message": "No, gràcies"
+   },
+   "7382688299146249119": {
+      "message": "Baixa l'element"
+   },
+   "7384785369409503695": {
+      "message": "Activa el tema fosc"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "7420117636241237177": {
+      "message": "Els missatges de $1​ s'han extret al teu compte de correu amb l'etiqueta \"Import: $2​\"."
+   },
+   "7420364754178516134": {
+      "message": "Eines de depuració"
+   },
+   "7426603384368095928": {
+      "message": "Torna a carregar la pàgina per tornar a iniciar la sessió i continuar treballant."
+   },
+   "7427333772418801813": {
+      "message": "El botó +$1​ MÉS s'ha desplegat"
+   },
+   "7429084719905985261": {
+      "message": "Objective C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7438696235870090716": {
+      "message": "La meva unitat"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (editada: $1​)"
+   },
+   "7441891675459021164": {
+      "message": "S'està desant a Drive."
+   },
+   "744753705925710199": {
+      "message": "No hem pogut autoritzar aquesta aplicació per obrir tots els fitxers que heu intentat obrir. Torneu-ho a provar."
+   },
+   "7452116603589558390": {
+      "message": "Desselecciona la nota fixada"
+   },
+   "7453297286571818554": {
+      "message": "Copia a Documents de Google"
+   },
+   "7453307802804717178": {
+      "message": "Blau clar"
+   },
+   "7458942806393710991": {
+      "message": "Desselecciona una nota arxivada"
+   },
+   "7464780237502381438": {
+      "message": "Connecta més aplicacions"
+   },
+   "7468842863971844562": {
+      "message": "Llista nova"
+   },
+   "7469895656894091562": {
+      "message": "Aquesta adreça electrònica no és vàlida"
+   },
+   "7480128655944127234": {
+      "message": "Canvia el nom"
+   },
+   "7482924911694634213": {
+      "message": "{weekNumber,plural, =1{Es repeteix el primer {day} del mes}=2{Es repeteix el segon {day} del mes}=3{Es repeteix el tercer {day} del mes}=4{Es repeteix el quart {day} del mes}other{Es repeteix el darrer {day} del mes}}"
+   },
+   "7483088916037874359": {
+      "message": "El fitxer és massa gran. "
+   },
+   "7488945223835574498": {
+      "message": "PostScript"
+   },
+   "7503234138288940590": {
+      "message": "Fes una cerca"
+   },
+   "7507827375601925075": {
+      "message": "Mou la nota a la posició següent/anterior"
+   },
+   "7510155920769316048": {
+      "message": "Notes i llistes"
+   },
+   "7516769578943800930": {
+      "message": "S'ha marcat"
+   },
+   "7528204871156404767": {
+      "message": "Safari"
+   },
+   "7528441140724145783": {
+      "message": "Edita les etiquetes"
+   },
+   "7529683448345488779": {
+      "message": "La contrasenya que has introduït és incorrecta; prova'n una altra."
+   },
+   "7530677128711603655": {
+      "message": "Resultats de la cerca per a $1​"
+   },
+   "7564771400033548584": {
+      "message": "{selectedCount,plural, =1{# seleccionada}other{# seleccionades}}"
+   },
+   "7565795669925550891": {
+      "message": "Compartida per"
+   },
+   "7579280421767578228": {
+      "message": "Recordatori per a una data no especificada"
+   },
+   "7585826646011739428": {
+      "message": "Edita"
+   },
+   "7586291841734385643": {
+      "message": "Finestra externa"
+   },
+   "7587936635257676112": {
+      "message": "S'ha afegit $1​"
+   },
+   "7598582624136632660": {
+      "message": "Obre la barra de cerca o ves a l'element següent"
+   },
+   "7599358608613738069": {
+      "message": "Suprimeix"
+   },
+   "7604275940271852148": {
+      "message": "Extreu al compte de correu"
+   },
+   "7604400308311739073": {
+      "message": "Fixa"
+   },
+   "7610628906656867728": {
+      "message": "Notes arxivades"
+   },
+   "7610654194202731772": {
+      "message": "Suprimeix"
+   },
+   "7624042048123264803": {
+      "message": "Obre la nota"
+   },
+   "7630069597298444649": {
+      "message": "Prem / per posar el focus al quadre de cerca"
+   },
+   "7630723924002267143": {
+      "message": "Les tecles de drecera estan activades."
+   },
+   "7631302417932873160": {
+      "message": "No es pot comprovar si aquest fitxer té virus"
+   },
+   "7648759818896108920": {
+      "message": "+ $1​ més"
+   },
+   "7649506133540465463": {
+      "message": "L'acció no s'ha pogut desfer."
+   },
+   "7653702763016575386": {
+      "message": "Blau"
+   },
+   "7656983816661099886": {
+      "message": "Coses"
+   },
+   "7659047104232758352": {
+      "message": "aquell|aquella|aquest|aquesta"
+   },
+   "7669677145513127809": {
+      "message": "Vols canviar els elements d'unitat d'equip?"
+   },
+   "7669846901402551021": {
+      "message": "Avui"
+   },
+   "7690349821507417537": {
+      "message": "S'ha suprimit l'element de llista $1​"
+   },
+   "7690355160889785521": {
+      "message": "Verd"
+   },
+   "7709557808259730054": {
+      "message": "Aprovacions"
+   },
+   "7709889936233398701": {
+      "message": "Suprimeix"
+   },
+   "7715892737835649602": {
+      "message": "Per afegir etiquetes, també podeu escriure \"#\"."
+   },
+   "7724602581120994002": {
+      "message": "Taronja"
+   },
+   "7728066040934031356": {
+      "message": "Lila"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "7735981667219692675": {
+      "message": "{resultCount,plural, =1{# resultat de la cerca}other{# resultats de la cerca}}"
+   },
+   "774390292128857049": {
+      "message": "Fes una cerca"
+   },
+   "7751981235297474273": {
+      "message": "Desfés"
+   },
+   "7754093419850121316": {
+      "message": "⌘"
+   },
+   "7757440777278143092": {
+      "message": "Gris fosc"
+   },
+   "7766150028615181766": {
+      "message": "Afegeix una altra drecera aquí"
+   },
+   "7766580018314203658": {
+      "message": "La mida d'aquest dibuix és a prop del límit permès. Et recomanem que afegeixis un dibuix nou a aquesta nota."
+   },
+   "7772544658778579390": {
+      "message": "Cerca al document"
+   },
+   "778181404304502404": {
+      "message": "S'ha allunyat l'element."
+   },
+   "7791050524692390574": {
+      "message": "Colors"
+   },
+   "7796648733955818629": {
+      "message": "Aquest fitxer no es pot penjar. Acceptem fitxers $1​ amb una mida inferior a $2​ MB o $3​ Mpx."
+   },
+   "7800318069267901681": {
+      "message": "Modificació"
+   },
+   "7803075387516434727": {
+      "message": "No hi ha cap resultat coincident."
+   },
+   "7814778057875152792": {
+      "message": "S'ha produït un error en moure el fitxer adjunt a la carpeta seleccionada de Google Drive."
+   },
+   "7819314041543176992": {
+      "message": "Tanca"
+   },
+   "7821512290975371360": {
+      "message": "Rosa fúcsia"
+   },
+   "7828886646639771557": {
+      "message": "Crea una nota…"
+   },
+   "7830513726270865588": {
+      "message": "Calendari"
+   },
+   "7842164552344536314": {
+      "message": "S'està organitzant..."
+   },
+   "7844842290699524598": {
+      "message": "Has arribat al límit d'etiquetes. Suprimeix una etiqueta per poder afegir-ne una."
+   },
+   "7849249492061822610": {
+      "message": "Prem ? per veure la finestra emergent d'ajuda"
+   },
+   "785840448809859989": {
+      "message": "Opcions d'hora"
+   },
+   "7865240075542402013": {
+      "message": "Destaca"
+   },
+   "7868324478160174739": {
+      "message": "Blau"
+   },
+   "7872546153972922699": {
+      "message": "Marca els elements quan ja no els necessitis"
+   },
+   "7873060817438017568": {
+      "message": "$2​, $1​"
+   },
+   "7873698934773957560": {
+      "message": "Cap"
+   },
+   "787773550893657271": {
+      "message": "S'ha obert el dibuix anterior"
+   },
+   "7888520165977111723": {
+      "message": "Vols moure els elements a una unitat d'equip?"
+   },
+   "7895643887742936844": {
+      "message": "punt i coma"
+   },
+   "7906726367011430855": {
+      "message": "Connecta"
+   },
+   "7910887984113996757": {
+      "message": "Activa l'opció per compartir"
+   },
+   "7911416166208830577": {
+      "message": "Ajuda"
+   },
+   "7924606175376623897": {
+      "message": "Prem F per fixar o deixar de fixar una nota"
+   },
+   "7934833136974560675": {
+      "message": "Torna-ho a provar"
+   },
+   "7943657844420237650": {
+      "message": "OpenOffice Impress"
+   },
+   "7946114032014914338": {
+      "message": "{repeatSentence}. {endSentence}"
+   },
+   "7947001788143789176": {
+      "message": "S'està carregant…"
+   },
+   "7959130747647079558": {
+      "message": "{selectedCount,plural, =1{# nota seleccionada}other{# notes seleccionades}}"
+   },
+   "7976461426527138085": {
+      "message": "Llistes"
+   },
+   "7991475666499751798": {
+      "message": "Marca el recordatori com a fet"
+   },
+   "7996360883730444101": {
+      "message": "S'ha produït un error en obrir el fitxer. Torneu-ho a provar."
+   },
+   "7998118521140187915": {
+      "message": "S'han amagat els comentaris resolts"
+   },
+   "8003252582874834655": {
+      "message": "En moure elements a una unitat d'equip, els permisos d'accés i la propietat canvien."
+   },
+   "8010075936095394680": {
+      "message": "La versió del fitxer és massa antiga. Heu d'utilitzar el format més recent. "
+   },
+   "8011497727123874703": {
+      "message": "Botó de la carpeta $1​"
+   },
+   "8013687642711017862": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Estàs a punt de moure 1 element de les carpetes compartides. Els usuaris hi perdran l'accés.}other{Estàs a punt de moure {NUM_ITEMS_2} elements de les carpetes compartides. Els usuaris hi perdran l'accés.}}"
+   },
+   "8019402848412685977": {
+      "message": "\"$2​\" ha passat a dir-se \"$1​\"."
+   },
+   "802668096552856965": {
+      "message": "{checkedItemCount,plural, =1{# element completat}other{# elements completats}}"
+   },
+   "8043514121228710092": {
+      "message": "Afegeix una imatge"
+   },
+   "8046884224424523922": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{S'ha mogut {NUM_ITEMS_2} fitxer de la carpeta {XXX_1} a {XXX_2}.}other{S'han mogut {NUM_ITEMS_2} fitxers de la carpeta {XXX_3} a {XXX_4}.}}"
+   },
+   "8063817953234049242": {
+      "message": "Eina de selecció"
+   },
+   "807840433749698811": {
+      "message": "Cian"
+   },
+   "8080583426915938264": {
+      "message": "Aplicacions a l'ordinador"
+   },
+   "8085493757603803516": {
+      "message": "Edita la selecció"
+   },
+   "8090743714060857028": {
+      "message": "Els usuaris no poden baixar el fitxer"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 bytes}=1{1 byte}other{# bytes}}"
+   },
+   "8104421162933956065": {
+      "message": "Notes"
+   },
+   "8111632928339277375": {
+      "message": "{NUM_FOLDERS,plural, =1{Treu d'una carpeta}=2{Treu de les dues carpetes}other{Treu de les # carpetes}}"
+   },
+   "8119839693658969418": {
+      "message": "No es pot compartir el contingut amb els usuaris següents perquè l'administrador ha desactivat l'opció de compartir amb usuaris externs a la teva organització."
+   },
+   "8125425371755035523": {
+      "message": "Desfés"
+   },
+   "8133866583554546341": {
+      "message": "$1​, $2​"
+   },
+   "8137338584146377170": {
+      "message": "No es pot moure el fitxer perquè el propietari no és membre del mateix domini que la unitat compartida."
+   },
+   "8139785559888164453": {
+      "message": "Més informació"
+   },
+   "8144512434938656483": {
+      "message": "o"
+   },
+   "8149439558305434788": {
+      "message": "$1​, $2​"
+   },
+   "8159493406018222636": {
+      "message": "Envia suggeriments"
+   },
+   "8163727651556550203": {
+      "message": "Afegeix una altra drecera"
+   },
+   "8163781449224244510": {
+      "message": "S'ha reduït la selecció."
+   },
+   "8174654098152723289": {
+      "message": "Edita la descripció"
+   },
+   "818217888086545352": {
+      "message": "Groc"
+   },
+   "8189126656205301402": {
+      "message": "Copia a Documents de Google"
+   },
+   "8193677552005249631": {
+      "message": "Baixades d'aplicacions"
+   },
+   "8194941811853358224": {
+      "message": "Hi ha hagut un problema en deixar de destacar $1​."
+   },
+   "8199137154169358847": {
+      "message": "Més"
+   },
+   "819996403327805209": {
+      "message": "Més informació"
+   },
+   "8207659457248280436": {
+      "message": "Les dreceres encara no es poden moure a les unitats compartides."
+   },
+   "8208179689358649003": {
+      "message": "Prem E per arxivar una nota"
+   },
+   "8224193807932432983": {
+      "message": "Accions"
+   },
+   "8225614702924834215": {
+      "message": "Més opcions"
+   },
+   "8231449936104909428": {
+      "message": "S'ha produït un error en moure \"$1​\" a la carpeta seleccionada de Drive."
+   },
+   "8233656381635014955": {
+      "message": "\"Ok Google, què tinc a la llista de tasques pendents?\""
+   },
+   "8233945959714786736": {
+      "message": "Anterior"
+   },
+   "8242655297101700529": {
+      "message": "La meva unitat"
+   },
+   "824468664656304495": {
+      "message": "No tens connexió. És possible que part de la funcionalitat no estigui disponible."
+   },
+   "8265689758492685194": {
+      "message": "Temes"
+   },
+   "8273434617910595878": {
+      "message": "avall"
+   },
+   "8281141013543828574": {
+      "message": "Imatge RAW"
+   },
+   "8281169978199539270": {
+      "message": "No es poden moure elements d'una carpeta només de lectura"
+   },
+   "8284315184632755389": {
+      "message": "Destacats"
+   },
+   "8292708563843446267": {
+      "message": "Els elements seran propietat de la unitat d'equip \"$1​\"."
+   },
+   "8305505634689906340": {
+      "message": "Cerca a \"$1​\""
+   },
+   "8322416564157128458": {
+      "message": "Ús compartit"
+   },
+   "8323603365638981303": {
+      "message": "A la part superior, fes clic al botó Nota de dibuix nova"
+   },
+   "8333974577908804438": {
+      "message": "Aquest tipus de fitxer encara no es pot moure a les unitats compartides."
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342620486324515462": {
+      "message": "Ignora"
+   },
+   "8343105225506381659": {
+      "message": "S'estan mostrant els comentaris inactius"
+   },
+   "8379952094517631162": {
+      "message": "No"
+   },
+   "8389434962426321219": {
+      "message": "Les notes amb recordatoris propers es mostraran aquí"
+   },
+   "8409190394690387796": {
+      "message": "Afegeix un comentari"
+   },
+   "8412098268689886334": {
+      "message": "Combina"
+   },
+   "8412733496413412439": {
+      "message": "Sense connexió"
+   },
+   "8422875188929347819": {
+      "message": "S'està compartint"
+   },
+   "84334343973701810": {
+      "message": "Inici"
+   },
+   "8452647597930138120": {
+      "message": "Destaqueu la cel·la que vulgueu comentar"
+   },
+   "8453627484113670693": {
+      "message": "Taronja clar"
+   },
+   "8467894483369467251": {
+      "message": "Flaix"
+   },
+   "8471029293590878384": {
+      "message": "Posa en pausa"
+   },
+   "8493378997610580289": {
+      "message": "Més dreceres"
+   },
+   "8505989225387082493": {
+      "message": "Afegeix una etiqueta"
+   },
+   "8506292502710287776": {
+      "message": "Vols crear una nota llarga? Hi afegirem més espai automàticament a mesura que arribis a la part inferior."
+   },
+   "8509270263487836281": {
+      "message": "Inicia la sessió"
+   },
+   "8517148045938431718": {
+      "message": "Corregeix els errors"
+   },
+   "8529203008291528328": {
+      "message": "Buida la paperera"
+   },
+   "8535303351837089357": {
+      "message": "Pots desfer i refer canvis amb {modifierKey}+Z i {modifierKey}+Y."
+   },
+   "8559513397356310933": {
+      "message": "Afegeix els elements nous al final"
+   },
+   "8562196940800756925": {
+      "message": "Marcador"
+   },
+   "857379832182429172": {
+      "message": "Activa"
+   },
+   "8575113875567233985": {
+      "message": "No pots suprimir elements de la unitat d'equip \"$1​\"."
+   },
+   "8589423377647285975": {
+      "message": "$1​ l'element de llista $2​ \"$3​\"."
+   },
+   "8595175575778060149": {
+      "message": "Més"
+   },
+   "8596279649507974639": {
+      "message": "Mou aquí"
+   },
+   "8602525917014156029": {
+      "message": "Llocs"
+   },
+   "8611058223830804795": {
+      "message": "Mou els elements marcats al final"
+   },
+   "8616342546716995946": {
+      "message": "Entesos"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8621178077822096827": {
+      "message": "S'ha inserit l'element de llista $1​"
+   },
+   "8626694988569301667": {
+      "message": "La funció de dibuix no està disponible"
+   },
+   "8637215430007224613": {
+      "message": "S'ha obert el dibuix següent"
+   },
+   "8660016472468563221": {
+      "message": "dos punts"
+   },
+   "8663507590720636709": {
+      "message": "$1​ i $2​ més"
+   },
+   "8663993454460982287": {
+      "message": "S'han amagat les caselles de selecció"
+   },
+   "8674222789100049233": {
+      "message": "Tanca"
+   },
+   "8708723278154759600": {
+      "message": "S'han arxivat les notes"
+   },
+   "8734569874711220205": {
+      "message": "Menú de navegació"
+   },
+   "8738345098829705526": {
+      "message": "Mida 12"
+   },
+   "8773943264600860531": {
+      "message": "Internet Explorer"
+   },
+   "8775097441636640256": {
+      "message": "$2​: $1​"
+   },
+   "8781837301864053001": {
+      "message": "Text enriquit"
+   },
+   "8786673003584562680": {
+      "message": "Re pàg"
+   },
+   "8790687303221198259": {
+      "message": "Aplicació Chrome"
+   },
+   "8792038552136453044": {
+      "message": "S'ha produït un error"
+   },
+   "8793166064242077041": {
+      "message": "S'ha produït un problema amb la visualització d'aquesta imatge."
+   },
+   "8797656338249040679": {
+      "message": "$2​Instal·la l'extensió de Chrome per a Google Keep$1​. Així, amb un sol clic, podràs desar-hi les coses importants."
+   },
+   "8822326207328431952": {
+      "message": "La pujada d'imatges no està disponible"
+   },
+   "8825353897919495748": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Confirmes que vols moure aquest fitxer?}other{Confirmes que vols moure aquests fitxers?}}"
+   },
+   "8845176264121061589": {
+      "message": "Desmarca tots els elements"
+   },
+   "8852550049823214385": {
+      "message": "i després"
+   },
+   "885480352148498682": {
+      "message": "És possible que els comentaris inactius se suprimeixin si s'editen fora de Google Drive"
+   },
+   "8860658114732392347": {
+      "message": "Suprimeix el recordatori"
+   },
+   "8865141968381070659": {
+      "message": "Afegeix aquí una drecera"
+   },
+   "8867634760949689122": {
+      "message": "No s'ha pogut convertir el fitxer: s'ha esgotat el temps de conversió. Torneu-ho a provar més tard."
+   },
+   "8868758864963683383": {
+      "message": "Desselecciona una nota"
+   },
+   "8869202143464930500": {
+      "message": "Vols transferir la propietat a \"$1​\"?"
+   },
+   "887001400549949730": {
+      "message": "Obre en una finestra nova"
+   },
+   "8889019648958415451": {
+      "message": "Fitxer desconegut"
+   },
+   "8895209347521686105": {
+      "message": "Google Fotos"
+   },
+   "8903612093856047007": {
+      "message": "Col·laboradors"
+   },
+   "8905995985388209337": {
+      "message": "Accepta"
+   },
+   "8917554093651202032": {
+      "message": "Reprodueix $1​"
+   },
+   "8919660666733306860": {
+      "message": "Imatge"
+   },
+   "8923591894816841670": {
+      "message": "S'ha mogut la selecció cap avall."
+   },
+   "8925842014466254066": {
+      "message": "S'està copiant a Documents de Google"
+   },
+   "8930959387403789939": {
+      "message": "Recordatori"
+   },
+   "8931267220766224111": {
+      "message": "Vols activar els recordatoris de Google Keep? És possible que hagis de permetre les notificacions del navegador."
+   },
+   "8938626240031421092": {
+      "message": "Alterna les caselles de selecció"
+   },
+   "8943760679396635042": {
+      "message": "Es mostra $1​."
+   },
+   "8962132866274125834": {
+      "message": "Refés"
+   },
+   "896590342186332268": {
+      "message": "Mida 16"
+   },
+   "8975305711699693093": {
+      "message": "Amaga la columna de comentaris"
+   },
+   "8978442832029227748": {
+      "message": "Google Jamboard"
+   },
+   "8979104019474011578": {
+      "message": "{every,plural, =1{Es repeteix cada setmana}other{Es repeteix cada # setmanes}}"
+   },
+   "8979615310931291676": {
+      "message": "Data de modificació: $1​"
+   },
+   "8988925599985431446": {
+      "message": "Deixa de fixar"
+   },
+   "8990769651805334695": {
+      "message": "El dia"
+   },
+   "900086393693234779": {
+      "message": "Casa"
+   },
+   "9003585743562048321": {
+      "message": "No s'han pogut sincronitzar els comentaris a causa d'un error de la xarxa."
+   },
+   "9012753183662045049": {
+      "message": "Introdueix un nom d'etiqueta més curt"
+   },
+   "9012809035908808124": {
+      "message": "Prem $1​+G per alternar entre la visualització de llista i la de quadrícula"
+   },
+   "9021945828354340363": {
+      "message": "{count,plural, =1{Aquesta nota ja no es compartirà amb tu.}other{Aquestes notes ja no es compartiran amb tu.}}"
+   },
+   "9024023699330078373": {
+      "message": "Si obres aquest element, s'afegirà a Drive."
+   },
+   "9051304537377804875": {
+      "message": "{HOURS,plural, =0{0 hores}=1{1 hora}other{{HOURS} hores}}"
+   },
+   "9058308423774656474": {
+      "message": "Processador de text Hangul"
+   },
+   "9063863448028905602": {
+      "message": "Suprimeix dels resultats"
+   },
+   "9066539791850693252": {
+      "message": "Drive"
+   },
+   "9072994494820207560": {
+      "message": "Element marcat"
+   },
+   "9088582015610828915": {
+      "message": "Menys"
+   },
+   "9094248058931620597": {
+      "message": "El tauler de detalls s'ha replegat."
+   },
+   "9096768033530566606": {
+      "message": "S'ha afegit la drecera a $2​$3​$1​"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice Draw"
+   },
+   "911698676339750373": {
+      "message": "Grup familiar"
+   },
+   "9121915169985572840": {
+      "message": "Canvia el color"
+   },
+   "9124422680181020503": {
+      "message": "Dibuix suprimit"
+   },
+   "9129734193759025482": {
+      "message": "Demà"
+   },
+   "9131268871618792263": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{unused plural form}other{Si no comparteixes aquests elements amb els membres de les unitats d'equip, hi perdran l'accés.}}"
+   },
+   "9140728449558729773": {
+      "message": "El llenç no es pot ampliar més. S'ha arribat a l'alçada màxima."
+   },
+   "9146862513672039744": {
+      "message": "Elimina les notes del compte"
+   },
+   "9149141099919589043": {
+      "message": "Valors separats per comes"
+   },
+   "9150202601400529256": {
+      "message": "No es pot afegir la drecera a $2​$3​$1​"
+   },
+   "9155213204821633067": {
+      "message": "S'ha desseleccionat \"$1​\"."
+   },
+   "9180910903828232576": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{S'ha afegit {NUM_ITEMS_2} carpeta a {XXX_1}.}other{S'han afegit {NUM_ITEMS_2} carpetes a {XXX_2}.}}"
+   },
+   "9197837492705576727": {
+      "message": "Ves a l'element següent"
+   },
+   "919969969251998566": {
+      "message": "Extreu aquest arxiu al compte de correu"
+   },
+   "9202541782096241233": {
+      "message": "No tens permís per moure els fitxers d'aquesta unitat compartida."
+   },
+   "9203454763088526300": {
+      "message": "No es pot reconèixer el text."
+   },
+   "9213031420087755232": {
+      "message": "Esborra la pàgina"
+   },
+   "938074023403688885": {
+      "message": "Suprimeix"
+   },
+   "951963820437151566": {
+      "message": "Google Sites"
+   },
+   "960732173870658714": {
+      "message": "Document de Google Keep"
+   },
+   "969509857504028202": {
+      "message": "En treure fitxers d'una unitat d'equip, els permisos d'accés i la propietat canvien."
+   },
+   "981637388660093923": {
+      "message": "{SECONDS,plural, =0{0 segons}=1{1 segon}other{{SECONDS} segons}}"
+   },
+   "985197728509875956": {
+      "message": "Model químic"
+   },
+   "989685768146008877": {
+      "message": "En moure elements a una unitat compartida, els permisos d'accés i la propietat canvien."
+   },
+   "991852286447868510": {
+      "message": "S'està cercant $1​"
+   },
+   "99635082918315028": {
+      "message": "S'ha obtingut el text de la imatge"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Copseu ràpidament els vostres pensaments i compartiu-los amb els amics i amb la família."
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Google Keep: notes i llistes"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Google Keep"
+   }
+}

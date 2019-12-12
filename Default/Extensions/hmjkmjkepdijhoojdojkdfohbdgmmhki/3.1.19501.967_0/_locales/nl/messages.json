@@ -1,0 +1,3632 @@
+{
+   "1001407065815272462": {
+      "message": "Kan niet toevoegen aan $2​My Drive$1​"
+   },
+   "1013939682284715002": {
+      "message": "Indelen"
+   },
+   "1039394921418415681": {
+      "message": "Inloggen"
+   },
+   "1040405721361467195": {
+      "message": "Gebruik de pijltoetsen om woorden te selecteren waarop je wilt reageren. Houd Shift ingedrukt en druk op de pijltoetsen om de selectie uit te breiden. Druk op Enter om een reactie te maken of op Esc om te annuleren."
+   },
+   "1055686627716339120": {
+      "message": "Archief"
+   },
+   "1083918249169198626": {
+      "message": "Sneltoetsen zijn uitgeschakeld."
+   },
+   "1101371910696766077": {
+      "message": "Een kopie maken"
+   },
+   "1122146167985532789": {
+      "message": "gisteren"
+   },
+   "1127320433256851404": {
+      "message": "Videospeler"
+   },
+   "1131044617724567645": {
+      "message": "Reacties in pdf's worden opgeslagen in het bestand en zijn zichtbaar in andere apps"
+   },
+   "1137446830169628669": {
+      "message": "Item ingesprongen."
+   },
+   "1158660505977623040": {
+      "message": "Definitief verwijderen"
+   },
+   "1162642135048988280": {
+      "message": "Documentnaam wijzigen"
+   },
+   "1163324543881570799": {
+      "message": "Google Documenten"
+   },
+   "116696227691552491": {
+      "message": "Plaats kiezen"
+   },
+   "1176812982629195161": {
+      "message": "Google-apps"
+   },
+   "1179891706526242218": {
+      "message": "Volgende"
+   },
+   "1185164838496022543": {
+      "message": "Klik hier om de pagina opnieuw te laden."
+   },
+   "1213005208968286932": {
+      "message": "Gemarkeerd als opgelost"
+   },
+   "1226017195419883732": {
+      "message": "Gedeelde Drives"
+   },
+   "124010372300613445": {
+      "message": "{numNotes,plural, =1{Niet-gearchiveerde notitie gemaakt}other{# niet-gearchiveerde notities gemaakt}}"
+   },
+   "1248242541854939846": {
+      "message": "Conflicterende bewerkingen oplossen"
+   },
+   "124900027451629830": {
+      "message": "Afspelen"
+   },
+   "125608713654167241": {
+      "message": "Blauwgroen"
+   },
+   "1256362146573583104": {
+      "message": "Uitpakken"
+   },
+   "1259492729704800881": {
+      "message": "Notitie archiveren"
+   },
+   "125962421212090538": {
+      "message": "Volgende week"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1271038294394884640": {
+      "message": "Annuleren"
+   },
+   "12768758038718216": {
+      "message": "Gearchiveerde notitie vastzetten"
+   },
+   "1280430284217153733": {
+      "message": "Een tijdstip toevoegen"
+   },
+   "1294762503951327157": {
+      "message": "Afgevinkte items worden automatisch onderaan de lijst geplaatst (zodat je het overzicht niet verliest)."
+   },
+   "1317394270020748066": {
+      "message": "Je kunt nu de Google Assistent koppelen om Keep-notities en -lijsten te maken, te updaten en te beheren."
+   },
+   "1317913074512528649": {
+      "message": "Leg je ingevingen vast."
+   },
+   "1330083198022464084": {
+      "message": "Nieuwe notitie maken"
+   },
+   "1333255388111908292": {
+      "message": "Boodschappen"
+   },
+   "1335763707789999819": {
+      "message": "{NUM_ITEMS,plural, =1{Je hebt geen rechten om dit item uit de huidige mappen te verplaatsen. Voeg het item in plaats daarvan toe aan {START_SPAN_1}{NAME}{END_SPAN}.}other{Je hebt geen rechten om deze items uit de huidige mappen te verplaatsen. Voeg de items in plaats daarvan toe aan {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "1338300799355131761": {
+      "message": "Naamloze notitie"
+   },
+   "1349697396109290623": {
+      "message": "Hogere resolutie van $1​ wordt weergegeven"
+   },
+   "1355047515597245353": {
+      "message": "Er kunnen niet meer snelkoppelingen worden gemaakt voor dit item. Voeg dit item toe aan 'Met ster' om het later terug te kunnen vinden."
+   },
+   "1359937199332190522": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} bestand is toegevoegd aan {XXX_1}.}other{{NUM_ITEMS_2} bestanden zijn toegevoegd aan {XXX_2}.}}"
+   },
+   "136335357683289450": {
+      "message": "Sluiten"
+   },
+   "1365216822837281424": {
+      "message": "Chrome-extensie"
+   },
+   "1368808491835583439": {
+      "message": "Dieppaars"
+   },
+   "1377158635423797368": {
+      "message": "Ga naar label"
+   },
+   "1379850360723600538": {
+      "message": "Met een wachtwoord beveiligde bestanden worden niet ondersteund."
+   },
+   "1388712764439031120": {
+      "message": "Link openen"
+   },
+   "1397887822627488928": {
+      "message": "Persoon of e-mailadres om mee te delen"
+   },
+   "1429848477922945853": {
+      "message": "Lege notitie"
+   },
+   "1432850707344442376": {
+      "message": "Label $1​ maken"
+   },
+   "1434081385486479995": {
+      "message": "Delen is momenteel niet beschikbaar"
+   },
+   "1439211265324766071": {
+      "message": "Notitie in prullenbak"
+   },
+   "1441487391064925653": {
+      "message": "Alle sneltoetsen weergeven in het Helpcentrum"
+   },
+   "1441712877952841568": {
+      "message": "Bewerkt: $1​"
+   },
+   "1442417474192183694": {
+      "message": "Foutopsporingsgegevens voor Viewer weergeven"
+   },
+   "1442722292947881614": {
+      "message": "Typen"
+   },
+   "1446829548948002072": {
+      "message": "komma"
+   },
+   "1453330983536591773": {
+      "message": "Lichtgrijs"
+   },
+   "1463389029497634261": {
+      "message": "Volume verlagen"
+   },
+   "1466663154000252842": {
+      "message": "Sommige mensen raken mogelijk de toegang kwijt"
+   },
+   "1467797923781828000": {
+      "message": "$1​ items zijn toegevoegd aan $2​."
+   },
+   "1475258635371833968": {
+      "message": "$2​, $1​"
+   },
+   "1478393252643397554": {
+      "message": "Oranje"
+   },
+   "1482452362096735080": {
+      "message": "Vindt {numOccurrences} keer plaats"
+   },
+   "1490217372377947899": {
+      "message": "Drive-upload"
+   },
+   "1505876360160857231": {
+      "message": "$1​ TB"
+   },
+   "1507063529674142853": {
+      "message": "Op de laatste dag van de maand"
+   },
+   "1507445189431379166": {
+      "message": "Verwijderen"
+   },
+   "1512114410402431831": {
+      "message": "Vernieuwen"
+   },
+   "1512454807955173272": {
+      "message": "Keep wordt geüpdatet wanneer je online bent"
+   },
+   "1513178578981188988": {
+      "message": "Edge"
+   },
+   "1532717559893630620": {
+      "message": "Label $1​ samengevoegd tot $2​."
+   },
+   "1536051766421561160": {
+      "message": "gelijkteken"
+   },
+   "153659275234722804": {
+      "message": "Sluiten"
+   },
+   "1543499632005215694": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Het bestand dat naar {ADDED_PARENT_NAME} wordt verplaatst, heeft DLP-detectie (Data Loss Prevention) geactiveerd. Mogelijk bevat dit bestand gevoelige informatie.}other{Sommige van de bestanden die naar {ADDED_PARENT_NAME} worden verplaatst, hebben DLP-detectie (Data Loss Prevention) geactiveerd. Mogelijk bevatten deze bestanden gevoelige informatie.}}"
+   },
+   "1568379678795589771": {
+      "message": "Vierkanten"
+   },
+   "1586968957182554447": {
+      "message": "Uitschakelen"
+   },
+   "1600730176972144699": {
+      "message": "Druk op Shift + J om naar de vorige positie en op Shift + K om naar de volgende positie te gaan"
+   },
+   "1606998668553414638": {
+      "message": "Toegang vragen"
+   },
+   "1612117309990202511": {
+      "message": "Stippen"
+   },
+   "1645936035034659132": {
+      "message": "{itemsRemaining,plural, =1{# lijstitem resterend}other{# lijstitems resterend}}"
+   },
+   "1655692513689044870": {
+      "message": "Je bent uitgelogd."
+   },
+   "1656911987308166143": {
+      "message": "Verwijderen"
+   },
+   "1665821947855814052": {
+      "message": "Grootte"
+   },
+   "1675711464233426777": {
+      "message": "Later vandaag"
+   },
+   "1675900304699098572": {
+      "message": "{count,plural, =1{Notitie losgemaakt}other{# notities losgemaakt}}"
+   },
+   "1680617124502957636": {
+      "message": "Kan momenteel geen verbinding maken. Probeer het later opnieuw."
+   },
+   "1680818623013843452": {
+      "message": "Lucidchart"
+   },
+   "1683762293389974494": {
+      "message": "Verwijderen"
+   },
+   "1694896269813520248": {
+      "message": "Tekening toevoegen"
+   },
+   "1697160643589236962": {
+      "message": "$1​ PB"
+   },
+   "1700455651867499062": {
+      "message": "Google Drive-snelkoppeling"
+   },
+   "1703175513040690135": {
+      "message": "Iedereen in $1​"
+   },
+   "1704004075228783011": {
+      "message": "{every,plural, =1{Wordt maandelijks herhaald op de laatste dag van de maand}other{Wordt elke # maanden herhaald op de laatste dag van de maand}}"
+   },
+   "1711424025297585662": {
+      "message": "een|de|het"
+   },
+   "171683163267149669": {
+      "message": "$1​ GB"
+   },
+   "1719906320230837590": {
+      "message": "Google Afbeeldingen zoeken"
+   },
+   "1730171019350750807": {
+      "message": "Zwart"
+   },
+   "1737240194537729525": {
+      "message": "Wekelijks"
+   },
+   "1739900012825270238": {
+      "message": "Naar het vorige item gaan"
+   },
+   "1740371341228065086": {
+      "message": "Opnieuw laden"
+   },
+   "1745782414562966515": {
+      "message": "Het label $1​ samenvoegen met het label $2​? Alle notities met het label $1​ krijgen het label $2​ en het label $1​ wordt verwijderd."
+   },
+   "1746512984326924716": {
+      "message": "Deze actie kan niet ongedaan worden gemaakt."
+   },
+   "1770899865480106963": {
+      "message": "Android-apparaten"
+   },
+   "1781922622745161264": {
+      "message": "Notities die je toevoegt, worden hier weergegeven"
+   },
+   "1783719421893050637": {
+      "message": "Afmetingen"
+   },
+   "1790494039990261456": {
+      "message": "Beide bewaren"
+   },
+   "1791115075948268631": {
+      "message": "Help voor sneltoetsen openen"
+   },
+   "179545118447015250": {
+      "message": "Rasterweergave"
+   },
+   "1803966010993357655": {
+      "message": "Overige"
+   },
+   "1808245543551507519": {
+      "message": "Audio"
+   },
+   "1810354345035313773": {
+      "message": "Kleur- en diktekiezer van markeertool openen"
+   },
+   "1829174126565818591": {
+      "message": "Firefox"
+   },
+   "1830157062072535681": {
+      "message": "$1​ wordt weergegeven"
+   },
+   "1830980674971538385": {
+      "message": "Uploaden"
+   },
+   "1852745815330163711": {
+      "message": "Google Tekeningen"
+   },
+   "1857224091554117760": {
+      "message": "Rood"
+   },
+   "1858255237143975969": {
+      "message": "$2​Privacy$1​"
+   },
+   "1870691479127746185": {
+      "message": "Pijl-rechts"
+   },
+   "187077078156858455": {
+      "message": "Audionotitie"
+   },
+   "189303170370862360": {
+      "message": "$1​ van $2​ items"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901215424950227523": {
+      "message": "Het label $1​ bestaat niet"
+   },
+   "1936219394601788126": {
+      "message": "bovenliggend"
+   },
+   "1938115711058331119": {
+      "message": "Kolom met reacties weergeven"
+   },
+   "195154114623528341": {
+      "message": "Locatie toevoegen"
+   },
+   "1956794332842050061": {
+      "message": "Volgende pagina"
+   },
+   "1963323419655107448": {
+      "message": "Aangevinkte items verwijderen"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1967536906522187719": {
+      "message": "Er is een probleem opgetreden bij het weergeven van een voorbeeld van deze spreadsheet."
+   },
+   "1969531182936822963": {
+      "message": "Actie ongedaan gemaakt"
+   },
+   "1972885107693687510": {
+      "message": "Ballon 'Ga naar label' weergegeven"
+   },
+   "1973454937875679500": {
+      "message": "Labelnaam opgeven"
+   },
+   "1975630610063119352": {
+      "message": "{charsRemaining,plural, =1{# teken resterend}other{# tekens resterend}}"
+   },
+   "1980209166254310911": {
+      "message": "Dag"
+   },
+   "1986228872461282439": {
+      "message": "Standaard"
+   },
+   "1998476658842502120": {
+      "message": "Druk op C om een ​​nieuwe notitie te maken"
+   },
+   "200488920523496447": {
+      "message": "Ingezoomd op item."
+   },
+   "2039757863628752523": {
+      "message": "Opties voor frequentie"
+   },
+   "205445381296663832": {
+      "message": "Upload mislukt."
+   },
+   "205876860571942679": {
+      "message": "Google My Maps"
+   },
+   "2059084517358086391": {
+      "message": "Zoekbalk sluiten"
+   },
+   "2061440050632248160": {
+      "message": "Archiveren"
+   },
+   "2068023589621557589": {
+      "message": "TrueType-lettertype"
+   },
+   "2072502213578290051": {
+      "message": "Klaar met een notitie? Gebruik de knop Archiveren."
+   },
+   "2073322475696388995": {
+      "message": "Vooruitspringen"
+   },
+   "2074454463201225704": {
+      "message": "Zoom opnieuw instellen"
+   },
+   "2096559615401306102": {
+      "message": "Je kunt bestanden niet verplaatsen buiten $1​"
+   },
+   "2107379241532042955": {
+      "message": "Locatie"
+   },
+   "2109979457438465538": {
+      "message": "Menu voor labelkiezer geopend"
+   },
+   "2113092209746357267": {
+      "message": "Chrome"
+   },
+   "2118635459760443566": {
+      "message": "Volgende"
+   },
+   "2119255452378336327": {
+      "message": "Opsommingsteken teruggezet naar $1​"
+   },
+   "212796670323571824": {
+      "message": "OK"
+   },
+   "2142420359113070963": {
+      "message": "Stacktrace (alleen zichtbaar voor interne netwerkgebruikers):"
+   },
+   "214517458278879973": {
+      "message": "Inloggen als $1​"
+   },
+   "2154372123324862271": {
+      "message": "schuine streep"
+   },
+   "2159130950882492111": {
+      "message": "Annuleren"
+   },
+   "2166966123760559393": {
+      "message": "Nieuw label maken"
+   },
+   "2181197458532159304": {
+      "message": "{numberOfNotes,plural, =1{Notitie weggegooid}other{# notities weggegooid}}"
+   },
+   "2184278444368405837": {
+      "message": "$1​ items"
+   },
+   "2189621188983913867": {
+      "message": "Meer apps koppelen"
+   },
+   "2190049738646901760": {
+      "message": "{count,plural, =1{Notitie verwijderen?}other{Notities verwijderen?}}"
+   },
+   "2195440644060728966": {
+      "message": "{NUM_ITEMS,plural, =1{Je verplaatst een map die in één map staat}other{Je verplaatst mappen die in één map staan}}"
+   },
+   "220168959069469607": {
+      "message": "Meer acties"
+   },
+   "2203926649090909861": {
+      "message": "Lijstitem verplaatst naar index $1​"
+   },
+   "2215890921415017560": {
+      "message": "Volledig scherm"
+   },
+   "2216904725760458480": {
+      "message": "Dagelijks"
+   },
+   "221715292685577880": {
+      "message": "Ja"
+   },
+   "2226562046914098941": {
+      "message": "Dit bestand is te groot om er een voorbeeld van weer te geven"
+   },
+   "2226937423434054727": {
+      "message": "$1​, $2​ t/m $3​, $4​ geselecteerd"
+   },
+   "223198388381606871": {
+      "message": "Lavendel"
+   },
+   "2254586145235168886": {
+      "message": "Goedkeuringsvenster samengevouwen."
+   },
+   "2264311811697505466": {
+      "message": "Vernieuwen"
+   },
+   "2265238034451062417": {
+      "message": "{count,plural, =1{+ # voltooid item}other{+ # voltooide items}}"
+   },
+   "2270469222412517777": {
+      "message": "Kan tekst niet herkennen"
+   },
+   "2270633624888102832": {
+      "message": "Notitie losmaken"
+   },
+   "2280650195464600721": {
+      "message": "Navigatie"
+   },
+   "2282423663539387332": {
+      "message": "Gepland"
+   },
+   "2285069188138705005": {
+      "message": "Gekoppelde apps"
+   },
+   "2286685488296851497": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Je verplaatst een item uit de gedeelde map {SHARED_FOLDER_NAME}. Andere mensen raken hierdoor de toegang tot dit item kwijt.}other{Je verplaatst {NUM_ITEMS_2} items uit de gedeelde map {SHARED_FOLDER_NAME}. Andere mensen raken hierdoor de toegang tot deze items kwijt.}}"
+   },
+   "228741435562395266": {
+      "message": "Afdrukken is nog niet beschikbaar"
+   },
+   "2289534534793293486": {
+      "message": "Terugzetten uit archief"
+   },
+   "2289812403593835836": {
+      "message": "Pagina's"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Volume verhogen"
+   },
+   "2299671629154778581": {
+      "message": "Notities losgemaakt en gearchiveerd"
+   },
+   "2308018963132768704": {
+      "message": "Dikte 4"
+   },
+   "2310145944356900158": {
+      "message": "Aangevinkt"
+   },
+   "2311880726221661199": {
+      "message": "Hogere resoluties laden"
+   },
+   "2323249770683736002": {
+      "message": "Nieuw label maken"
+   },
+   "2324955914430674498": {
+      "message": "Geen zoekresultaten voor '$1​'"
+   },
+   "2346361265476305332": {
+      "message": "De eigenaar staat niet toe dat dit audiobestand wordt gedownload."
+   },
+   "2357623745116912085": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Leden van {TEAM_DRIVE_NAME} raken hierdoor de toegang kwijt, tenzij dit item met hen wordt gedeeld.}other{Leden van {TEAM_DRIVE_NAME} raken hierdoor de toegang kwijt, tenzij deze items met hen worden gedeeld.}}"
+   },
+   "2359614137862708172": {
+      "message": "Shift"
+   },
+   "2364374826543847335": {
+      "message": "Bron verwijderen"
+   },
+   "236689092839978781": {
+      "message": "Niet herhalen"
+   },
+   "2370656573843123707": {
+      "message": "vierkante haak rechts"
+   },
+   "2373760032138505521": {
+      "message": "Label bestaat al"
+   },
+   "2386536768112358461": {
+      "message": "PageDown"
+   },
+   "2396804279177914769": {
+      "message": "Eigendomsrechten overdragen aan de Drive van mijn team?"
+   },
+   "2402010336938670264": {
+      "message": "Teken met de top van je vinger, of schrijf een notitie met de stylus (als je die hebt)."
+   },
+   "2405795704816921421": {
+      "message": "Bestand $1​"
+   },
+   "2408383448126741628": {
+      "message": "Duur"
+   },
+   "2408933271548524782": {
+      "message": "Vergrendeld"
+   },
+   "2423364695613735749": {
+      "message": "Druk op L om een ​​nieuwe lijst te maken"
+   },
+   "2423877407428530040": {
+      "message": "Bestand bevat te veel diagrammen."
+   },
+   "2433429041384246549": {
+      "message": "Geluid dempen"
+   },
+   "2438741853303074449": {
+      "message": "keer"
+   },
+   "2444198666025646119": {
+      "message": "Violet"
+   },
+   "2452145367257933677": {
+      "message": "Ongedaan maken"
+   },
+   "2452522051596946166": {
+      "message": "Oeps! Probleem bij het weergeven van een voorbeeld van $1​. Opnieuw proberen."
+   },
+   "2454642351139428112": {
+      "message": "Ongedaan maken"
+   },
+   "246828342952819465": {
+      "message": "Leg je gedachten vast $1​ vanaf elk apparaat"
+   },
+   "2469046390122693414": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}other{Je verplaatst {NUM_ITEMS_2} items uit gedeelde Drives en gedeelde mappen. Andere mensen raken hierdoor de toegang tot deze items kwijt.}}"
+   },
+   "2478862372619762755": {
+      "message": "Markeer een gedeelte waarop je wilt reageren"
+   },
+   "2483363439634684283": {
+      "message": "Dikte 20"
+   },
+   "2494928104701250542": {
+      "message": "Zet notities vast en stel herinneringen in om belangrijke zaken niet uit het oog te verliezen."
+   },
+   "2504232652631703202": {
+      "message": "Gekoppeld"
+   },
+   "2509141182388535183": {
+      "message": "Bekijken"
+   },
+   "251025074207413762": {
+      "message": "Voeg een beschrijving toe"
+   },
+   "2525633490863427854": {
+      "message": "Opnieuw"
+   },
+   "2527534830196374788": {
+      "message": "Ctrl"
+   },
+   "2532280782491328445": {
+      "message": "Vorige zoeken"
+   },
+   "2542788471536661524": {
+      "message": "Sleep afbeeldingen hierheen"
+   },
+   "2562881166530755046": {
+      "message": "Tekeningen"
+   },
+   "257317112834806705": {
+      "message": "Schakelen tussen lijst- en rasterweergave"
+   },
+   "2579261044590673579": {
+      "message": "My Drive"
+   },
+   "2579679351920691492": {
+      "message": "Terugspringen"
+   },
+   "2584557103820423944": {
+      "message": "Lijstitem inspringen/inspringing opheffen"
+   },
+   "2592236094918360632": {
+      "message": "Kan het bestand niet verplaatsen omdat de bestandseigenaar geen lid van de gedeelde Drive is."
+   },
+   "2600731575260427177": {
+      "message": "Bestand bestaat niet en is mogelijk verwijderd. Probeer het opnieuw te uploaden."
+   },
+   "2601304136110057215": {
+      "message": "Nieuwe tekening"
+   },
+   "2604527707881848686": {
+      "message": "Kan de inspringing van het item niet verder opheffen."
+   },
+   "2609409316752026806": {
+      "message": "pdf"
+   },
+   "2623861453769098676": {
+      "message": "Probleem bij het weergeven van een voorbeeld van dit document."
+   },
+   "2626653026098396543": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Als je dit item verplaatst, wordt het gedeeld met iedereen die de gedeelde map {SHARED_FOLDER_NAME} kan zien.}other{Als je deze items verplaatst, worden ze gedeeld met iedereen die de gedeelde map {SHARED_FOLDER_NAME} kan zien.}}"
+   },
+   "2632263751512428257": {
+      "message": "Jaarlijks"
+   },
+   "2632538140519286364": {
+      "message": "Notities in de prullenbak worden na zeven dagen verwijderd."
+   },
+   "2645469029410848421": {
+      "message": "{noteCount,plural, =1{Labelnotitie}other{Labelnotities}}"
+   },
+   "2661850177130037208": {
+      "message": "Item openen"
+   },
+   "2673781847036352269": {
+      "message": "Inactieve reacties verbergen"
+   },
+   "2680303811435018716": {
+      "message": "Kan niet meer items toevoegen"
+   },
+   "2681830832355823748": {
+      "message": "Zoeken in alle sneltoetsen"
+   },
+   "268402507078609011": {
+      "message": "{imagesAdded,plural, =1{Afbeelding toegevoegd}other{# afbeeldingen toegevoegd}}"
+   },
+   "269301203471243703": {
+      "message": "Snelkoppeling toevoegen"
+   },
+   "2713989182797848963": {
+      "message": "Tekeningen maken en notities met de hand schrijven"
+   },
+   "2715199780155065699": {
+      "message": "Bestand bevat te veel vormen, tekstvakken of tekeningen."
+   },
+   "2716433087531258659": {
+      "message": "Page Up"
+   },
+   "2719125961689709460": {
+      "message": "Notitie"
+   },
+   "2725185337656029651": {
+      "message": "Afbeeldingen of audio toevoegen"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2757876083706839152": {
+      "message": "Tekening gedupliceerd vanwege maximale grootte"
+   },
+   "2758125083752925237": {
+      "message": "(Eigenaar)"
+   },
+   "2760106082595028595": {
+      "message": "Notitie is te groot."
+   },
+   "2761695221066052931": {
+      "message": "Ballon 'Link openen' weergegeven"
+   },
+   "2762925619340374825": {
+      "message": "Via URL"
+   },
+   "277430914014962533": {
+      "message": "Oeps! Probleem bij het weergeven van een voorbeeld van $1​."
+   },
+   "2777453609143551768": {
+      "message": "Volumeregelaar"
+   },
+   "2793841261389879255": {
+      "message": "Vorige pagina"
+   },
+   "2794676336056877832": {
+      "message": "{every,plural, =1{Wordt maandelijks herhaald op dezelfde dag}other{Wordt elke # maanden herhaald op dezelfde dag}}"
+   },
+   "2803553109654833664": {
+      "message": "Roze"
+   },
+   "2814354342017225342": {
+      "message": "Linkvoorbeelden met opmaak weergeven"
+   },
+   "2818020101821669029": {
+      "message": "Gemaakt"
+   },
+   "2820045170951016567": {
+      "message": "Herinneringen"
+   },
+   "2823533464825550362": {
+      "message": "Besturingselementen voor documenten"
+   },
+   "2827039933590757722": {
+      "message": "Windows-snelkoppeling"
+   },
+   "2828060233316503200": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} item is verplaatst van {XXX_1} naar {XXX_2}.}other{{NUM_ITEMS_2} items zijn verplaatst van {XXX_3} naar {XXX_4}.}}"
+   },
+   "2828258538208588139": {
+      "message": "{shortcutCount,plural, =1{Je hebt 1 snelkoppeling toegevoegd}other{Je hebt # snelkoppelingen toegevoegd}}"
+   },
+   "2829226075651806940": {
+      "message": "Inzoomen"
+   },
+   "2842462703735289745": {
+      "message": "Iedereen die de gedeelde map ‘$1​’ kan bekijken, krijgt toegang tot je bestand(en)."
+   },
+   "2853036885874864031": {
+      "message": "De eigendom wordt overgedragen aan $1​."
+   },
+   "2854717396594966319": {
+      "message": "OpenOffice Writer"
+   },
+   "2868845399811178993": {
+      "message": "Alleen de eigenaar van '$1​' kan snelkoppelingen verwijderen die aan deze map zijn toegevoegd."
+   },
+   "2873089307546162154": {
+      "message": "OK"
+   },
+   "2877285560485318801": {
+      "message": "Onderbreken"
+   },
+   "2879276552944958066": {
+      "message": "Terug naar de map $1​."
+   },
+   "2886313667612471214": {
+      "message": "Vernieuwen vereist. Dit kan een paar minuten duren."
+   },
+   "2893055432094515558": {
+      "message": "Selectievakjes weergegeven"
+   },
+   "289798573180023043": {
+      "message": "OK"
+   },
+   "2901360496423912565": {
+      "message": "Melden"
+   },
+   "2908917161758545146": {
+      "message": "{count,plural, =1{Notitie losgemaakt en gearchiveerd}other{# notities losgemaakt en gearchiveerd}}"
+   },
+   "2930974997943171554": {
+      "message": "Donker thema uitgeschakeld"
+   },
+   "2935193106137642160": {
+      "message": "Zoomen niet beschikbaar"
+   },
+   "295331174171409695": {
+      "message": "Er is een probleem opgetreden bij het bijwerken van de downloadrechten voor '$1​'."
+   },
+   "2960516445247616550": {
+      "message": "Afdrukken is niet beschikbaar"
+   },
+   "296391753033307868": {
+      "message": "Label $1​ gemaakt en aan notitie toegevoegd."
+   },
+   "2971623719720688041": {
+      "message": "Actie ongedaan gemaakt"
+   },
+   "2973306402585941108": {
+      "message": "Ochtend"
+   },
+   "2983318659047499045": {
+      "message": "Herinneringen"
+   },
+   "298817883481775869": {
+      "message": "Laden…"
+   },
+   "2990497076082409431": {
+      "message": "‘$1​’ is verplaatst naar $2​."
+   },
+   "2993901764282547916": {
+      "message": "App Maker"
+   },
+   "3005058076425755361": {
+      "message": "Backspace"
+   },
+   "3018905429279095639": {
+      "message": "{NUM_ITEMS,plural, =1{Je hebt geen rechten om deze map uit de huidige mappen te verplaatsen. Voeg de map in plaats daarvan toe aan {START_SPAN_1}{NAME}{END_SPAN}.}other{Je hebt geen rechten om deze mappen uit de huidige mappen te verplaatsen. Voeg de mappen in plaats daarvan toe aan {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "3038603165081234302": {
+      "message": "Toevoegen aan $2​Mijn Drive$1​…"
+   },
+   "3043961722025425136": {
+      "message": "Beschrijving"
+   },
+   "304438440663479110": {
+      "message": "Geschikte sneltoets voor spreadsheets"
+   },
+   "306516303501625305": {
+      "message": "Verificatie is mislukt."
+   },
+   "3074915509081765994": {
+      "message": "iPhone en iPad"
+   },
+   "3091440425606975088": {
+      "message": "Naamloze lijst"
+   },
+   "3108098439469164127": {
+      "message": "Nieuwe tekening geopend"
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​"
+   },
+   "3150651996344750990": {
+      "message": "{count,plural, =1{Notitie teruggezet}other{# notities teruggezet}}"
+   },
+   "3167198321908629554": {
+      "message": "Vernieuwen en je notities opnieuw laden…"
+   },
+   "3176246635438298155": {
+      "message": "Delete"
+   },
+   "3187117482772485385": {
+      "message": "Miniatuur maken..."
+   },
+   "3189854932778515441": {
+      "message": "Notitie in archief"
+   },
+   "3190546672187601036": {
+      "message": "Avond"
+   },
+   "3195812604657128345": {
+      "message": "Selecteer een Drive-map om in uit te pakken"
+   },
+   "32059145043728507": {
+      "message": "{numberOfNotes,plural, =1{Notitie teruggezet}other{# notities teruggezet}}"
+   },
+   "3207650089232728475": {
+      "message": "Labels wijzigen"
+   },
+   "3211163842850942567": {
+      "message": "Inzoomen"
+   },
+   "3217354672216773127": {
+      "message": "Geactiveerd op $1​"
+   },
+   "3220641589840600333": {
+      "message": "Overgeschakeld  naar weergave '$1​'"
+   },
+   "3241696131593027453": {
+      "message": "Notitie selecteren"
+   },
+   "3243075164136265612": {
+      "message": "Goedkeuringsvenster uitgevouwen."
+   },
+   "3249966726137025950": {
+      "message": "Gezinsgroep van bijdrager"
+   },
+   "3250489229749307913": {
+      "message": "Elektronische publicatie"
+   },
+   "3258100527833044153": {
+      "message": "Lege tekening weggegooid"
+   },
+   "3261131345401321392": {
+      "message": "Mag reageren"
+   },
+   "3266448715145955862": {
+      "message": "Notities teruggezet uit archief en vastgezet"
+   },
+   "3272496516667407797": {
+      "message": "Probleem bij het laden van de details."
+   },
+   "3278046126264096288": {
+      "message": "Week"
+   },
+   "3281684668260174833": {
+      "message": "{numberOfNotes,plural, =1{Notitie losgemaakt en weggegooid}other{# notities losgemaakt en weggegooid}}"
+   },
+   "3285255128259782773": {
+      "message": "Lokale schijf"
+   },
+   "3285552194638444776": {
+      "message": "Nu kun je revisies van $1​-bestanden bewerken, delen en beheren met $2​"
+   },
+   "3288498486633948368": {
+      "message": "'$1​' is toegevoegd aan Google Drive."
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3308935528045767909": {
+      "message": "Nieuwe notitie met tekening"
+   },
+   "3312545971976531405": {
+      "message": "Bericht"
+   },
+   "3313557905033219672": {
+      "message": "{numNotes,plural, =1{Niet-gearchiveerde notitie gemaakt}other{# niet-gearchiveerde notities gemaakt}}"
+   },
+   "3325094738421414114": {
+      "message": "Druk op X om een ​​notitie toe te voegen aan of te verwijderen uit de reeks geselecteerde notities"
+   },
+   "3345567742278474807": {
+      "message": "Deze notitie is gemarkeerd als ongepast en kan niet worden gedeeld."
+   },
+   "3348057264663626000": {
+      "message": "Selectie omhoog verplaatst."
+   },
+   "3362903141674317449": {
+      "message": "Bijdrager"
+   },
+   "3371033609268806242": {
+      "message": "Label $1​ verwijderd."
+   },
+   "3378875258397512442": {
+      "message": "Stel herinneringen op plaats en tijd in voor notities, maak spraaknotities en werk online of offline."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Openen"
+   },
+   "3385831848537487538": {
+      "message": "Reizen"
+   },
+   "3409483962000136213": {
+      "message": "Afspelen/onderbreken"
+   },
+   "3418677553313974490": {
+      "message": "Prullenbak"
+   },
+   "3418767079436101103": {
+      "message": "Probleem bij het laden van deze pagina."
+   },
+   "3419821606494999471": {
+      "message": "Reactieberichten beheren"
+   },
+   "3437227878928998987": {
+      "message": "Een lijst maken"
+   },
+   "3447704623213039325": {
+      "message": "Supermarktartikel"
+   },
+   "3448234415275521882": {
+      "message": "Algemene informatie"
+   },
+   "3449090379302140902": {
+      "message": "Foto's"
+   },
+   "3451851833460018584": {
+      "message": "{NUM_COMMENTS,plural, =0{Geen reacties}=1{Eén reactie}other{# reacties}}"
+   },
+   "3455405209271884570": {
+      "message": "Uitpakken"
+   },
+   "345718983715470367": {
+      "message": "Bron"
+   },
+   "3462556632501534753": {
+      "message": "$2​Open-sourcelicenties$1​"
+   },
+   "3468441711253011521": {
+      "message": "Google Spreadsheets"
+   },
+   "3473620774713000513": {
+      "message": "Opgelost"
+   },
+   "3478630283627055305": {
+      "message": "Druk op Escape om het bewerken van een notitie te stoppen"
+   },
+   "3485469306694683931": {
+      "message": "Uitpakken naar je Drive-account"
+   },
+   "3487924397596265480": {
+      "message": "$1​ geselecteerd."
+   },
+   "3493932452507671194": {
+      "message": "Druk op $1​ + vierkante haak rechts om in te springen en op $1​ + vierkante haak links om de inspringing op te heffen"
+   },
+   "3496410038494993160": {
+      "message": "Veelgebruikte sneltoetsen"
+   },
+   "3518073392823563581": {
+      "message": "Sneltoetsen"
+   },
+   "3527565741177531691": {
+      "message": "Snelkoppeling toevoegen aan $2​$3​$1​…"
+   },
+   "3528739824697875943": {
+      "message": "lijstitem"
+   },
+   "3539889527558048258": {
+      "message": "Google Afbeeldingen zoeken"
+   },
+   "3544847661620838201": {
+      "message": "Probeer het eens, je kunt de notitie altijd weer opzoeken."
+   },
+   "3549581437554274388": {
+      "message": "Selectie naar rechts verplaatst."
+   },
+   "3551522853788442530": {
+      "message": "Terug"
+   },
+   "3551608745198442336": {
+      "message": "Tekening $1​/$2​"
+   },
+   "3553997866738769437": {
+      "message": "Tekening bewerken"
+   },
+   "3555297636767750285": {
+      "message": "Groen"
+   },
+   "3561658662634401836": {
+      "message": "Titel"
+   },
+   "3569884090205828853": {
+      "message": "OpenOffice Calc"
+   },
+   "3571391964903695725": {
+      "message": "Herhalen"
+   },
+   "3571704286086017611": {
+      "message": "Herinnering verwijderd"
+   },
+   "3574963906259719128": {
+      "message": "Dit audiobestand kan niet worden afgespeeld in je browser."
+   },
+   "3580243353280636963": {
+      "message": "Datum en tijd kiezen"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3595562664731337243": {
+      "message": "Label hernoemen"
+   },
+   "3603931013946597836": {
+      "message": "{NUM_ITEMS,plural, =1{Je verplaatst een bestand dat in {NUM_PARENTS} mappen staat}other{Je verplaatst bestanden die in {NUM_PARENTS} mappen staan}}"
+   },
+   "3608521102844050208": {
+      "message": "Herinnering:"
+   },
+   "3608606849109645545": {
+      "message": "Geef een nieuwe documentnaam op:"
+   },
+   "3609912631958780352": {
+      "message": "Kalligrafietool"
+   },
+   "3611573349633408445": {
+      "message": "Downloaden"
+   },
+   "3612936866865912552": {
+      "message": "Laden..."
+   },
+   "3617727970098875990": {
+      "message": "Zoeken in alle sneltoetsen"
+   },
+   "362521762755836201": {
+      "message": "Gemaakt op $1​"
+   },
+   "3628141779141388914": {
+      "message": "Mappen kunnen nog niet naar een gedeelde Drive worden verplaatst."
+   },
+   "3634885664399305142": {
+      "message": "Tekening is niet beschikbaar"
+   },
+   "3642907339426904506": {
+      "message": "Geen notities in prullenbak"
+   },
+   "3651893685901703652": {
+      "message": "…"
+   },
+   "3657386785336906042": {
+      "message": "backslash"
+   },
+   "3659554681396757189": {
+      "message": "Geopend door mij"
+   },
+   "366289214151975122": {
+      "message": "Iedereen in $1​ met de link"
+   },
+   "3663571259791438207": {
+      "message": "Misbruik melden"
+   },
+   "3664842788764635265": {
+      "message": "Geen"
+   },
+   "3666123569747918021": {
+      "message": "Dit document bevat wijzigingen die niet zijn opgeslagen. Wil je de pagina verlaten en je wijzigingen niet opslaan?"
+   },
+   "3678477908297567934": {
+      "message": "underscore"
+   },
+   "3684032082082645570": {
+      "message": "{count,plural, =1{Selecteer een kleur om op de notitie toe te passen.}other{Selecteer een kleur om op de notities toe te passen.}}"
+   },
+   "3690515530505404607": {
+      "message": "Probleem bij het afspelen van deze video."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Geen items}=1{1 item}other{# items}}"
+   },
+   "3703024996011822310": {
+      "message": "Welkom bij Google Keep"
+   },
+   "3712215972250917265": {
+      "message": "Reacties"
+   },
+   "3714239567487848851": {
+      "message": "Donker thema ingeschakeld"
+   },
+   "3721649886572275931": {
+      "message": "Dikte 8"
+   },
+   "372633345629975481": {
+      "message": "Notities vastgezet"
+   },
+   "372823375470132483": {
+      "message": "Selectie van weggegooide notitie ongedaan maken"
+   },
+   "3734444903221631913": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unsused plural form}other{Je verplaatst {NUM_ITEMS_2} items uit Drives van mijn team en gedeelde mappen. Andere mensen raken hierdoor de toegang tot deze items kwijt.}}"
+   },
+   "3751183760611784323": {
+      "message": "Ingezoomd om item aan te passen aan breedte van scherm."
+   },
+   "3768927257183755959": {
+      "message": "Opslaan"
+   },
+   "3787959261309150430": {
+      "message": "Klik op het pictogram met de pen om lijnen te tekenen."
+   },
+   "3793086499925031123": {
+      "message": "De zoekbalk openen/vorige zoeken"
+   },
+   "3796511349428373407": {
+      "message": "Opties voor datum"
+   },
+   "37992665410817181": {
+      "message": "Opnieuw geopend"
+   },
+   "3802992573289114390": {
+      "message": "Beschrijving van '$1​' is geüpdatet."
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3827179818223863356": {
+      "message": "Lichtgroen"
+   },
+   "383396092993661575": {
+      "message": "Verplaatsen naar gedeelde Drive?"
+   },
+   "3845302429676793049": {
+      "message": "Er is een probleem opgetreden bij het bijwerken van de beschrijving van '$1​'."
+   },
+   "3852386690131857488": {
+      "message": "Delen inschakelen"
+   },
+   "3856687081748327279": {
+      "message": "Als je bestanden uit een gedeelde Drive verplaatst, worden de toegangs- en eigendomsrechten gewijzigd."
+   },
+   "3856960241878617076": {
+      "message": "De reacties worden geladen. Een ogenblik geduld."
+   },
+   "3858324058837632381": {
+      "message": "Probleem bij het afspelen van dit audiobestand."
+   },
+   "3869166581651870488": {
+      "message": "Bewerken voltooien"
+   },
+   "3874597373619381607": {
+      "message": "Opgeloste reacties worden weergegeven"
+   },
+   "3877974536163446728": {
+      "message": "$1​, $2​ geselecteerd"
+   },
+   "3880648579756747781": {
+      "message": "Rechten kunnen verloren gaan als deze map het maximum aantal toegestane items in een gedeelde Drive overschrijdt. $2​Meer informatie$1​"
+   },
+   "3888733084985311515": {
+      "message": "Gezinsgroep beschikbaar."
+   },
+   "3897281533382850749": {
+      "message": "Dempen opheffen"
+   },
+   "3907816292084809686": {
+      "message": "Actie opnieuw uitgevoerd"
+   },
+   "3909380459614154542": {
+      "message": "Ga naar link"
+   },
+   "3920849627538402857": {
+      "message": "Downloaden"
+   },
+   "3952341864324097024": {
+      "message": "Zoekopdracht wissen"
+   },
+   "3955575370175991097": {
+      "message": "Overgeschakeld naar labelweergave '$1​'"
+   },
+   "395680759377627007": {
+      "message": "‘$3​$2​$1​’ maken"
+   },
+   "397098723873502323": {
+      "message": "Klaar"
+   },
+   "3974822583047850066": {
+      "message": "Annuleren"
+   },
+   "3977699855735576796": {
+      "message": "Probleem bij het laden van meer pagina's."
+   },
+   "3981269900634596036": {
+      "message": "{numberOfNotes,plural, =1{Notitie verwijderen}other{Notities verwijderen}}"
+   },
+   "3988418762222300024": {
+      "message": "punt"
+   },
+   "3989925953740167133": {
+      "message": "Google Keep wil je locatie gebruiken om plaatssuggesties voor herinneringen op locatie te verbeteren."
+   },
+   "4005725939358875643": {
+      "message": "Actie is ongedaan gemaakt."
+   },
+   "4020393055976236243": {
+      "message": "De eigendomsrechten worden overgedragen van ‘$3​’ in $2​ aan $1​."
+   },
+   "4023299615382814997": {
+      "message": "Kan niet bewerken in prullenbak"
+   },
+   "4034637528003033305": {
+      "message": "Rechten kunnen verloren gaan als deze map het maximum aantal toegestane items in een Drive van mijn team overschrijdt. $2​Meer informatie$1​"
+   },
+   "4036523543547629779": {
+      "message": "Afbeeldingen"
+   },
+   "4044915502415235332": {
+      "message": "Vastgezette notitie selecteren"
+   },
+   "4052960606031736645": {
+      "message": "{NUM_ITEMS,plural, =1{Je verplaatst een map die in {NUM_PARENTS} mappen staat}other{Je verplaatst mappen die in {NUM_PARENTS} mappen staan}}"
+   },
+   "4061102590585232601": {
+      "message": "$1​ verwijderd"
+   },
+   "4064820890482961434": {
+      "message": "Selectievakjes weergeven"
+   },
+   "4072353527895477784": {
+      "message": "Mensen"
+   },
+   "407982090576503781": {
+      "message": "Verplaatsen naar Mijn Drive?"
+   },
+   "4081524305222967804": {
+      "message": "Blauwgroen"
+   },
+   "4085493778209859942": {
+      "message": "Toch afspelen"
+   },
+   "4097921967754832323": {
+      "message": "koppelteken"
+   },
+   "411137507354526852": {
+      "message": "Maand"
+   },
+   "4111452225725405610": {
+      "message": "Ster verwijderd van $1​."
+   },
+   "4117632433281998979": {
+      "message": "Maandelijks"
+   },
+   "4122858386674768321": {
+      "message": "Verplaatsen uit $3​$2​$1​"
+   },
+   "4145164831312518309": {
+      "message": "Druk op @ om feedback te verzenden"
+   },
+   "4155905925766040098": {
+      "message": "Geen voorbeeld beschikbaar"
+   },
+   "4157091150222353401": {
+      "message": "Reacties worden opgeslagen in .docx-, .pptx- en .xlsx-bestanden en zijn zichtbaar in Microsoft Office"
+   },
+   "4167720915844687374": {
+      "message": "Klik op de gum om een vorm uit te wissen."
+   },
+   "4174786386751618325": {
+      "message": "Fotonotitie"
+   },
+   "4182427157920112948": {
+      "message": "tilde"
+   },
+   "4186465168527990324": {
+      "message": "'$1​' is uitgepakt in '$2​'"
+   },
+   "4194905394104253796": {
+      "message": "Configureren"
+   },
+   "4204345954541079744": {
+      "message": "Er zijn nog geen notities met dit label"
+   },
+   "4206529410529166231": {
+      "message": "{NUM_ITEMS,plural, =1{Je verplaatst een item dat in {NUM_PARENTS} mappen staat}other{Je verplaatst items die in {NUM_PARENTS} mappen staan}}"
+   },
+   "4209658291185545281": {
+      "message": "Actie kan niet ongedaan worden gemaakt"
+   },
+   "4211182812451835307": {
+      "message": "Mag bewerken"
+   },
+   "4214190403999219403": {
+      "message": "Zoomen"
+   },
+   "4216242742234357612": {
+      "message": "Alle notities selecteren"
+   },
+   "4216628828665009319": {
+      "message": "Avocadogroen"
+   },
+   "4227185265023581008": {
+      "message": "Google Agenda"
+   },
+   "4228870062013120023": {
+      "message": "Navigeren naar volgende/vorige notitie"
+   },
+   "4230101516585408149": {
+      "message": "Een nieuwe notitie maken"
+   },
+   "4236714142889891754": {
+      "message": "Verplaatsen tussen gedeelde Drives?"
+   },
+   "4239183034054216803": {
+      "message": "Bruin"
+   },
+   "4267845092591696061": {
+      "message": "Ster toevoegen/verwijderen bij geselecteerde items"
+   },
+   "426927371216979233": {
+      "message": "Lijnen"
+   },
+   "4293996570221590891": {
+      "message": "Wit"
+   },
+   "4296310694082659873": {
+      "message": "Gumtool"
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4310202846681054741": {
+      "message": "{numberOfPreviews,plural, =1{Linkvoorbeeld verwijderd}other{# linkvoorbeelden verwijderd}}"
+   },
+   "4318861667254318892": {
+      "message": "Google Video's"
+   },
+   "4320831042030778": {
+      "message": "Annuleren"
+   },
+   "4320942249997687388": {
+      "message": "End"
+   },
+   "4321382260116636620": {
+      "message": "Notitie selecteren"
+   },
+   "4332252081504252077": {
+      "message": "Oeps!"
+   },
+   "433537592689162064": {
+      "message": "Meer informatie"
+   },
+   "4343825450663233452": {
+      "message": "Mag bekijken"
+   },
+   "4343836986248234462": {
+      "message": "Lijstitem"
+   },
+   "4343848624651344174": {
+      "message": "Middag"
+   },
+   "435214284915110062": {
+      "message": "De zoekbalk openen"
+   },
+   "435444400175963053": {
+      "message": "$1​ items zijn verplaatst naar $2​."
+   },
+   "4356312843186491987": {
+      "message": "Verplaatsen"
+   },
+   "4357246389840951053": {
+      "message": "Sommige items waaraan scripts zijn gekoppeld, kunnen nog niet naar gedeelde Drives worden verplaatst."
+   },
+   "4391715930031906467": {
+      "message": "Volgende zoeken"
+   },
+   "4397482594800054550": {
+      "message": "Er is een probleem opgetreden bij het wijzigen van de naam van '$1​'."
+   },
+   "4412626362660239325": {
+      "message": "Ordenen in Drive"
+   },
+   "4422985761498356257": {
+      "message": "Openen met"
+   },
+   "4429542915339609008": {
+      "message": "Het is niet mogelijk om meerdere bestanden te openen met deze app."
+   },
+   "4439831283519683004": {
+      "message": "Grijs"
+   },
+   "4448871104213529122": {
+      "message": "Details verbergen"
+   },
+   "4457424709416639982": {
+      "message": "Toevoegen aan My Drive"
+   },
+   "4486429060311743289": {
+      "message": "Selectie wissen"
+   },
+   "4494250072784000771": {
+      "message": "Stylus gedetecteerd. 'Schuiven met vingers' is ingeschakeld."
+   },
+   "45228242181482134": {
+      "message": "Afspelen"
+   },
+   "4533605085334699862": {
+      "message": "Citaten"
+   },
+   "4543077011795639870": {
+      "message": "Inspringing van item opgeheven."
+   },
+   "4546909961510778468": {
+      "message": "Drive"
+   },
+   "4550209323331625907": {
+      "message": "$2​Meer informatie$1​"
+   },
+   "4557086341175267918": {
+      "message": "Kan niet offline delen"
+   },
+   "4558568516353053251": {
+      "message": "Kijkers kunnen reacties en suggesties in dit bestand zien."
+   },
+   "4564682305303579317": {
+      "message": "Doorgaan"
+   },
+   "456512308416555173": {
+      "message": "Boeken"
+   },
+   "4566838580250578446": {
+      "message": "{every,plural, =1{Wordt jaarlijks herhaald}other{Wordt elke # jaar herhaald}}"
+   },
+   "4583714435275461910": {
+      "message": "bovenliggend lijstitem"
+   },
+   "4586373282767984140": {
+      "message": "Geel"
+   },
+   "4595551195988564947": {
+      "message": "Shoppinglijst van Google Assistent wordt gewijzigd."
+   },
+   "4602655470033495470": {
+      "message": "Voeg notities, lijstjes, tekeningen, foto's en audio toe aan Keep."
+   },
+   "4607656353105320648": {
+      "message": "{count,plural, =1{Notitie definitief verwijderen?}other{Notities definitief verwijderen?}}"
+   },
+   "4607802784047113873": {
+      "message": "Bijdrager toevoegen"
+   },
+   "4608848277887462246": {
+      "message": "Meer spreadsheets"
+   },
+   "461126197624379601": {
+      "message": "Tik hier om dit bestand met anderen te bespreken"
+   },
+   "4620034373159179678": {
+      "message": "Pagina $1​ van $2​"
+   },
+   "4632830890362652221": {
+      "message": "{NUM_ITEMS,plural, =1{Je verplaatst een item dat in één map staat}other{Je verplaatst items die in één map staan}}"
+   },
+   "4642196066412650732": {
+      "message": "Je kunt geen items delen met de volgende gebruikers, omdat hun beheerder delen met hun organisatie heeft uitgeschakeld en jouw beheerder delen buiten je organisatie heeft uitgeschakeld."
+   },
+   "4643940860676429496": {
+      "message": "Opslaan…"
+   },
+   "4671836579708244357": {
+      "message": "Contacten"
+   },
+   "4675792829115971960": {
+      "message": "De notitie wordt gemarkeerd en verwijderd uit je account."
+   },
+   "4685321580747790677": {
+      "message": "{every,plural, =1{Wordt wekelijks herhaald op {days}}other{Wordt elke # weken herhaald op {days}}}"
+   },
+   "4691283408020124345": {
+      "message": "Lijstweergave"
+   },
+   "4697169479015785830": {
+      "message": "Kleur- en diktekiezer van kalligrafietool openen"
+   },
+   "4697673185436885400": {
+      "message": "Sneltoets $2​ van browser $1​ is overschreven door Spreadsheets"
+   },
+   "4698144269846224816": {
+      "message": "Dikte 1"
+   },
+   "4699778906119153977": {
+      "message": "Zoeken"
+   },
+   "4704493722060638379": {
+      "message": "Druk op Shift + N voor vorige en op Shift + P voor volgende"
+   },
+   "4722167255291887189": {
+      "message": "Dikte 2"
+   },
+   "4734349318830134239": {
+      "message": "Eindigt"
+   },
+   "4738612839683751348": {
+      "message": "Kan het item niet verder inspringen."
+   },
+   "4740100782728373253": {
+      "message": "Opslaan in Drive"
+   },
+   "4748046231232264180": {
+      "message": "Google Formulieren"
+   },
+   "4751144871302640150": {
+      "message": "Gedeeld met mij"
+   },
+   "4751202914935960324": {
+      "message": "Dit e-mailadres bestaat al"
+   },
+   "4752655540567953719": {
+      "message": "Positie $1​"
+   },
+   "4762625944764691132": {
+      "message": "Hoofdmenu"
+   },
+   "47670360985205683": {
+      "message": "'$1​' ($2​) is groter dan de maximum bestandsgrootte die Google kan scannen. Dit bestand kan je computer beschadigen, dus speel het alleen af als je de risico's begrijpt."
+   },
+   "4767722428137216885": {
+      "message": "Annuleren"
+   },
+   "477328789314249432": {
+      "message": "Zoeken in notities"
+   },
+   "4775368111547931093": {
+      "message": "Geen beschrijving"
+   },
+   "4780778609011268862": {
+      "message": "Kan het bestand niet verplaatsen omdat deze gedeelde Drive al het maximum aantal bestanden bevat dat in een gedeelde Drive kan worden geplaatst."
+   },
+   "4805047680716507619": {
+      "message": " - Verplaatsen naar:"
+   },
+   "4806763987633034948": {
+      "message": "PKCS7-handtekening"
+   },
+   "4807444103404336088": {
+      "message": "Er is een probleem opgetreden bij het toevoegen van een ster aan '$1​'."
+   },
+   "4816888965396680834": {
+      "message": "In realtime $2​-bestanden bewerken of er samen met anderen aan werken in Google $1​"
+   },
+   "4821130290026382049": {
+      "message": "Veelgebruikte sneltoetsen"
+   },
+   "4833214200453019325": {
+      "message": "$1​ van $2​"
+   },
+   "4839460587397079680": {
+      "message": "Video's"
+   },
+   "4840513623749850224": {
+      "message": "Films"
+   },
+   "4847795993918486929": {
+      "message": "Kan afbeeldingstekst niet ophalen. Probeer het later opnieuw."
+   },
+   "4853788427396558692": {
+      "message": "$1​ MB"
+   },
+   "4858389278403807208": {
+      "message": "Notitie in de prullenbak"
+   },
+   "4864051612562026766": {
+      "message": "{count,plural, =1{1 geselecteerd}other{# geselecteerd}}"
+   },
+   "4878012031550736317": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Wie geen lid is van ‘{TEAM_DRIVE_NAME}’ raakt de toegang tot dit bestand kwijt.}other{Wie geen lid is van ‘{TEAM_DRIVE_NAME}’ raakt de toegang tot deze bestanden kwijt.}}"
+   },
+   "490045476479394048": {
+      "message": "Markeer de tekst waarop je wilt reageren"
+   },
+   "4906669330059413958": {
+      "message": "Wachtwoord verzenden"
+   },
+   "4907349694646937491": {
+      "message": "Notitie verplaatst naar index $1​"
+   },
+   "4915450884407029247": {
+      "message": "Label $1​ toegevoegd."
+   },
+   "4918998818369420588": {
+      "message": "Misbruik melden"
+   },
+   "4930422592340561418": {
+      "message": "My Drive"
+   },
+   "4930506384627295710": {
+      "message": "Instellingen"
+   },
+   "4937266179792749481": {
+      "message": "Recent"
+   },
+   "4955094356920130803": {
+      "message": "Geelbruin"
+   },
+   "4957674814179289955": {
+      "message": "Navigeren naar volgende/vorige lijstitem"
+   },
+   "4963533275503057654": {
+      "message": "Miniatuur maken..."
+   },
+   "4963784280521435720": {
+      "message": "Opslaan…"
+   },
+   "4974059227183970715": {
+      "message": "Je kunt ook labels toevoegen door '#' te typen."
+   },
+   "4974261966265341751": {
+      "message": "Donker thema uitschakelen"
+   },
+   "4982284738093713321": {
+      "message": "Organisator"
+   },
+   "4988132901627446385": {
+      "message": "Detailvenster uitgevouwen."
+   },
+   "5000971639019912199": {
+      "message": "$2​Voorwaarden$1​"
+   },
+   "5006765610090288212": {
+      "message": "Kleur $1​ toegepast"
+   },
+   "5008901799534614532": {
+      "message": "Verwijderen"
+   },
+   "5009448218905630614": {
+      "message": "Verwijderen"
+   },
+   "5011858093760184160": {
+      "message": "Ster verwijderen"
+   },
+   "5013331898336483156": {
+      "message": "Verplaatsen naar Mijn Drive in een nieuw domein?"
+   },
+   "5023623739220371850": {
+      "message": "Kan niet verifiëren. Wijzigingen worden gesynchroniseerd wanneer je inlogt."
+   },
+   "5041572047197549869": {
+      "message": "Elke maand op dezelfde dag"
+   },
+   "5045725997997672553": {
+      "message": "{weekNumber,plural, =1{Op de eerste {day} van de maand}=2{Op de tweede {day} van de maand}=3{Op de derde {day} van de maand}=4{Op de vierde {day} van de maand}other{Op de laatste {day} van de maand}}"
+   },
+   "5046371569383796818": {
+      "message": "Behouden"
+   },
+   "5052461293250181960": {
+      "message": "Page Down"
+   },
+   "5060107422621709815": {
+      "message": "Kan niet vernieuwen"
+   },
+   "5075841894330153061": {
+      "message": "Klik linksboven op Terug om de tekening te sluiten."
+   },
+   "5078184843381528205": {
+      "message": "Notitie vastzetten"
+   },
+   "5085332075590890665": {
+      "message": "Ongedaan maken"
+   },
+   "5086862627563516607": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Leden van {TEAM_DRIVE_NAME} krijgen toegang tot dit item.}other{Leden van {TEAM_DRIVE_NAME} krijgen toegang tot deze items.}}"
+   },
+   "5089697363226053379": {
+      "message": "Verplaatsen naar"
+   },
+   "5094400861508407603": {
+      "message": "Opsommingsteken verwijderd"
+   },
+   "5095987896933771566": {
+      "message": "Het document afdrukken"
+   },
+   "509815948423424872": {
+      "message": "Navigatie"
+   },
+   "5098941979861776792": {
+      "message": "Enter"
+   },
+   "5121976648047240846": {
+      "message": "Label verwijderen"
+   },
+   "5130903421326358933": {
+      "message": "Er is een probleem opgetreden bij het opslaan van de bijlage in Google Drive."
+   },
+   "5134649253619244584": {
+      "message": "Label verwijderen"
+   },
+   "5140285776541296873": {
+      "message": "Aangepast"
+   },
+   "5140450179685369890": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} map is verplaatst naar {XXX_1}.}other{{NUM_ITEMS_2} mappen zijn verplaatst naar {XXX_2}.}}"
+   },
+   "5151247077945318396": {
+      "message": "Er is een fout opgetreden bij het selecteren van een map om in uit te pakken."
+   },
+   "5159511879001144721": {
+      "message": "Kobaltblauw"
+   },
+   "5167365673547406876": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Leden van ‘{TEAM_DRIVE_NAME}’ krijgen toegang.}other{Leden van ‘{TEAM_DRIVE_NAME}’ krijgen toegang.}}"
+   },
+   "5178674191443894176": {
+      "message": "Labels"
+   },
+   "5178939467831590680": {
+      "message": "Foutopsporingsgegevens voor Viewer verbergen"
+   },
+   "5180454621500142444": {
+      "message": "Terugzetten"
+   },
+   "5180989337128758117": {
+      "message": "vierkante haak links"
+   },
+   "5182569285908080938": {
+      "message": "Opties voor einddatum"
+   },
+   "5184692850089055965": {
+      "message": "Afbeeldingtekst ophalen"
+   },
+   "5184785218378634051": {
+      "message": "Item is niet meer ingezoomd."
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Detailvenster met tabbladbalk. Druk op de linker- of rechterpijltoets om te schakelen tussen de tabbladen."
+   },
+   "5202835861850747976": {
+      "message": "$2​Meer informatie$1​"
+   },
+   "5204391636475413312": {
+      "message": "Opslaan"
+   },
+   "5238284741118437734": {
+      "message": "Ongedaan maken"
+   },
+   "5238307666527496111": {
+      "message": "OK"
+   },
+   "5238371081785912565": {
+      "message": "Openen met $1​"
+   },
+   "5255388116256536182": {
+      "message": "Gebruik de pijltoetsen om cellen te selecteren waarop je wilt reageren. Houd Shift ingedrukt en druk op de pijltoetsen om de selectie uit te breiden. Druk op Enter om een reactie te maken of op Esc om te annuleren."
+   },
+   "5259541708332520733": {
+      "message": "Bron verwijderd"
+   },
+   "5271615049826004958": {
+      "message": "Opties voor linkvoorbeeld"
+   },
+   "527438013974545289": {
+      "message": "Probeer het donkere thema"
+   },
+   "5281121179861637423": {
+      "message": "Er is een wachtwoord vereist voor toegang tot $1​. Voer het wachtwoord in."
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5292097099562224381": {
+      "message": "Prullenbak leegmaken?  Alle notities in de prullenbak worden definitief verwijderd."
+   },
+   "5299648222246616124": {
+      "message": "accent grave"
+   },
+   "5300527252159851865": {
+      "message": "Bestandsinhoud komt niet overeen met de verwachte bestandsindeling."
+   },
+   "5310593920481358659": {
+      "message": "Thema's"
+   },
+   "5311386381313171872": {
+      "message": "Google Drive"
+   },
+   "5320475549855398784": {
+      "message": "Deze tekening is beschikbaar wanneer je online gaat."
+   },
+   "5321772883765574323": {
+      "message": "'$1​' is verplaatst van $2​ naar $3​."
+   },
+   "5334959887390704534": {
+      "message": "We verwijderen dit label, zodat het verdwijnt uit al je Keep-notities. Je notities worden niet verwijderd."
+   },
+   "5336801339221383042": {
+      "message": "JavaScript"
+   },
+   "5336924963122494935": {
+      "message": "Dit item selecteren"
+   },
+   "534191528712675978": {
+      "message": "Pause"
+   },
+   "534228323125524312": {
+      "message": "Uitzoomen"
+   },
+   "5353129315502554762": {
+      "message": "Stylesheet"
+   },
+   "5362121973783326712": {
+      "message": "Camera"
+   },
+   "5362962746518601227": {
+      "message": "{NUM_ITEMS,plural, =1{Je verplaatst een bestand dat in één map staat}other{Je verplaatst bestanden die in één map staan}}"
+   },
+   "5363853533596749934": {
+      "message": "Labelnaam opgeven"
+   },
+   "5366505386236199032": {
+      "message": "YouTube"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5392844646168201484": {
+      "message": "Dikte 3"
+   },
+   "5394695048211047984": {
+      "message": "Een datum toevoegen"
+   },
+   "5398036630337418486": {
+      "message": "Document openen"
+   },
+   "5403636185480096151": {
+      "message": "Tv"
+   },
+   "540596856674438371": {
+      "message": "Kan niet delen omdat delen is uitgeschakeld."
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "5413225497191133249": {
+      "message": "Notities vastzetten of losmaken"
+   },
+   "5422660126805186552": {
+      "message": "Belast je ogen minder tijdens het lezen. Je kunt de donkere modus in- of uitschakelen in de instellingen."
+   },
+   "5423742603774911808": {
+      "message": "Lijst is te groot."
+   },
+   "5435749276779042277": {
+      "message": "+ NOG $1​"
+   },
+   "5447119197363232006": {
+      "message": "Weergeven in Drive"
+   },
+   "5455566801812656827": {
+      "message": "MINDER"
+   },
+   "5465081454525683943": {
+      "message": "Deze notitie wordt niet meer gedeeld met uw account. Vraag de eigenaar toegang of schakel over naar een account dat toegang heeft."
+   },
+   "5467649767578147801": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Wie geen lid is van ‘{TEAM_DRIVE_NAME}’ of niet tot {DOMAIN_NAME} behoort, raakt de toegang tot dit bestand kwijt.}other{Wie geen lid is van ‘{TEAM_DRIVE_NAME}’ of niet tot {DOMAIN_NAME} behoort, raakt de toegang tot deze bestanden kwijt.}}"
+   },
+   "546766753072101168": {
+      "message": "Labels"
+   },
+   "5478662967017843220": {
+      "message": "Donkerblauw"
+   },
+   "5480497191725157666": {
+      "message": "Esc"
+   },
+   "5482604275203517054": {
+      "message": "Pijl-links"
+   },
+   "5503885447744017882": {
+      "message": "Verplaatsen naar $1​ buiten $2​?"
+   },
+   "5506390497558702263": {
+      "message": "{count,plural, =1{Notitie teruggezet uit archief en vastgezet}other{# notities teruggezet uit archief en vastgezet}}"
+   },
+   "5520112019886360037": {
+      "message": "Sluiten"
+   },
+   "5534694255293809224": {
+      "message": "Druk op $1​ + Enter om het bewerken van een notitie te stoppen"
+   },
+   "5539958940810433464": {
+      "message": "Notitie naar prullenbak verplaatsen"
+   },
+   "5542817571710587822": {
+      "message": "Bestand bevat te veel afbeeldingen."
+   },
+   "5545146751578623220": {
+      "message": "Caps Lock"
+   },
+   "5555182241047709329": {
+      "message": "Kies een locatie"
+   },
+   "5562491070882550010": {
+      "message": "Verwijderde gedeelde notities zijn niet meer zichtbaar voor mensen met wie ze zijn gedeeld."
+   },
+   "556742419793425318": {
+      "message": "Niet opslaan"
+   },
+   "5570885401952336951": {
+      "message": "Clientlogboek"
+   },
+   "5578032872220617725": {
+      "message": "Druk op $1​ + A om alle notities te selecteren"
+   },
+   "5581834527128285229": {
+      "message": "Er is een probleem opgetreden bij het toevoegen van '$1​' aan My Drive."
+   },
+   "5592884381280360832": {
+      "message": "OK"
+   },
+   "5598649706113950710": {
+      "message": "Editor"
+   },
+   "5601530442010506564": {
+      "message": "OK"
+   },
+   "5603830044099155569": {
+      "message": "Druk op J voor vorige en op K voor volgende"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "5648022012893174586": {
+      "message": "Klik op het pictogram met de markeerstift om dikke lijnen te tekenen."
+   },
+   "5652536812290902558": {
+      "message": "Audio downloaden"
+   },
+   "5678095606167600931": {
+      "message": "Opsommingsteken ingevoegd"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5687611645532246887": {
+      "message": "Albums"
+   },
+   "5714240424645614611": {
+      "message": "Android-pakket"
+   },
+   "5714760273477184428": {
+      "message": "Gebruik de pijltoetsen om een gedeelte te markeren waarop je wilt reageren en druk vervolgens op Enter"
+   },
+   "5738003914096572768": {
+      "message": "Geactiveerd"
+   },
+   "5755541943799933389": {
+      "message": "Ster toegevoegd aan $1​."
+   },
+   "5772465571783741830": {
+      "message": "Er is een probleem opgetreden bij het maken van een snelkoppeling naar '$1​'"
+   },
+   "577619047319778196": {
+      "message": "Selectie wissen"
+   },
+   "5801257863595278616": {
+      "message": "Selectie naar links verplaatst."
+   },
+   "5808038805122520160": {
+      "message": "Deze tekening heeft de maximale grootte bereikt."
+   },
+   "5813834209240603556": {
+      "message": "Druk op N voor vorige en op P voor volgende"
+   },
+   "5820033033803019104": {
+      "message": "Indelen"
+   },
+   "5826302153453971149": {
+      "message": "Lichtroze"
+   },
+   "5840202488368071194": {
+      "message": "Nieuwe notitie met afbeelding"
+   },
+   "5840330517914556080": {
+      "message": "Uitzoomen"
+   },
+   "5854158607727111728": {
+      "message": "Tab"
+   },
+   "5869813956121628651": {
+      "message": "Reageren is niet beschikbaar"
+   },
+   "5870134033985574990": {
+      "message": "Uitpakken…"
+   },
+   "5871692308013280837": {
+      "message": "Categorieën bekijken"
+   },
+   "5871966496153339793": {
+      "message": "Thumbnail van video $1​ weergeven"
+   },
+   "5876498556450482026": {
+      "message": "Klik op het pictogram met de highlighter om met kleur te markeren."
+   },
+   "5895666393386604578": {
+      "message": "Sleep de items in je lijst of gebruik de sneltoets $1​ om ze te laten inspringen."
+   },
+   "5906730626678011496": {
+      "message": "Snelkoppeling aan Drive toevoegen"
+   },
+   "5909490544352162901": {
+      "message": "Vraag de eigenaar toegang tot deze notitie of schakel over naar een account dat toegang heeft. Je bent ingelogd als $1​."
+   },
+   "5911012384539794869": {
+      "message": "Kan het uitpakken niet starten."
+   },
+   "591481266986424156": {
+      "message": "Deze sneltoets wordt momenteel gebruikt door de $1​-browser voor $2​"
+   },
+   "5916010927050975496": {
+      "message": "$1​ KB"
+   },
+   "5917528552332886959": {
+      "message": "Opgeloste reacties weergeven"
+   },
+   "5947790263929501779": {
+      "message": "Omgezet in opsommingsteken"
+   },
+   "5949528478488617689": {
+      "message": "Downloadrechten"
+   },
+   "5950887255133612666": {
+      "message": "Niet gestart."
+   },
+   "5954965790623966933": {
+      "message": "Karmozijnrood"
+   },
+   "5961691090101357621": {
+      "message": "Canvas naar beneden uitgevouwen."
+   },
+   "5961981688037913870": {
+      "message": "$1​ toegevoegd"
+   },
+   "5965683144165568126": {
+      "message": "Positie van lijstitem wijzigen"
+   },
+   "5969696744752069015": {
+      "message": "Er is geen voorbeeld beschikbaar."
+   },
+   "597927944425927829": {
+      "message": "De eigendomsrechten worden overgedragen van ‘$1​’ aan jou."
+   },
+   "5984398071085567332": {
+      "message": "Google Fusion Tables"
+   },
+   "5987609488177213747": {
+      "message": "Label maken"
+   },
+   "5989809255170931770": {
+      "message": "{time,plural, =1{Keep wordt over # seconde geüpdatet}other{Keep wordt over # seconden geüpdatet}}"
+   },
+   "5994697604396931641": {
+      "message": "Alles verwijderen"
+   },
+   "5999179030782577147": {
+      "message": "Druk op # om een ​​notitie weg te gooien"
+   },
+   "6009962986062136164": {
+      "message": "$1​ wordt geladen."
+   },
+   "6011637630664474614": {
+      "message": "Spatiebalk"
+   },
+   "6011708967018957768": {
+      "message": "Eigendomsrechten overdragen aan gedeelde Drive?"
+   },
+   "6027516495119898580": {
+      "message": "Herinneringen op locatie zijn niet beschikbaar"
+   },
+   "6030537159236285525": {
+      "message": "Lijstitem naar volgende/vorige positie verplaatsen"
+   },
+   "60305871484579258": {
+      "message": "Alt"
+   },
+   "6033916931543811803": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} map is verplaatst van {XXX_1} naar {XXX_2}.}other{{NUM_ITEMS_2} mappen zijn verplaatst van {XXX_3} naar {XXX_4}.}}"
+   },
+   "6043578784980337112": {
+      "message": "$1​ bestanden zijn verplaatst naar $2​."
+   },
+   "6049952042443321325": {
+      "message": "Tabel met sneltoetsen"
+   },
+   "6062216008944363143": {
+      "message": "{weekNumber,plural, =1{Wordt elke {every} maanden herhaald op de eerste {day} van de maand}=2{Wordt elke {every} maanden herhaald op de tweede {day} van de maand}=3{Wordt elke {every} maanden herhaald op de derde {day} van de maand}=4{Wordt elke {every} maanden herhaald op de vierde {day} van de maand}other{Wordt elke {every} maanden herhaald op de laatste {day} van de maand}}"
+   },
+   "6069780031254134657": {
+      "message": "Markeren als klaar"
+   },
+   "6087078248621415351": {
+      "message": "Aangepast: $1​"
+   },
+   "6100883940579706314": {
+      "message": "Linkvoorbeeld"
+   },
+   "6103793971765619589": {
+      "message": "Je kunt geen items delen met de volgende gebruikers, omdat hun beheerder delen met hun organisatie heeft uitgeschakeld."
+   },
+   "6105571474005679446": {
+      "message": "Probleem met het voorbeeld."
+   },
+   "6113237889871930608": {
+      "message": "Lege notitie"
+   },
+   "6118623991445349480": {
+      "message": "Pagina $1​"
+   },
+   "6122643025527543706": {
+      "message": "Ctrl"
+   },
+   "6127325177382263770": {
+      "message": "URL's"
+   },
+   "6128550071219729739": {
+      "message": "Afbeelding verwijderd"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6149175749937815029": {
+      "message": "Alle items weergeven"
+   },
+   "6159229289552931928": {
+      "message": "Verplaatsen naar gedeelde map?"
+   },
+   "616807262818311711": {
+      "message": "Type"
+   },
+   "6176354714840789272": {
+      "message": "Je kunt ook links opslaan met de&nbsp;$2​Chrome-extensie voor Google Keep$1​."
+   },
+   "6186753450686672643": {
+      "message": "{every,plural, =1{Wordt dagelijks herhaald}other{Wordt elke # dagen herhaald}}"
+   },
+   "6189397065139465013": {
+      "message": "Elke"
+   },
+   "6201176165479907499": {
+      "message": "{count,plural, =1{Notitie vastgezet}other{# notities vastgezet}}"
+   },
+   "6203260615455347677": {
+      "message": "Getallen"
+   },
+   "6209117354086898503": {
+      "message": "Terug"
+   },
+   "6211895332551673425": {
+      "message": "Toegevoegd aan $2​My Drive$1​"
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6223530531885788421": {
+      "message": "Snelkoppeling toevoegen aan Drive…"
+   },
+   "6224687211096863620": {
+      "message": "Iedereen"
+   },
+   "6225875898439047571": {
+      "message": "Weigeren"
+   },
+   "6231442995102088007": {
+      "message": "Nieuw in Google Keep"
+   },
+   "6252259197986158120": {
+      "message": "Gisteren"
+   },
+   "6263940822259442857": {
+      "message": "Selectievakjes verbergen"
+   },
+   "6286379137937560558": {
+      "message": "Artikel"
+   },
+   "6286806453721792102": {
+      "message": "Ordenen in Drive"
+   },
+   "6305748545202493254": {
+      "message": "Detailvenster weergeven/verbergen"
+   },
+   "6306268376900894985": {
+      "message": "Vindt plaats tot {endDate}"
+   },
+   "6324768448533022780": {
+      "message": "$1​ $2​"
+   },
+   "6347484050944915390": {
+      "message": "Verzoek verzonden. Je ontvangt een e-mail na goedkeuring."
+   },
+   "6352952829934775705": {
+      "message": "MEER"
+   },
+   "6366376928558090914": {
+      "message": "Eten"
+   },
+   "6371576811194810854": {
+      "message": "Na"
+   },
+   "6375244206466599493": {
+      "message": "Jaar"
+   },
+   "6375395544374251820": {
+      "message": "Probleem bij het laden van meer pagina's. Opnieuw proberen..."
+   },
+   "6377664889539934": {
+      "message": "Tekenen met vingers"
+   },
+   "6381941041429900831": {
+      "message": "Bijdrager toevoegen"
+   },
+   "6386587519843563719": {
+      "message": "Binair bestand"
+   },
+   "639451288140270562": {
+      "message": "Gekopieerd naar Google Documenten"
+   },
+   "6394816510866826521": {
+      "message": "Dogfoody"
+   },
+   "6402092370576716734": {
+      "message": "Prullenbak leegmaken"
+   },
+   "6413404795391222793": {
+      "message": "Een nieuwe lijst maken"
+   },
+   "6416495701611778255": {
+      "message": "Voorgestelde apps van derden"
+   },
+   "6417706204201069253": {
+      "message": "Verwijderde notities zijn niet meer zichtbaar voor mensen met wie ze zijn gedeeld."
+   },
+   "6424277546995954045": {
+      "message": "Overschrijving van sneltoetsen is niet beschikbaar met de huidige browser.\nWil je deze functie inschakelen, schakel dan over naar Chrome, Firefox, Internet Explorer, Edge of Safari"
+   },
+   "6426979759685079955": {
+      "message": "Inactieve reacties weergeven"
+   },
+   "6428000916830484004": {
+      "message": "Bruin"
+   },
+   "6432019580434957057": {
+      "message": "Audio"
+   },
+   "6443103650988201046": {
+      "message": "Colaboratory"
+   },
+   "6443615802319581315": {
+      "message": "{NUM_ITEMS,plural, =1{Je hebt geen rechten om dit bestand uit de huidige mappen te verplaatsen. Voeg het bestand in plaats daarvan toe aan {START_SPAN_1}{NAME}{END_SPAN}.}other{Je hebt geen rechten om deze bestanden uit de huidige mappen te verplaatsen. Voeg de bestanden in plaats daarvan toe aan {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "6450508807204492448": {
+      "message": "Pictogram $1​"
+   },
+   "6457802200418354862": {
+      "message": "Kijkers kunnen downloaden"
+   },
+   "6459405233858728718": {
+      "message": "Google Presentaties"
+   },
+   "6473102097014191455": {
+      "message": "Notitie met tekening"
+   },
+   "6477306554098527424": {
+      "message": "Google Assistent"
+   },
+   "6480376252068839019": {
+      "message": "Rasteropties openen"
+   },
+   "6487295087519678926": {
+      "message": "Drive-upload"
+   },
+   "6490084340347327400": {
+      "message": "Druk op $1​ + Shift + 8 om te schakelen tussen een notitie en een lijst"
+   },
+   "6497197865876438261": {
+      "message": "Muziek"
+   },
+   "6507257480072167483": {
+      "message": "Labelnaam gewijzigd in $1​."
+   },
+   "6510131849363684615": {
+      "message": "Morgen"
+   },
+   "6513721414466645971": {
+      "message": "Verwijderd"
+   },
+   "6524849072392100692": {
+      "message": "Google Drive-map"
+   },
+   "653160061888539741": {
+      "message": "Voortgangsregelaar"
+   },
+   "6571686604846453345": {
+      "message": "Er is een probleem opgetreden bij het toevoegen van dit item aan Drive."
+   },
+   "6578339688410021742": {
+      "message": "Alle leden van $1​ hebben toegang tot de items."
+   },
+   "6579707685908557993": {
+      "message": "Namiddag"
+   },
+   "6588176324871799870": {
+      "message": "Google Apps Script"
+   },
+   "6595703969647338657": {
+      "message": "{count,plural, =1{Notitie gemaakt}other{# notities gemaakt}}"
+   },
+   "6618562607681757575": {
+      "message": "Niet verplaatsen uit een map, alleen toevoegen aan $3​$2​$1​"
+   },
+   "6622304228074863427": {
+      "message": "App"
+   },
+   "6627510416186113122": {
+      "message": "Lichtblauwgroen"
+   },
+   "6664835828596108553": {
+      "message": "Optie"
+   },
+   "6667440728495437281": {
+      "message": "Er is iets fout gegaan bij het weergeven van een voorbeeld van dit document. Opnieuw proberen..."
+   },
+   "6674095299257911962": {
+      "message": "Dit item bevat beperkte content en kan daarom niet buiten $1​ worden gedeeld"
+   },
+   "670419277288558500": {
+      "message": "Video/audio"
+   },
+   "6707173584987026005": {
+      "message": "Vandaag"
+   },
+   "6710728478489145370": {
+      "message": "Sluiten"
+   },
+   "6713235295664405475": {
+      "message": "op|aan"
+   },
+   "6715985122107380503": {
+      "message": "Opnamen"
+   },
+   "6726462693927865256": {
+      "message": "Details"
+   },
+   "6726879257388338969": {
+      "message": "Afdrukken"
+   },
+   "6732800471045353930": {
+      "message": "Deze notitie is gedeeld met het maximumaantal mensen."
+   },
+   "673551770550324419": {
+      "message": "Aanpassen aan breedte"
+   },
+   "6747528043814108113": {
+      "message": "Overgeschakeld naar $1​"
+   },
+   "6749829802551750923": {
+      "message": "Pijl-omhoog"
+   },
+   "6750600017746655174": {
+      "message": "Optie"
+   },
+   "6750827506231593056": {
+      "message": "Schakelen tussen accounts"
+   },
+   "6755327423364814290": {
+      "message": "Sneller notities maken met de app"
+   },
+   "6761622351199419182": {
+      "message": "Notitie in archief"
+   },
+   "6773222938695237983": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Dit item delen?}other{Deze items delen?}}"
+   },
+   "6778577079172085976": {
+      "message": "Vastgezet"
+   },
+   "678660085936036852": {
+      "message": "Afbeeldingen verwerken..."
+   },
+   "6787580031482277539": {
+      "message": "Nooit"
+   },
+   "6798055902819777633": {
+      "message": "Schuiven met vingers"
+   },
+   "6801348618370627980": {
+      "message": "Label $1​ gemaakt."
+   },
+   "6815042072535422726": {
+      "message": "Audio verwijderd"
+   },
+   "6822520214440117457": {
+      "message": "Werk"
+   },
+   "6831650827360444197": {
+      "message": "Delen van notitie is ongedaan gemaakt."
+   },
+   "6833062695195555756": {
+      "message": "Optiemenu van gumtool openen"
+   },
+   "6833760103261954639": {
+      "message": "Probleem bij het laden van deze pagina. Opnieuw proberen..."
+   },
+   "68477685313713097": {
+      "message": "{MINUTES,plural, =0{0 minuten}=1{1 minuut}other{{MINUTES} minuten}}"
+   },
+   "6864144421392687943": {
+      "message": "Computers"
+   },
+   "687402923448150707": {
+      "message": "Niet aangevinkt"
+   },
+   "689017442055275529": {
+      "message": "Gezinsgroep van $1​"
+   },
+   "6891563484025164308": {
+      "message": "Vorige"
+   },
+   "6898823203505321799": {
+      "message": "Details"
+   },
+   "6904351530369058983": {
+      "message": "Eigenaar"
+   },
+   "6905505747689522124": {
+      "message": "Zoeken in het archief van Life"
+   },
+   "6907559338225657032": {
+      "message": "Verplaatsen"
+   },
+   "691041991673354191": {
+      "message": "Mezelf verwijderen"
+   },
+   "6918505531548047245": {
+      "message": "Highlighttool"
+   },
+   "6921237745237410511": {
+      "message": "Een reactie toevoegen"
+   },
+   "6922953828399110511": {
+      "message": "De viewer sluiten"
+   },
+   "6925056317406251324": {
+      "message": "Afbeeldingen zoeken"
+   },
+   "693770783324368110": {
+      "message": "Notities losgemaakt en weggegooid"
+   },
+   "6956515948204056309": {
+      "message": "Inactieve reacties zijn verborgen"
+   },
+   "6966912428667098497": {
+      "message": "Je gearchiveerde notities worden hier weergegeven"
+   },
+   "6979766453743005049": {
+      "message": "Sleep items naar je lijst, naar een andere positie of laat ze inspringen."
+   },
+   "6980199665979997122": {
+      "message": "Herstellen"
+   },
+   "6982321568096234183": {
+      "message": "Audio downloaden ($1​)"
+   },
+   "6982682101118067511": {
+      "message": "Ordenen…"
+   },
+   "7005745151564974365": {
+      "message": "Sneltoetsen"
+   },
+   "7005977332887563273": {
+      "message": "Snelkoppeling toevoegen"
+   },
+   "701276785305022936": {
+      "message": "Beschadigd bestand. Zorg dat het bestand de nieuwste indeling heeft."
+   },
+   "7017485862232001373": {
+      "message": "'$1​' is toegevoegd aan $2​."
+   },
+   "7019002927048576918": {
+      "message": "$1​ Zoekfilters"
+   },
+   "7030308038380934896": {
+      "message": "Kopiëren naar Google Documenten is mislukt"
+   },
+   "7050021021988648361": {
+      "message": "URL kopiëren"
+   },
+   "7050898523853841537": {
+      "message": "Opties voor frequentie"
+   },
+   "705714112650622350": {
+      "message": "Er is een probleem opgetreden bij het toevoegen van het item aan Google Drive."
+   },
+   "7059437903473652416": {
+      "message": "YouTube-video $1​ afspelen"
+   },
+   "7066744251212631722": {
+      "message": "Limoengroen"
+   },
+   "7084991134824194740": {
+      "message": "Herinner mij hieraan"
+   },
+   "7086801490719148597": {
+      "message": "De selectie van dit item ongedaan maken"
+   },
+   "7094548885298700726": {
+      "message": "Donkerbruin"
+   },
+   "7102649289752747375": {
+      "message": "Feedback verzenden"
+   },
+   "7121259585839664942": {
+      "message": "Annuleren"
+   },
+   "7126326627883991568": {
+      "message": "Huidige tekening verwijderen"
+   },
+   "7126535013613878060": {
+      "message": "Zet belangrijke notities bovenaan vast."
+   },
+   "7135182401951359795": {
+      "message": "Eigendom wordt overgedragen aan jou."
+   },
+   "7141983486405549971": {
+      "message": "Insert"
+   },
+   "7145753028985071097": {
+      "message": "Positie van notitie wijzigen"
+   },
+   "7146242673022399081": {
+      "message": "Tekst"
+   },
+   "7148992630785407972": {
+      "message": "Dit bestand is beveiligd met een wachtwoord. Er kan geen voorbeeld worden weergegeven."
+   },
+   "7149013203800794567": {
+      "message": "{count,plural, =1{Kleur is {color}. Selecteer een andere kleur om deze op de notitie toe te passen.}other{Kleur is {color}. Selecteer een andere kleur om deze op de notitie toe te passen.}}"
+   },
+   "7153847618034547771": {
+      "message": "Inschakelen"
+   },
+   "7161134329606048317": {
+      "message": "Sluiten"
+   },
+   "7164532930742017984": {
+      "message": "Iedereen met de link"
+   },
+   "7166989725427500881": {
+      "message": "Weggegooide notitie selecteren"
+   },
+   "7174409400206281023": {
+      "message": "Conflicterende bewerkingen gevonden"
+   },
+   "7181961085183734135": {
+      "message": "Afdrukken is uitgeschakeld voor dit bestand"
+   },
+   "7182285309564868243": {
+      "message": "Fout bij verplaatsen van bestanden of mappen"
+   },
+   "7187441427660427801": {
+      "message": "Tekening openen"
+   },
+   "7190398092435016951": {
+      "message": "{count,plural, =1{Een verwijderde notitie is niet meer zichtbaar voor mensen met wie de notitie is gedeeld.}other{Verwijderde notities zijn niet meer zichtbaar voor mensen met wie ze zijn gedeeld.}}"
+   },
+   "7201188472754345797": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Wie niet tot ‘{DESTINATION_DOMAIN}’ behoort, raakt de toegang tot dit bestand kwijt.}other{Wie niet tot ‘{DESTINATION_DOMAIN}’ behoort, raakt de toegang tot deze bestanden kwijt.}}"
+   },
+   "7207109722898253285": {
+      "message": "Geselecteerde bewaren"
+   },
+   "7218693060378095915": {
+      "message": "Nieuw"
+   },
+   "722264179594523168": {
+      "message": "Annuleren"
+   },
+   "7225445911355686176": {
+      "message": "Gearchiveerde notitie selecteren"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7231231875581131930": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Dit item kan niet worden teruggeplaatst naar {TEAM_DRIVE_NAME}. Je kunt deze actie dus niet ongedaan maken.}other{Ten minste één item kan niet worden teruggeplaatst naar {TEAM_DRIVE_NAME}. Je kunt deze actie dus niet ongedaan maken.}}"
+   },
+   "7247530225058410142": {
+      "message": "$2​ $1​"
+   },
+   "7247965266239591227": {
+      "message": "Er is een fout opgetreden bij het uitpakken van '$1​'."
+   },
+   "7251490702980298031": {
+      "message": "Kleur- en diktekiezer van highlighttool openen"
+   },
+   "7265183966796883739": {
+      "message": "Opgeloste reacties verbergen"
+   },
+   "7278398674737413598": {
+      "message": "Kan document niet converteren."
+   },
+   "7278859550373246865": {
+      "message": "{count,plural, =1{Notitie gearchiveerd}other{# notities gearchiveerd}}"
+   },
+   "7290932540630116546": {
+      "message": "Herinnering ingesteld. $1​"
+   },
+   "7295254213841803546": {
+      "message": "Wijzigingen weggooien? Je wijzigingen worden niet bewaard."
+   },
+   "7299749713933143099": {
+      "message": "Paars"
+   },
+   "7301081435623917576": {
+      "message": "Standaardherinneringen"
+   },
+   "7306962184871750459": {
+      "message": "De eigendomsrechten worden overgedragen van ‘$4​’ in $3​ aan ‘$2​’ in $1​."
+   },
+   "7330497278645626593": {
+      "message": "Proberen"
+   },
+   "7342923890755029722": {
+      "message": "Sluiten"
+   },
+   "7344507440412470266": {
+      "message": "Selectie groter gemaakt."
+   },
+   "734478884582426793": {
+      "message": "Gecomprimeerd archief"
+   },
+   "7353547650196788656": {
+      "message": "Rood"
+   },
+   "7364571366369083618": {
+      "message": "Video"
+   },
+   "7376703418960184879": {
+      "message": "Kopiëren"
+   },
+   "7377239345926788722": {
+      "message": "Acties"
+   },
+   "7379369644162401367": {
+      "message": "Verwijderen"
+   },
+   "7381817875028728077": {
+      "message": "Nee, bedankt"
+   },
+   "7382688299146249119": {
+      "message": "Item downloaden"
+   },
+   "7384785369409503695": {
+      "message": "Donker thema inschakelen"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "7420117636241237177": {
+      "message": "Berichten uit $1​ zijn uitgepakt in je e-mailaccount onder het label 'Importeren: $2​'."
+   },
+   "7420364754178516134": {
+      "message": "Foutopsporingstools"
+   },
+   "7426603384368095928": {
+      "message": "Laad de pagina opnieuw om nogmaals in te loggen en verder te werken."
+   },
+   "7427333772418801813": {
+      "message": "Knop + NOG $1​ uitgevouwen"
+   },
+   "7429084719905985261": {
+      "message": "Objective C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7438696235870090716": {
+      "message": "Mijn Drive"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (bewerkt: $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Opslaan op Drive"
+   },
+   "744753705925710199": {
+      "message": "We kunnen deze app niet autoriseren voor alle bestanden die je wilt openen. Probeer het opnieuw."
+   },
+   "7452116603589558390": {
+      "message": "Selectie van vastgezette notitie ongedaan maken"
+   },
+   "7453297286571818554": {
+      "message": "Kopiëren naar Google Documenten"
+   },
+   "7453307802804717178": {
+      "message": "Lichtblauw"
+   },
+   "7458942806393710991": {
+      "message": "Selectie van gearchiveerde notitie ongedaan maken"
+   },
+   "7464780237502381438": {
+      "message": "Meer apps koppelen"
+   },
+   "7468842863971844562": {
+      "message": "Nieuwe lijst"
+   },
+   "7469895656894091562": {
+      "message": "Dit e-mailadres is ongeldig"
+   },
+   "7480128655944127234": {
+      "message": "Naam wijzigen"
+   },
+   "7482924911694634213": {
+      "message": "{weekNumber,plural, =1{Wordt maandelijks herhaald op de eerste {day} van de maand}=2{Wordt maandelijks herhaald op de tweede {day} van de maand}=3{Wordt maandelijks herhaald op de derde {day} van de maand}=4{Wordt maandelijks herhaald op de vierde {day} van de maand}other{Wordt maandelijks herhaald op de laatste {day} van de maand}}"
+   },
+   "7483088916037874359": {
+      "message": "Bestand is te groot. "
+   },
+   "7488945223835574498": {
+      "message": "PostScript"
+   },
+   "7503234138288940590": {
+      "message": "Zoeken"
+   },
+   "7507827375601925075": {
+      "message": "Notitie naar volgende/vorige positie verplaatsen"
+   },
+   "7510155920769316048": {
+      "message": "Notities en lijsten"
+   },
+   "7516769578943800930": {
+      "message": "Aangevinkt"
+   },
+   "7528204871156404767": {
+      "message": "Safari"
+   },
+   "7528441140724145783": {
+      "message": "Labels bewerken"
+   },
+   "7529683448345488779": {
+      "message": "Het opgegeven wachtwoord is onjuist. Geef een ander wachtwoord op."
+   },
+   "7530677128711603655": {
+      "message": "Zoekresultaten voor '$1​'"
+   },
+   "7564771400033548584": {
+      "message": "{selectedCount,plural, =1{# geselecteerd}other{# geselecteerd}}"
+   },
+   "7565795669925550891": {
+      "message": "Gedeeld door"
+   },
+   "7579280421767578228": {
+      "message": "Herinnering voor Ooit"
+   },
+   "7585826646011739428": {
+      "message": "Bewerken"
+   },
+   "7586291841734385643": {
+      "message": "Groot weergeven"
+   },
+   "7587936635257676112": {
+      "message": "$1​ toegevoegd"
+   },
+   "7598582624136632660": {
+      "message": "De zoekbalk openen/volgende zoeken"
+   },
+   "7599358608613738069": {
+      "message": "Verwijderen"
+   },
+   "7604275940271852148": {
+      "message": "Uitpakken naar je e-mailaccount"
+   },
+   "7604400308311739073": {
+      "message": "Vastzetten"
+   },
+   "7610628906656867728": {
+      "message": "Archief"
+   },
+   "7610654194202731772": {
+      "message": "Verwijderen"
+   },
+   "7624042048123264803": {
+      "message": "Notitie openen"
+   },
+   "7630069597298444649": {
+      "message": "Druk op / om het zoekvak te highlighten"
+   },
+   "7630723924002267143": {
+      "message": "Sneltoetsen zijn ingeschakeld."
+   },
+   "7631302417932873160": {
+      "message": "Kan het bestand niet scannen op virussen"
+   },
+   "7648759818896108920": {
+      "message": "+$1​"
+   },
+   "7649506133540465463": {
+      "message": "Actie kan niet ongedaan worden gemaakt."
+   },
+   "7653702763016575386": {
+      "message": "Blauw"
+   },
+   "7656983816661099886": {
+      "message": "Dingen"
+   },
+   "7659047104232758352": {
+      "message": "dat|dit"
+   },
+   "7669677145513127809": {
+      "message": "Verplaatsen tussen Drives van mijn team?"
+   },
+   "7669846901402551021": {
+      "message": "Vandaag"
+   },
+   "7690349821507417537": {
+      "message": "Lijstitem verwijderd, $1​"
+   },
+   "7690355160889785521": {
+      "message": "Groen"
+   },
+   "7709557808259730054": {
+      "message": "Goedkeuringen"
+   },
+   "7709889936233398701": {
+      "message": "Verwijderen"
+   },
+   "7715892737835649602": {
+      "message": "Je kunt ook labels toevoegen door '#' te typen."
+   },
+   "7724602581120994002": {
+      "message": "Oranje"
+   },
+   "7728066040934031356": {
+      "message": "Paars"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "7735981667219692675": {
+      "message": "{resultCount,plural, =1{# zoekresultaat}other{# zoekresultaten}}"
+   },
+   "774390292128857049": {
+      "message": "Zoeken"
+   },
+   "7751981235297474273": {
+      "message": "Ongedaan maken"
+   },
+   "7754093419850121316": {
+      "message": "⌘"
+   },
+   "7757440777278143092": {
+      "message": "Donkergrijs"
+   },
+   "7766150028615181766": {
+      "message": "Hier nog een snelkoppeling toevoegen"
+   },
+   "7766580018314203658": {
+      "message": "Deze tekening heeft bijna de maximale grootte bereikt. Voeg eventueel een nieuwe tekening aan deze notitie toe."
+   },
+   "7772544658778579390": {
+      "message": "Zoeken in document"
+   },
+   "778181404304502404": {
+      "message": "Uitgezoomd van item."
+   },
+   "7791050524692390574": {
+      "message": "Kleuren"
+   },
+   "7796648733955818629": {
+      "message": "Kan dit bestand niet uploaden. We accepteren $1​-bestanden die kleiner zijn dan $2​ MB en $3​ megapixels."
+   },
+   "7800318069267901681": {
+      "message": "Gewijzigd"
+   },
+   "7803075387516434727": {
+      "message": "Geen resultaten."
+   },
+   "7814778057875152792": {
+      "message": "Er is een probleem opgetreden bij het verplaatsen van de bijlage naar de geselecteerde map in Google Drive."
+   },
+   "7819314041543176992": {
+      "message": "Sluiten"
+   },
+   "7821512290975371360": {
+      "message": "Felroze"
+   },
+   "7828886646639771557": {
+      "message": "Maak een notitie…"
+   },
+   "7830513726270865588": {
+      "message": "Agenda"
+   },
+   "7842164552344536314": {
+      "message": "Ordenen..."
+   },
+   "7844842290699524598": {
+      "message": "Labellimiet bereikt. Verwijder een bestaand label om een nieuw label toe te voegen."
+   },
+   "7849249492061822610": {
+      "message": "Druk op het vraagteken om de pop-up met Help-informatie weer te geven"
+   },
+   "785840448809859989": {
+      "message": "Opties voor tijd"
+   },
+   "7865240075542402013": {
+      "message": "Ster toevoegen"
+   },
+   "7868324478160174739": {
+      "message": "Blauw"
+   },
+   "7872546153972922699": {
+      "message": "Vink items af wanneer je er klaar mee bent."
+   },
+   "7873060817438017568": {
+      "message": "$2​ · $1​"
+   },
+   "7873698934773957560": {
+      "message": "Geen"
+   },
+   "787773550893657271": {
+      "message": "Vorige tekening geopend"
+   },
+   "7888520165977111723": {
+      "message": "Verplaatsen naar Drive van mijn team?"
+   },
+   "7895643887742936844": {
+      "message": "puntkomma"
+   },
+   "7906726367011430855": {
+      "message": "Koppelen"
+   },
+   "7910887984113996757": {
+      "message": "Delen inschakelen"
+   },
+   "7911416166208830577": {
+      "message": "Help"
+   },
+   "7924606175376623897": {
+      "message": "Druk op F om een ​​notitie vast te zetten of los te maken"
+   },
+   "7934833136974560675": {
+      "message": "Opnieuw proberen"
+   },
+   "7943657844420237650": {
+      "message": "OpenOffice Impress"
+   },
+   "7946114032014914338": {
+      "message": "{repeatSentence}. {endSentence}"
+   },
+   "7947001788143789176": {
+      "message": "Laden…"
+   },
+   "7959130747647079558": {
+      "message": "{selectedCount,plural, =1{# notitie geselecteerd}other{# notities geselecteerd}}"
+   },
+   "7976461426527138085": {
+      "message": "Lijsten"
+   },
+   "7991475666499751798": {
+      "message": "Herinnering als klaar markeren"
+   },
+   "7996360883730444101": {
+      "message": "Er is een fout opgetreden bij het openen van dit bestand. Probeer het opnieuw."
+   },
+   "7998118521140187915": {
+      "message": "Opgeloste reacties zijn verborgen"
+   },
+   "8003252582874834655": {
+      "message": "Als je items naar een Drive van mijn team verplaatst, worden de toegangs- en eigendomsrechten gewijzigd."
+   },
+   "8010075936095394680": {
+      "message": "De bestandsversie is te oud. Zorg dat het bestand de nieuwste indeling heeft. "
+   },
+   "8011497727123874703": {
+      "message": "Mapknop $1​"
+   },
+   "8013687642711017862": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Je verplaatst een item uit gedeelde mappen. Andere mensen raken hierdoor de toegang tot dit item kwijt.}other{Je verplaatst {NUM_ITEMS_2} items uit gedeelde mappen. Andere mensen raken hierdoor de toegang tot deze items kwijt.}}"
+   },
+   "8019402848412685977": {
+      "message": "'$2​' gewijzigd in '$1​'."
+   },
+   "802668096552856965": {
+      "message": "{checkedItemCount,plural, =1{# voltooid item}other{# voltooide items}}"
+   },
+   "8043514121228710092": {
+      "message": "Afbeelding toevoegen"
+   },
+   "8046884224424523922": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} bestand is verplaatst van {XXX_1} naar {XXX_2}.}other{{NUM_ITEMS_2} bestanden zijn verplaatst van {XXX_3} naar {XXX_4}.}}"
+   },
+   "8063817953234049242": {
+      "message": "Selectietool"
+   },
+   "807840433749698811": {
+      "message": "Cyaan"
+   },
+   "8080583426915938264": {
+      "message": "Apps op je computer"
+   },
+   "8085493757603803516": {
+      "message": "Selectie bewerken"
+   },
+   "8090743714060857028": {
+      "message": "Kijkers kunnen niet downloaden"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 bytes}=1{1 byte}other{# bytes}}"
+   },
+   "8104421162933956065": {
+      "message": "Notities"
+   },
+   "8111632928339277375": {
+      "message": "{NUM_FOLDERS,plural, =1{Verplaatsen uit één map}=2{Verplaatsen uit beide mappen}other{Verplaatsen uit alle # mappen}}"
+   },
+   "8119839693658969418": {
+      "message": "Je kunt geen items delen met de volgende gebruikers, omdat je beheerder delen buiten je organisatie heeft uitgeschakeld."
+   },
+   "8125425371755035523": {
+      "message": "Ongedaan maken"
+   },
+   "8133866583554546341": {
+      "message": "$1​, $2​"
+   },
+   "8137338584146377170": {
+      "message": "Kan het bestand niet verplaatsen omdat de bestandseigenaar geen lid van hetzelfde domein als de gedeelde Drive is."
+   },
+   "8139785559888164453": {
+      "message": "Meer informatie"
+   },
+   "8144512434938656483": {
+      "message": "of"
+   },
+   "8149439558305434788": {
+      "message": "$1​, $2​"
+   },
+   "8159493406018222636": {
+      "message": "Feedback verzenden"
+   },
+   "8163727651556550203": {
+      "message": "Nog een snelkoppeling toevoegen"
+   },
+   "8163781449224244510": {
+      "message": "Selectie kleiner gemaakt."
+   },
+   "8174654098152723289": {
+      "message": "Beschrijving bewerken"
+   },
+   "818217888086545352": {
+      "message": "Geel"
+   },
+   "8189126656205301402": {
+      "message": "Kopiëren naar Google Documenten"
+   },
+   "8193677552005249631": {
+      "message": "App-downloads"
+   },
+   "8194941811853358224": {
+      "message": "Er is een probleem opgetreden bij het verwijderen van een ster van '$1​'."
+   },
+   "8199137154169358847": {
+      "message": "Meer"
+   },
+   "819996403327805209": {
+      "message": "Meer informatie"
+   },
+   "8207659457248280436": {
+      "message": "Snelkoppelingen kunnen nog niet naar een gedeelde Drive worden verplaatst."
+   },
+   "8208179689358649003": {
+      "message": "Druk op E om een ​​notitie te archiveren"
+   },
+   "8224193807932432983": {
+      "message": "Acties"
+   },
+   "8225614702924834215": {
+      "message": "Meer opties"
+   },
+   "8231449936104909428": {
+      "message": "Er is een probleem opgetreden bij het verplaatsen van '$1​' naar de geselecteerde map in Drive."
+   },
+   "8233656381635014955": {
+      "message": "'Hey Google, wat staat er op mijn takenlijst?'"
+   },
+   "8233945959714786736": {
+      "message": "Vorige"
+   },
+   "8242655297101700529": {
+      "message": "My Drive"
+   },
+   "824468664656304495": {
+      "message": "Je bent offline. Sommige functies zijn mogelijk niet beschikbaar."
+   },
+   "8265689758492685194": {
+      "message": "Thema's"
+   },
+   "8273434617910595878": {
+      "message": "Pijl-omlaag"
+   },
+   "8281141013543828574": {
+      "message": "Onbewerkte afbeelding"
+   },
+   "8281169978199539270": {
+      "message": "Kan niet verplaatsen uit een alleen-lezen map"
+   },
+   "8284315184632755389": {
+      "message": "Met ster"
+   },
+   "8292708563843446267": {
+      "message": "De items worden eigendom van $1​."
+   },
+   "8305505634689906340": {
+      "message": "Zoeken in ‘$1​’"
+   },
+   "8322416564157128458": {
+      "message": "Delen"
+   },
+   "8323603365638981303": {
+      "message": "Klik bovenaan op de knop 'Nieuwe notitie met tekening'."
+   },
+   "8333974577908804438": {
+      "message": "Dit type bestand kan nog niet naar een gedeelde Drive worden verplaatst."
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342620486324515462": {
+      "message": "Sluiten"
+   },
+   "8343105225506381659": {
+      "message": "Inactieve reacties worden weergegeven"
+   },
+   "8379952094517631162": {
+      "message": "Nee"
+   },
+   "8389434962426321219": {
+      "message": "Notities met naderende herinneringen worden hier weergegeven"
+   },
+   "8409190394690387796": {
+      "message": "Een reactie toevoegen"
+   },
+   "8412098268689886334": {
+      "message": "Samenvoegen"
+   },
+   "8412733496413412439": {
+      "message": "Offline"
+   },
+   "8422875188929347819": {
+      "message": "Delen"
+   },
+   "84334343973701810": {
+      "message": "Home"
+   },
+   "8452647597930138120": {
+      "message": "Markeer een cel waarop je wilt reageren"
+   },
+   "8453627484113670693": {
+      "message": "Lichtoranje"
+   },
+   "8467894483369467251": {
+      "message": "Flash"
+   },
+   "8471029293590878384": {
+      "message": "Onderbreken"
+   },
+   "8493378997610580289": {
+      "message": "Meer sneltoetsen"
+   },
+   "8505989225387082493": {
+      "message": "Label toevoegen"
+   },
+   "8506292502710287776": {
+      "message": "Maak je lange notities? Er wordt automatisch meer ruimte toegevoegd als je onderaan bent."
+   },
+   "8509270263487836281": {
+      "message": "Inloggen"
+   },
+   "8517148045938431718": {
+      "message": "Fouten oplossen"
+   },
+   "8529203008291528328": {
+      "message": "Prullenbak leegmaken"
+   },
+   "8535303351837089357": {
+      "message": "Je kunt wijzigingen ongedaan maken en opnieuw uitvoeren met {modifierKey}+Z en {modifierKey}+Y."
+   },
+   "8559513397356310933": {
+      "message": "Nieuwe items onderaan toevoegen"
+   },
+   "8562196940800756925": {
+      "message": "Markeertool"
+   },
+   "857379832182429172": {
+      "message": "Inschakelen"
+   },
+   "8575113875567233985": {
+      "message": "Je kunt geen items verwijderen uit '$1​'."
+   },
+   "8589423377647285975": {
+      "message": "$1​ $2​ lijstitem $3​."
+   },
+   "8595175575778060149": {
+      "message": "Meer"
+   },
+   "8596279649507974639": {
+      "message": "Hierheen verplaatsen"
+   },
+   "8602525917014156029": {
+      "message": "Plaatsen"
+   },
+   "8611058223830804795": {
+      "message": "Aangevinkte items onderaan plaatsen"
+   },
+   "8616342546716995946": {
+      "message": "Ik snap het"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8621178077822096827": {
+      "message": "Lijstitem ingevoegd, $1​"
+   },
+   "8626694988569301667": {
+      "message": "Tekening is niet beschikbaar"
+   },
+   "8637215430007224613": {
+      "message": "Volgende tekening geopend"
+   },
+   "8660016472468563221": {
+      "message": "dubbelepunt"
+   },
+   "8663507590720636709": {
+      "message": "$1​ + $2​ meer"
+   },
+   "8663993454460982287": {
+      "message": "Selectievakjes verborgen"
+   },
+   "8674222789100049233": {
+      "message": "Sluiten"
+   },
+   "8708723278154759600": {
+      "message": "Notities gearchiveerd"
+   },
+   "8734569874711220205": {
+      "message": "Navigatiemenu"
+   },
+   "8738345098829705526": {
+      "message": "Dikte 12"
+   },
+   "8773943264600860531": {
+      "message": "Internet Explorer"
+   },
+   "8775097441636640256": {
+      "message": "$2​ - $1​"
+   },
+   "8781837301864053001": {
+      "message": "Tekst met opmaak"
+   },
+   "8786673003584562680": {
+      "message": "PageUp"
+   },
+   "8790687303221198259": {
+      "message": "Chrome-app"
+   },
+   "8792038552136453044": {
+      "message": "Er is iets misgegaan"
+   },
+   "8793166064242077041": {
+      "message": "Probleem bij het weergeven van deze afbeelding."
+   },
+   "8797656338249040679": {
+      "message": "$2​Installeer de Chrome-extensie voor Google Keep$1​, zodat je belangrijke items met één klik in Keep kunt opslaan."
+   },
+   "8822326207328431952": {
+      "message": "Er kunnen geen afbeeldingen worden geüpload"
+   },
+   "8825353897919495748": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Weet je zeker dat je dit bestand wilt verplaatsen?}other{Weet je zeker dat je deze bestanden wilt verplaatsen?}}"
+   },
+   "8845176264121061589": {
+      "message": "Alle items uitvinken"
+   },
+   "8852550049823214385": {
+      "message": "vervolgens"
+   },
+   "885480352148498682": {
+      "message": "Inactieve reacties kunnen worden verwijderd als ze buiten Google Drive worden bewerkt"
+   },
+   "8860658114732392347": {
+      "message": "Herinnering verwijderen"
+   },
+   "8865141968381070659": {
+      "message": "Snelkoppeling hier toevoegen"
+   },
+   "8867634760949689122": {
+      "message": "Bestand kan niet worden geconverteerd: time-out tijdens conversie. Probeer het later opnieuw."
+   },
+   "8868758864963683383": {
+      "message": "Selectie van notitie ongedaan maken"
+   },
+   "8869202143464930500": {
+      "message": "Eigendomsrechten overdragen aan $1​?"
+   },
+   "887001400549949730": {
+      "message": "Openen in een nieuw venster"
+   },
+   "8889019648958415451": {
+      "message": "Onbekend bestand"
+   },
+   "8895209347521686105": {
+      "message": "Google Foto's"
+   },
+   "8903612093856047007": {
+      "message": "Bijdragers"
+   },
+   "8905995985388209337": {
+      "message": "Accepteren"
+   },
+   "8917554093651202032": {
+      "message": "$1​ afspelen"
+   },
+   "8919660666733306860": {
+      "message": "Afbeelding"
+   },
+   "8923591894816841670": {
+      "message": "Selectie omlaag verplaatst."
+   },
+   "8925842014466254066": {
+      "message": "Kopiëren naar Google Documenten..."
+   },
+   "8930959387403789939": {
+      "message": "Herinnering"
+   },
+   "8931267220766224111": {
+      "message": "Google Keep-herinneringen inschakelen? Mogelijk moet je hiervoor browsermeldingen toestaan."
+   },
+   "8938626240031421092": {
+      "message": "Selectievakjes in-/uitschakelen"
+   },
+   "8943760679396635042": {
+      "message": "$1​ wordt weergegeven."
+   },
+   "8962132866274125834": {
+      "message": "Opnieuw"
+   },
+   "896590342186332268": {
+      "message": "Dikte 16"
+   },
+   "8975305711699693093": {
+      "message": "Kolom met reacties verbergen"
+   },
+   "8978442832029227748": {
+      "message": "Google Jamboard"
+   },
+   "8979104019474011578": {
+      "message": "{every,plural, =1{Wordt wekelijks herhaald}other{Wordt elke # weken herhaald}}"
+   },
+   "8979615310931291676": {
+      "message": "Bewerkt op $1​"
+   },
+   "8988925599985431446": {
+      "message": "Losmaken"
+   },
+   "8990769651805334695": {
+      "message": "Op"
+   },
+   "900086393693234779": {
+      "message": "Thuis"
+   },
+   "9003585743562048321": {
+      "message": "Kan reacties niet synchroniseren vanwege een netwerkfout."
+   },
+   "9012753183662045049": {
+      "message": "Geef een kortere labelnaam op"
+   },
+   "9012809035908808124": {
+      "message": "Druk op $1​ + G om te schakelen tussen lijst- en rasterweergave"
+   },
+   "9021945828354340363": {
+      "message": "{count,plural, =1{Deze notitie wordt niet langer met je gedeeld}other{Deze notities worden niet langer met je gedeeld.}}"
+   },
+   "9024023699330078373": {
+      "message": "Als je dit item opent, wordt het toegevoegd aan je Drive."
+   },
+   "9051304537377804875": {
+      "message": "{HOURS,plural, =0{0 uur}=1{1 uur}other{{HOURS} uur}}"
+   },
+   "9058308423774656474": {
+      "message": "Hangul-tekstverwerker"
+   },
+   "9063863448028905602": {
+      "message": "Uit resultaten verwijderen"
+   },
+   "9066539791850693252": {
+      "message": "Drive"
+   },
+   "9072994494820207560": {
+      "message": "Aangevinkt item"
+   },
+   "9088582015610828915": {
+      "message": "Minder"
+   },
+   "9094248058931620597": {
+      "message": "Detailvenster samengevouwen."
+   },
+   "9096768033530566606": {
+      "message": "Snelkoppeling toegevoegd aan $2​$3​$1​"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice Draw"
+   },
+   "911698676339750373": {
+      "message": "Gezinsgroep"
+   },
+   "9121915169985572840": {
+      "message": "Kleur wijzigen"
+   },
+   "9124422680181020503": {
+      "message": "Tekening verwijderd"
+   },
+   "9129734193759025482": {
+      "message": "Morgen"
+   },
+   "9131268871618792263": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{unsused plural form}other{Leden van Drives van mijn team raken de toegang kwijt, tenzij deze items met hen worden gedeeld.}}"
+   },
+   "9140728449558729773": {
+      "message": "Kan niet verder uitvouwen. De maximum canvashoogte is bereikt."
+   },
+   "9146862513672039744": {
+      "message": "Account wissen"
+   },
+   "9149141099919589043": {
+      "message": "Door komma's gescheiden waarden"
+   },
+   "9150202601400529256": {
+      "message": "Kan snelkoppeling niet toevoegen aan $2​$3​$1​"
+   },
+   "9155213204821633067": {
+      "message": "Selectie van $1​ ongedaan gemaakt."
+   },
+   "9180910903828232576": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{{NUM_ITEMS_2} map is toegevoegd aan {XXX_1}.}other{{NUM_ITEMS_2} mappen zijn toegevoegd aan {XXX_2}.}}"
+   },
+   "9197837492705576727": {
+      "message": "Naar het volgende item gaan"
+   },
+   "919969969251998566": {
+      "message": "Dit archief uitpakken naar je e-mailaccount."
+   },
+   "9202541782096241233": {
+      "message": "Je hebt geen rechten om bestanden in deze gedeelde drive te verplaatsen."
+   },
+   "9203454763088526300": {
+      "message": "Kan tekst niet herkennen."
+   },
+   "9213031420087755232": {
+      "message": "Pagina wissen"
+   },
+   "938074023403688885": {
+      "message": "Verwijderen"
+   },
+   "951963820437151566": {
+      "message": "Google Sites"
+   },
+   "960732173870658714": {
+      "message": "Google Keep-document"
+   },
+   "969509857504028202": {
+      "message": "Als je bestanden uit een Drive van mijn team verplaatst, worden de toegangs- en eigendomsrechten gewijzigd."
+   },
+   "981637388660093923": {
+      "message": "{SECONDS,plural, =0{0 seconden}=1{1 seconde}other{{SECONDS} seconden}}"
+   },
+   "985197728509875956": {
+      "message": "Chemisch model"
+   },
+   "989685768146008877": {
+      "message": "Als je items naar een gedeelde Drive verplaatst, worden de toegangs- en eigendomsrechten gewijzigd."
+   },
+   "991852286447868510": {
+      "message": "Zoeken naar '$1​'"
+   },
+   "99635082918315028": {
+      "message": "Afbeeldingtekst opgehaald"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Leg snel uw gedachten vast en deel deze met vrienden en familie."
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Google Keep - notities en lijsten"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Google Keep"
+   }
+}

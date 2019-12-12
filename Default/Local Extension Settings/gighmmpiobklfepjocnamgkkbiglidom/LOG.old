@@ -1,0 +1,19 @@
+2019/12/10-23:19:09.908 2a00 Reusing MANIFEST C:\Users\rpelt\Documents\GitHub\BaBCoin\Default\Local Extension Settings\gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2019/12/10-23:19:09.910 2a00 Recovering log #40
+2019/12/10-23:19:10.035 2a00 Level-0 table #43: started
+2019/12/10-23:19:10.376 2a00 Level-0 table #43: 4798699 bytes OK
+2019/12/10-23:19:10.385 2a00 Delete type=0 #40
+2019/12/10-23:20:12.683 4de0 Level-0 table #46: started
+2019/12/10-23:20:12.918 4de0 Level-0 table #46: 4798447 bytes OK
+2019/12/10-23:20:12.921 4de0 Delete type=0 #44
+2019/12/10-23:20:12.924 4de0 Compacting 4@0 + 2@1 files
+2019/12/10-23:20:13.521 4de0 Generated table #47@0: 1 keys, 4798447 bytes
+2019/12/10-23:20:13.536 4de0 Generated table #48@0: 4 keys, 405 bytes
+2019/12/10-23:20:13.536 4de0 Compacted 4@0 + 2@1 files => 4798852 bytes
+2019/12/10-23:20:13.538 4de0 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/12/10-23:20:13.539 4de0 Delete type=2 #36
+2019/12/10-23:20:13.539 4de0 Delete type=2 #37
+2019/12/10-23:20:13.539 4de0 Delete type=2 #39
+2019/12/10-23:20:13.539 4de0 Delete type=2 #41
+2019/12/10-23:20:13.539 4de0 Delete type=2 #43
+2019/12/10-23:20:13.539 4de0 Delete type=2 #46

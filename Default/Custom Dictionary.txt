@@ -1,0 +1,9 @@
+Acherman
+Acherman's
+Autodesk
+EECS
+Peltekov
+Sandberg’s
+UC
+amongst
+checksum_v1 = d060099945cb19165ca8df11003b8d37

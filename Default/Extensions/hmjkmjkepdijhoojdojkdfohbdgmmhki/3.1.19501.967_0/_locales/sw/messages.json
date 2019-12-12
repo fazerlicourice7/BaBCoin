@@ -1,0 +1,3632 @@
+{
+   "1001407065815272462": {
+      "message": "Haikuweza kuongeza vipengee kwenye $2​Hifadhi Yangu$1​"
+   },
+   "1013939682284715002": {
+      "message": "Panga"
+   },
+   "1039394921418415681": {
+      "message": "Ingia katika akaunti"
+   },
+   "1040405721361467195": {
+      "message": "Tumia vitufe vya kishale ili uchague maneno ya kutolea maoni. Shikilia kitufe cha shift huku ukibonyeza vitufe vya kishale ili upanue uteuzi. Tumia kitufe cha Enter ili uandike maoni, au kitufe cha Escape ili ughairi."
+   },
+   "1055686627716339120": {
+      "message": "Kumbukumbu"
+   },
+   "1083918249169198626": {
+      "message": "Mikato ya kibodi imezimwa."
+   },
+   "1101371910696766077": {
+      "message": "Unda nakala"
+   },
+   "1122146167985532789": {
+      "message": "jana"
+   },
+   "1127320433256851404": {
+      "message": "Kicheza video"
+   },
+   "1131044617724567645": {
+      "message": "Maoni yaliyo kwenye PDF huhifadhiwa kwenye faili na yanaonekana katika programu nyingine"
+   },
+   "1137446830169628669": {
+      "message": "Kipengee kimejongezwa."
+   },
+   "1158660505977623040": {
+      "message": "Futa kabisa"
+   },
+   "1162642135048988280": {
+      "message": "Badilisha jina la hati"
+   },
+   "1163324543881570799": {
+      "message": "Hati za Google"
+   },
+   "116696227691552491": {
+      "message": "Chagua mahali"
+   },
+   "1176812982629195161": {
+      "message": "Programu za Google"
+   },
+   "1179891706526242218": {
+      "message": "Inayofuata"
+   },
+   "1185164838496022543": {
+      "message": "Tafadhali bofya hapa ili kupakia ukurasa upya."
+   },
+   "1213005208968286932": {
+      "message": "Imetiwa alama kuwa imetatuliwa"
+   },
+   "1226017195419883732": {
+      "message": "Hifadhi za pamoja"
+   },
+   "124010372300613445": {
+      "message": "{numNotes,plural, =1{Dokezo ambalo halipo kwenye kumbukumbu limeundwa}other{Madokezo # ambayo hayapo kwenye kumbukumbu yameundwa}}"
+   },
+   "1248242541854939846": {
+      "message": "Rekebisha mabadiliko yanayokinzana"
+   },
+   "124900027451629830": {
+      "message": "Cheza"
+   },
+   "125608713654167241": {
+      "message": "Samawati ya Kijani"
+   },
+   "1256362146573583104": {
+      "message": "Toa"
+   },
+   "1259492729704800881": {
+      "message": "Weka dokezo katika kumbukumbu"
+   },
+   "125962421212090538": {
+      "message": "Wiki ijayo"
+   },
+   "1263685395252160366": {
+      "message": "LaTex"
+   },
+   "1271038294394884640": {
+      "message": "Ghairi"
+   },
+   "12768758038718216": {
+      "message": "Bandiko dokezo lililo katika kumbukumbu"
+   },
+   "1280430284217153733": {
+      "message": "Ongeza muda"
+   },
+   "1294762503951327157": {
+      "message": "Vipengee vilivyowekewa alama husogezwa kiotomatiki hadi chini ya orodha na huondolewa"
+   },
+   "1317394270020748066": {
+      "message": "Sasa unaweza kuunganisha Mratibu wa Google ili uunde, usasishe na udhibiti madokezo na orodha zako za Google Keep."
+   },
+   "1317913074512528649": {
+      "message": "Nakili mambo unayoyawazia akilini."
+   },
+   "1330083198022464084": {
+      "message": "Unda dokezo jipya"
+   },
+   "1333255388111908292": {
+      "message": "Bidhaa za Dukani"
+   },
+   "1335763707789999819": {
+      "message": "{NUM_ITEMS,plural, =1{Huna ruhusa ya kuondoa kipengee hiki kwenye folda za sasa. Kiongeze kwenye {START_SPAN_1}{NAME}{END_SPAN} badala yake.}other{Huna ruhusa ya kuondoa vipengee hivi kwenye folda za sasa. Viongeze kwenye {START_SPAN_2}{NAME}{END_SPAN} badala yake.}}"
+   },
+   "1338300799355131761": {
+      "message": "Dokezo lisilo na kichwa"
+   },
+   "1349697396109290623": {
+      "message": "Inaonyesha ubora wa juu wa $1​"
+   },
+   "1355047515597245353": {
+      "message": "Huwezi kuongeza njia zaidi za mkato za kipengee hiki. Ili kukipata baadaye, kiongeze kwenye Vilivyotiwa nyota."
+   },
+   "1359937199332190522": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Faili {NUM_ITEMS_2} imeongezwa kwenye {XXX_1}.}other{Faili {NUM_ITEMS_2} zimeongezwa kwenye {XXX_2}.}}"
+   },
+   "136335357683289450": {
+      "message": "Funga"
+   },
+   "1365216822837281424": {
+      "message": "Kiendelezi cha Chrome"
+   },
+   "1368808491835583439": {
+      "message": "Zambarau Iliyokolea"
+   },
+   "1377158635423797368": {
+      "message": "Nenda kwenye lebo"
+   },
+   "1379850360723600538": {
+      "message": "Faili zinazolindwa kwa nenosiri haziwezi kutumika."
+   },
+   "1388712764439031120": {
+      "message": "Fungua kiungo"
+   },
+   "1397887822627488928": {
+      "message": "Anwani ya barua pepe au mtu wa kushiriki naye"
+   },
+   "1429848477922945853": {
+      "message": "Dokezo tupu"
+   },
+   "1432850707344442376": {
+      "message": "Unda lebo ya $1​"
+   },
+   "1434081385486479995": {
+      "message": "Huwezi kushiriki kwa sasa"
+   },
+   "1439211265324766071": {
+      "message": "Dokezo lililowekwa katika Tupio"
+   },
+   "1441487391064925653": {
+      "message": "Angalia mikato yote katika Kituo cha Usaidizi"
+   },
+   "1441712877952841568": {
+      "message": "Imerekebishwa $1​"
+   },
+   "1442417474192183694": {
+      "message": "Onyesha maelezo ya utatuzi wa Kitazamaji"
+   },
+   "1442722292947881614": {
+      "message": "Aina"
+   },
+   "1446829548948002072": {
+      "message": "koma"
+   },
+   "1453330983536591773": {
+      "message": "Rangi ya Kijivu Isiyokolea"
+   },
+   "1463389029497634261": {
+      "message": "Punguza sauti"
+   },
+   "1466663154000252842": {
+      "message": "Watu wengine hawataweza kufikia tena"
+   },
+   "1467797923781828000": {
+      "message": "Vipengee $1​ vimeongezwa kwenye $2​."
+   },
+   "1475258635371833968": {
+      "message": "$2​, $1​"
+   },
+   "1478393252643397554": {
+      "message": "Rangi ya Machungwa"
+   },
+   "1482452362096735080": {
+      "message": "Hutokea mara {numOccurrences}"
+   },
+   "1490217372377947899": {
+      "message": "Upakiaji kwenye Hifadhi"
+   },
+   "1505876360160857231": {
+      "message": "TB $1​"
+   },
+   "1507063529674142853": {
+      "message": "Katika siku ya mwisho ya mwezi"
+   },
+   "1507445189431379166": {
+      "message": "Futa"
+   },
+   "1512114410402431831": {
+      "message": "Onyesha upya"
+   },
+   "1512454807955173272": {
+      "message": "Google Keep itasasisha ikiwa mtandaoni"
+   },
+   "1513178578981188988": {
+      "message": "Edge"
+   },
+   "1532717559893630620": {
+      "message": "Lebo ya $1​ imeunganishwa na $2​."
+   },
+   "1536051766421561160": {
+      "message": "alama sawa"
+   },
+   "153659275234722804": {
+      "message": "Ondoa"
+   },
+   "1543499632005215694": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Faili inayohamishiwa kwenye \"{ADDED_PARENT_NAME}\" imesababisha ugunduzi wa data inayolindwa isipotee. Huenda kuna maelezo nyeti katika faili hii.}other{Baadhi ya faili zinazohamishiwa kwenye \"{ADDED_PARENT_NAME}\" zimesababisha ugunduzi wa data inayolindwa isipotee. Huenda kuna maelezo nyeti katika faili hizi.}}"
+   },
+   "1568379678795589771": {
+      "message": "Mraba"
+   },
+   "1586968957182554447": {
+      "message": "Zima"
+   },
+   "1600730176972144699": {
+      "message": "Bonyeza Shift pamoja na J ili usogee kwenye sehemu iliyotangulia na ubonyeze Shift pamoja na K ili usogee kwenye sehemu inayofuata"
+   },
+   "1606998668553414638": {
+      "message": "Omba idhini ya kufikia..."
+   },
+   "1612117309990202511": {
+      "message": "Vitone"
+   },
+   "1645936035034659132": {
+      "message": "{itemsRemaining,plural, =1{Kimesalia kipengee # cha orodha}other{Vimesalia vipengee # vya orodha}}"
+   },
+   "1655692513689044870": {
+      "message": "Umeondoka kwenye akaunti."
+   },
+   "1656911987308166143": {
+      "message": "Futa"
+   },
+   "1665821947855814052": {
+      "message": "Ukubwa"
+   },
+   "1675711464233426777": {
+      "message": "Baadaye leo"
+   },
+   "1675900304699098572": {
+      "message": "{count,plural, =1{Dokezo limebanduliwa}other{Madokezo # yamebanduliwa}}"
+   },
+   "1680617124502957636": {
+      "message": "Haiwezi kuunganisha kwa sasa. Jaribu tena baadaye."
+   },
+   "1680818623013843452": {
+      "message": "Lucidchart"
+   },
+   "1683762293389974494": {
+      "message": "Futa"
+   },
+   "1694896269813520248": {
+      "message": "Ongeza mchoro"
+   },
+   "1697160643589236962": {
+      "message": "PB $1​"
+   },
+   "1700455651867499062": {
+      "message": "Njia ya mkato ya Hifadhi ya Google"
+   },
+   "1703175513040690135": {
+      "message": "Mtu yeyote katika kikoa cha $1​"
+   },
+   "1704004075228783011": {
+      "message": "{every,plural, =1{Hurudiwa kila mwezi katika siku ya mwisho ya mwezi}other{Hurudiwa kila baada ya miezi # katika siku ya mwisho ya mwezi}}"
+   },
+   "1711424025297585662": {
+      "message": "||"
+   },
+   "171683163267149669": {
+      "message": "GB $1​"
+   },
+   "1719906320230837590": {
+      "message": "Huduma ya Google ya Kutafuta Picha"
+   },
+   "1730171019350750807": {
+      "message": "Nyeusi"
+   },
+   "1737240194537729525": {
+      "message": "Kila wiki"
+   },
+   "1739900012825270238": {
+      "message": "Nenda kwenye kipengee kilichotangulia"
+   },
+   "1740371341228065086": {
+      "message": "Pakia upya"
+   },
+   "1745782414562966515": {
+      "message": "Je, ungependa kuunganisha lebo ya \"$1​\" na lebo ya \"$2​\"? Madokezo yote yenye lebo ya \"$1​\" yatawekewa lebo ya \"$2​,\" na lebo ya \"$1​\" itafutwa."
+   },
+   "1746512984326924716": {
+      "message": "Hatua hii haiwezi kutenduliwa."
+   },
+   "1770899865480106963": {
+      "message": "Vifaa vya Android"
+   },
+   "1781922622745161264": {
+      "message": "Madokezo unayoongeza huonekana hapa"
+   },
+   "1783719421893050637": {
+      "message": "Vipimo"
+   },
+   "1790494039990261456": {
+      "message": "Hifadhi yote mawili"
+   },
+   "1791115075948268631": {
+      "message": "Fungua usaidizi wa mikato ya kibodi"
+   },
+   "179545118447015250": {
+      "message": "Mwonekano wa Gridi"
+   },
+   "1803966010993357655": {
+      "message": "Mengineyo"
+   },
+   "1808245543551507519": {
+      "message": "Audio"
+   },
+   "1810354345035313773": {
+      "message": "Fungua Zana ya Kalamu Nene na Kiteuzi cha Saizi"
+   },
+   "1829174126565818591": {
+      "message": "Firefox"
+   },
+   "1830157062072535681": {
+      "message": "Inaonyesha $1​"
+   },
+   "1830980674971538385": {
+      "message": "Pakia"
+   },
+   "1852745815330163711": {
+      "message": "Michoro ya Google"
+   },
+   "1857224091554117760": {
+      "message": "Nyekundu"
+   },
+   "1858255237143975969": {
+      "message": "$2​Faragha$1​"
+   },
+   "1870691479127746185": {
+      "message": "kulia"
+   },
+   "187077078156858455": {
+      "message": "Kidokezo cha sauti"
+   },
+   "189303170370862360": {
+      "message": "Vipengee $1​ kati ya $2​"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901215424950227523": {
+      "message": "Lebo ya $1​ haipo"
+   },
+   "1936219394601788126": {
+      "message": "kikuu"
+   },
+   "1938115711058331119": {
+      "message": "Onyesha safu ya maoni"
+   },
+   "195154114623528341": {
+      "message": "Ongeza eneo"
+   },
+   "1956794332842050061": {
+      "message": "Ukurasa unaofuata"
+   },
+   "1963323419655107448": {
+      "message": "Futa vipengee vilivyochaguliwa"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1967536906522187719": {
+      "message": "Kulikuwa na tatizo katika kuchungulia laha hii kwanza."
+   },
+   "1969531182936822963": {
+      "message": "Kitendo kimebatilishwa"
+   },
+   "1972885107693687510": {
+      "message": "Kiputo cha kuenda kwenye lebo kimeonyeshwa"
+   },
+   "1973454937875679500": {
+      "message": "Weka jina la lebo"
+   },
+   "1975630610063119352": {
+      "message": "{charsRemaining,plural, =1{Imesalia herufi # }other{Zimesalia herufi  # }}"
+   },
+   "1980209166254310911": {
+      "message": "Siku"
+   },
+   "1986228872461282439": {
+      "message": "Chaguomsingi"
+   },
+   "1998476658842502120": {
+      "message": "Bonyeza C ili uandike dokezo jipya"
+   },
+   "200488920523496447": {
+      "message": "Kipengee kimevutwa karibu."
+   },
+   "2039757863628752523": {
+      "message": "Chaguo za marudio"
+   },
+   "205445381296663832": {
+      "message": "Imeshindwa kupakia."
+   },
+   "205876860571942679": {
+      "message": "Ramani Zangu za Google"
+   },
+   "2059084517358086391": {
+      "message": "Funga pau la utafutaji"
+   },
+   "2061440050632248160": {
+      "message": "Hifadhi kwenye kumbukumbu"
+   },
+   "2068023589621557589": {
+      "message": "Fonti ya TrueType"
+   },
+   "2072502213578290051": {
+      "message": "Umemaliza kutumia dokezo? Tumia kitufe cha kuhifadhi kwenye kumbukumbu"
+   },
+   "2073322475696388995": {
+      "message": "Ruka kuelekea mbele"
+   },
+   "2074454463201225704": {
+      "message": "Ondoa ukuzaji"
+   },
+   "2096559615401306102": {
+      "message": "Huwezi kuhamisha faili nje ya $1​"
+   },
+   "2107379241532042955": {
+      "message": "Mahali"
+   },
+   "2109979457438465538": {
+      "message": "Menyu ya kuchagua lebo imefunguliwa"
+   },
+   "2113092209746357267": {
+      "message": "Chrome"
+   },
+   "2118635459760443566": {
+      "message": "Inayofuata"
+   },
+   "2119255452378336327": {
+      "message": "Kitone kimerejeshwa kuwa $1​"
+   },
+   "212796670323571824": {
+      "message": "Sawa"
+   },
+   "2142420359113070963": {
+      "message": "Ufuatiliaji wa rafu (unaonekana kwa watumiaji wa ndani wa mtandao pekee):"
+   },
+   "214517458278879973": {
+      "message": "Ingia katika akaunti kama $1​"
+   },
+   "2154372123324862271": {
+      "message": "mkwaju"
+   },
+   "2159130950882492111": {
+      "message": "Ghairi"
+   },
+   "2166966123760559393": {
+      "message": "Ongeza lebo mpya"
+   },
+   "2181197458532159304": {
+      "message": "{numberOfNotes,plural, =1{Dokezo limetupwa}other{Madokezo # yametupwa}}"
+   },
+   "2184278444368405837": {
+      "message": "Vipengee $1​"
+   },
+   "2189621188983913867": {
+      "message": "Unganisha programu zaidi"
+   },
+   "2190049738646901760": {
+      "message": "{count,plural, =1{Je, unataka kufuta dokezo hili?}other{Je, unataka kufuta madokezo haya?}}"
+   },
+   "2195440644060728966": {
+      "message": "{NUM_ITEMS,plural, =1{Unahamisha folda iliyo katika folda moja}other{Unahamisha folda zilizo katika folda moja}}"
+   },
+   "220168959069469607": {
+      "message": "Chaguo zaidi"
+   },
+   "2203926649090909861": {
+      "message": "Kipengee cha orodha kimehamishiwa kwenye faharasa ya $1​"
+   },
+   "2215890921415017560": {
+      "message": "Hali ya Skrini Nzima"
+   },
+   "2216904725760458480": {
+      "message": "Kila siku"
+   },
+   "221715292685577880": {
+      "message": "Ndiyo"
+   },
+   "2226562046914098941": {
+      "message": "Faili hii ni kubwa mno, huwezi kuichungulia kwanza"
+   },
+   "2226937423434054727": {
+      "message": "Umechagua $1​, $2​ hadi $3​, $4​"
+   },
+   "223198388381606871": {
+      "message": "Urujuani"
+   },
+   "2254586145235168886": {
+      "message": "Kidirisha cha idhini kimekunjwa."
+   },
+   "2264311811697505466": {
+      "message": "Onyesha upya"
+   },
+   "2265238034451062417": {
+      "message": "{count,plural, =1{na kipengee # kilichokamilishwa}other{na vipengee # vilivyokamilishwa}}"
+   },
+   "2270469222412517777": {
+      "message": "Haiwezi kutambua maandishi"
+   },
+   "2270633624888102832": {
+      "message": "Bandua dokezo"
+   },
+   "2280650195464600721": {
+      "message": "Usogezaji"
+   },
+   "2282423663539387332": {
+      "message": "Vijavyo"
+   },
+   "2285069188138705005": {
+      "message": "Programu zilizounganishwa"
+   },
+   "2286685488296851497": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Unahamisha kipengee kimoja kutoka kwenye folda ya pamoja inayoitwa \"{SHARED_FOLDER_NAME}\", kwa hivyo watu hawataweza kukifikia tena.}other{Unahamisha vipengee {NUM_ITEMS_2} kutoka kwenye folda ya pamoja inayoitwa \"{SHARED_FOLDER_NAME}\", kwa hivyo watu hawataweza kuvifikia tena.}}"
+   },
+   "228741435562395266": {
+      "message": "Uchapishaji bado haupatikani"
+   },
+   "2289534534793293486": {
+      "message": "Ondoa kwenye kumbukumbu"
+   },
+   "2289812403593835836": {
+      "message": "Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Ongeza sauti"
+   },
+   "2299671629154778581": {
+      "message": "Madokezo yamebanduliwa na kuwekwa kwenye kumbukumbu"
+   },
+   "2308018963132768704": {
+      "message": "Saizi 4"
+   },
+   "2310145944356900158": {
+      "message": "Vilivyowekewa alama"
+   },
+   "2311880726221661199": {
+      "message": "Inapakia ubora wa juu"
+   },
+   "2323249770683736002": {
+      "message": "Ongeza lebo mpya"
+   },
+   "2324955914430674498": {
+      "message": "Hakuna matokeo ya utafutaji wa \"$1​\""
+   },
+   "2346361265476305332": {
+      "message": "Mmiliki alizuia upakuaji wa faili hii ya sauti."
+   },
+   "2357623745116912085": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Washiriki wa \"{TEAM_DRIVE_NAME}\" hawataweza kufikia kipengee hiki tena isipokuwa kishirikiwe nao.}other{Washiriki wa \"{TEAM_DRIVE_NAME}\" hawataweza kufikia vipengee hivi tena isipokuwa vishirikiwe nao.}}"
+   },
+   "2359614137862708172": {
+      "message": "Shift"
+   },
+   "2364374826543847335": {
+      "message": "Ondoa chanzo"
+   },
+   "236689092839978781": {
+      "message": "Halirudiwi"
+   },
+   "2370656573843123707": {
+      "message": "bano la kulia"
+   },
+   "2373760032138505521": {
+      "message": "Lebo tayari ipo"
+   },
+   "2386536768112358461": {
+      "message": "Pg-Down"
+   },
+   "2396804279177914769": {
+      "message": "Je, ungependa kuhamishia umiliki kwenye Timu ya Hifadhi?"
+   },
+   "2402010336938670264": {
+      "message": "Anza kuchora kwa ncha ya kidole chako, au ikiwa una stylus jaribu kuandika dokezo kwa mkono"
+   },
+   "2405795704816921421": {
+      "message": "Faili ya $1​"
+   },
+   "2408383448126741628": {
+      "message": "Muda"
+   },
+   "2408933271548524782": {
+      "message": "Imefungwa"
+   },
+   "2423364695613735749": {
+      "message": "Bonyeza L ili uandike orodha mpya"
+   },
+   "2423877407428530040": {
+      "message": "Faili ina chati nyingi mno."
+   },
+   "2433429041384246549": {
+      "message": "Nyamazisha"
+   },
+   "2438741853303074449": {
+      "message": "matukio"
+   },
+   "2444198666025646119": {
+      "message": "Urujuani iliyokolea"
+   },
+   "2452145367257933677": {
+      "message": "Tendua"
+   },
+   "2452522051596946166": {
+      "message": "Lo! Kulikuwa na tatizo la kuchungulia $1​. Inajaribu tena..."
+   },
+   "2454642351139428112": {
+      "message": "Tendua"
+   },
+   "246828342952819465": {
+      "message": "Andika mawazo yako $1​ kwa kutumia kifaa chochote"
+   },
+   "2469046390122693414": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}other{Unahamisha vipengee {NUM_ITEMS_2} kutoka hifadhi za pamoja na folda za pamoja, kwa hivyo watu hawataweza kuvifikia tena.}}"
+   },
+   "2478862372619762755": {
+      "message": "Angazia eneo unalotaka kutolea maoni"
+   },
+   "2483363439634684283": {
+      "message": "Saizi 20"
+   },
+   "2494928104701250542": {
+      "message": "Bandika madokezo na uweke vikumbusho ili usikose ya hivi punde kuhusu mambo muhimu."
+   },
+   "2504232652631703202": {
+      "message": "Imeunganishwa"
+   },
+   "2509141182388535183": {
+      "message": "Angalia"
+   },
+   "251025074207413762": {
+      "message": "Ongeza maelezo"
+   },
+   "2525633490863427854": {
+      "message": "Rejesha"
+   },
+   "2527534830196374788": {
+      "message": "Ctrl"
+   },
+   "2532280782491328445": {
+      "message": "Tafuta iliyotangulia"
+   },
+   "2542788471536661524": {
+      "message": "Dondosha picha hapa"
+   },
+   "2562881166530755046": {
+      "message": "Michoro"
+   },
+   "257317112834806705": {
+      "message": "Geuza kati ya mwonekano wa orodha na gridi"
+   },
+   "2579261044590673579": {
+      "message": "Hifadhi Yangu"
+   },
+   "2579679351920691492": {
+      "message": "Ruka kuelekea nyuma"
+   },
+   "2584557103820423944": {
+      "message": "Weka tena ujongezi/jongeza kipengee cha orodha"
+   },
+   "2592236094918360632": {
+      "message": "Huwezi kuhamisha faili kwa sababu mmiliki wa faili si mshiriki wa hifadhi ya pamoja."
+   },
+   "2600731575260427177": {
+      "message": "Faili haipo na huenda ilifutwa. Tafadhali jaribu kupakia faili hiyo tena."
+   },
+   "2601304136110057215": {
+      "message": "Mchoro mpya"
+   },
+   "2604527707881848686": {
+      "message": "Kipengee hakiwezi kuwekewa tena ujongezi zaidi."
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2623861453769098676": {
+      "message": "Tatizo limetokea wakati wa kuchungulia hati hii."
+   },
+   "2626653026098396543": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Ukihamisha faili hii, utaishiriki na kila mtu anayeweza kuona folda hii ya pamoja ya \"{SHARED_FOLDER_NAME}\".}other{Ukihamisha faili hizi, utazishiriki na kila mtu anayeweza kuona folda hii ya pamoja ya \"{SHARED_FOLDER_NAME}\".}}"
+   },
+   "2632263751512428257": {
+      "message": "Kila mwaka"
+   },
+   "2632538140519286364": {
+      "message": "Madokezo yaliyo katika Tupio hufutwa baada ya siku 7."
+   },
+   "2645469029410848421": {
+      "message": "{noteCount,plural, =1{Wekea dokezo lebo}other{Wekea madokezo lebo}}"
+   },
+   "2661850177130037208": {
+      "message": "Fungua kipengee"
+   },
+   "2673781847036352269": {
+      "message": "Ficha maoni ambayo hayatumiki tena"
+   },
+   "2680303811435018716": {
+      "message": "Haiwezi kuongeza vipengee zaidi"
+   },
+   "2681830832355823748": {
+      "message": "Tafuta njia zote za mkato"
+   },
+   "268402507078609011": {
+      "message": "{imagesAdded,plural, =1{Picha imeongezwa}other{Picha # zimeongezwa}}"
+   },
+   "269301203471243703": {
+      "message": "Ongeza njia ya mkato"
+   },
+   "2713989182797848963": {
+      "message": "Unda michoro na madokezo yaliyoandikwa kwa mkono"
+   },
+   "2715199780155065699": {
+      "message": "Faili ina maumbo, visanduku vya maandishi au michoro mingi mno."
+   },
+   "2716433087531258659": {
+      "message": "ukurasa juu"
+   },
+   "2719125961689709460": {
+      "message": "Dokezo"
+   },
+   "2725185337656029651": {
+      "message": "Ongeza picha au sauti"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2757876083706839152": {
+      "message": "Inaonyesha nakala ya mchoro kwa sababu ya kikomo cha ukubwa"
+   },
+   "2758125083752925237": {
+      "message": "(Mmiliki)"
+   },
+   "2760106082595028595": {
+      "message": "Dokezo ni kubwa mno."
+   },
+   "2761695221066052931": {
+      "message": "Kiputo cha kufungua kiungo kimeonyeshwa"
+   },
+   "2762925619340374825": {
+      "message": "Ukitumia Url"
+   },
+   "277430914014962533": {
+      "message": "Lo! Kulikuwa na tatizo la kuchungulia $1​."
+   },
+   "2777453609143551768": {
+      "message": "Kidhibiti cha kiwango cha sauti"
+   },
+   "2793841261389879255": {
+      "message": "Ukurasa uliotangulia"
+   },
+   "2794676336056877832": {
+      "message": "{every,plural, =1{Hurudiwa kila mwezi katika siku sawa kila mwezi}other{Hurudiwa kila baada ya miezi # katika siku sawa kila mwezi}}"
+   },
+   "2803553109654833664": {
+      "message": "Waridi"
+   },
+   "2814354342017225342": {
+      "message": "Onyesha viungo tondoti vya kuchungulia"
+   },
+   "2818020101821669029": {
+      "message": "Iliundwa"
+   },
+   "2820045170951016567": {
+      "message": "Vikumbusho"
+   },
+   "2823533464825550362": {
+      "message": "Udhibiti wa hati"
+   },
+   "2827039933590757722": {
+      "message": "Windows Shortcut"
+   },
+   "2828060233316503200": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Kipengee {NUM_ITEMS_2} kimehamishiwa kwenye {XXX_2} kutoka {XXX_1}.}other{Vipengee {NUM_ITEMS_2} vimehamishiwa kwenye {XXX_4} kutoka {XXX_3}.}}"
+   },
+   "2828258538208588139": {
+      "message": "{shortcutCount,plural, =1{Umeongeza njia moja ya mkato}other{Umeongeza njia # za mkato}}"
+   },
+   "2829226075651806940": {
+      "message": "Kuza"
+   },
+   "2842462703735289745": {
+      "message": "Kila mtu anayeweza kuona folda ya pamoja inayoitwa \"$1​\" ataweza kuifikia."
+   },
+   "2853036885874864031": {
+      "message": "Umiliki utahamishiwa kwenye $1​."
+   },
+   "2854717396594966319": {
+      "message": "OpenOffice Writer"
+   },
+   "2868845399811178993": {
+      "message": "Mmiliki wa \"$1​\" pekee ndiye anayeweza kufuta njia za mkato zilizoongezwa kwenye folda hii."
+   },
+   "2873089307546162154": {
+      "message": "Sawa"
+   },
+   "2877285560485318801": {
+      "message": "Sitisha"
+   },
+   "2879276552944958066": {
+      "message": "Rudi kwenye Folda ya $1​."
+   },
+   "2886313667612471214": {
+      "message": "Inahitaji kuonyeshwa upya. Huenda ikachukua dakika kadhaa."
+   },
+   "2893055432094515558": {
+      "message": "Visanduku vya kuteua vimeonyeshwa"
+   },
+   "289798573180023043": {
+      "message": "Sawa"
+   },
+   "2901360496423912565": {
+      "message": "Ripoti"
+   },
+   "2908917161758545146": {
+      "message": "{count,plural, =1{Dokezo limebanduliwa na kuwekwa kwenye kumbukumbu}other{Madokezo # yamebanduliwa na kuwekwa kwenye kumbukumbu}}"
+   },
+   "2930974997943171554": {
+      "message": "Mandhari meusi yamezimwa"
+   },
+   "2935193106137642160": {
+      "message": "Kipengele cha kukuza hakipatikani"
+   },
+   "295331174171409695": {
+      "message": "Kulikuwa na tatizo la kusasisha ruhusa ya kupakua ya \"$1​\"."
+   },
+   "2960516445247616550": {
+      "message": "Uchapishaji haupatikani"
+   },
+   "296391753033307868": {
+      "message": "Lebo ya $1​ imeundwa na kuongezwa kwenye dokezo."
+   },
+   "2971623719720688041": {
+      "message": "Kitendo kimetenduliwa"
+   },
+   "2973306402585941108": {
+      "message": "Asubuhi"
+   },
+   "2983318659047499045": {
+      "message": "Vikumbusho"
+   },
+   "298817883481775869": {
+      "message": "Inapakia..."
+   },
+   "2990497076082409431": {
+      "message": "\"$1​\" imehamishiwa hadi $2​."
+   },
+   "2993901764282547916": {
+      "message": "Kiunda Programu"
+   },
+   "3005058076425755361": {
+      "message": "Backspace"
+   },
+   "3018905429279095639": {
+      "message": "{NUM_ITEMS,plural, =1{Huna ruhusa ya kuhamisha folda hii kutoka kwenye folda ilimo sasa. Ongeza folda hii kwenye {START_SPAN_1}{NAME}{END_SPAN} badala yake.}other{Huna ruhusa ya kuhamisha folda hizi kutoka kwenye folda zilimo sasa. Ongeza folda hizi kwenye {START_SPAN_2}{NAME}{END_SPAN} badala yake.}}"
+   },
+   "3038603165081234302": {
+      "message": "Inaongeza kwenye $2​Hifadhi Yangu$1​…"
+   },
+   "3043961722025425136": {
+      "message": "Maelezo"
+   },
+   "304438440663479110": {
+      "message": "Njia ya mkato ya malahajedwali inayooana"
+   },
+   "306516303501625305": {
+      "message": "Uthibitishaji umeshindwa."
+   },
+   "3074915509081765994": {
+      "message": "iPhone na iPad"
+   },
+   "3091440425606975088": {
+      "message": "Orodha isiyo na kichwa"
+   },
+   "3108098439469164127": {
+      "message": "Mchoro Mpya Umefunguliwa"
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​"
+   },
+   "3150651996344750990": {
+      "message": "{count,plural, =1{Dokezo limeondolewa kwenye kumbukumbu}other{Madokezo # yameondolewa kwenye kumbukumbu}}"
+   },
+   "3167198321908629554": {
+      "message": "Inaonyesha na kupakia upya madokezo yako…"
+   },
+   "3176246635438298155": {
+      "message": "Delete"
+   },
+   "3187117482772485385": {
+      "message": "Inaunda kijipicha..."
+   },
+   "3189854932778515441": {
+      "message": "Dokezo lililowekwa katika Kumbukumbu"
+   },
+   "3190546672187601036": {
+      "message": "Usiku"
+   },
+   "3195812604657128345": {
+      "message": "Chagua folda ya Hifadhi ya kuchopolea"
+   },
+   "32059145043728507": {
+      "message": "{numberOfNotes,plural, =1{Dokezo limerejeshwa}other{Madokezo # yamerejeshwa}}"
+   },
+   "3207650089232728475": {
+      "message": "Badilisha lebo"
+   },
+   "3211163842850942567": {
+      "message": "Kuza"
+   },
+   "3217354672216773127": {
+      "message": "Kilitumwa $1​"
+   },
+   "3220641589840600333": {
+      "message": "Imebadili kwenda mwonekano wa $1​"
+   },
+   "3241696131593027453": {
+      "message": "Chagua dokezo"
+   },
+   "3243075164136265612": {
+      "message": "Kidirisha cha idhini kimepanuliwa."
+   },
+   "3249966726137025950": {
+      "message": "Kikundi cha Familia cha Mshirika"
+   },
+   "3250489229749307913": {
+      "message": "Chapisho la Kielektroniki"
+   },
+   "3258100527833044153": {
+      "message": "Mchoro usio na chochote umefutwa"
+   },
+   "3261131345401321392": {
+      "message": "Anaweza kutoa Maoni"
+   },
+   "3266448715145955862": {
+      "message": "Madokezo yametolewa kwenye kumbukumbu na kubandikwa"
+   },
+   "3272496516667407797": {
+      "message": "Kulikuwa na tatizo la kupakia maelezo."
+   },
+   "3278046126264096288": {
+      "message": "Wiki"
+   },
+   "3281684668260174833": {
+      "message": "{numberOfNotes,plural, =1{Dokezo limebanduliwa na kutupwa}other{Madokezo # yamebanduliwa na kutupwa}}"
+   },
+   "3285255128259782773": {
+      "message": "Diski iliyo katika Kifaa"
+   },
+   "3285552194638444776": {
+      "message": "Sasa unaweza kubadilisha, kushiriki na kudhibiti matoleo ya faili za $1​ ukitumia $2​"
+   },
+   "3288498486633948368": {
+      "message": "\"$1​\" imeongezwa kwenye Hifadhi ya Google."
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3308935528045767909": {
+      "message": "Dokezo jipya lenye mchoro"
+   },
+   "3312545971976531405": {
+      "message": "Ujumbe"
+   },
+   "3313557905033219672": {
+      "message": "{numNotes,plural, =1{Dokezo ambalo halipo kwenye kumbukumbu limeundwa}other{Madokezo # ambayo hayapo kwenye kumbukumbu yameundwa}}"
+   },
+   "3325094738421414114": {
+      "message": "Bonyeza X ili uongeze au uondoe dokezo kwenye mkusanyiko wa madokezo yaliyochaguliwa"
+   },
+   "3345567742278474807": {
+      "message": "Dokezo hili limeripotiwa kuwa lisilofaa na haliwezi kushirikiwa."
+   },
+   "3348057264663626000": {
+      "message": "Umesogeza uteuzi juu."
+   },
+   "3362903141674317449": {
+      "message": "Mshiriki"
+   },
+   "3371033609268806242": {
+      "message": "Lebo ya $1​ imefutwa."
+   },
+   "3378875258397512442": {
+      "message": "Weka vikumbusho katika madokezo ya mahali na nyakati, andika madokezo ya sauti, na ufanye kazi mtandaoni au nje ya mtandao."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Imefunguliwa"
+   },
+   "3385831848537487538": {
+      "message": "Usafiri"
+   },
+   "3409483962000136213": {
+      "message": "Cheza/Sitisha"
+   },
+   "3418677553313974490": {
+      "message": "Tupio"
+   },
+   "3418767079436101103": {
+      "message": "Kulikuwa na tatizo la kupakia ukurasa huu."
+   },
+   "3419821606494999471": {
+      "message": "Dhibiti arifa za maoni"
+   },
+   "3437227878928998987": {
+      "message": "Tengeneza orodha"
+   },
+   "3447704623213039325": {
+      "message": "Bidhaa ya dukani"
+   },
+   "3448234415275521882": {
+      "message": "Maelezo ya Jumla"
+   },
+   "3449090379302140902": {
+      "message": "Picha"
+   },
+   "3451851833460018584": {
+      "message": "{NUM_COMMENTS,plural, =0{Hakuna maoni}=1{Maoni moja}other{Maoni #}}"
+   },
+   "3455405209271884570": {
+      "message": "Toa"
+   },
+   "345718983715470367": {
+      "message": "Chanzo"
+   },
+   "3462556632501534753": {
+      "message": "$2​Leseni za programu huria$1​"
+   },
+   "3468441711253011521": {
+      "message": "Majedwali ya Google"
+   },
+   "3473620774713000513": {
+      "message": "Imetatuliwa"
+   },
+   "3478630283627055305": {
+      "message": "Bonyeza Escape ili uache kubadilisha dokezo"
+   },
+   "3485469306694683931": {
+      "message": "Toa uweke katika akaunti yako ya Hifadhi"
+   },
+   "3487924397596265480": {
+      "message": "Umechagua $1​."
+   },
+   "3493932452507671194": {
+      "message": "Bonyeza $1​ pamoja na mabano ya mraba ya kufunga ili ujongeze kipengee na ubonyeze $1​ pamoja na mabano ya mraba ya kufungua ili uondoe ujongezi"
+   },
+   "3496410038494993160": {
+      "message": "Mikato maarufu ya kibodi"
+   },
+   "3518073392823563581": {
+      "message": "Mikato ya kibodi"
+   },
+   "3527565741177531691": {
+      "message": "Inaongeza njia ya mkato kwenye $2​$3​$1​…"
+   },
+   "3528739824697875943": {
+      "message": "kipengee cha orodha"
+   },
+   "3539889527558048258": {
+      "message": "Huduma ya Google ya Kutafuta Picha"
+   },
+   "3544847661620838201": {
+      "message": "Jaribu kuweka dokezo moja! Unaweza kulitafuta wakati wowote baadaye."
+   },
+   "3549581437554274388": {
+      "message": "Umesogeza uteuzi kulia."
+   },
+   "3551522853788442530": {
+      "message": "Rudi nyuma"
+   },
+   "3551608745198442336": {
+      "message": "Mchoro wa $1​/$2​"
+   },
+   "3553997866738769437": {
+      "message": "Badilisha Mchoro"
+   },
+   "3555297636767750285": {
+      "message": "Kijani Kibichi"
+   },
+   "3561658662634401836": {
+      "message": "Mada"
+   },
+   "3569884090205828853": {
+      "message": "OpenOffice Calc"
+   },
+   "3571391964903695725": {
+      "message": "Rudia"
+   },
+   "3571704286086017611": {
+      "message": "Kikumbusho kimefutwa"
+   },
+   "3574963906259719128": {
+      "message": "Kivinjari chako hakiwezi kucheza faili hii ya sauti."
+   },
+   "3580243353280636963": {
+      "message": "Chagua tarehe na saa"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3595562664731337243": {
+      "message": "Badilisha jina la lebo"
+   },
+   "3603931013946597836": {
+      "message": "{NUM_ITEMS,plural, =1{Unahamisha faili iliyo katika folda {NUM_PARENTS}}other{Unahamisha faili zilizo katika folda {NUM_PARENTS}}}"
+   },
+   "3608521102844050208": {
+      "message": "Kikumbusho:"
+   },
+   "3608606849109645545": {
+      "message": "Ingiza jina jipya la hati:"
+   },
+   "3609912631958780352": {
+      "message": "Zana ya Kaligrafia"
+   },
+   "3611573349633408445": {
+      "message": "Pakua"
+   },
+   "3612936866865912552": {
+      "message": "Inapakia..."
+   },
+   "3617727970098875990": {
+      "message": "Tafuta njia zote za mkato"
+   },
+   "362521762755836201": {
+      "message": "Liliundwa $1​"
+   },
+   "3628141779141388914": {
+      "message": "Bado huwezi kuhamishia folda kwenye hifadhi ya pamoja."
+   },
+   "3634885664399305142": {
+      "message": "Kipengele cha Michoro hakipatikani"
+   },
+   "3642907339426904506": {
+      "message": "Hakuna madokezo katika Tupio"
+   },
+   "3651893685901703652": {
+      "message": "..."
+   },
+   "3657386785336906042": {
+      "message": "mkwajunyuma"
+   },
+   "3659554681396757189": {
+      "message": "Niliifungua"
+   },
+   "366289214151975122": {
+      "message": "Mtu yeyote katika kikoa cha $1​ aliye na kiungo"
+   },
+   "3663571259791438207": {
+      "message": "Ripoti matumizi mabaya"
+   },
+   "3664842788764635265": {
+      "message": "Hamna"
+   },
+   "3666123569747918021": {
+      "message": "Hati hii ina mabadiliko ambayo hayajahifadhiwa. Unataka kutoka kwenye ukurasa huu na uyatupe mabadiliko yako?"
+   },
+   "3678477908297567934": {
+      "message": "mstari chini"
+   },
+   "3684032082082645570": {
+      "message": "{count,plural, =1{Chagua rangi ili uitumie kwenye dokezo.}other{Chagua rangi ili uitumie kwenye madokezo.}}"
+   },
+   "3690515530505404607": {
+      "message": "Kulikuwa na tatizo la kucheza video hii."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Hakuna vipengee}=1{Kipengee 1}other{Vipengee #}}"
+   },
+   "3703024996011822310": {
+      "message": "Karibu kwenye Google Keep"
+   },
+   "3712215972250917265": {
+      "message": "Maoni"
+   },
+   "3714239567487848851": {
+      "message": "Mandhari meusi yamewashwa"
+   },
+   "3721649886572275931": {
+      "message": "Saizi 8"
+   },
+   "372633345629975481": {
+      "message": "Madokezo yamebandikwa"
+   },
+   "372823375470132483": {
+      "message": "Ondoa uchaguzi wa dokezo lililo kwenye tupio"
+   },
+   "3734444903221631913": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}other{Unahamisha vipengee {NUM_ITEMS_2} kutoka kwenye Hifadhi za Timu na folda za pamoja, kwa hivyo watu hawataweza kuvifikia tena.}}"
+   },
+   "3751183760611784323": {
+      "message": "Kipengee kimekuzwa kutoshea upana wa skrini."
+   },
+   "3768927257183755959": {
+      "message": "Hifadhi"
+   },
+   "3787959261309150430": {
+      "message": "Ili uchore mistari, bofya aikoni ya Kalamu"
+   },
+   "3793086499925031123": {
+      "message": "Fungua upau wa kutafutia / tafuta lililotangulia"
+   },
+   "3796511349428373407": {
+      "message": "Chaguo za tarehe"
+   },
+   "37992665410817181": {
+      "message": "Imefunguliwa upya"
+   },
+   "3802992573289114390": {
+      "message": "Ufafanuzi wa \"$1​\" umesasishwa."
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3827179818223863356": {
+      "message": "Kijani Kisichokolea"
+   },
+   "383396092993661575": {
+      "message": "Ungependa kuhamishia kwenye hifadhi ya pamoja?"
+   },
+   "3845302429676793049": {
+      "message": "Kulikuwa na tatizo la kusasisha maelezo ya \"$1​\"."
+   },
+   "3852386690131857488": {
+      "message": "Ruhusu kushiriki"
+   },
+   "3856687081748327279": {
+      "message": "Kuhamisha faili kutoka hifadhi ya pamoja hubadilisha idhini ya kuzifikia na umiliki."
+   },
+   "3856960241878617076": {
+      "message": "Inapakia maoni, tafadhali subiri"
+   },
+   "3858324058837632381": {
+      "message": "Kulikuwa na tatizo la kucheza faili hii ya sauti."
+   },
+   "3869166581651870488": {
+      "message": "Maliza kuhariri"
+   },
+   "3874597373619381607": {
+      "message": "Maoni yaliyotatuliwa yameonyeshwa"
+   },
+   "3877974536163446728": {
+      "message": "Umechagua $1​, $2​"
+   },
+   "3880648579756747781": {
+      "message": "Huenda ukapoteza ruhusa ikiwa folda hii itazidi idadi ya juu zaidi ya vipengee vinavyoruhusiwa kwenye hifadhi ya pamoja. $2​Pata Maelezo Zaidi$1​"
+   },
+   "3888733084985311515": {
+      "message": "Una Kikundi cha Familia."
+   },
+   "3897281533382850749": {
+      "message": "Washa"
+   },
+   "3907816292084809686": {
+      "message": "Kitendo kimerudiwa"
+   },
+   "3909380459614154542": {
+      "message": "Nenda kwenye kiungo"
+   },
+   "3920849627538402857": {
+      "message": "Pakua"
+   },
+   "3952341864324097024": {
+      "message": "Futa matokeo ya utafutaji"
+   },
+   "3955575370175991097": {
+      "message": "Imebadili kwenda mwonekano wa lebo ya $1​"
+   },
+   "395680759377627007": {
+      "message": "Unda \"$3​$2​$1​\""
+   },
+   "397098723873502323": {
+      "message": "Nimemaliza"
+   },
+   "3974822583047850066": {
+      "message": "Ghairi"
+   },
+   "3977699855735576796": {
+      "message": "Kulikuwa na tatizo la kupakia kurasa zaidi."
+   },
+   "3981269900634596036": {
+      "message": "{numberOfNotes,plural, =1{Futa dokezo}other{Futa madokezo}}"
+   },
+   "3988418762222300024": {
+      "message": "nukta"
+   },
+   "3989925953740167133": {
+      "message": "Google Keep ingependa kutumia eneo lako kuboresha mapendekezo ya maeneo kwa ajili ya vikumbusho vya eneo."
+   },
+   "4005725939358875643": {
+      "message": "Kitendo kimetenduliwa."
+   },
+   "4020393055976236243": {
+      "message": "Umiliki utahamishwa kutoka \"$3​\" kwenye $2​ kwenda $1​."
+   },
+   "4023299615382814997": {
+      "message": "Hauwezi kubadilisha ikiwa katika Tupio"
+   },
+   "4034637528003033305": {
+      "message": "Huenda ukapoteza ruhusa ikiwa folda hii itazidi idadi ya juu zaidi ya vipengee vinavyoruhusiwa kwenye Hifadhi ya Timu. $2​Pata Maelezo Zaidi$1​"
+   },
+   "4036523543547629779": {
+      "message": "Picha"
+   },
+   "4044915502415235332": {
+      "message": "Teua dokezo lililobandikwa"
+   },
+   "4052960606031736645": {
+      "message": "{NUM_ITEMS,plural, =1{Unahamisha folda iliyo katika folda {NUM_PARENTS}}other{Unahamisha folda zilizo katika folda {NUM_PARENTS}}}"
+   },
+   "4061102590585232601": {
+      "message": "$1​ ameondolewa"
+   },
+   "4064820890482961434": {
+      "message": "Onyesha visanduku vya kuteua"
+   },
+   "4072353527895477784": {
+      "message": "Watu"
+   },
+   "407982090576503781": {
+      "message": "Ungependa kuhamishia kwenye Hifadhi Yangu?"
+   },
+   "4081524305222967804": {
+      "message": "Samawati ya Kijani"
+   },
+   "4085493778209859942": {
+      "message": "Icheze licha ya hilo"
+   },
+   "4097921967754832323": {
+      "message": "kistari"
+   },
+   "411137507354526852": {
+      "message": "Mwezi"
+   },
+   "4111452225725405610": {
+      "message": "Nyota iliondolewa kwenye \"$1​\"."
+   },
+   "4117632433281998979": {
+      "message": "Kila mwezi"
+   },
+   "4122858386674768321": {
+      "message": "Hamisha kutoka $3​$2​$1​"
+   },
+   "4145164831312518309": {
+      "message": "Bonyeza @ ili utume maoni"
+   },
+   "4155905925766040098": {
+      "message": "Onyesho la kuchungulia halipo"
+   },
+   "4157091150222353401": {
+      "message": "Maoni huhifadhiwa kwenye faili za DOCX, PPTX na XLSX na zinaonekana katika Microsoft Office"
+   },
+   "4167720915844687374": {
+      "message": "Ili ufute umbo, bofya Kifutio."
+   },
+   "4174786386751618325": {
+      "message": "Dokezo la picha"
+   },
+   "4182427157920112948": {
+      "message": "kiwimbi"
+   },
+   "4186465168527990324": {
+      "message": "Imefanikiwa kutoa \"$1​\" hadi kwenye $2​"
+   },
+   "4194905394104253796": {
+      "message": "Weka mipangilio"
+   },
+   "4204345954541079744": {
+      "message": "Bado hakuna madokezo yenye lebo hii"
+   },
+   "4206529410529166231": {
+      "message": "{NUM_ITEMS,plural, =1{Unahamisha kipengee kilicho katika folda {NUM_PARENTS}}other{Unahamisha vipengee vilivyo katika folda {NUM_PARENTS}}}"
+   },
+   "4209658291185545281": {
+      "message": "Kitendo hakikuweza kubatilishwa"
+   },
+   "4211182812451835307": {
+      "message": "Anaweza Kubadilisha"
+   },
+   "4214190403999219403": {
+      "message": "Kuza"
+   },
+   "4216242742234357612": {
+      "message": "Chagua madokezo yote"
+   },
+   "4216628828665009319": {
+      "message": "Kijani cha Parachichi"
+   },
+   "4227185265023581008": {
+      "message": "Kalenda ya Google"
+   },
+   "4228870062013120023": {
+      "message": "Nenda kwenye dokezo linalofuata/lililotangulia"
+   },
+   "4230101516585408149": {
+      "message": "Andika dokezo jipya"
+   },
+   "4236714142889891754": {
+      "message": "Ungependa kuhamisha kutoka hifadhi moja ya pamoja kwenda nyingine?"
+   },
+   "4239183034054216803": {
+      "message": "Hudhurungi"
+   },
+   "4267845092591696061": {
+      "message": "Tia/ondoa nyota kwenye vipengee vilivyochaguliwa"
+   },
+   "426927371216979233": {
+      "message": "Mistari mlalo"
+   },
+   "4293996570221590891": {
+      "message": "Nyeupe"
+   },
+   "4296310694082659873": {
+      "message": "Kifutio"
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4310202846681054741": {
+      "message": "{numberOfPreviews,plural, =1{Chaguo la kukagua kiungo limeondolewa}other{Chaguo # za kukagua viungo zimeondolewa}}"
+   },
+   "4318861667254318892": {
+      "message": "Google Video"
+   },
+   "4320831042030778": {
+      "message": "Ghairi"
+   },
+   "4320942249997687388": {
+      "message": "End"
+   },
+   "4321382260116636620": {
+      "message": "Chagua dokezo"
+   },
+   "4332252081504252077": {
+      "message": "Lo!"
+   },
+   "433537592689162064": {
+      "message": "Pata maelezo zaidi"
+   },
+   "4343825450663233452": {
+      "message": "Kuangalia"
+   },
+   "4343836986248234462": {
+      "message": "Kipengee cha orodha"
+   },
+   "4343848624651344174": {
+      "message": "Mchana"
+   },
+   "435214284915110062": {
+      "message": "Fungua upau wa kutafutia"
+   },
+   "435444400175963053": {
+      "message": "Vitu $1​ vimehamishwa hadi $2​."
+   },
+   "4356312843186491987": {
+      "message": "Hamisha"
+   },
+   "4357246389840951053": {
+      "message": "Bado huwezi kuhamishia baadhi ya vipengee vilivyo na hati zilizoambatishwa kwenye hifadhi za pamoja."
+   },
+   "4391715930031906467": {
+      "message": "Tafuta inayofuata"
+   },
+   "4397482594800054550": {
+      "message": "Kulikuwa na tatizo la kubadilisha jina la \"$1​\"."
+   },
+   "4412626362660239325": {
+      "message": "Panga katika Hifadhi ya Google"
+   },
+   "4422985761498356257": {
+      "message": "Fungua ukitumia"
+   },
+   "4429542915339609008": {
+      "message": "Samahani, huwezi kufungua faili nyingi ukitumia programu hii."
+   },
+   "4439831283519683004": {
+      "message": "Kijivu"
+   },
+   "4448871104213529122": {
+      "message": "Ficha maelezo"
+   },
+   "4457424709416639982": {
+      "message": "Ongeza kwenye Hifadhi Yangu"
+   },
+   "4486429060311743289": {
+      "message": "Futa uteuzi"
+   },
+   "4494250072784000771": {
+      "message": "Stylus inapatikana. Kipengele cha Kugeuza upande kwa Kugusa kimewashwa."
+   },
+   "45228242181482134": {
+      "message": "Cheza"
+   },
+   "4533605085334699862": {
+      "message": "Manukuu"
+   },
+   "4543077011795639870": {
+      "message": "Kipengee kimewekewa tena ujongezi."
+   },
+   "4546909961510778468": {
+      "message": "Hifadhi"
+   },
+   "4550209323331625907": {
+      "message": "$2​Pata maelezo zaidi$1​"
+   },
+   "4557086341175267918": {
+      "message": "Huwezi kushiriki nje ya mtandao"
+   },
+   "4558568516353053251": {
+      "message": "Wanaoangalia faili hii wanaweza kuona maoni na mapendekezo."
+   },
+   "4564682305303579317": {
+      "message": "Endelea"
+   },
+   "456512308416555173": {
+      "message": "Vitabu"
+   },
+   "4566838580250578446": {
+      "message": "{every,plural, =1{Hujirudia kila mwaka}other{Hujirudia kila baada ya miaka #}}"
+   },
+   "4583714435275461910": {
+      "message": "kipengee kikuu cha orodha"
+   },
+   "4586373282767984140": {
+      "message": "Manjano"
+   },
+   "4595551195988564947": {
+      "message": "Orodha ya Ununuzi katika programu ya Mratibu wa Google inabadilika."
+   },
+   "4602655470033495470": {
+      "message": "Ongeza madokezo, orodha, michoro, picha, na sauti kwenye Google Keep."
+   },
+   "4607656353105320648": {
+      "message": "{count,plural, =1{Je, unataka kufuta dokezo hili kabisa?}other{Je, unataka kufuta madokezo haya kabisa?}}"
+   },
+   "4607802784047113873": {
+      "message": "Ongeza mshiriki"
+   },
+   "4608848277887462246": {
+      "message": "Laha zaidi"
+   },
+   "461126197624379601": {
+      "message": "Gusa hapa ili ujadili faili hii na wengine"
+   },
+   "4620034373159179678": {
+      "message": "Ukurasa wa $1​ kati ya $2​"
+   },
+   "4632830890362652221": {
+      "message": "{NUM_ITEMS,plural, =1{Unahamisha kipengee kilicho katika folda moja}other{Unahamisha vipengee vilivyo katika folda moja}}"
+   },
+   "4642196066412650732": {
+      "message": "Huwezi kushiriki na watumiaji wafuatao kwa sababu msimamizi wao amezima uwezo wa kushiriki na shirika lao na msimamizi wako amezima uwezo wa kushiriki nje ya shirika lako."
+   },
+   "4643940860676429496": {
+      "message": "Inahifadhi..."
+   },
+   "4671836579708244357": {
+      "message": "Anwani"
+   },
+   "4675792829115971960": {
+      "message": "Tutaripoti dokezo hili na kuliondoa kwenye akaunti yako."
+   },
+   "4685321580747790677": {
+      "message": "{every,plural, =1{Hujirudia kila wiki siku ya {days}}other{Hujirudia kila baada ya wiki # siku ya {days}}}"
+   },
+   "4691283408020124345": {
+      "message": "Mwonekano wa Orodha"
+   },
+   "4697169479015785830": {
+      "message": "Fungua Zana ya Kaligrafia na Kiteuzi cha Saizi"
+   },
+   "4697673185436885400": {
+      "message": "Njia ya mkato ya kibodi ya $1​ ya kivinjari cha $2​ ilibatilishwa na Majedwali ya Google"
+   },
+   "4698144269846224816": {
+      "message": "Saizi 1"
+   },
+   "4699778906119153977": {
+      "message": "Tafuta"
+   },
+   "4704493722060638379": {
+      "message": "Bonyeza Shift pamoja na N ili uone sehemu iliyotangulia na Shift pamoja na P ili uone sehemu inayofuata"
+   },
+   "4722167255291887189": {
+      "message": "Saizi 2"
+   },
+   "4734349318830134239": {
+      "message": "Itakamilika mnamo"
+   },
+   "4738612839683751348": {
+      "message": "Kipengee hiki hakiwezi kujongezwa zaidi."
+   },
+   "4740100782728373253": {
+      "message": "Weka kwenye Hifadhi"
+   },
+   "4748046231232264180": {
+      "message": "Fomu za Google"
+   },
+   "4751144871302640150": {
+      "message": "Zilizoshirikiwa nami"
+   },
+   "4751202914935960324": {
+      "message": "Anwani hii ya barua pepe tayari ipo"
+   },
+   "4752655540567953719": {
+      "message": "Nafasi ya $1​"
+   },
+   "4762625944764691132": {
+      "message": "Menyu kuu"
+   },
+   "47670360985205683": {
+      "message": "Faili inayoitwa \"$1​\" ($2​) imepitisha ukubwa wa juu wa faili ambao Google inaweza kukagua. Faili hii huenda ikadhuru kompyuta yako, kwa hivyo icheze kama tu unaelewa hatari za kufanya hivyo."
+   },
+   "4767722428137216885": {
+      "message": "Ghairi"
+   },
+   "477328789314249432": {
+      "message": "Tafuta madokezo"
+   },
+   "4775368111547931093": {
+      "message": "Hakuna maelezo"
+   },
+   "4780778609011268862": {
+      "message": "Huwezi kuhamisha faili kwa sababu hifadhi hii ya pamoja tayari ina idadi ya juu zaidi ya faili ambazo hifadhi ya pamoja inaweza kuweka."
+   },
+   "4805047680716507619": {
+      "message": "- Hamishia kwenye:"
+   },
+   "4806763987633034948": {
+      "message": "Sahihi ya PKCS7"
+   },
+   "4807444103404336088": {
+      "message": "Kulikuwa na tatizo la kuongeza nyota kwenye \"$1​\"."
+   },
+   "4816888965396680834": {
+      "message": "Badilisha na ushirikiane na wengine katika muda halisi ukitumia faili za $2​ katika Google $1​"
+   },
+   "4821130290026382049": {
+      "message": "Njia maarufu za mkato za kibodi"
+   },
+   "4833214200453019325": {
+      "message": "$1​ kati ya $2​"
+   },
+   "4839460587397079680": {
+      "message": "Video"
+   },
+   "4840513623749850224": {
+      "message": "Filamu"
+   },
+   "4847795993918486929": {
+      "message": "Imeshindwa kunakili maandishi ya picha. Jaribu tena baadaye."
+   },
+   "4853788427396558692": {
+      "message": "MB $1​"
+   },
+   "4858389278403807208": {
+      "message": "Dokezo lililo katika Tupio"
+   },
+   "4864051612562026766": {
+      "message": "{count,plural, =1{1 imechaguliwa }other{# zimechaguliwa}}"
+   },
+   "4878012031550736317": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Watu hawataweza kufikia faili hii ikiwa si washiriki wa \"{TEAM_DRIVE_NAME}\".}other{Watu hawataweza kufikia faili hizi ikiwa si washiriki wa \"{TEAM_DRIVE_NAME}\".}}"
+   },
+   "490045476479394048": {
+      "message": "Angazia maandishi unayotaka kutolea maoni"
+   },
+   "4906669330059413958": {
+      "message": "Wasilisha nenosiri"
+   },
+   "4907349694646937491": {
+      "message": "Dokezo limehamishiwa kwenye faharasa ya $1​"
+   },
+   "4915450884407029247": {
+      "message": "Lebo ya $1​ imeongezwa."
+   },
+   "4918998818369420588": {
+      "message": "Ripoti matumizi mabaya"
+   },
+   "4930422592340561418": {
+      "message": "Hifadhi Yangu"
+   },
+   "4930506384627295710": {
+      "message": "Mipangilio"
+   },
+   "4937266179792749481": {
+      "message": "Za hivi majuzi"
+   },
+   "4955094356920130803": {
+      "message": "Kaharabu"
+   },
+   "4957674814179289955": {
+      "message": "Nenda kwenye kipengee cha orodha kinachofuata/kilichotangulia"
+   },
+   "4963533275503057654": {
+      "message": "Inaunda kijipicha..."
+   },
+   "4963784280521435720": {
+      "message": "Inahifadhi..."
+   },
+   "4974059227183970715": {
+      "message": "Unaweza pia kuongeza lebo kwa kuchapa '#'."
+   },
+   "4974261966265341751": {
+      "message": "Zima mandhari meusi"
+   },
+   "4982284738093713321": {
+      "message": "Mratibu"
+   },
+   "4988132901627446385": {
+      "message": "Paneli ya maelezo imepanuliwa."
+   },
+   "5000971639019912199": {
+      "message": "$2​Masharti$1​"
+   },
+   "5006765610090288212": {
+      "message": "Imeweka rangi ya $1​"
+   },
+   "5008901799534614532": {
+      "message": "Futa"
+   },
+   "5009448218905630614": {
+      "message": "Ondoa"
+   },
+   "5011858093760184160": {
+      "message": "Ondoa nyota"
+   },
+   "5013331898336483156": {
+      "message": "Ungependa kuhamishia kwenye Hifadhi Yangu katika kikoa kipya?"
+   },
+   "5023623739220371850": {
+      "message": "Imeshindwa kuthibitisha. Mabadiliko yatasawazishwa utakapoingia katika akaunti."
+   },
+   "5041572047197549869": {
+      "message": "Katika siku sawa kila mwezi"
+   },
+   "5045725997997672553": {
+      "message": "{weekNumber,plural, =1{Katika {day} ya kwanza ya mwezi}=2{Katika {day} ya pili ya mwezi}=3{Katika {day} ya tatu ya mwezi}=4{Katika {day} ya nne ya mwezi}other{Katika {day} ya mwisho ya mwezi}}"
+   },
+   "5046371569383796818": {
+      "message": "Usiondoe"
+   },
+   "5052461293250181960": {
+      "message": "ukurasa chini"
+   },
+   "5060107422621709815": {
+      "message": "Imeshindwa kuonyesha upya"
+   },
+   "5075841894330153061": {
+      "message": "Ili ufunge sehemu ya kuchora, nenda kwenye sehemu ya juu kushoto na ubofye Rudi Nyuma"
+   },
+   "5078184843381528205": {
+      "message": "Bandika dokezo"
+   },
+   "5085332075590890665": {
+      "message": "Tendua"
+   },
+   "5086862627563516607": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Washiriki wa \"{TEAM_DRIVE_NAME}\" watapata idhini ya kufikia kipengee hiki.}other{Washiriki wa \"{TEAM_DRIVE_NAME}\" watapata idhini ya kufikia vipengee hivi.}}"
+   },
+   "5089697363226053379": {
+      "message": "Hamishia kwenye"
+   },
+   "5094400861508407603": {
+      "message": "Kitone kimeondolewa"
+   },
+   "5095987896933771566": {
+      "message": "Chapisha hati"
+   },
+   "509815948423424872": {
+      "message": "Usogezaji"
+   },
+   "5098941979861776792": {
+      "message": "Enter"
+   },
+   "5121976648047240846": {
+      "message": "Ondoa lebo"
+   },
+   "5130903421326358933": {
+      "message": "Kulikuwa na tatizo la kuhifadhi kiambatisho kwenye Hifadhi ya Google."
+   },
+   "5134649253619244584": {
+      "message": "Futa lebo"
+   },
+   "5140285776541296873": {
+      "message": "Maalum"
+   },
+   "5140450179685369890": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Folda {NUM_ITEMS_2} imehamishiwa kwenye {XXX_1}.}other{Folda {NUM_ITEMS_2} zimehamishiwa kwenye {XXX_2}.}}"
+   },
+   "5151247077945318396": {
+      "message": "Hitilafu imetokea wakati wa kuchagua faili ili uidondoe."
+   },
+   "5159511879001144721": {
+      "message": "Nili Iliyoiva"
+   },
+   "5167365673547406876": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Washiriki wa \"{TEAM_DRIVE_NAME}\" wataweza kufikia.}other{Washiriki wa \"{TEAM_DRIVE_NAME}\" wataweza kufikia.}}"
+   },
+   "5178674191443894176": {
+      "message": "Lebo"
+   },
+   "5178939467831590680": {
+      "message": "Ficha maelezo ya utatuzi wa Kitazamaji"
+   },
+   "5180454621500142444": {
+      "message": "Rejesha"
+   },
+   "5180989337128758117": {
+      "message": "bano la kushoto"
+   },
+   "5182569285908080938": {
+      "message": "Chaguo za tarehe ya mwisho wa marudio"
+   },
+   "5184692850089055965": {
+      "message": "Nakili maandishi ya picha"
+   },
+   "5184785218378634051": {
+      "message": "Kimepengee kimerejeshwa kwenye ukubwa wa kawaida."
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Upau wa kichupo cha paneli ya maelezo. Bonyeza vitufe vya kushoto na kulia ili kubadili kutoka kichupo kimoja hadi kingine."
+   },
+   "5202835861850747976": {
+      "message": "$2​Pata Maelezo Zaidi$1​"
+   },
+   "5204391636475413312": {
+      "message": "Hifadhi"
+   },
+   "5238284741118437734": {
+      "message": "Tendua"
+   },
+   "5238307666527496111": {
+      "message": "SAWA"
+   },
+   "5238371081785912565": {
+      "message": "Fungua ukitumia $1​"
+   },
+   "5255388116256536182": {
+      "message": "Tumia vitufe vya kishale ili uchague visanduku vya kutolea maoni. Shikilia kitufe cha shift huku ukibonyeza vitufe vya kishale ili upanue uteuzi. Bonyeza kitufe cha Enter ili uandike maoni, au kitufe cha Escape ili ughairi."
+   },
+   "5259541708332520733": {
+      "message": "Chanzo kimeondolewa"
+   },
+   "5271615049826004958": {
+      "message": "Chaguo za mwonekano wa kuchungulia viungo"
+   },
+   "527438013974545289": {
+      "message": "Tunakuletea mandhari meusi"
+   },
+   "5281121179861637423": {
+      "message": "Unahitaji nenosiri ili ufikie $1​. Tafadhali weka nenosiri"
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5292097099562224381": {
+      "message": "Je, ungependa kusafisha tupio?  Madokezo yote yaliyo katika Tupio yatafutwa kabisa."
+   },
+   "5299648222246616124": {
+      "message": "alama ya mtajo"
+   },
+   "5300527252159851865": {
+      "message": "Maudhui ya faili hayalingani na muundo wa faili unaotarajiwa."
+   },
+   "5310593920481358659": {
+      "message": "Mandhari"
+   },
+   "5311386381313171872": {
+      "message": "Hifadhi ya Google"
+   },
+   "5320475549855398784": {
+      "message": "Mchoro huu utapatikana utakapokuwa mtandaoni."
+   },
+   "5321772883765574323": {
+      "message": "\"$1​\" imehamishwa kutoka $2​ hadi $3​."
+   },
+   "5334959887390704534": {
+      "message": "Tutafuta lebo hii na tuiondoe kwenye madokezo yako yote ya Google Keep. Madokezo yako hayatafutwa."
+   },
+   "5336801339221383042": {
+      "message": "Javascript"
+   },
+   "5336924963122494935": {
+      "message": "Chagua hii"
+   },
+   "534191528712675978": {
+      "message": "Pause"
+   },
+   "534228323125524312": {
+      "message": "Fifiza"
+   },
+   "5353129315502554762": {
+      "message": "Jedwali la Muundo"
+   },
+   "5362121973783326712": {
+      "message": "Kamera"
+   },
+   "5362962746518601227": {
+      "message": "{NUM_ITEMS,plural, =1{Unahamisha faili iliyo katika folda moja}other{Unahamisha faili zilizo katika folda moja}}"
+   },
+   "5363853533596749934": {
+      "message": "Weka jina la lebo"
+   },
+   "5366505386236199032": {
+      "message": "YouTube"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5392844646168201484": {
+      "message": "Saizi 3"
+   },
+   "5394695048211047984": {
+      "message": "Ongeza tarehe"
+   },
+   "5398036630337418486": {
+      "message": "Fungua Hati"
+   },
+   "5403636185480096151": {
+      "message": "Televisheni"
+   },
+   "540596856674438371": {
+      "message": "Huwezi kushiriki kwa sababu kushiriki kumezimwa."
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "5413225497191133249": {
+      "message": "Bandika au ubandue madokezo"
+   },
+   "5422660126805186552": {
+      "message": "Furahia hali bora zaidi ya kusoma. Iwashe au uizime katika Mipangilio."
+   },
+   "5423742603774911808": {
+      "message": "Orodha ni kubwa mno."
+   },
+   "5435749276779042277": {
+      "message": "NA VINGINE $1​"
+   },
+   "5447119197363232006": {
+      "message": "Onyesha kwenye Hifadhi"
+   },
+   "5455566801812656827": {
+      "message": "CHACHE"
+   },
+   "5465081454525683943": {
+      "message": "Dokezo hili halijashirikiwa tena na akaunti yako. Mwombe mmiliki ufikiaji kwa dokezo hili, au ubadili akaunti utumie iliyopewa ruhusa."
+   },
+   "5467649767578147801": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Watu hawataweza kufikia faili hii ikiwa si washiriki wa \"{TEAM_DRIVE_NAME}\", au ikiwa wako nje ya {DOMAIN_NAME}.}other{Watu hawataweza kufikia faili hizi ikiwa si washiriki wa \"{TEAM_DRIVE_NAME}\", au ikiwa wako nje ya {DOMAIN_NAME}.}}"
+   },
+   "546766753072101168": {
+      "message": "Lebo"
+   },
+   "5478662967017843220": {
+      "message": "Samawati iliyokolea"
+   },
+   "5480497191725157666": {
+      "message": "Esc"
+   },
+   "5482604275203517054": {
+      "message": "kushoto"
+   },
+   "5503885447744017882": {
+      "message": "Ungependa kuhamishia kwenye $1​ nje ya kikoa cha $2​?"
+   },
+   "5506390497558702263": {
+      "message": "{count,plural, =1{Dokezo limetolewa kwenye kumbukumbu na kubandikwa}other{Madokezo # yametolewa kwenye kumbukumbu na kubandikwa}}"
+   },
+   "5520112019886360037": {
+      "message": "Funga"
+   },
+   "5534694255293809224": {
+      "message": "Bonyeza $1​ pamoja na Enter ili uache kubadilisha dokezo"
+   },
+   "5539958940810433464": {
+      "message": "Tupa dokezo"
+   },
+   "5542817571710587822": {
+      "message": "Faili ina picha nyingi mno."
+   },
+   "5545146751578623220": {
+      "message": "Caps-Lock"
+   },
+   "5555182241047709329": {
+      "message": "Chagua eneo"
+   },
+   "5562491070882550010": {
+      "message": "Baada ya kufutwa, madokezo yaliyoshirikiwa hayataonekana na mtu yeyote ambaye dokezo lilishirikiwa naye."
+   },
+   "556742419793425318": {
+      "message": "Tupa"
+   },
+   "5570885401952336951": {
+      "message": "Kumbukumbu ya seva teja"
+   },
+   "5578032872220617725": {
+      "message": "Bonyeza $1​ pamoja na A ili uchague madokezo yote"
+   },
+   "5581834527128285229": {
+      "message": "Kulikuwa na tatizo la kuongeza \"$1​\" kwenye Hifadhi Yangu."
+   },
+   "5592884381280360832": {
+      "message": "Nimeelewa"
+   },
+   "5598649706113950710": {
+      "message": "Kihariri"
+   },
+   "5601530442010506564": {
+      "message": "Nimeelewa"
+   },
+   "5603830044099155569": {
+      "message": "Bonyeza J ili uone dokezo lililotangulia na K ili uone linalofuata"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "5648022012893174586": {
+      "message": "Ili uchore mistari minene, bofya aikoni ya Kalamu Nene"
+   },
+   "5652536812290902558": {
+      "message": "Pakua Faili ya Sauti"
+   },
+   "5678095606167600931": {
+      "message": "Kitone kimewekwa"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5687611645532246887": {
+      "message": "Albamu"
+   },
+   "5714240424645614611": {
+      "message": "Kifurushi cha Android"
+   },
+   "5714760273477184428": {
+      "message": "Tumia vishale kuangazia sehemu unayotaka kuitolea maoni kisha bonyeza \"enter\""
+   },
+   "5738003914096572768": {
+      "message": "Vilivyotumwa"
+   },
+   "5755541943799933389": {
+      "message": "Nyota iliongezwa kwenye \"$1​\"."
+   },
+   "5772465571783741830": {
+      "message": "Hitilafu imetokea wakati wa kuunda njia ya mkato ya \"$1​\""
+   },
+   "577619047319778196": {
+      "message": "Futa Uchaguzi"
+   },
+   "5801257863595278616": {
+      "message": "Umesogeza uteuzi kushoto."
+   },
+   "5808038805122520160": {
+      "message": "Mchoro huu umefikia kikomo cha ukubwa unaoruhusiwa."
+   },
+   "5813834209240603556": {
+      "message": "Bonyeza N ili uone kipengee kilichotangulia na P ili uone kinachofuata"
+   },
+   "5820033033803019104": {
+      "message": "Panga"
+   },
+   "5826302153453971149": {
+      "message": "Waridi Isiyokolea"
+   },
+   "5840202488368071194": {
+      "message": "Dokezo jipya lenye picha"
+   },
+   "5840330517914556080": {
+      "message": "Fifiza"
+   },
+   "5854158607727111728": {
+      "message": "Tab"
+   },
+   "5869813956121628651": {
+      "message": "Kipengele cha kutoa maoni hakipo"
+   },
+   "5870134033985574990": {
+      "message": "Inatolewa..."
+   },
+   "5871692308013280837": {
+      "message": "Angalia aina"
+   },
+   "5871966496153339793": {
+      "message": "Inaonyesha kijipicha cha video $1​"
+   },
+   "5876498556450482026": {
+      "message": "Ili uongeze rangi, bofya aikoni ya Zana ya Kuangazia"
+   },
+   "5895666393386604578": {
+      "message": "Ili ujongeze, buruta vipengee kwenye orodha yako au utumie njia ya mkato $1​."
+   },
+   "5906730626678011496": {
+      "message": "Ongeza njia ya mkato kwenye Hifadhi"
+   },
+   "5909490544352162901": {
+      "message": "Mwombe mmiliki ufikiaji kwa dokezo hili, au ubadilishe hadi kwenye akaunti iliyopewa ruhusa. Umeingia kwenye akaunti kama $1​."
+   },
+   "5911012384539794869": {
+      "message": "Haikuweza kuanzisha kazi ya kutoa."
+   },
+   "591481266986424156": {
+      "message": "Njia hii ya mkato ya kibodi kwa sasa inatumiwa na kivinjari cha $1​ ya $2​"
+   },
+   "5916010927050975496": {
+      "message": "KB $1​"
+   },
+   "5917528552332886959": {
+      "message": "Onyesha maoni yaliyotatuliwa"
+   },
+   "5947790263929501779": {
+      "message": "Imegeuzwa kuwa kitone"
+   },
+   "5949528478488617689": {
+      "message": "Ruhusa ya Kupakua"
+   },
+   "5950887255133612666": {
+      "message": "Haijaanza."
+   },
+   "5954965790623966933": {
+      "message": "Nyekundu Iliyokolea"
+   },
+   "5961691090101357621": {
+      "message": "Turubai imepanuliwa upande wa chini."
+   },
+   "5961981688037913870": {
+      "message": "$1​ imeongezwa"
+   },
+   "5965683144165568126": {
+      "message": "Panga kipengee cha orodha upya"
+   },
+   "5969696744752069015": {
+      "message": "Hakuna onyesho la kuchungulia."
+   },
+   "597927944425927829": {
+      "message": "Umiliki utahamishiwa kwako kutoka kwenye \"$1​\"."
+   },
+   "5984398071085567332": {
+      "message": "Google Fusion Tables"
+   },
+   "5987609488177213747": {
+      "message": "Unda lebo"
+   },
+   "5989809255170931770": {
+      "message": "{time,plural, =1{ Google Keep itasasisha baada ya sekunde #}other{ Google Keep itasasisha baada ya sekunde #}}"
+   },
+   "5994697604396931641": {
+      "message": "Ondoa Vyote"
+   },
+   "5999179030782577147": {
+      "message": "Bonyeza # ili uweke dokezo kwenye tupio"
+   },
+   "6009962986062136164": {
+      "message": "Inapakia $1​."
+   },
+   "6011637630664474614": {
+      "message": "Nafasi"
+   },
+   "6011708967018957768": {
+      "message": "Je, ungependa kuhamisha umiliki wa hifadhi ya pamoja?"
+   },
+   "6027516495119898580": {
+      "message": "Vikumbusho vya mahali havipatikani"
+   },
+   "6030537159236285525": {
+      "message": "Hamisha kipengee cha orodha hadi kwenye nafasi inayofuata/iliyotangulia"
+   },
+   "60305871484579258": {
+      "message": "Alt"
+   },
+   "6033916931543811803": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Folda {NUM_ITEMS_2} imehamishiwa kwenye {XXX_2} kutoka {XXX_1}.}other{Folda {NUM_ITEMS_2} zimehamishiwa kwenye {XXX_4} kutoka {XXX_3}.}}"
+   },
+   "6043578784980337112": {
+      "message": "Faili $1​ zimehamishwa hadi $2​."
+   },
+   "6049952042443321325": {
+      "message": "Jedwali la mikato ya kibodi"
+   },
+   "6062216008944363143": {
+      "message": "{weekNumber,plural, =1{Hurudiwa kila miezi {every} katika {day} ya kwanza ya mwezi}=2{Hurudiwa kila miezi {every} katika {day} ya pili ya mwezi}=3{Hurudiwa kila miezi {every} katika {day} ya tatu ya mwezi}=4{Hurudiwa kila miezi {every} katika {day} ya nne ya mwezi}other{Hurudiwa kila miezi {every} katika {day} ya mwisho ya mwezi}}"
+   },
+   "6069780031254134657": {
+      "message": "Tia alama kuwa kimekamilika"
+   },
+   "6087078248621415351": {
+      "message": "Ilibadilishwa $1​"
+   },
+   "6100883940579706314": {
+      "message": "Kukagua kiungo"
+   },
+   "6103793971765619589": {
+      "message": "Huwezi kushiriki na watumiaji wafuatao kwa sababu msimamizi wao amezima uwezo wa kushiriki na shirika lao."
+   },
+   "6105571474005679446": {
+      "message": "Kulikuwa na tatizo la onyesho la kuchungulia."
+   },
+   "6113237889871930608": {
+      "message": "Dokezo lisilo na chochote"
+   },
+   "6118623991445349480": {
+      "message": "Ukurasa $1​"
+   },
+   "6122643025527543706": {
+      "message": "Ctrl"
+   },
+   "6127325177382263770": {
+      "message": "URL"
+   },
+   "6128550071219729739": {
+      "message": "Picha imefutwa"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6149175749937815029": {
+      "message": "Angalia vipengee vyote"
+   },
+   "6159229289552931928": {
+      "message": "Je, unataka kuhamishia kwenye folda ya pamoja?"
+   },
+   "616807262818311711": {
+      "message": "Aina"
+   },
+   "6176354714840789272": {
+      "message": "Unaweza pia kuhifadhi viungo ili uvitumie baadaye kwa kutumia&nbsp;$2​Kiendelezi cha Google Keep cha Chrome$1​."
+   },
+   "6186753450686672643": {
+      "message": "{every,plural, =1{Hurudiwa kila siku}other{Hurudiwa kila baada ya siku #}}"
+   },
+   "6189397065139465013": {
+      "message": "Kila"
+   },
+   "6201176165479907499": {
+      "message": "{count,plural, =1{Dokezo limebandikwa}other{Madokezo # yamebandikwa}}"
+   },
+   "6203260615455347677": {
+      "message": "Numbers"
+   },
+   "6209117354086898503": {
+      "message": "Rudi Nyuma"
+   },
+   "6211895332551673425": {
+      "message": "Imeongezwa kwenye $2​Hifadhi Yangu$1​"
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6223530531885788421": {
+      "message": "Inaongeza njia ya mkato ya Hifadhi..."
+   },
+   "6224687211096863620": {
+      "message": "Mtu yeyote"
+   },
+   "6225875898439047571": {
+      "message": "Kataa"
+   },
+   "6231442995102088007": {
+      "message": "Mambo mapya katika Google Keep"
+   },
+   "6252259197986158120": {
+      "message": "Jana"
+   },
+   "6263940822259442857": {
+      "message": "Ficha visanduku vya kuteua"
+   },
+   "6286379137937560558": {
+      "message": "Makala"
+   },
+   "6286806453721792102": {
+      "message": "Panga katika Hifadhi ya Google"
+   },
+   "6305748545202493254": {
+      "message": "Onyesha/Ficha kidirisha cha maelezo"
+   },
+   "6306268376900894985": {
+      "message": "Hutokea mpaka {endDate}"
+   },
+   "6324768448533022780": {
+      "message": "$1​ $2​"
+   },
+   "6347484050944915390": {
+      "message": "Ombi limetumwa. Utapokea barua pepe litakapoidhinishwa."
+   },
+   "6352952829934775705": {
+      "message": "MENGINEYO"
+   },
+   "6366376928558090914": {
+      "message": "Vyakula"
+   },
+   "6371576811194810854": {
+      "message": "Baada ya"
+   },
+   "6375244206466599493": {
+      "message": "Mwaka"
+   },
+   "6375395544374251820": {
+      "message": "Kulikuwa na tatizo la kupakia kurasa zaidi. Inajaribu tena..."
+   },
+   "6377664889539934": {
+      "message": "Chora kwa Kugusa"
+   },
+   "6381941041429900831": {
+      "message": "Ongeza mshiriki"
+   },
+   "6386587519843563719": {
+      "message": "Faili za mfumo wa jozi"
+   },
+   "639451288140270562": {
+      "message": "Imenakiliwa kwenye Hati za Google"
+   },
+   "6394816510866826521": {
+      "message": "Jaribio la kindani"
+   },
+   "6402092370576716734": {
+      "message": "Tupa Taka"
+   },
+   "6413404795391222793": {
+      "message": "Tunga orodha mpya"
+   },
+   "6416495701611778255": {
+      "message": "Programu za wengine zinazopendekezwa"
+   },
+   "6417706204201069253": {
+      "message": "Madokezo yaliyofutwa hayataonekana na mtu yeyote ambaye yalishirikiwa naye."
+   },
+   "6424277546995954045": {
+      "message": "Kipengele cha kubatilisha kibodi hakifanyi kazi katika kivinjari cha sasa.\nIli kuwasha kipengele hiki, badilisha utumie Chrome, Firefox, IE/Edge au Safari"
+   },
+   "6426979759685079955": {
+      "message": "Onyesha maoni ambayo hayatumiki tena"
+   },
+   "6428000916830484004": {
+      "message": "Hudhurungi"
+   },
+   "6432019580434957057": {
+      "message": "Sauti"
+   },
+   "6443103650988201046": {
+      "message": "Shirikishi"
+   },
+   "6443615802319581315": {
+      "message": "{NUM_ITEMS,plural, =1{Huna ruhusa ya kuhamisha faili hii kutoka kwenye folda ilimo sasa. Ongeza faili hii kwenye {START_SPAN_1}{NAME}{END_SPAN} badala yake.}other{Huna ruhusa ya kuhamisha faili hizi kutoka kwenye folda zilimo sasa. Ongeza faili hizi kwenye {START_SPAN_2}{NAME}{END_SPAN} badala yake.}}"
+   },
+   "6450508807204492448": {
+      "message": "aikoni ya $1​"
+   },
+   "6457802200418354862": {
+      "message": "Wanaoangalia wanaweza kupakua"
+   },
+   "6459405233858728718": {
+      "message": "Slaidi za Google"
+   },
+   "6473102097014191455": {
+      "message": "Dokezo lenye mchoro"
+   },
+   "6477306554098527424": {
+      "message": "Mratibu wa Google"
+   },
+   "6480376252068839019": {
+      "message": "Fungua chaguo za gridi"
+   },
+   "6487295087519678926": {
+      "message": "Upakiaji kwenye Hifadhi"
+   },
+   "6490084340347327400": {
+      "message": "Bonyeza $1​ pamoja na Shift na 8 ili ugeuze kati ya dokezo na orodha"
+   },
+   "6497197865876438261": {
+      "message": "Muziki"
+   },
+   "6507257480072167483": {
+      "message": "Jina la lebo limebadilishwa likawa $1​."
+   },
+   "6510131849363684615": {
+      "message": "Kesho"
+   },
+   "6513721414466645971": {
+      "message": "Umejiondoa"
+   },
+   "6524849072392100692": {
+      "message": "Folda ya Hifadhi ya Google"
+   },
+   "653160061888539741": {
+      "message": "Kidhibiti cha hatua"
+   },
+   "6571686604846453345": {
+      "message": "Kulikuwa na tatizo la kuongeza kipengee hiki kwenye Hifadhi ya Google."
+   },
+   "6578339688410021742": {
+      "message": "Washiriki wote wa \"$1​\" wataweza kufikia vipengee."
+   },
+   "6579707685908557993": {
+      "message": "Jioni"
+   },
+   "6588176324871799870": {
+      "message": "Google Apps Script"
+   },
+   "6595703969647338657": {
+      "message": "{count,plural, =1{Kidokezo kimeundwa}other{Madokezo # yameundwa}}"
+   },
+   "6618562607681757575": {
+      "message": "Usiondoe kwenye folda yoyote, ongeza tu kwenye $3​$2​$1​"
+   },
+   "6622304228074863427": {
+      "message": "Programu"
+   },
+   "6627510416186113122": {
+      "message": "Samawati ya Kijani Isiyokolea"
+   },
+   "6664835828596108553": {
+      "message": "Chaguo"
+   },
+   "6667440728495437281": {
+      "message": "Tatizo limetokea wakati wa kuchungulia hati hii. Inajaribu tena..."
+   },
+   "6674095299257911962": {
+      "message": "Kipengee hiki kina maudhui yaliyowekewa mipaka, kwa hivyo hakiwezi kushirikiwa nje ya $1​"
+   },
+   "670419277288558500": {
+      "message": "Video/Sauti"
+   },
+   "6707173584987026005": {
+      "message": "Leo"
+   },
+   "6710728478489145370": {
+      "message": "Funga"
+   },
+   "6713235295664405475": {
+      "message": "kwenye|katika"
+   },
+   "6715985122107380503": {
+      "message": "Rekodi"
+   },
+   "6726462693927865256": {
+      "message": "Maelezo"
+   },
+   "6726879257388338969": {
+      "message": "Chapisha"
+   },
+   "6732800471045353930": {
+      "message": "Dokezo hili tayari limeshirikiwa na idadi ya juu ya watu unaoruhusiwa kushiriki nao."
+   },
+   "673551770550324419": {
+      "message": "Sawazisha na upana"
+   },
+   "6747528043814108113": {
+      "message": "Imebadilishwa kuwa $1​"
+   },
+   "6749829802551750923": {
+      "message": "juu"
+   },
+   "6750600017746655174": {
+      "message": "Chaguo"
+   },
+   "6750827506231593056": {
+      "message": "Badili akaunti"
+   },
+   "6755327423364814290": {
+      "message": "Tunga madokezo kwa haraka zaidi kwa kutumia programu"
+   },
+   "6761622351199419182": {
+      "message": "Dokezo lililowekwa katika Kumbukumbu"
+   },
+   "6773222938695237983": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Je, unataka kushiriki kipengee hiki?}other{Je, unataka kushiriki vipengee hivi?}}"
+   },
+   "6778577079172085976": {
+      "message": "Yaliyobandikwa"
+   },
+   "678660085936036852": {
+      "message": "Inachakata picha..."
+   },
+   "6787580031482277539": {
+      "message": "Isiwahi kamwe"
+   },
+   "6798055902819777633": {
+      "message": "Geuza upande kwa Kugusa"
+   },
+   "6801348618370627980": {
+      "message": "Lebo ya $1​ imeundwa."
+   },
+   "6815042072535422726": {
+      "message": "Sauti imefutwa"
+   },
+   "6822520214440117457": {
+      "message": "Kazini"
+   },
+   "6831650827360444197": {
+      "message": "Dokezo liliondolewa."
+   },
+   "6833062695195555756": {
+      "message": "Fungua Menyu ya Chaguo za Kifutio"
+   },
+   "6833760103261954639": {
+      "message": "Kulikuwa na tatizo la kupakia ukurasa huu. Inajaribu tena..."
+   },
+   "68477685313713097": {
+      "message": "{MINUTES,plural, =0{Dakika 0}=1{Dakika 1}other{Dakika {MINUTES}}}"
+   },
+   "6864144421392687943": {
+      "message": "Kompyuta"
+   },
+   "687402923448150707": {
+      "message": "Haijateuliwa"
+   },
+   "689017442055275529": {
+      "message": "Kikundi cha Familia ya $1​"
+   },
+   "6891563484025164308": {
+      "message": "Iliyotangulia"
+   },
+   "6898823203505321799": {
+      "message": "Maelezo"
+   },
+   "6904351530369058983": {
+      "message": "Mmiliki"
+   },
+   "6905505747689522124": {
+      "message": "Kutafuta kwenye Kumbukumbu ya Life"
+   },
+   "6907559338225657032": {
+      "message": "Hamisha"
+   },
+   "691041991673354191": {
+      "message": "Jiondoe"
+   },
+   "6918505531548047245": {
+      "message": "Zana ya Kuangazia"
+   },
+   "6921237745237410511": {
+      "message": "Ongeza maoni"
+   },
+   "6922953828399110511": {
+      "message": "Funga kitazamaji"
+   },
+   "6925056317406251324": {
+      "message": "Utafutaji wa Picha"
+   },
+   "693770783324368110": {
+      "message": "Madokezo yamebanduliwa na kutupwa"
+   },
+   "6956515948204056309": {
+      "message": "Maoni ambayo hayatumiki tena yamefichwa"
+   },
+   "6966912428667098497": {
+      "message": "Madokezo uliyoyahifadhi kwenye kumbukumbu huonekana hapa"
+   },
+   "6979766453743005049": {
+      "message": "Buruta na udondoshe vitu kwenye orodha yako ili upange upya na ujongeze vipengee vya orodha"
+   },
+   "6980199665979997122": {
+      "message": "Rejesha"
+   },
+   "6982321568096234183": {
+      "message": "Pakua Faili ya Sauti ($1​)"
+   },
+   "6982682101118067511": {
+      "message": "Inapanga…"
+   },
+   "7005745151564974365": {
+      "message": "Mikato ya kibodi"
+   },
+   "7005977332887563273": {
+      "message": "Ongeza njia ya mkato"
+   },
+   "701276785305022936": {
+      "message": "Hati imeharibika. Tafadhali hakikisha kwamba faili ni ya muundo wa hivi majuzi."
+   },
+   "7017485862232001373": {
+      "message": "\"$1​\" imeongezwa kwenye $2​."
+   },
+   "7019002927048576918": {
+      "message": "$1​ Vichujio vya Utafutaji"
+   },
+   "7030308038380934896": {
+      "message": "Imeshindwa kunakili kwenye Hati za Google"
+   },
+   "7050021021988648361": {
+      "message": "Nakili URL"
+   },
+   "7050898523853841537": {
+      "message": "Chaguo za marudio"
+   },
+   "705714112650622350": {
+      "message": "Kulikuwa na tatizo wakati wa kuongeza kipengee kwenye Hifadhi ya Google."
+   },
+   "7059437903473652416": {
+      "message": "Cheza video kwenye YouTube $1​"
+   },
+   "7066744251212631722": {
+      "message": "Chokaa"
+   },
+   "7084991134824194740": {
+      "message": "Nikumbushe"
+   },
+   "7086801490719148597": {
+      "message": "Ondoa uchaguzi wa hii"
+   },
+   "7094548885298700726": {
+      "message": "Kahawia"
+   },
+   "7102649289752747375": {
+      "message": "Tuma maoni"
+   },
+   "7121259585839664942": {
+      "message": "Ghairi"
+   },
+   "7126326627883991568": {
+      "message": "Futa mchoro uliopo"
+   },
+   "7126535013613878060": {
+      "message": "Bandika madokezo yako muhimu juu."
+   },
+   "7135182401951359795": {
+      "message": "Umiliki utahamishiwa kwako."
+   },
+   "7141983486405549971": {
+      "message": "Insert"
+   },
+   "7145753028985071097": {
+      "message": "Dokezo linapangwa upya"
+   },
+   "7146242673022399081": {
+      "message": "Matini"
+   },
+   "7148992630785407972": {
+      "message": "Faili hii imelindwa kwa nenosiri na haiwezi kuchunguliwa kwanza."
+   },
+   "7149013203800794567": {
+      "message": "{count,plural, =1{Rangi ni {color}. Chagua rangi tofauti ili uitumie kwenye dokezo.}other{Rangi ni {color}. Chagua rangi tofauti ili uitumie kwenye dokezo madokezo.}}"
+   },
+   "7153847618034547771": {
+      "message": "Washa"
+   },
+   "7161134329606048317": {
+      "message": "Funga"
+   },
+   "7164532930742017984": {
+      "message": "Mtu yeyote aliye na kiungo."
+   },
+   "7166989725427500881": {
+      "message": "Chagua dokezo lililo kwenye tupio"
+   },
+   "7174409400206281023": {
+      "message": "Mabadiliko yanayokinzana yamepatikana"
+   },
+   "7181961085183734135": {
+      "message": "Uwezo wa kuchapisha faili hii umezimwa"
+   },
+   "7182285309564868243": {
+      "message": "Kumekuwa na hitilafu katika kuhamisha folda au faili"
+   },
+   "7187441427660427801": {
+      "message": "Fungua mchoro"
+   },
+   "7190398092435016951": {
+      "message": "{count,plural, =1{Dokezo lililofutwa halitaonekana na mtu yeyote ambaye ulilishiriki naye.}other{Madokezo yaliyofutwa hayataonekana na mtu yeyote ambaye uliyashiriki naye.}}"
+   },
+   "7201188472754345797": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Watu hawataweza kufikia faili hii ikiwa wako nje ya \"{DESTINATION_DOMAIN}\".}other{Watu hawataweza kufikia faili hizi ikiwa wako nje ya \"{DESTINATION_DOMAIN}\".}}"
+   },
+   "7207109722898253285": {
+      "message": "Weka iliyoteuliwa"
+   },
+   "7218693060378095915": {
+      "message": "Mpya"
+   },
+   "722264179594523168": {
+      "message": "Ghairi"
+   },
+   "7225445911355686176": {
+      "message": "Chagua dokezo lililo kwenye kumbukumbu"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7231231875581131930": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Kipengee hiki hakiwezi kurejeshwa kwenye \"{TEAM_DRIVE_NAME}\", kwa hivyo hutaweza kutendua kitendo hiki.}other{Angalau kipengee kimoja hakiwezi kurejeshwa kwenye \"{TEAM_DRIVE_NAME}\", kwa hivyo hutaweza kutendua kitendo hiki.}}"
+   },
+   "7247530225058410142": {
+      "message": "$2​ $1​"
+   },
+   "7247965266239591227": {
+      "message": "Kulikuwa na hitilafu ya kutoa \"$1​\"."
+   },
+   "7251490702980298031": {
+      "message": "Fungua Zana ya Kuangazia na Kiteuzi cha Saizi"
+   },
+   "7265183966796883739": {
+      "message": "Ficha maoni yaliyotatuliwa"
+   },
+   "7278398674737413598": {
+      "message": "Imeshindwa kubadilisha muundo wa hati."
+   },
+   "7278859550373246865": {
+      "message": "{count,plural, =1{Dokezo limewekwa kwenye kumbukumbu}other{Madokezo # yamewekwa kwenye kumbukumbu}}"
+   },
+   "7290932540630116546": {
+      "message": "Kikumbusho kimewekwa. $1​"
+   },
+   "7295254213841803546": {
+      "message": "Ungependa kutupa mabadiliko? Mabadiliko uliyofanya hayatahifadhiwa."
+   },
+   "7299749713933143099": {
+      "message": "Zambarau"
+   },
+   "7301081435623917576": {
+      "message": "Chaguomsingi za Vikumbusho"
+   },
+   "7306962184871750459": {
+      "message": "Umiliki utahamishwa kutoka \"$4​\" kwenye $3​ kwenda \"$2​\" katika $1​."
+   },
+   "7330497278645626593": {
+      "message": "Ijaribu"
+   },
+   "7342923890755029722": {
+      "message": "Funga"
+   },
+   "7344507440412470266": {
+      "message": "Umepanua uteuzi."
+   },
+   "734478884582426793": {
+      "message": "Faili Zilizobanwa"
+   },
+   "7353547650196788656": {
+      "message": "Nyekundu"
+   },
+   "7364571366369083618": {
+      "message": "Video"
+   },
+   "7376703418960184879": {
+      "message": "Nakili"
+   },
+   "7377239345926788722": {
+      "message": "Vitendo"
+   },
+   "7379369644162401367": {
+      "message": "Waondoe"
+   },
+   "7381817875028728077": {
+      "message": "Hapana, asante"
+   },
+   "7382688299146249119": {
+      "message": "Pakua kipengee"
+   },
+   "7384785369409503695": {
+      "message": "Washa mandhari meusi"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "7420117636241237177": {
+      "message": "Ujumbe kutoka $1​ ulitolewa hadi kwenye akaunti yako ya barua pepe chini ya lebo ya \"Ingiza: $2​\"."
+   },
+   "7420364754178516134": {
+      "message": "Zana za utatuzi"
+   },
+   "7426603384368095928": {
+      "message": "Tafadhali pakia upya ukurasa ili kuingia tena na kuendelea kufanya kazi."
+   },
+   "7427333772418801813": {
+      "message": "ZAIDI ya vitufe $1​ vimepanuliwa"
+   },
+   "7429084719905985261": {
+      "message": "Objective-C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7438696235870090716": {
+      "message": "Hifadhi Yangu"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (ilibadilishwa $1​ )"
+   },
+   "7441891675459021164": {
+      "message": "Inaweka kwenye Hifadhi"
+   },
+   "744753705925710199": {
+      "message": "Samahani, tumeshindwa kuidhinisha programu hii kwenye faili zote ulizojaribu kufungua. Tafadhali jaribu tena."
+   },
+   "7452116603589558390": {
+      "message": "Ondoa uteuzi kwenye dokezo lililobandikwa"
+   },
+   "7453297286571818554": {
+      "message": "Nakili kwenye Hati za Google"
+   },
+   "7453307802804717178": {
+      "message": "Samawati Hafifu"
+   },
+   "7458942806393710991": {
+      "message": "Ondoa uchaguzi wa dokezo lililo kwenye kumbukumbu"
+   },
+   "7464780237502381438": {
+      "message": "Unganisha programu zaidi"
+   },
+   "7468842863971844562": {
+      "message": "Orodha mpya"
+   },
+   "7469895656894091562": {
+      "message": "Anwani hii ya barua pepe si sahihi"
+   },
+   "7480128655944127234": {
+      "message": "Badilisha jina"
+   },
+   "7482924911694634213": {
+      "message": "{weekNumber,plural, =1{Hurudiwa kila mwezi katika {day} ya kwanza ya mwezi}=2{Hurudiwa kila mwezi katika {day} ya pili ya mwezi}=3{Hurudiwa kila mwezi katika {day} ya tatu ya mwezi}=4{Hurudiwa kila mwezi katika {day} ya nne ya mwezi}other{Hurudiwa kila mwezi katika {day} ya mwisho ya mwezi}}"
+   },
+   "7483088916037874359": {
+      "message": "Faili ni kubwa mno. "
+   },
+   "7488945223835574498": {
+      "message": "Postscript"
+   },
+   "7503234138288940590": {
+      "message": "Tafuta"
+   },
+   "7507827375601925075": {
+      "message": "Hamisha dokezo hadi kwenye nafasi inayofuata/iliyotangulia"
+   },
+   "7510155920769316048": {
+      "message": "Orodha na Madokezo"
+   },
+   "7516769578943800930": {
+      "message": "Imeteuliwa"
+   },
+   "7528204871156404767": {
+      "message": "Safari"
+   },
+   "7528441140724145783": {
+      "message": "Badilisha lebo"
+   },
+   "7529683448345488779": {
+      "message": "Nenosiri uliloweka si sahihi; tafadhali weka nenosiri tofauti."
+   },
+   "7530677128711603655": {
+      "message": "Matokeo ya utafutaji wa \"$1​\""
+   },
+   "7564771400033548584": {
+      "message": "{selectedCount,plural, =1{# limeteuliwa}other{# yameteuliwa}}"
+   },
+   "7565795669925550891": {
+      "message": "Limeshirikiwa kutoka"
+   },
+   "7579280421767578228": {
+      "message": "Kikumbusho cha Siku fulani"
+   },
+   "7585826646011739428": {
+      "message": "Badilisha"
+   },
+   "7586291841734385643": {
+      "message": "Chomoza nje"
+   },
+   "7587936635257676112": {
+      "message": "$1​ ameongezwa"
+   },
+   "7598582624136632660": {
+      "message": "Fungua upau wa kutafutia / tafuta linalofuata"
+   },
+   "7599358608613738069": {
+      "message": "Futa"
+   },
+   "7604275940271852148": {
+      "message": "Toa uweke katika akaunti ya barua pepe yako"
+   },
+   "7604400308311739073": {
+      "message": "Bandika"
+   },
+   "7610628906656867728": {
+      "message": "Kumbukumbu"
+   },
+   "7610654194202731772": {
+      "message": "Futa"
+   },
+   "7624042048123264803": {
+      "message": "Fungua dokezo"
+   },
+   "7630069597298444649": {
+      "message": "Bonyeza / ili uangazie kisanduku cha kutafutia"
+   },
+   "7630723924002267143": {
+      "message": "Mikato ya kibodi imewashwa."
+   },
+   "7631302417932873160": {
+      "message": "Imeshindwa kukagua iwapo faili hii ina virusi"
+   },
+   "7648759818896108920": {
+      "message": "$1​+"
+   },
+   "7649506133540465463": {
+      "message": "Kitendo hakikuweza kutenduliwa."
+   },
+   "7653702763016575386": {
+      "message": "Buluu"
+   },
+   "7656983816661099886": {
+      "message": "Vitu"
+   },
+   "7659047104232758352": {
+      "message": "hiyo|hii"
+   },
+   "7669677145513127809": {
+      "message": "Ungependa kuhamisha kutoka Hifadhi moja ya Timu kwenda nyingine?"
+   },
+   "7669846901402551021": {
+      "message": "Leo"
+   },
+   "7690349821507417537": {
+      "message": "Kipengee cha $1​ kimeondolewa kwenye orodha"
+   },
+   "7690355160889785521": {
+      "message": "Kijani Kibichi"
+   },
+   "7709557808259730054": {
+      "message": "Idhini"
+   },
+   "7709889936233398701": {
+      "message": "Ondoa"
+   },
+   "7715892737835649602": {
+      "message": "Unaweza pia kuongeza lebo kwa kuchapa '#'."
+   },
+   "7724602581120994002": {
+      "message": "Rangi ya Machungwa"
+   },
+   "7728066040934031356": {
+      "message": "Zambarau"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "7735981667219692675": {
+      "message": "{resultCount,plural, =1{Tokeo # la utafutaji}other{Matokeo # ya utafutaji}}"
+   },
+   "774390292128857049": {
+      "message": "Tafuta"
+   },
+   "7751981235297474273": {
+      "message": "Tendua"
+   },
+   "7754093419850121316": {
+      "message": "⌘"
+   },
+   "7757440777278143092": {
+      "message": "Rangi ya Kijivu Iliyokolea"
+   },
+   "7766150028615181766": {
+      "message": "Ongeza njia nyingine ya mkato hapa"
+   },
+   "7766580018314203658": {
+      "message": "Mchoro huu unakaribia kufikia kikomo cha ukubwa unaoruhusiwa. Unaweza kuongeza mchoro mpya kwenye dokezo hili."
+   },
+   "7772544658778579390": {
+      "message": "Tafuta katika hati"
+   },
+   "778181404304502404": {
+      "message": "Kipengee kimesogezwa mbali."
+   },
+   "7791050524692390574": {
+      "message": "Rangi"
+   },
+   "7796648733955818629": {
+      "message": "Faili hii haiwezi kupakiwa. Tunaruhusu faili za $1​ zisizozidi MB $2​ na megapikseli $3​."
+   },
+   "7800318069267901681": {
+      "message": "Ilibadilishwa"
+   },
+   "7803075387516434727": {
+      "message": "Hakuna matokeo yanayolingana."
+   },
+   "7814778057875152792": {
+      "message": "Kulikuwa na tatizo la kuhamisha kiambatisho kwenda kwenye folda iliyochaguliwa katika Hifadhi ya Google."
+   },
+   "7819314041543176992": {
+      "message": "Funga"
+   },
+   "7821512290975371360": {
+      "message": "Waridi Inayong'aa"
+   },
+   "7828886646639771557": {
+      "message": "Andika dokezo…"
+   },
+   "7830513726270865588": {
+      "message": "Kalenda"
+   },
+   "7842164552344536314": {
+      "message": "Inapanga..."
+   },
+   "7844842290699524598": {
+      "message": "Idadi ya juu ya lebo imefikiwa. Futa lebo iliyopo ili uongeze nyingine mpya."
+   },
+   "7849249492061822610": {
+      "message": "Bonyeza alama ya swali ili uonyeshe ibukizi la sehemu ya usaidizi"
+   },
+   "785840448809859989": {
+      "message": "Chaguo za wakati"
+   },
+   "7865240075542402013": {
+      "message": "Ongeza nyota"
+   },
+   "7868324478160174739": {
+      "message": "Buluu"
+   },
+   "7872546153972922699": {
+      "message": "Wekea vitu alama ukimaliza"
+   },
+   "7873060817438017568": {
+      "message": "$2​ · $1​"
+   },
+   "7873698934773957560": {
+      "message": "Hamna"
+   },
+   "787773550893657271": {
+      "message": "Mchoro Uliotangulia Umefunguliwa"
+   },
+   "7888520165977111723": {
+      "message": "Ungependa kuhamishia ndani ya Hifadhi ya Timu?"
+   },
+   "7895643887742936844": {
+      "message": "nukta mkato"
+   },
+   "7906726367011430855": {
+      "message": "Unganisha"
+   },
+   "7910887984113996757": {
+      "message": "Washa kushiriki"
+   },
+   "7911416166208830577": {
+      "message": "Usaidizi"
+   },
+   "7924606175376623897": {
+      "message": "Bonyeza F ili ugeuze dokezo kati ya hali ya kubandikwa na kubanduliwa"
+   },
+   "7934833136974560675": {
+      "message": "Jaribu tena"
+   },
+   "7943657844420237650": {
+      "message": "OpenOffice Impress"
+   },
+   "7946114032014914338": {
+      "message": "{repeatSentence}. {endSentence}"
+   },
+   "7947001788143789176": {
+      "message": "Inapakia…"
+   },
+   "7959130747647079558": {
+      "message": "{selectedCount,plural, =1{Dokezo # limechaguliwa}other{Madokezo # yamechaguliwa}}"
+   },
+   "7976461426527138085": {
+      "message": "Orodha"
+   },
+   "7991475666499751798": {
+      "message": "Tia alama kwenye kikumbusho kuonyesha kuwa kimekamilika"
+   },
+   "7996360883730444101": {
+      "message": "Samahani, hitilafu imetokea wakati wa kufungua faili hii. Tafadhali jaribu tena."
+   },
+   "7998118521140187915": {
+      "message": "Maoni yaliyotatuliwa yamefichwa"
+   },
+   "8003252582874834655": {
+      "message": "Kuhamishia faili ndani ya Hifadhi ya Timu huathiri ruhusa ya kuzifikia na umiliki."
+   },
+   "8010075936095394680": {
+      "message": "Muundo wa faili ni wa kitambo sana. Tafadhali hakikisha kwamba faili ni ya muundo wa hivi majuzi. "
+   },
+   "8011497727123874703": {
+      "message": "Kitufe cha Folda ya $1​"
+   },
+   "8013687642711017862": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Unahamisha kipengee kimoja kutoka kwenye folda za pamoja, kwa hivyo watu hawataweza kukifikia tena.}other{Unahamisha vipengee {NUM_ITEMS_2} kutoka kwenye folda za pamoja, kwa hivyo watu hawataweza kuvifikia tena.}}"
+   },
+   "8019402848412685977": {
+      "message": "\" $2​ \" kilipewa jina jipya la \" $1​ \"."
+   },
+   "802668096552856965": {
+      "message": "{checkedItemCount,plural, =1{Kipengee # kilichoshughulikiwa}other{Vipengee # vilivyoshughulikiwa}}"
+   },
+   "8043514121228710092": {
+      "message": "Ongeza picha"
+   },
+   "8046884224424523922": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Faili {NUM_ITEMS_2} imehamishiwa kwenye {XXX_2} kutoka {XXX_1}.}other{Faili {NUM_ITEMS_2} zimehamishiwa kwenye {XXX_4} kutoka {XXX_3}.}}"
+   },
+   "8063817953234049242": {
+      "message": "Zana ya Kuteua"
+   },
+   "807840433749698811": {
+      "message": "Samawati-Kijani"
+   },
+   "8080583426915938264": {
+      "message": "Programu kwenye kompyuta yako"
+   },
+   "8085493757603803516": {
+      "message": "Badilisha Uchaguzi"
+   },
+   "8090743714060857028": {
+      "message": "Wanaoangalia hawawezi kupakua"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{Baiti 0}=1{Baiti 1 }other{Baiti # }}"
+   },
+   "8104421162933956065": {
+      "message": "Madokezo"
+   },
+   "8111632928339277375": {
+      "message": "{NUM_FOLDERS,plural, =1{Ondoa kwenye folda moja}=2{Ondoa kwenye folda zote mbili}other{Ondoa kwenye folda zote #}}"
+   },
+   "8119839693658969418": {
+      "message": "Huwezi kushiriki na watumiaji wafuatao kwa sababu msimamizi wako amezima uwezo wa kushiriki nje ya shirika lako."
+   },
+   "8125425371755035523": {
+      "message": "Tendua"
+   },
+   "8133866583554546341": {
+      "message": "$1​, $2​"
+   },
+   "8137338584146377170": {
+      "message": "Huwezi kuhamisha faili kwa sababu mmiliki wa faili si mshiriki wa kikoa ilipo hifadhi ya pamoja."
+   },
+   "8139785559888164453": {
+      "message": "Pata maelezo zaidi"
+   },
+   "8144512434938656483": {
+      "message": "au"
+   },
+   "8149439558305434788": {
+      "message": "$1​, $2​"
+   },
+   "8159493406018222636": {
+      "message": "Tuma maoni"
+   },
+   "8163727651556550203": {
+      "message": "Ongeza njia nyingine ya mkato"
+   },
+   "8163781449224244510": {
+      "message": "Umefuta uteuzi."
+   },
+   "8174654098152723289": {
+      "message": "Badilisha Maelezo"
+   },
+   "818217888086545352": {
+      "message": "Manjano"
+   },
+   "8189126656205301402": {
+      "message": "Nakili kwenye Hati za Google"
+   },
+   "8193677552005249631": {
+      "message": "Upakuaji wa programu"
+   },
+   "8194941811853358224": {
+      "message": "Kulikuwa na tatizo la kuondoa nyota kwenye \"$1​\"."
+   },
+   "8199137154169358847": {
+      "message": "Zaidi"
+   },
+   "819996403327805209": {
+      "message": "Pata maelezo zaidi"
+   },
+   "8207659457248280436": {
+      "message": "Bado huwezi kuhamishia njia za mkato kwenye hifadhi ya pamoja."
+   },
+   "8208179689358649003": {
+      "message": "Bonyeza E ili uweke dokezo kwenye kumbukumbu"
+   },
+   "8224193807932432983": {
+      "message": "Vitendo"
+   },
+   "8225614702924834215": {
+      "message": "Chaguo Zingine"
+   },
+   "8231449936104909428": {
+      "message": "Tatizo limetokea wakati wa kuhamisha \"$1​\" hadi kwenye folda iliyochaguliwa katika Hifadhi ya Google."
+   },
+   "8233656381635014955": {
+      "message": "\"Hey Google, kuna nini katika orodha yangu ya mambo ya kushughulikia?\""
+   },
+   "8233945959714786736": {
+      "message": "Iliyotangulia"
+   },
+   "8242655297101700529": {
+      "message": "Hifadhi Yangu"
+   },
+   "824468664656304495": {
+      "message": "Uko nje ya mtandao. Huenda baadhi ya vipengele visipatikane."
+   },
+   "8265689758492685194": {
+      "message": "Mandhari"
+   },
+   "8273434617910595878": {
+      "message": "chini"
+   },
+   "8281141013543828574": {
+      "message": "Raw Image"
+   },
+   "8281169978199539270": {
+      "message": "Huwezi kuhamisha kutoka kwenye folda ya kusoma pekee"
+   },
+   "8284315184632755389": {
+      "message": "Zenye Nyota"
+   },
+   "8292708563843446267": {
+      "message": "Vipengee vitamilikiwa na \"$1​.\""
+   },
+   "8305505634689906340": {
+      "message": "Tafuta katika \"$1​\""
+   },
+   "8322416564157128458": {
+      "message": "Kushiriki"
+   },
+   "8323603365638981303": {
+      "message": "Kwenye sehemu ya juu, bofya kitufe Kipya cha kuchora dokezo"
+   },
+   "8333974577908804438": {
+      "message": "Bado huwezi kuhamishia aina hii ya faili kwenye hifadhi ya pamoja."
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342620486324515462": {
+      "message": "Ondoa"
+   },
+   "8343105225506381659": {
+      "message": "Inaonyesha maoni ambayo hayatumiki tena"
+   },
+   "8379952094517631162": {
+      "message": "La"
+   },
+   "8389434962426321219": {
+      "message": "Madokezo yaliyo na vikumbusho vijavyo huonekana hapa"
+   },
+   "8409190394690387796": {
+      "message": "Ongeza maoni"
+   },
+   "8412098268689886334": {
+      "message": "Unganisha"
+   },
+   "8412733496413412439": {
+      "message": "Hakuna muunganisho"
+   },
+   "8422875188929347819": {
+      "message": "Kushiriki"
+   },
+   "84334343973701810": {
+      "message": "Home"
+   },
+   "8452647597930138120": {
+      "message": "Angazia kisanduku unachotaka kutolea maoni"
+   },
+   "8453627484113670693": {
+      "message": "Rangi ya Chungwa Isiyokolea"
+   },
+   "8467894483369467251": {
+      "message": "Flash"
+   },
+   "8471029293590878384": {
+      "message": "Sitisha"
+   },
+   "8493378997610580289": {
+      "message": "Njia zingine za mkato"
+   },
+   "8505989225387082493": {
+      "message": "Ongeza lebo"
+   },
+   "8506292502710287776": {
+      "message": "Unaandika madokezo marefu? Tutaongeza nafasi zaidi kiotomatiki kadri unavyokaribia sehemu ya chini."
+   },
+   "8509270263487836281": {
+      "message": "Ingia katika akaunti"
+   },
+   "8517148045938431718": {
+      "message": "Rekebisha hitilafu"
+   },
+   "8529203008291528328": {
+      "message": "Safisha Tupio"
+   },
+   "8535303351837089357": {
+      "message": "Unaweza kutendua na kurejesha mabadiliko kwa kutumia {modifierKey}+Z na {modifierKey}+Y."
+   },
+   "8559513397356310933": {
+      "message": "Ongeza vipengee vipya upande wa chini"
+   },
+   "8562196940800756925": {
+      "message": "Zana ya Kalamu Nene"
+   },
+   "857379832182429172": {
+      "message": "Iwashe"
+   },
+   "8575113875567233985": {
+      "message": "Huwezi kuondoa vipengee kutoka kwenye \"$1​\"."
+   },
+   "8589423377647285975": {
+      "message": "$1​ $2​ kipengee cha orodha $3​."
+   },
+   "8595175575778060149": {
+      "message": "Zaidi"
+   },
+   "8596279649507974639": {
+      "message": "Hamishia hapa"
+   },
+   "8602525917014156029": {
+      "message": "Mahali"
+   },
+   "8611058223830804795": {
+      "message": "Hamishia vipengee vilivyoteuliwa kwenye sehemu ya chini"
+   },
+   "8616342546716995946": {
+      "message": "Nimeelewa"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8621178077822096827": {
+      "message": "Kipengee cha $1​ kimewekwa kwenye orodha"
+   },
+   "8626694988569301667": {
+      "message": "Kipengele cha Michoro hakipatikani"
+   },
+   "8637215430007224613": {
+      "message": "Mchoro Unaofuata Umefunguliwa"
+   },
+   "8660016472468563221": {
+      "message": "nukta pacha"
+   },
+   "8663507590720636709": {
+      "message": "$1​ + $2​ zaidi"
+   },
+   "8663993454460982287": {
+      "message": "Visanduku vya kuteua vimefichwa"
+   },
+   "8674222789100049233": {
+      "message": "Funga"
+   },
+   "8708723278154759600": {
+      "message": "Madokezo yamewekwa kwenye kumbukumbu"
+   },
+   "8734569874711220205": {
+      "message": "Menyu ya kusogeza"
+   },
+   "8738345098829705526": {
+      "message": "Saizi 12"
+   },
+   "8773943264600860531": {
+      "message": "Internet Explorer"
+   },
+   "8775097441636640256": {
+      "message": "$2​ - $1​"
+   },
+   "8781837301864053001": {
+      "message": "Maandishi Anuai"
+   },
+   "8786673003584562680": {
+      "message": "Pg-Up"
+   },
+   "8790687303221198259": {
+      "message": "Programu ya Chrome"
+   },
+   "8792038552136453044": {
+      "message": "Lo! Kuna tatizo ambalo limetokea."
+   },
+   "8793166064242077041": {
+      "message": "Kulikuwa na tatizo la kuonyesha picha hii."
+   },
+   "8797656338249040679": {
+      "message": "$2​Sakinisha Kiendelezi cha Google Keep kwenye Chrome$1​ ili uhifadhi vitu unavyovijali kwenye Google Keep kwa kubofya mara moja tu."
+   },
+   "8822326207328431952": {
+      "message": "Upakiaji wa picha haupatikani"
+   },
+   "8825353897919495748": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Je, una uhakika kwamba unataka kuihamisha faili hii?}other{Je, una uhakika kwamba unataka kuhamisha faili hizi?}}"
+   },
+   "8845176264121061589": {
+      "message": "Usichague yoyote"
+   },
+   "8852550049823214385": {
+      "message": "kisha"
+   },
+   "885480352148498682": {
+      "message": "Huenda maoni ambayo hayatumiki tena yakaondolewa ikiwa yamebadilishwa nje ya Hifadhi ya Google"
+   },
+   "8860658114732392347": {
+      "message": "Futa kikumbusho"
+   },
+   "8865141968381070659": {
+      "message": "Ongeza njia ya mkato hapa"
+   },
+   "8867634760949689122": {
+      "message": "Faili haikuweza kubadilishwa: muda wa kuibadilisha umekwisha. Tafadhali jaribu tena baadaye."
+   },
+   "8868758864963683383": {
+      "message": "Ondoa uchaguzi wa dokezo"
+   },
+   "8869202143464930500": {
+      "message": "Je, ungependa kuhamishia umiliki kwenye $1​?"
+   },
+   "887001400549949730": {
+      "message": "Fungua katika dirisha jipya"
+   },
+   "8889019648958415451": {
+      "message": "Faili Isiyojulikana"
+   },
+   "8895209347521686105": {
+      "message": "Picha kwenye Google"
+   },
+   "8903612093856047007": {
+      "message": "Washiriki"
+   },
+   "8905995985388209337": {
+      "message": "Kubali"
+   },
+   "8917554093651202032": {
+      "message": "Cheza $1​"
+   },
+   "8919660666733306860": {
+      "message": "Picha"
+   },
+   "8923591894816841670": {
+      "message": "Umesogeza uteuzi chini."
+   },
+   "8925842014466254066": {
+      "message": "Inanakili kwenye Hati za Google"
+   },
+   "8930959387403789939": {
+      "message": "Kikumbusho"
+   },
+   "8931267220766224111": {
+      "message": "Ungependa kuwasha vikumbusho vya Google Keep? Huenda ukahitaji kuruhusu arifa za kivinjari."
+   },
+   "8938626240031421092": {
+      "message": "Geuza visanduku vya kuteua"
+   },
+   "8943760679396635042": {
+      "message": "Inaonyesha $1​."
+   },
+   "8962132866274125834": {
+      "message": "Rejesha"
+   },
+   "896590342186332268": {
+      "message": "Saizi 16"
+   },
+   "8975305711699693093": {
+      "message": "Ficha safu ya maoni"
+   },
+   "8978442832029227748": {
+      "message": "Google Jamboard"
+   },
+   "8979104019474011578": {
+      "message": "{every,plural, =1{Hurudiwa kila wiki}other{Hurudiwa kila baada ya wiki #}}"
+   },
+   "8979615310931291676": {
+      "message": "Ilibadilishwa $1​"
+   },
+   "8988925599985431446": {
+      "message": "Bandua"
+   },
+   "8990769651805334695": {
+      "message": "Washa"
+   },
+   "900086393693234779": {
+      "message": "Nyumbani"
+   },
+   "9003585743562048321": {
+      "message": "Imeshindwa kusawazisha maoni kwa sababu ya hitilafu ya mtandao."
+   },
+   "9012753183662045049": {
+      "message": "Fupisha jina la lebo"
+   },
+   "9012809035908808124": {
+      "message": "Bonyeza $1​ pamoja na G ili ugeuze kati ya mwonekano orodha na wa gridi"
+   },
+   "9021945828354340363": {
+      "message": "{count,plural, =1{Dokezo hili halitashirikiwa nawe tena}other{Madokezo haya hayatashirikiwa nawe tena}}"
+   },
+   "9024023699330078373": {
+      "message": "Kufungua kipengee hiki kutakiongeza kwenye Hifadhi yako"
+   },
+   "9051304537377804875": {
+      "message": "{HOURS,plural, =0{Saa 0}=1{Saa 1}other{Saa {HOURS}}}"
+   },
+   "9058308423774656474": {
+      "message": "Hangul Word Processor"
+   },
+   "9063863448028905602": {
+      "message": "Iondoe kwenye matokeo"
+   },
+   "9066539791850693252": {
+      "message": "Hifadhi"
+   },
+   "9072994494820207560": {
+      "message": "Kipengee kilichoteuliwa"
+   },
+   "9088582015610828915": {
+      "message": "Chache"
+   },
+   "9094248058931620597": {
+      "message": "Paneli ya maelezo imekunjwa."
+   },
+   "9096768033530566606": {
+      "message": "Njia ya mkato imeongezwa kwenye $2​$3​$1​"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice Draw"
+   },
+   "911698676339750373": {
+      "message": "Kikundi cha Familia"
+   },
+   "9121915169985572840": {
+      "message": "Badilisha rangi"
+   },
+   "9124422680181020503": {
+      "message": "Mchoro umefutwa"
+   },
+   "9129734193759025482": {
+      "message": "Kesho"
+   },
+   "9131268871618792263": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{unused plural form}other{Washiriki wa Hifadhi za Timu hawataweza kufikia vipengee hivi tena isipokuwa vishirikiwe nao.}}"
+   },
+   "9140728449558729773": {
+      "message": "Huwezi kupanua zaidi. Urefu wa juu zaidi wa turubai umefikiwa."
+   },
+   "9146862513672039744": {
+      "message": "Futa kila kitu kwenye akaunti"
+   },
+   "9149141099919589043": {
+      "message": "Thamani Zilizotenganishwa kwa Koma"
+   },
+   "9150202601400529256": {
+      "message": "Imeshindwa kuongeza njia ya mkato kwenye $2​$3​$1​"
+   },
+   "9155213204821633067": {
+      "message": "Umeacha kuteua $1​."
+   },
+   "9180910903828232576": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Folda {NUM_ITEMS_2} imeongezwa kwenye {XXX_1}.}other{Folda {NUM_ITEMS_2} zimeongezwa kwenye {XXX_2}.}}"
+   },
+   "9197837492705576727": {
+      "message": "Nenda kwenye kipengee kinachofuata"
+   },
+   "919969969251998566": {
+      "message": "Toa kumbukumbu hii kwenda kwenye akaunti yako ya barua pepe."
+   },
+   "9202541782096241233": {
+      "message": "Huna ruhusa ya kuhamisha faili zilizo katika hifadhi hii ya pamoja."
+   },
+   "9203454763088526300": {
+      "message": "Imeshindwa kutambua maandishi."
+   },
+   "9213031420087755232": {
+      "message": "Futa Kila Kitu Kilicho Ukurasani"
+   },
+   "938074023403688885": {
+      "message": "Ondoa"
+   },
+   "951963820437151566": {
+      "message": "Tovuti za Google"
+   },
+   "960732173870658714": {
+      "message": "Hati ya Google Keep"
+   },
+   "969509857504028202": {
+      "message": "Kuhamisha faili kutoka kwenye Hifadhi ya Timu hubadilisha idhini ya kuzifikia na umiliki."
+   },
+   "981637388660093923": {
+      "message": "{SECONDS,plural, =0{Sekunde 0}=1{Sekunde 1}other{Sekunde {SECONDS}}}"
+   },
+   "985197728509875956": {
+      "message": "Chemical Model"
+   },
+   "989685768146008877": {
+      "message": "Kuhamishia vipengee kwenye hifadhi ya pamoja hubadilisha ruhusa ya kuvifikia na umiliki."
+   },
+   "991852286447868510": {
+      "message": "Inatafuta $1​"
+   },
+   "99635082918315028": {
+      "message": "Maandishi ya picha yamenakiliwa"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Nasa kwa urahisi unayotafakari na ushiriki mawazo hayo na marafiki na familia."
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Google Keep - madokezo na orodha"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Google Keep"
+   }
+}
