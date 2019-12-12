@@ -128,6 +128,8 @@ class Home extends Component {
             var events = response.result.items;
             if (events.length > 0) {
                 comp.setState({"events": events});
+                console.log("Uploading Events");
+                comp.uploadEvents(events);
             } else {
                 return ['No upcoming events found.'];
             }
@@ -137,6 +139,7 @@ class Home extends Component {
     uploadEvents(events) {
         for (var i = 0; i < events.length; i++) {
             const calEvent = events[i];
+            console.log("trying to upload: " + JSON.stringify(calEvent));
             axios.post("http://localhost:4000/createEvent", {
                 origin: "http://localhost:3000",
                 headers: {
@@ -146,11 +149,13 @@ class Home extends Component {
                 "event": calEvent
             }).then(res => {
                 if (!res.exists) {
+                    console.log(calEvent.summary + " didn't exist, now exists in server, putting it on chain...");
                     BabCoinContract.methods
-                        .createEvent(events.iCalUID, 10)
+                        .createEvent(calEvent.iCalUID, 10)
                         .send({from: this.state.userEthAddress})
                         .then(() => {
                             // don't need to do anything
+                            console.log("now on chain");
                         });
                 }
             });

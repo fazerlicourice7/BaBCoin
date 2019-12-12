@@ -10,12 +10,15 @@ import {
     Container,
     Row,
     Col,
-    Modal
+    Modal, Image
 } from 'react-bootstrap';
 import Web3 from "web3";
 import * as constants from "../../constants";
+
 import {forEach} from "react-bootstrap/cjs/utils/ElementChildren";
 import CheckIn from "../CheckIn/CheckIn";
+
+const qr_code = require("../../qr_code.png");
 
 const axios = require('axios');
 
@@ -37,7 +40,7 @@ export default class EventCard extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            isExec: props.isExec,
+            isExec: (props.userEmail === "robertpeltekov"),
             title: props.title,
             description: props.description,
             location: props.location,
@@ -48,6 +51,7 @@ export default class EventCard extends Component {
 
         console.log("event card");
 
+        this.rsvpStatus = React.createRef();
         this.onRSVP = this.onRSVP.bind(this);
         this.endEvent = this.endEvent.bind(this);
         this.scanIn = this.scanIn.bind(this);
@@ -56,15 +60,15 @@ export default class EventCard extends Component {
     }
 
     showModal() {
-         this.setState({ show: true });
+        this.setState({show: true});
     }
 
     hideModal() {
-         this.setState({ show: false });
+        this.setState({show: false});
     }
 
     componentDidMount() {
-        axios.get("http://localhost:4000/rsvpstatus", {
+        axios.post("http://localhost:4000/rsvpStatus", {
             origin: "http://localhost:3000",
             headers: {
                 'Access-Control-Allow-Origin': '*'
@@ -73,13 +77,13 @@ export default class EventCard extends Component {
             email: this.props.userEmail,
             iCalID: this.props.iCalID
         }).then(res => {
+            //this.rsvpStatus.value = res.data.status;
             var currentStatus = res.data.status;
-
         });
     }
 
     onRSVP(e) {
-        axios.get("http://localhost:4000/rsvpstatus", {
+        axios.post("http://localhost:4000/rsvpStatus", {
             origin: "http://localhost:3000",
             headers: {
                 'Access-Control-Allow-Origin': '*'
@@ -88,6 +92,7 @@ export default class EventCard extends Component {
             email: this.props.userEmail,
             iCalID: this.props.iCalID
         }).then(res => {
+            console.log("got rsvp status, now rsvping back");
             var currentStatus = res.data.status;
             var amountToCharge = 0;
             if (e !== currentStatus) {
@@ -143,8 +148,8 @@ export default class EventCard extends Component {
 
     scanIn() {
         this.props.history.push({
-          pathname: "/checkin/",
-          state: {iCalID: this.state.iCalID}
+            pathname: "/checkin/",
+            state: {iCalID: this.state.iCalID}
         });
         // axios.post("localhost:4000/checkin", {
         //     origin: "http://localhost:3000",
@@ -202,19 +207,23 @@ export default class EventCard extends Component {
     }
 
     render() {
-        if (this.state.isExec) {
+        if (!this.state.isExec) {
             return (
                 <div className={"eventCard"}>
                     <Card>
                         <Card.Body>
                             <Card.Title>{this.state.title}</Card.Title>
+                            <div className={"rowC"}>
                             <Card.Body> <Card.Text>{this.state.description}</Card.Text>
                                 <Card.Text>{this.state.location}</Card.Text>
                                 <Card.Text>{this.state.datetime}</Card.Text></Card.Body>
+                                <Image src={qr_code}/>
+                            </div>
 
 
                             <ButtonToolbar>
-                                <ToggleButtonGroup id={this.state.iCalID} type="radio" name="options" defaultValue={3}
+                                <ToggleButtonGroup ref={this.rsvpStatus} id={this.state.iCalID} type="radio"
+                                                   name="options" defaultValue={3}
                                                    onChange={this.onRSVP}>
                                     <ToggleButton variant="outline-success" value={1}>Going</ToggleButton>
                                     <ToggleButton variant="outline-warning" value={2}>Maybe</ToggleButton>
@@ -228,9 +237,9 @@ export default class EventCard extends Component {
         } else {
             return (
                 <div className={"eventCard"}>
-                     <Modal show={this.state.show} onHide={this.hideModal} animation={true}>
+                    <Modal show={this.state.show} onHide={this.hideModal} animation={true}>
                         <Modal.Body>
-                         <CheckIn iCalID={this.state.iCalID} />
+                            <CheckIn iCalID={this.state.iCalID}/>
                         </Modal.Body>
                     </Modal>
                     <Card>

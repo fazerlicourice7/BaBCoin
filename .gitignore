@@ -30,6 +30,7 @@ yarn-error.log*
 #
 # # User-specific stuff
  .idea/*
+ .idea
  ./.idea
  /web/.idea/
  /web/.idea/**/workspace.xml
