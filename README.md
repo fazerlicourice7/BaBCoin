@@ -9,7 +9,7 @@ TO START BABCOIN APP:
     Runs the app in the development mode.<br />
     Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-4))In /server directory run
+4) In /server directory run
   ### `node server.js`
     Runs the server code and interacts with the dynamic page
   
