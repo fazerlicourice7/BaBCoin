@@ -1,6 +1,0 @@
-2019/12/10-23:19:09.735 2a00 Reusing MANIFEST leveldb/MANIFEST-000001
-2019/12/10-23:19:09.737 2a00 Recovering log #3
-2019/12/10-23:19:09.739 2a00 Reusing old log leveldb/000003.log 
-2019/12/10-23:23:02.845 1dac Level-0 table #5: started
-2019/12/10-23:23:02.865 1dac Level-0 table #5: 18745 bytes OK
-2019/12/10-23:23:02.873 1dac Delete type=0 #3

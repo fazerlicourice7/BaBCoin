@@ -1,6 +1,0 @@
-2019/12/10-23:37:57.004 118c Reusing MANIFEST C:\Users\rpelt\Documents\GitHub\BaBCoin\Default\Sync Data\LevelDB/MANIFEST-000001
-2019/12/10-23:37:57.042 118c Recovering log #8
-2019/12/10-23:37:57.046 118c Reusing old log C:\Users\rpelt\Documents\GitHub\BaBCoin\Default\Sync Data\LevelDB/000008.log 
-2019/12/11-01:19:07.332 2c2c Level-0 table #12: started
-2019/12/11-01:19:07.348 2c2c Level-0 table #12: 118038 bytes OK
-2019/12/11-01:19:07.352 2c2c Delete type=0 #8
